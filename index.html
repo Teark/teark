@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#07090f" />
+    <meta name="description" content="与历史上深刻影响人类精神世界的思想者对话。" />
+    <title>观 · 与道对话</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="starfield" aria-hidden="true"><span class="meteor meteor-one"></span><span class="meteor meteor-two"></span><span class="meteor meteor-three"></span><span class="meteor meteor-four"></span><span class="meteor meteor-five"></span><span class="meteor meteor-six"></span><span class="galaxy galaxy-one"></span><span class="galaxy galaxy-two"></span><span class="galaxy galaxy-three"></span><span class="galaxy galaxy-four"></span></div>
+    <main class="app-shell">
+      <aside class="sidebar" aria-label="对话与人物管理">
+        <header class="sidebar-header">
+          <div class="sidebar-topline"><div class="brand-mark">与道对话</div><button id="sidebar-toggle" class="sidebar-toggle" type="button" aria-label="收起侧栏" title="收起侧栏" aria-expanded="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14.5 5-7 7 7 7"></path></svg></button></div>
+          <button id="new-conversation" class="primary-action" title="新建对话"><span>＋</span> 新建对话</button>
+          <button id="person-manager-open" class="secondary-action" title="人物管理"><span>◎</span> 人物管理</button>
+        </header>
+        <section class="sidebar-history">
+          <div class="history-title-row"><h2>对话记录</h2><span class="history-count" id="history-count">00</span></div>
+          <label class="history-search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.3"></circle><path d="m16 16 4 4"></path></svg><input id="history-search-input" type="search" placeholder="搜索对话" aria-label="搜索历史记录" /></label>
+          <nav id="thread-list" class="thread-list" aria-label="历史对话"></nav>
+        </section>
+        <footer class="sidebar-footer"><button id="settings-open" class="settings-button" aria-label="设置" title="设置"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9.8 2.8h4.4l.6 2.3 1.8 1 2.2-.8 2.2 3.8-1.7 1.6v2.1l1.7 1.6-2.2 3.8-2.2-.8-1.8 1-.6 2.3H9.8l-.6-2.3-1.8-1-2.2.8L3 16.4l1.7-1.6v-2.1L3 11.1l2.2-3.8 2.2.8 1.8-1z"/><circle cx="12" cy="12" r="3.1"/></svg></button></footer>
+      </aside>
+
+      <section class="stage-column" aria-label="人物相册与对话">
+        <div class="stage-heading"><div class="count-label"><span id="person-index">01</span><span class="count-divider">/</span><span id="person-total">1000</span></div></div>
+        <div class="person-info"><div class="person-info-main"><div class="person-title-row"><h2 id="person-name"></h2><div class="person-kicker"><span id="person-era"></span><span class="kicker-dot">✦</span><span id="person-role"></span></div></div><p id="person-summary"></p></div></div>
+        <div class="gallery-stage">
+          <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="orbit-core"><span>道</span></div>
+          <div id="gallery" class="gallery" aria-label="环形人物相册"></div><div class="stage-vignette"></div>
+          <button id="prev-person" class="side-arrow side-arrow-left" title="上一位人物" aria-label="上一位人物"><svg viewBox="0 0 24 24"><path d="m14.5 5-7 7 7 7"></path></svg></button>
+          <button id="next-person" class="side-arrow side-arrow-right" title="下一位人物" aria-label="下一位人物"><svg viewBox="0 0 24 24"><path d="m9.5 5 7 7-7 7"></path></svg></button>
+        </div>
+        <section class="chat-transcript" aria-label="当前对话"><div id="chat-messages" class="chat-messages" aria-live="polite"></div></section>
+        <div class="chat-composer"><div class="composer-topline"><span class="composer-person">与 <b id="composer-name"></b> 对话</span></div><div class="composer-input-wrap"><textarea id="message-input" rows="1" placeholder="写下你想问的问题…" aria-label="输入对话内容"></textarea><button id="send-button" class="send-button" aria-label="发送消息" title="发送"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4.5 12 20 4l-5 16-3.5-6.5L4.5 12Z"></path><path d="M11.5 13.5 20 4"></path></svg></button></div></div>
+      </section>
+    </main>
+
+    <div id="settings-modal" class="modal-backdrop" aria-hidden="true"><section class="dialog-card" role="dialog" aria-modal="true" aria-labelledby="settings-title"><div class="modal-head"><div><span class="eyebrow">MODEL CONNECTION</span><h2 id="settings-title">模型设置</h2></div><button id="settings-close" class="modal-close" aria-label="关闭设置">×</button></div><p class="settings-intro">使用 DeepSeek V4.1 Flash，密钥保存在当前浏览器。</p><label class="field-label" for="api-key">DeepSeek API Key</label><div class="secret-field"><input id="api-key" class="settings-input" type="password" placeholder="输入 API Key" autocomplete="off" /><button id="key-visibility" type="button" aria-label="显示或隐藏密钥">◉</button></div><p class="field-note">回答根据当前人物的思想风格生成。</p><div class="modal-actions"><button id="settings-cancel" class="cancel-button">取消</button><button id="settings-save" class="save-button">保存设置 <span>→</span></button></div><div id="settings-feedback" class="settings-feedback" aria-live="polite"></div></section></div>
+
+    <div id="person-modal" class="modal-backdrop" aria-hidden="true"><section class="dialog-card person-dialog" role="dialog" aria-modal="true" aria-labelledby="person-modal-title"><div class="modal-head"><div><span class="eyebrow">THE PORTRAIT ARCHIVE</span><h2 id="person-modal-title">人物管理 <small id="managed-count"></small></h2></div><button id="person-manager-close" class="modal-close" aria-label="关闭人物管理">×</button></div><div class="person-manager-layout"><form id="person-form" class="person-form"><h3>新增人物</h3><label class="field-label" for="person-name-input">姓名</label><input id="person-name-input" class="settings-input" name="name" required maxlength="40" placeholder="输入人物姓名" /><p class="field-note">人物介绍、时代与代表语录将自动补充。</p><button class="save-button add-person-button" type="submit">加入相册 <span>→</span></button></form><section class="managed-people"><label class="history-search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.3"></circle><path d="m16 16 4 4"></path></svg><input id="person-search" type="search" placeholder="查找人物" aria-label="查找人物" /></label><div id="managed-people-list" class="managed-people-list"></div></section></div></section></div>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <script type="module" src="src/main.js"></script>
+  </body>
+</html>
