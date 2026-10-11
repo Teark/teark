@@ -1,0 +1,21 @@
+import { writeFile } from 'node:fs/promises';
+import credits from '../src/portraitCredits.js';
+
+const file = 'Chi You Rubbing Wu family shrines Han.jpg';
+const params = new URLSearchParams({ action: 'query', format: 'json', titles: `File:${file}`, prop: 'imageinfo', iiprop: 'url|extmetadata', iiurlwidth: '640' });
+const headers = { 'User-Agent': 'GuandaoPortraitArchive/2.0' };
+const response = await fetch(`https://commons.wikimedia.org/w/api.php?${params}`, { headers, signal: AbortSignal.timeout(25000) });
+if (!response.ok) throw new Error(`Commons HTTP ${response.status}`);
+const payload = await response.json();
+const info = Object.values(payload.query.pages)[0]?.imageinfo?.[0];
+if (!info) throw new Error('No Chiyou image found');
+const plain = key => String(info.extmetadata?.[key]?.value || '').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+if (!/public domain|cc0/i.test(plain('LicenseShortName'))) throw new Error('Unexpected image license');
+const image = await fetch(info.thumburl || info.url, { headers, signal: AbortSignal.timeout(25000) });
+if (!image.ok) throw new Error(`Image HTTP ${image.status}`);
+const bytes = new Uint8Array(await image.arrayBuffer());
+if (bytes[0] !== 0xff || bytes[1] !== 0xd8) throw new Error('Expected JPEG');
+await writeFile(new URL('../portraits/chiyou-han-rubbing.jpg', import.meta.url), bytes);
+credits['legacy-cn-6-蚩尤'] = { id: 'legacy-cn-6-蚩尤', src: '/portraits/chiyou-han-rubbing.jpg', file, page: info.descriptionurl || `https://commons.wikimedia.org/wiki/File:${encodeURIComponent(file)}`, artist: plain('Artist') || '汉代武氏祠画像石拓本', license: plain('LicenseShortName'), licenseUrl: plain('LicenseUrl') };
+await writeFile(new URL('../src/portraitCredits.js', import.meta.url), `const portraitCredits = ${JSON.stringify(credits, null, 2)};\nexport default portraitCredits;\n`);
+console.log('Saved Chiyou Han-dynasty rubbing.');

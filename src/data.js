@@ -53,7 +53,13 @@ const chinaSelected=[...handpicked.filter(p=>p.region==='中国'),...additionalC
 const worldSelected=[...handpicked.filter(p=>p.region==='国外'),...world];
 const selected=[...chinaSelected.slice(0,60),...worldSelected.slice(0,40)];
 import { expandRoster } from './rosterExpansion.js';
-export const thinkers=expandRoster(selected);
+// Replace a less independently influential entry without shifting portrait indexes.
+export const thinkers=expandRoster(selected).map(person=>person.name==='公都子'?{
+  ...person,id:'jia-xu',name:'贾诩',era:'147—223 · 中国',role:'谋士 · 曹魏太尉',
+  summary:'字文和，东汉末年至三国时期谋士。先后辅佐李傕、张绣与曹操，以审时度势、权衡利害和谨慎自守著称。',
+  quote:'',source:'《三国志》· 魏书·荀彧荀攸贾诩传',
+  prompts:['你如何判断进退的时机？','身处乱世，怎样保全自己？','谋略与道德应如何权衡？'],
+}:person);
 export const quotes=thinkers.flatMap(person=>person.quote?[person.quote,...(person.prompts||[]).map((p,i)=>i===0?`关于「${p}」，${person.name}提醒我们：${person.quote}`:`顺着这个问题再看一步：${person.quote}`)]:[]);
 
 

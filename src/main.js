@@ -1,5 +1,6 @@
 import { thinkers as defaultThinkers } from './data.js';
 import portraitCredits from './portraitCredits.js';
+import { portraitDataUri } from './portrait.js';
 import { showcaseConversations } from './showcaseConversations.js';
 
 const $ = (selector) => document.querySelector(selector);
@@ -18,7 +19,13 @@ const savedSettings = readLocal(STORAGE.settings, {});
 const settings = { ...settingsDefaults, apiKey: savedSettings.apiKey || '' };
 const removedPeople = new Set(readLocal(STORAGE.removedPeople, []));
 const customPeople = readLocal(STORAGE.customPeople, []);
+// Shuffle once per page load; keep the orbit stable while navigating or chatting.
 const people = [...defaultThinkers.filter((person) => !removedPeople.has(person.id)), ...customPeople];
+for (let index = people.length - 1; index > 0; index--) {
+  const other = Math.floor(Math.random() * (index + 1));
+  [people[index], people[other]] = [people[other], people[index]];
+}
+const originalPortraits = new Map(defaultThinkers.map((person, index) => [person.id, `/portraits/original/portrait-${index}.svg`]));
 
 function readLocal(key, fallback) {
   try { const value = JSON.parse(localStorage.getItem(key)); return value ?? fallback; } catch { return fallback; }
@@ -101,7 +108,11 @@ function persistMessages() { saveLocal(STORAGE.messages, state.messages); }
 function persistThreads() { saveLocal(STORAGE.threads, state.threads); localStorage.setItem(STORAGE.activeThread, state.activeThreadId); }
 function portraitSource(person) {
   if (portraitCredits[person.id]?.src) return portraitCredits[person.id].src;
-  return '/portraits/portrait-unavailable.svg';
+  return originalPortraits.get(person.id) || portraitDataUri(person);
+}
+function portraitDescription(person) {
+  const credit = portraitCredits[person.id];
+  return `${person.name}${credit?.kind === 'source-composite' ? ' · 人物组合图' : credit ? ' · 来源图片或人物示意形象' : ' · 原创示意插画，非历史肖像'}`;
 }
 
 function wheelPosition(delta, stage) {
@@ -134,7 +145,7 @@ function renderGallery() {
     const person = state.people[index];
     const delta = galleryDelta(index);
     const point = wheelPosition(delta, stage);
-    gallery.insertAdjacentHTML('beforeend', `<button type="button" class="portrait-card" data-index="${index}" data-id="${esc(person.id)}" aria-label="选择${esc(person.name)}" style="--x:${point.x}px;--y:${point.y}px;--accent:${esc(person.color || '#aa9575')}"><img loading="lazy" decoding="async" src="${portraitSource(person)}" alt="${esc(person.name)}${portraitCredits[person.id] ? '肖像' : '肖像待补'}" draggable="false"><span class="portrait-wash"></span><span class="portrait-caption">${esc(person.name)}</span></button>`);
+    gallery.insertAdjacentHTML('beforeend', `<button type="button" class="portrait-card" data-index="${index}" data-id="${esc(person.id)}" aria-label="选择${esc(person.name)}" title="${esc(portraitDescription(person))}" style="--x:${point.x}px;--y:${point.y}px;--accent:${esc(person.color || '#aa9575')}"><img loading="lazy" decoding="async" src="${portraitSource(person)}" alt="${esc(portraitDescription(person))}" draggable="false"><span class="portrait-wash"></span><span class="portrait-caption">${esc(person.name)}</span>${portraitCredits[person.id] ? '' : '<span class="portrait-origin">原创示意</span>'}</button>`);
   });
   updateGallery();
 }
@@ -321,7 +332,7 @@ const MANAGED_PAGE_SIZE = 100;
 let managedMatches = [];
 let managedVisibleCount = 0;
 function managedPersonMarkup(person) {
-  return `<div class="managed-person"><img loading="lazy" decoding="async" src="${portraitSource(person)}" alt="${esc(person.name)}${portraitCredits[person.id] ? '肖像' : '肖像待补'}"><span><b>${esc(person.name)}</b><small>${esc(person.region || '自定义')} · ${esc(person.role || '思想者')}</small></span><button type="button" data-remove-person="${esc(person.id)}" aria-label="删除${esc(person.name)}">×</button></div>`;
+  return `<div class="managed-person"><img loading="lazy" decoding="async" src="${portraitSource(person)}" alt="${esc(portraitDescription(person))}"><span><b>${esc(person.name)}</b><small>${esc(person.region || '自定义')} · ${esc(person.role || '思想者')}${portraitCredits[person.id] ? '' : ' · 原创示意插画'}</small></span><button type="button" data-remove-person="${esc(person.id)}" aria-label="删除${esc(person.name)}">×</button></div>`;
 }
 function renderManagedPeople(reset = true) {
   const query = $('#person-search').value.trim().toLowerCase();
@@ -446,6 +457,20 @@ function setupStarfield() {
 }
 function fitInput() { const input = $('#message-input'); input.style.height = 'auto'; input.style.height = `${Math.min(input.scrollHeight, 130)}px`; }
 function init() {
+  document.addEventListener('error', (event) => {
+    const image = event.target;
+    if (!(image instanceof HTMLImageElement) || image.dataset.originalFallback) return;
+    const person = state.people.find(item => portraitSource(item) === image.getAttribute('src'));
+    if (!person) return;
+    image.dataset.originalFallback = 'true';
+    image.src = portraitDataUri(person);
+    image.alt = `${person.name} · 原创示意插画，非历史肖像`;
+    const card = image.closest('.portrait-card');
+    if (card) {
+      card.title = image.alt;
+      if (!card.querySelector('.portrait-origin')) card.insertAdjacentHTML('beforeend', '<span class="portrait-origin">原创示意</span>');
+    }
+  }, true);
   setupStarfield(); renderGallery(); renderThreadList(); renderChat();
   const sidebarToggle = $('#sidebar-toggle');
   sidebarToggle.addEventListener('click', () => {

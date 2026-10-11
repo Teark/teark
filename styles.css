@@ -171,3 +171,5 @@
 @media(max-width:560px){.gallery .portrait-card,.gallery .portrait-card.active{height:clamp(180px,25vh,210px)}}
 @media(max-width:440px){.gallery .portrait-card,.gallery .portrait-card.active{width:145px;height:194px}}
 @media(prefers-reduced-motion:reduce){.gallery .portrait-card{transition:none}}
+.portrait-origin{position:absolute;top:8px;right:8px;padding:3px 5px;border-radius:3px;background:rgba(10,12,17,.7);color:#e1d0ae;font-size:9px;letter-spacing:.03em;pointer-events:none}
+.portrait-card:not(.active) .portrait-origin{display:none}
