@@ -1,0 +1,43 @@
+{
+  "total": 1000,
+  "sourced": 995,
+  "original": 5,
+  "missing": 0,
+  "originalIllustrations": [
+    {
+      "id": "legacy-cn-54-老童",
+      "name": "老童",
+      "src": "/portraits/optimized/portrait-114.webp",
+      "type": "original-illustration",
+      "description": "原创示意插画，非历史肖像"
+    },
+    {
+      "id": "legacy-cn-201-张正常",
+      "name": "张正常",
+      "src": "/portraits/optimized/portrait-261.webp",
+      "type": "original-illustration",
+      "description": "原创示意插画，非历史肖像"
+    },
+    {
+      "id": "legacy-cn-202-张留孙",
+      "name": "张留孙",
+      "src": "/portraits/optimized/portrait-262.webp",
+      "type": "original-illustration",
+      "description": "原创示意插画，非历史肖像"
+    },
+    {
+      "id": "legacy-cn-207-张清志",
+      "name": "张清志",
+      "src": "/portraits/optimized/portrait-267.webp",
+      "type": "original-illustration",
+      "description": "原创示意插画，非历史肖像"
+    },
+    {
+      "id": "legacy-cn-220-葛巢甫",
+      "name": "葛巢甫",
+      "src": "/portraits/optimized/portrait-280.webp",
+      "type": "original-illustration",
+      "description": "原创示意插画，非历史肖像"
+    }
+  ]
+}
