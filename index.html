@@ -16,6 +16,12 @@
           <div class="sidebar-topline"><div class="brand-mark">与道对话</div><button id="sidebar-toggle" class="sidebar-toggle" type="button" aria-label="收起侧栏" title="收起侧栏" aria-expanded="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14.5 5-7 7 7 7"></path></svg></button></div>
           <button id="new-conversation" class="primary-action" title="新建对话"><span>＋</span> 新建对话</button>
           <button id="person-manager-open" class="secondary-action" title="人物管理"><span>◎</span> 人物管理</button>
+          <div class="direct-dialogue" id="direct-dialogue">
+            <span class="direct-dialogue-icon" aria-hidden="true">◎</span>
+            <input id="dialogue-person-search" type="text" role="combobox" aria-label="指定对话" aria-autocomplete="list" aria-expanded="false" aria-controls="dialogue-person-options" aria-describedby="dialogue-person-status" placeholder="指定对话" autocomplete="off" />
+            <div id="dialogue-person-options" role="listbox" aria-label="匹配人物" hidden></div>
+            <span id="dialogue-person-status" role="status"></span>
+          </div>
         </header>
         <section class="sidebar-history">
           <div class="history-title-row"><h2>对话记录</h2><span class="history-count" id="history-count">00</span></div>
@@ -29,13 +35,17 @@
         <div class="stage-heading"><div class="count-label"><span id="person-index">01</span><span class="count-divider">/</span><span id="person-total">1000</span></div></div>
         <div class="person-info"><div class="person-info-main"><div class="person-title-row"><h2 id="person-name"></h2><div class="person-kicker"><span id="person-era"></span><span class="kicker-dot">✦</span><span id="person-role"></span></div></div><p id="person-summary"></p></div></div>
         <div class="gallery-stage">
+          <div id="gallery-content" class="gallery-content">
           <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="orbit-core"><span>道</span></div>
           <div id="gallery" class="gallery" aria-label="环形人物相册"></div><div class="stage-vignette"></div>
           <button id="prev-person" class="side-arrow side-arrow-left" title="上一位人物" aria-label="上一位人物"><svg viewBox="0 0 24 24"><path d="m14.5 5-7 7 7 7"></path></svg></button>
           <button id="next-person" class="side-arrow side-arrow-right" title="下一位人物" aria-label="下一位人物"><svg viewBox="0 0 24 24"><path d="m9.5 5 7 7-7 7"></path></svg></button>
+          </div>
+          <button id="switch-mode" class="switch-mode" type="button" role="switch" aria-checked="false" aria-label="随机切换"><span class="switch-mode-track" aria-hidden="true"></span><span id="switch-mode-label">顺序切换</span></button>
+          <button id="gallery-toggle" class="gallery-toggle" type="button" aria-expanded="true" aria-controls="gallery-content" aria-label="收起相册" title="收起"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 14 6-6 6 6" /></svg></button>
         </div>
         <section class="chat-transcript" aria-label="当前对话"><div id="chat-messages" class="chat-messages" aria-live="polite"></div></section>
-        <div class="chat-composer"><div class="composer-topline"><span class="composer-person">与 <b id="composer-name"></b> 对话</span></div><div class="composer-input-wrap"><textarea id="message-input" rows="1" placeholder="写下你想问的问题…" aria-label="输入对话内容"></textarea><button id="send-button" class="send-button" aria-label="发送消息" title="发送"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4.5 12 20 4l-5 16-3.5-6.5L4.5 12Z"></path><path d="M11.5 13.5 20 4"></path></svg></button></div></div>
+        <div class="chat-composer"><div class="composer-topline"><span class="composer-person">与 <b id="composer-name"></b> 对话</span><button id="export-conversation" type="button" class="export-conversation" aria-label="导出当前对话为长图" title="导出当前对话为长图" disabled><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M5 16v5h14v-5"/></svg></button></div><div class="composer-input-wrap"><textarea id="message-input" rows="1" placeholder="写下你想问的问题…" aria-label="输入对话内容"></textarea><button id="send-button" class="send-button" aria-label="发送消息" title="发送"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4.5 12 20 4l-5 16-3.5-6.5L4.5 12Z"></path><path d="M11.5 13.5 20 4"></path></svg></button></div></div>
       </section>
     </main>
 

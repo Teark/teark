@@ -2,6 +2,9 @@ import { thinkers as defaultThinkers } from './data.js';
 import portraitCredits from './portraitCredits.js';
 import { portraitDataUri } from './portrait.js';
 import { showcaseConversations } from './showcaseConversations.js';
+import { setupDirectDialogue } from './directDialogue.js';
+import { aliasPersonIds } from './rosterReview.js';
+import { exportConversation } from './exportConversation.js';
 
 const $ = (selector) => document.querySelector(selector);
 const $$ = (selector) => [...document.querySelectorAll(selector)];
@@ -13,6 +16,7 @@ const STORAGE = {
   removedPeople: 'guandao-removed-people',
   settings: 'guandao-settings',
   showcaseSeeded: 'guandao-showcase-seeded-v3',
+  switchMode: 'guandao-switch-mode',
 };
 const settingsDefaults = { apiBase: 'https://api.deepseek.com', apiModel: 'deepseek-flash', apiKey: '' };
 const savedSettings = readLocal(STORAGE.settings, {});
@@ -25,7 +29,7 @@ for (let index = people.length - 1; index > 0; index--) {
   const other = Math.floor(Math.random() * (index + 1));
   [people[index], people[other]] = [people[other], people[index]];
 }
-const originalPortraits = new Map(defaultThinkers.map((person, index) => [person.id, `/portraits/original/portrait-${index}.svg`]));
+const originalPortraits = new Map(defaultThinkers.map((person, index) => [person.id, `/portraits/optimized/portrait-${index}.webp`]));
 
 function readLocal(key, fallback) {
   try { const value = JSON.parse(localStorage.getItem(key)); return value ?? fallback; } catch { return fallback; }
@@ -50,6 +54,18 @@ function normalizeMessages(rows) {
 }
 const messages = normalizeMessages(readLocal(STORAGE.messages, []));
 const storedThreads = readLocal(STORAGE.threads, []);
+// Preserve old conversations by redirecting alias IDs to the retained person.
+messages.forEach(message => {
+  if (aliasPersonIds.has(message.personId)) {
+    message.personId = aliasPersonIds.get(message.personId);
+    message.personName = defaultThinkers.find(person => person.id === message.personId)?.name || message.personName;
+  }
+});
+storedThreads.forEach(thread => {
+  if (aliasPersonIds.has(thread.personId)) thread.personId = aliasPersonIds.get(thread.personId);
+});
+saveLocal(STORAGE.messages, messages);
+saveLocal(STORAGE.threads, storedThreads);
 {
   const peopleById = new Map([...defaultThinkers, ...customPeople].map((person) => [person.id, person]));
   const seededAt = Date.now();
@@ -95,6 +111,7 @@ const state = {
   people, messages, threads: storedThreads.length ? storedThreads : inferredThreads,
   index: 0, activeThreadId: localStorage.getItem(STORAGE.activeThread) || '',
   busy: false, toastTimer: null, dragging: false, dragX: 0,
+  randomSwitch: readLocal(STORAGE.switchMode, 'sequential') === 'random',
 };
 if (!state.threads.length) state.threads.push({ id: makeId(), title: '新建对话', personId: people[0]?.id, updatedAt: new Date().toISOString() });
 if (!state.threads.some((thread) => thread.id === state.activeThreadId)) state.activeThreadId = state.threads.at(-1).id;
@@ -118,16 +135,20 @@ function portraitDescription(person) {
 function wheelPosition(delta, stage) {
   const radiusX = Math.min(520, stage.clientWidth * .41);
   const radiusY = Math.min(82, stage.clientHeight * .2);
-  const angle = delta * Math.PI * 2 / 13;
+  const angle = delta * Math.PI * 2 / 25;
+  const depth = (1 + Math.cos(angle)) / 2;
+  // Open a gutter beside the featured card without expanding the rear orbit.
+  const gutter = Math.sign(delta) * Math.min(Math.abs(delta), 1) * 60 * Math.pow(depth, 4);
   return {
-    x: Math.sin(angle) * radiusX,
+    x: Math.sin(angle) * radiusX + gutter,
     y: (Math.cos(angle) - 1) * radiusY,
-    depth: (1 + Math.cos(angle)) / 2,
+    depth,
   };
 }
 // Render a complete, dense orbit around the featured portrait. Only the near
 // side remains interactive; rear portraits are visual context for the ring.
-const GALLERY_OFFSETS = Array.from({ length: 29 }, (_, index) => index - 14);
+const GALLERY_RADIUS = 20;
+const GALLERY_OFFSETS = Array.from({ length: GALLERY_RADIUS * 2 + 1 }, (_, index) => index - GALLERY_RADIUS);
 const galleryMotion = { position: state.index, target: state.index, velocity: 0, frame: 0, time: 0 };
 const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
 function wrappedIndex(index) { return ((index % state.people.length) + state.people.length) % state.people.length; }
@@ -159,7 +180,7 @@ function paintGallery() {
     card.style.setProperty('--x', `${x}px`); card.style.setProperty('--y', `${y}px`);
     card.classList.toggle('active', index === state.index);
     const focus = Math.pow(Math.max(0, 1 - distance), 2);
-    const edge = Math.max(0, Math.min(1, 14 - distance));
+    const edge = Math.max(0, Math.min(1, GALLERY_RADIUS - distance));
     card.style.zIndex = String(Math.round(depth * 10 + focus * 20));
     card.style.opacity = String((.4 + depth * .56 + focus * .04) * edge);
     card.style.filter = `brightness(${.68 + depth * .27 + focus * .05}) saturate(${.58 + depth * .36 + focus * .06})`;
@@ -186,7 +207,7 @@ function animateGallery(time) {
   else {
     galleryMotion.frame = 0;
     galleryMotion.time = 0;
-    $$('.portrait-card').forEach((card) => { if (Math.abs(galleryDelta(Number(card.dataset.index))) > 14) card.remove(); });
+    $$('.portrait-card').forEach((card) => { if (Math.abs(galleryDelta(Number(card.dataset.index))) > GALLERY_RADIUS) card.remove(); });
   }
 }
 function updateGallery() {
@@ -239,7 +260,16 @@ function selectPerson(index) {
   renderGallery();
 }
 function movePerson(direction) {
-  selectPerson(state.index + direction);
+  if (state.randomSwitch && state.people.length > 1) {
+    const offset = 1 + Math.floor(Math.random() * (state.people.length - 1));
+    selectPerson((state.index + offset) % state.people.length);
+  } else selectPerson(state.index + direction);
+}
+
+function renderSwitchMode() {
+  $('#switch-mode').setAttribute('aria-checked', String(state.randomSwitch));
+  $('#switch-mode-label').textContent = state.randomSwitch ? '随机切换' : '顺序切换';
+  $('#switch-mode').title = state.randomSwitch ? '随机切换' : '顺序切换';
 }
 
 function getThreadMessages(threadId = state.activeThreadId) {
@@ -258,6 +288,7 @@ function renderThreadList() {
 }
 function renderChat() {
   const threadMessages = getThreadMessages();
+  $('#export-conversation').disabled = !threadMessages.length || state.exporting || state.busy;
   const list = $('#chat-messages');
   const transcript = $('.chat-transcript');
   transcript.classList.toggle('is-mature', threadMessages.filter((message) => message.role === 'user').length > 4);
@@ -472,6 +503,46 @@ function init() {
     }
   }, true);
   setupStarfield(); renderGallery(); renderThreadList(); renderChat();
+  $('#export-conversation').addEventListener('click', async () => {
+    const messages = getThreadMessages().map(message => ({ ...message }));
+    if (!messages.length || state.exporting || state.busy) return;
+    state.exporting = true;
+    $('#export-conversation').disabled = true;
+    $('#export-conversation').setAttribute('aria-busy', 'true');
+    toast('正在生成完整对话长图…');
+    try {
+      await exportConversation({ person: { ...currentPerson() }, people: [...state.people], index: state.index, messages, portraitSource });
+      toast('完整对话长图已导出');
+    } catch (error) { toast(`导出失败：${error.message}`); }
+    finally {
+      state.exporting = false;
+      $('#export-conversation').setAttribute('aria-busy', 'false');
+      $('#export-conversation').disabled = !getThreadMessages().length || state.busy;
+    }
+  });
+  renderSwitchMode();
+  $('#gallery-toggle').addEventListener('click', () => {
+    const collapsed = $('.gallery-stage').classList.toggle('gallery-collapsed');
+    $('#gallery-content').inert = collapsed;
+    $('#switch-mode').inert = collapsed;
+    $('#switch-mode').setAttribute('aria-hidden', String(collapsed));
+    $('#gallery-content').setAttribute('aria-hidden', String(collapsed));
+    $('#gallery-toggle').setAttribute('aria-expanded', String(!collapsed));
+    $('#gallery-toggle').setAttribute('aria-label', collapsed ? '展开相册' : '收起相册');
+    $('#gallery-toggle').title = collapsed ? '展开' : '收起';
+  });
+  $('.gallery-stage').addEventListener('transitionend', event => {
+    if (event.target === $('.gallery-stage') && event.propertyName === 'height') updateGallery();
+  });
+  $('#switch-mode').addEventListener('click', () => {
+    state.randomSwitch = !state.randomSwitch;
+    saveLocal(STORAGE.switchMode, state.randomSwitch ? 'random' : 'sequential');
+    renderSwitchMode();
+  });
+  setupDirectDialogue(() => state.people, (id) => {
+    const index = state.people.findIndex(person => person.id === id);
+    if (index >= 0) selectPerson(index);
+  });
   const sidebarToggle = $('#sidebar-toggle');
   sidebarToggle.addEventListener('click', () => {
     const collapsed = document.querySelector('.app-shell').classList.toggle('sidebar-collapsed');
@@ -523,7 +594,7 @@ function init() {
     lastWheelTurn = now;
     movePerson(delta > 0 ? 1 : -1);
   }, { passive: false });
-  stage.addEventListener('pointerdown', (event) => { if (event.target.closest('.side-arrow,.portrait-card')) return; state.dragging = true; state.dragX = event.clientX; stage.setPointerCapture(event.pointerId); });
+  stage.addEventListener('pointerdown', (event) => { if (event.target.closest('button')) return; state.dragging = true; state.dragX = event.clientX; stage.setPointerCapture(event.pointerId); });
   stage.addEventListener('pointerup', (event) => { if (state.dragging && Math.abs(event.clientX - state.dragX) > 35) movePerson(event.clientX < state.dragX ? 1 : -1); state.dragging = false; });
   stage.addEventListener('pointercancel', () => { state.dragging = false; });
   document.addEventListener('keydown', (event) => {

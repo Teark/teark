@@ -7,11 +7,13 @@
     "dev": "vite --host 0.0.0.0",
     "build": "vite build && node scripts/copy-portrait-assets.mjs",
     "preview": "vite preview --host 0.0.0.0",
+    "assets:optimize": "node scripts/optimize-assets.mjs",
     "portraits:download": "node scripts/complete-portraits.mjs",
     "portraits:generate": "node scripts/generate-original-portraits.mjs",
     "portraits:verify": "node scripts/verify-portraits.mjs"
   },
   "devDependencies": {
+    "sharp": "^0.35.5",
     "vite": "^6.0.0"
   },
   "allowScripts": {

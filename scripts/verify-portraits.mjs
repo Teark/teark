@@ -6,7 +6,7 @@ const failed = [];
 const original = [];
 const sources = [];
 for (const [index, person] of thinkers.entries()) {
-  const source = credits[person.id]?.src || `/portraits/original/portrait-${index}.svg`;
+  const source = credits[person.id]?.src || `/portraits/optimized/portrait-${index}.webp`;
   sources.push({ person, source });
   try {
     const bytes = await readFile(new URL(`..${source}`, import.meta.url));

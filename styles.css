@@ -173,3 +173,54 @@
 @media(prefers-reduced-motion:reduce){.gallery .portrait-card{transition:none}}
 .portrait-origin{position:absolute;top:8px;right:8px;padding:3px 5px;border-radius:3px;background:rgba(10,12,17,.7);color:#e1d0ae;font-size:9px;letter-spacing:.03em;pointer-events:none}
 .portrait-card:not(.active) .portrait-origin{display:none}
+/* Photorealistic Milky Way asset replaces the decorative spiral galaxies. */
+.starfield{background:#07090f!important}
+.starfield .galaxy,.starfield::after{display:none!important}
+.starfield::before{content:'';display:block;position:absolute;inset:auto 2vw 24vh auto;width:min(42vw,600px);aspect-ratio:16/9;background:url('/backgrounds/milky-way-spiral.webp') center/contain no-repeat;opacity:.3;mask-image:radial-gradient(ellipse at 65% 50%,#000 18%,transparent 72%);pointer-events:none}
+.starfield .star-canvas{opacity:.65}
+@media(max-width:560px){.starfield::before{width:65vw;right:0;bottom:30vh;opacity:.24}}
+/* Searchable roster selector. */
+.chat-composer .composer-topline{position:relative;min-height:20px;padding-bottom:2px;padding-right:36px}
+.export-conversation{position:absolute;right:0;top:-5px;display:grid;place-items:center;width:32px;height:28px;border:0;border-radius:4px;background:transparent;color:#d0b785;cursor:pointer}
+.export-conversation svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
+.chat-composer .send-button{width:32px;height:32px;border:0;border-radius:4px;background:transparent;color:#d0b785;box-shadow:none}
+.chat-composer .send-button svg{width:18px;height:18px;stroke-width:1.5}
+.chat-composer .send-button:hover:not(:disabled){background:rgba(202,169,111,.12)}
+.chat-composer .send-button:focus-visible{outline:1px solid #b69b68;outline-offset:2px}
+.export-conversation:hover:not(:disabled){background:rgba(202,169,111,.12)}
+.export-conversation:disabled{opacity:.25;cursor:not-allowed}
+.export-conversation:focus-visible{outline:1px solid #b69b68;outline-offset:2px}
+.gallery-stage{transition:height .42s ease,min-height .42s ease}
+.gallery-content{position:absolute;inset:0;transition:transform .42s ease,opacity .25s ease}
+.gallery-stage.gallery-collapsed{height:44px!important;min-height:44px!important}
+.gallery-collapsed .gallery-content{transform:translateY(-100%);opacity:0;pointer-events:none}
+.gallery-toggle{position:absolute;right:12px;bottom:8px;z-index:10;width:36px;height:36px;display:grid;place-items:center;border:0;border-radius:50%;background:transparent;color:#d8c7a3;cursor:pointer}
+.gallery-toggle svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.5;transition:transform .3s}
+.gallery-collapsed .gallery-toggle svg{transform:rotate(180deg)}
+.gallery-toggle:hover{background:rgba(202,169,111,.09)}
+.gallery-toggle:focus-visible{outline:1px solid #b69b68;outline-offset:2px}
+.gallery-collapsed .switch-mode{opacity:0;visibility:hidden;pointer-events:none}
+@media(prefers-reduced-motion:reduce){.gallery-stage,.gallery-content,.gallery-toggle svg{transition:none}}
+.switch-mode{position:absolute;right:12px;top:4px;z-index:9;display:grid;place-items:center;width:36px;height:36px;padding:0;border:0;border-radius:50%;background:transparent;color:#d8c7a3;cursor:pointer}
+.switch-mode:hover{background:rgba(202,169,111,.09)}
+.switch-mode:focus-visible{outline:1px solid #b69b68;outline-offset:2px}
+#switch-mode-label{position:absolute;top:calc(100% + 6px);right:0;white-space:nowrap;padding:6px 9px;border:1px solid #66583e;border-radius:4px;background:#11131b;color:#d8c7a3;font-size:12px;opacity:0;visibility:hidden;pointer-events:none;transition:opacity .15s}
+.switch-mode:hover #switch-mode-label,.switch-mode:focus-visible #switch-mode-label{opacity:1;visibility:visible}
+.switch-mode-track{width:28px;height:16px;border-radius:8px;background:#44434a;position:relative}
+.switch-mode-track::after{content:'';position:absolute;top:3px;left:3px;width:10px;height:10px;border-radius:50%;background:#e2d7c0;transition:transform .2s}
+.switch-mode[aria-checked=true] .switch-mode-track{background:#897044}
+.switch-mode[aria-checked=true] .switch-mode-track::after{transform:translateX(12px)}
+.direct-dialogue{position:relative;margin-top:0;min-width:0}
+.direct-dialogue>input{width:100%;height:39px;padding:0 13px 0 34px;border:1px solid rgba(225,222,212,.11);border-radius:5px;background:rgba(255,255,255,.025);color:#cbc8c1;font-family:inherit;font-size:13px;outline:none;transition:.2s}
+.direct-dialogue>input::placeholder{color:#cbc8c1;opacity:1}
+.direct-dialogue>input:hover{border-color:rgba(214,185,131,.55);background-color:rgba(202,169,111,.09)}
+.direct-dialogue-icon{position:absolute;left:13px;top:19px;transform:translateY(-50%);color:#c8ad7b;font-size:13px;pointer-events:none}
+.direct-dialogue>input:focus{border-color:#b69b68}
+.direct-dialogue [role=listbox]{position:absolute;top:43px;left:0;right:0;z-index:15;max-height:min(320px,45vh);overflow:auto;padding:4px;border:1px solid #66583e;border-radius:5px;background:#11131b;box-shadow:0 12px 28px #0008;scrollbar-width:thin}
+.direct-dialogue [hidden]{display:none}
+.direct-dialogue [role=option]{display:grid;gap:4px;padding:9px 8px;cursor:pointer;border-radius:3px;font-size:13px;color:#e1ddd5}
+.direct-dialogue [role=option]:hover,.direct-dialogue [aria-selected=true]{background:#b69b6826}
+.direct-dialogue [role=status]{display:block;margin-top:6px;font-size:10px;color:#aaa49a}
+.direct-dialogue [role=status]:empty{display:none}
+.sidebar-collapsed .direct-dialogue{display:none}
+@media(max-width:560px){.sidebar-collapsed .direct-dialogue{display:block}}

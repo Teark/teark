@@ -1,7 +1,7 @@
 const portraitCredits = {
   "yanfu": {
     "id": "yanfu",
-    "src": "/portraits/yanfu.jpg",
+    "src": "/portraits/optimized/portrait-3.webp",
     "file": "Yan_fu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AYan_fu.jpg",
     "artist": "Anonymous",
@@ -10,7 +10,7 @@ const portraitCredits = {
   },
   "confucius": {
     "id": "confucius",
-    "src": "/portraits/confucius.png",
+    "src": "/portraits/optimized/portrait-4.webp",
     "file": "孔子燕居像.png",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E5%AD%94%E5%AD%90%E7%87%95%E5%B1%85%E5%83%8F.png",
     "artist": "Unknown author Unknown author",
@@ -19,7 +19,7 @@ const portraitCredits = {
   },
   "cn-curated-2": {
     "id": "cn-curated-2",
-    "src": "/portraits/cn-curated-2.jpg",
+    "src": "/portraits/optimized/portrait-7.webp",
     "file": "Yellowemperor.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AYellowemperor.jpg",
     "artist": "mural painting from Han dynasty",
@@ -28,7 +28,7 @@ const portraitCredits = {
   },
   "cn-curated-7": {
     "id": "cn-curated-7",
-    "src": "/portraits/cn-curated-7.png",
+    "src": "/portraits/optimized/portrait-12.webp",
     "file": "Bo_Yi.png",
     "page": "https://commons.wikimedia.org/wiki/File%3ABo_Yi.png",
     "artist": "Unknown author Unknown author",
@@ -37,7 +37,7 @@ const portraitCredits = {
   },
   "cn-curated-9": {
     "id": "cn-curated-9",
-    "src": "/portraits/cn-curated-9.jpg",
+    "src": "/portraits/optimized/portrait-14.webp",
     "file": "TaoHongJing.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3ATaoHongJing.jpg",
     "artist": "未注明",
@@ -46,7 +46,7 @@ const portraitCredits = {
   },
   "cn-curated-15": {
     "id": "cn-curated-15",
-    "src": "/portraits/cn-curated-15.jpeg",
+    "src": "/portraits/optimized/portrait-20.webp",
     "file": "Portrait_of_Lin_Zexu.jpeg",
     "page": "https://commons.wikimedia.org/wiki/File%3APortrait_of_Lin_Zexu.jpeg",
     "artist": "Lam Qua",
@@ -55,7 +55,7 @@ const portraitCredits = {
   },
   "cn-curated-17": {
     "id": "cn-curated-17",
-    "src": "/portraits/cn-curated-17.jpg",
+    "src": "/portraits/optimized/portrait-22.webp",
     "file": "Tansitong.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3ATansitong.jpg",
     "artist": "未注明",
@@ -64,7 +64,7 @@ const portraitCredits = {
   },
   "cn-curated-18": {
     "id": "cn-curated-18",
-    "src": "/portraits/cn-curated-18.jpg",
+    "src": "/portraits/optimized/portrait-23.webp",
     "file": "鲁迅_1933年5月26日摄于上海.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E9%B2%81%E8%BF%85_1933%E5%B9%B45%E6%9C%8826%E6%97%A5%E6%91%84%E4%BA%8E%E4%B8%8A%E6%B5%B7.jpg",
     "artist": "雪怀照相馆",
@@ -73,7 +73,7 @@ const portraitCredits = {
   },
   "墨子-1": {
     "id": "墨子-1",
-    "src": "/portraits/---1.jpg",
+    "src": "/portraits/optimized/portrait-27.webp",
     "file": "Философ_Мо-Цзы.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84_%D0%9C%D0%BE-%D0%A6%D0%B7%D1%8B.jpg",
     "artist": "Vjacheslav Rublevskiy",
@@ -82,7 +82,7 @@ const portraitCredits = {
   },
   "孟子-0": {
     "id": "孟子-0",
-    "src": "/portraits/---0.jpg",
+    "src": "/portraits/optimized/portrait-26.webp",
     "file": "Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Meng_Ke_(孟軻).jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AHalf_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Meng_Ke_(%E5%AD%9F%E8%BB%BB).jpg",
     "artist": "anonymous",
@@ -91,7 +91,7 @@ const portraitCredits = {
   },
   "屈原-4": {
     "id": "屈原-4",
-    "src": "/portraits/---4.jpg",
+    "src": "/portraits/optimized/portrait-30.webp",
     "file": "楚三闾大夫屈原.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E6%A5%9A%E4%B8%89%E9%97%BE%E5%A4%A7%E5%A4%AB%E5%B1%88%E5%8E%9F.jpg",
     "artist": "Unknown author Unknown author",
@@ -100,7 +100,7 @@ const portraitCredits = {
   },
   "鬼谷子-6": {
     "id": "鬼谷子-6",
-    "src": "/portraits/----6.png",
+    "src": "/portraits/optimized/portrait-32.webp",
     "file": "仙佛奇蹤_卷一_鬼谷子.png",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E4%B8%80_%E9%AC%BC%E8%B0%B7%E5%AD%90.png",
     "artist": "Hong Zicheng",
@@ -109,7 +109,7 @@ const portraitCredits = {
   },
   "文子-8": {
     "id": "文子-8",
-    "src": "/portraits/---8.jpg",
+    "src": "/portraits/optimized/portrait-34.webp",
     "file": "华祖立_玄门十子图_(文子).jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E5%8D%8E%E7%A5%96%E7%AB%8B_%E7%8E%84%E9%97%A8%E5%8D%81%E5%AD%90%E5%9B%BE_(%E6%96%87%E5%AD%90).jpg",
     "artist": "Hua Zuli / Wu Bing",
@@ -118,7 +118,7 @@ const portraitCredits = {
   },
   "董仲舒-9": {
     "id": "董仲舒-9",
-    "src": "/portraits/----9.png",
+    "src": "/portraits/optimized/portrait-35.webp",
     "file": "歷代聖賢半身像_冊_董仲舒_(Dong_Zhongshu).png",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A_%E8%91%A3%E4%BB%B2%E8%88%92_(Dong_Zhongshu).png",
     "artist": "歷代聖賢半身像 冊 董仲舒 . 故宮典藏資料檢索. National Palace Museum.",
@@ -127,7 +127,7 @@ const portraitCredits = {
   },
   "陶渊明-12": {
     "id": "陶渊明-12",
-    "src": "/portraits/----12.jpg",
+    "src": "/portraits/optimized/portrait-38.webp",
     "file": "Tao_Qian.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3ATao_Qian.jpg",
     "artist": "未注明",
@@ -136,7 +136,7 @@ const portraitCredits = {
   },
   "诸葛亮-11": {
     "id": "诸葛亮-11",
-    "src": "/portraits/----11.jpg",
+    "src": "/portraits/optimized/portrait-37.webp",
     "file": "明人绘 《诸葛亮像》（南薰殿本）.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E6%98%8E%E4%BA%BA%E7%BB%98_%E3%80%8A%E8%AF%B8%E8%91%9B%E4%BA%AE%E5%83%8F%E3%80%8B%EF%BC%88%E5%8D%97%E8%96%B0%E6%AE%BF%E6%9C%AC%EF%BC%89.jpg",
     "artist": "Unknown author Unknown author",
@@ -145,7 +145,7 @@ const portraitCredits = {
   },
   "韩愈-15": {
     "id": "韩愈-15",
-    "src": "/portraits/---15.jpg",
+    "src": "/portraits/optimized/portrait-41.webp",
     "file": "韩愈.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E9%9F%A9%E6%84%88.jpg",
     "artist": "Unknown author Unknown author",
@@ -154,7 +154,7 @@ const portraitCredits = {
   },
   "范仲淹-16": {
     "id": "范仲淹-16",
-    "src": "/portraits/----16.jpg",
+    "src": "/portraits/optimized/portrait-42.webp",
     "file": "Fan_Zhongyan.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AFan_Zhongyan.jpg",
     "artist": "Suzhou Government",
@@ -163,7 +163,7 @@ const portraitCredits = {
   },
   "周敦颐-18": {
     "id": "周敦颐-18",
-    "src": "/portraits/----18.jpg",
+    "src": "/portraits/optimized/portrait-44.webp",
     "file": "宋提刑周敦颐.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E5%AE%8B%E6%8F%90%E5%88%91%E5%91%A8%E6%95%A6%E9%A2%90.jpg",
     "artist": "Unknown author Unknown author",
@@ -172,7 +172,7 @@ const portraitCredits = {
   },
   "程颐-20": {
     "id": "程颐-20",
-    "src": "/portraits/---20.jpg",
+    "src": "/portraits/optimized/portrait-46.webp",
     "file": "宋崇政殿说书程颐.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E5%AE%8B%E5%B4%87%E6%94%BF%E6%AE%BF%E8%AF%B4%E4%B9%A6%E7%A8%8B%E9%A2%90.jpg",
     "artist": "Unknown author Unknown author",
@@ -181,7 +181,7 @@ const portraitCredits = {
   },
   "朱熹-21": {
     "id": "朱熹-21",
-    "src": "/portraits/---21.jpg",
+    "src": "/portraits/optimized/portrait-47.webp",
     "file": "Tani Bunchō 谷文晁 - Portrait of Zhu Xi 朱熹像 (Shuki zō) - 2023.583.27 - Metropolitan Museum of Art.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3ATani_Bunch%C5%8D_%E8%B0%B7%E6%96%87%E6%99%81_-_Portrait_of_Zhu_Xi_%E6%9C%B1%E7%86%B9%E5%83%8F_(Shuki_z%C5%8D)_-_2023.583.27_-_Metropolitan_Museum_of_Art.jpg",
     "artist": "Tani Bunchō",
@@ -190,7 +190,7 @@ const portraitCredits = {
   },
   "文天祥-24": {
     "id": "文天祥-24",
-    "src": "/portraits/----24.jpg",
+    "src": "/portraits/optimized/portrait-50.webp",
     "file": "文天祥肖像.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E6%96%87%E5%A4%A9%E7%A5%A5%E8%82%96%E5%83%8F.jpg",
     "artist": "Ye Yanlan",
@@ -199,7 +199,7 @@ const portraitCredits = {
   },
   "王夫之-25": {
     "id": "王夫之-25",
-    "src": "/portraits/----25.jpg",
+    "src": "/portraits/optimized/portrait-51.webp",
     "file": "Wang Fuzhi.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AWang_Fuzhi.jpg",
     "artist": "Hirafuku Hyakusui（平福百穂）who was the author of this picture passed away in 1933.",
@@ -208,7 +208,7 @@ const portraitCredits = {
   },
   "黄宗羲-26": {
     "id": "黄宗羲-26",
-    "src": "/portraits/----26.jpg",
+    "src": "/portraits/optimized/portrait-52.webp",
     "file": "Huang_Zong-Xi.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AHuang_Zong-Xi.jpg",
     "artist": "Drag the cane to sing the immortal ( 曳杖行歌意欲仙 )",
@@ -217,7 +217,7 @@ const portraitCredits = {
   },
   "李贽-28": {
     "id": "李贽-28",
-    "src": "/portraits/---28.jpg",
+    "src": "/portraits/optimized/portrait-54.webp",
     "file": "Li_Zhi.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3ALi_Zhi.jpg",
     "artist": "User:曳杖行歌意欲仙",
@@ -226,7 +226,7 @@ const portraitCredits = {
   },
   "徐复观-30": {
     "id": "徐复观-30",
-    "src": "/portraits/----30.jpg",
+    "src": "/portraits/optimized/portrait-56.webp",
     "file": "徐復觀_01.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E5%BE%90%E5%BE%A9%E8%A7%80_01.jpg",
     "artist": "Unknown author Unknown author",
@@ -235,7 +235,7 @@ const portraitCredits = {
   },
   "熊十力-31": {
     "id": "熊十力-31",
-    "src": "/portraits/----31.jpg",
+    "src": "/portraits/optimized/portrait-57.webp",
     "file": "熊十力_1960s.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E7%86%8A%E5%8D%81%E5%8A%9B_1960s.jpg",
     "artist": "Unknown author Unknown author",
@@ -244,7 +244,7 @@ const portraitCredits = {
   },
   "梁漱溟-32": {
     "id": "梁漱溟-32",
-    "src": "/portraits/----32.jpg",
+    "src": "/portraits/optimized/portrait-58.webp",
     "file": "梁焕鼎.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E6%A2%81%E7%84%95%E9%BC%8E.jpg",
     "artist": "Unknown author Unknown author",
@@ -253,7 +253,7 @@ const portraitCredits = {
   },
   "buddha": {
     "id": "buddha",
-    "src": "/portraits/buddha.jpg",
+    "src": "/portraits/optimized/portrait-600.webp",
     "file": "Paintings of Life of Gautama Buddha - Asalha Puja.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3APaintings_of_Life_of_Gautama_Buddha_-_Asalha_Puja.jpg",
     "artist": "กฤษณะ สุริยกานต์",
@@ -262,7 +262,7 @@ const portraitCredits = {
   },
   "aristotle": {
     "id": "aristotle",
-    "src": "/portraits/aristotle.jpg",
+    "src": "/portraits/optimized/portrait-603.webp",
     "file": "Portrait of Aristotle by Carl Krull.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3APortrait_of_Aristotle_by_Carl_Krull.jpg",
     "artist": "CMSK",
@@ -271,7 +271,7 @@ const portraitCredits = {
   },
   "赫拉克利特-61": {
     "id": "赫拉克利特-61",
-    "src": "/portraits/------61.jpg",
+    "src": "/portraits/optimized/portrait-608.webp",
     "file": "Heraclitus. Mezzotint by J. Faber. Wellcome V0002697.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AHeraclitus._Mezzotint_by_J._Faber._Wellcome_V0002697.jpg",
     "artist": "J. Faber",
@@ -280,7 +280,7 @@ const portraitCredits = {
   },
   "德谟克利特-62": {
     "id": "德谟克利特-62",
-    "src": "/portraits/------62.jpg",
+    "src": "/portraits/optimized/portrait-609.webp",
     "file": "Demócrito, by Diego Velázquez.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3ADem%C3%B3crito%2C_by_Diego_Vel%C3%A1zquez.jpg",
     "artist": "Diego Velázquez",
@@ -289,7 +289,7 @@ const portraitCredits = {
   },
   "伊本西那-68": {
     "id": "伊本西那-68",
-    "src": "/portraits/-----68.jpg",
+    "src": "/portraits/optimized/portrait-615.webp",
     "file": "Aboali_Avicenne_Medicin_1500s.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AAboali_Avicenne_Medicin_1500s.jpg",
     "artist": "Thevet, André",
@@ -298,7 +298,7 @@ const portraitCredits = {
   },
   "奥古斯丁-67": {
     "id": "奥古斯丁-67",
-    "src": "/portraits/-----67.jpg",
+    "src": "/portraits/optimized/portrait-614.webp",
     "file": "Saint Augustine of Hippo. Coloured engraving. Wellcome V0031639.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3ASaint_Augustine_of_Hippo._Coloured_engraving._Wellcome_V0031639.jpg",
     "artist": "https://wellcomeimages.org/indexplus/obf_images/53/97/2c78c054e9992d2f29a2ddcf16d4.jpg Gallery: https://wellcomeimages.org/indexplus/image/V0031639.html Wellcome Collection gallery (2018-04-02): https://wellcomecollection.org/works/wsuvfkb2 CC-BY-4.0",
@@ -307,7 +307,7 @@ const portraitCredits = {
   },
   "阿维罗伊-69": {
     "id": "阿维罗伊-69",
-    "src": "/portraits/-----69.jpg",
+    "src": "/portraits/optimized/portrait-616.webp",
     "file": "Averroes. Lithograph by P. R. Vignéron, 1825. Wellcome V0000251.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AAverroes._Lithograph_by_P._R._Vign%C3%A9ron%2C_1825._Wellcome_V0000251.jpg",
     "artist": "https://wellcomeimages.org/indexplus/image/V0000251.html Wellcome Collection gallery (2018-03-23): https://wellcomecollection.org/works/rr2hx3g5 CC-BY-4.0",
@@ -316,7 +316,7 @@ const portraitCredits = {
   },
   "鲁米-70": {
     "id": "鲁米-70",
-    "src": "/portraits/---70.jpg",
+    "src": "/portraits/optimized/portrait-617.webp",
     "file": "مولانا_اثر_حسین_بهزاد_(cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A%D9%85%D9%88%D9%84%D8%A7%D9%86%D8%A7_%D8%A7%D8%AB%D8%B1_%D8%AD%D8%B3%DB%8C%D9%86_%D8%A8%D9%87%D8%B2%D8%A7%D8%AF_(cropped).jpg",
     "artist": "Hossein Behzad",
@@ -325,7 +325,7 @@ const portraitCredits = {
   },
   "伊拉斯谟-73": {
     "id": "伊拉斯谟-73",
-    "src": "/portraits/-----73.jpg",
+    "src": "/portraits/optimized/portrait-620.webp",
     "file": "Holbein-erasmus.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AHolbein-erasmus.jpg",
     "artist": "Hans Holbein the Younger",
@@ -334,7 +334,7 @@ const portraitCredits = {
   },
   "马基雅维利-74": {
     "id": "马基雅维利-74",
-    "src": "/portraits/------74.jpg",
+    "src": "/portraits/optimized/portrait-621.webp",
     "file": "Santi di Tito - Niccolo Machiavelli's portrait.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3ASanti_di_Tito_-_Niccolo_Machiavelli's_portrait.jpg",
     "artist": "Santi di Tito",
@@ -343,7 +343,7 @@ const portraitCredits = {
   },
   "蒙田-75": {
     "id": "蒙田-75",
-    "src": "/portraits/---75.jpg",
+    "src": "/portraits/optimized/portrait-622.webp",
     "file": "Montaigne-Dumonstier.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AMontaigne-Dumonstier.jpg",
     "artist": "anonymous",
@@ -352,7 +352,7 @@ const portraitCredits = {
   },
   "笛卡尔-77": {
     "id": "笛卡尔-77",
-    "src": "/portraits/----77.jpg",
+    "src": "/portraits/optimized/portrait-624.webp",
     "file": "Descartes; Portrait Wellcome L0005518.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3ADescartes%3B_Portrait_Wellcome_L0005518.jpg",
     "artist": "https://wellcomeimages.org/indexplus/obf_images/85/14/9e272801d3b6dc8c7ad72393bf54.jpg Gallery: https://wellcomeimages.org/indexplus/image/L0005518.html Wellcome Collection gallery (2018-03-29): https://wellcomecollection.org/works/smsqh9dy CC-BY-4.0",
@@ -361,7 +361,7 @@ const portraitCredits = {
   },
   "莱布尼茨-80": {
     "id": "莱布尼茨-80",
-    "src": "/portraits/-----80.jpg",
+    "src": "/portraits/optimized/portrait-627.webp",
     "file": "Gottfried Wilhelm Leibniz c1700.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AGottfried_Wilhelm_Leibniz_c1700.jpg",
     "artist": "Johann Friedrich Wentzel",
@@ -370,7 +370,7 @@ const portraitCredits = {
   },
   "康德-81": {
     "id": "康德-81",
-    "src": "/portraits/---81.jpg",
+    "src": "/portraits/optimized/portrait-628.webp",
     "file": "Immanuel Kant (portrait).jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AImmanuel_Kant_(portrait).jpg",
     "artist": "J. L. Raab, after a painting by Döbler",
@@ -379,7 +379,7 @@ const portraitCredits = {
   },
   "伏尔泰-83": {
     "id": "伏尔泰-83",
-    "src": "/portraits/----83.jpg",
+    "src": "/portraits/optimized/portrait-630.webp",
     "file": "Atelier de Nicolas de Largillière, portrait de Voltaire, détail (musée Carnavalet) -002.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AAtelier_de_Nicolas_de_Largilli%C3%A8re%2C_portrait_de_Voltaire%2C_d%C3%A9tail_(mus%C3%A9e_Carnavalet)_-002.jpg",
     "artist": "Nicolas de Largillière",
@@ -388,7 +388,7 @@ const portraitCredits = {
   },
   "亚当斯密-84": {
     "id": "亚当斯密-84",
-    "src": "/portraits/-----84.jpg",
+    "src": "/portraits/optimized/portrait-631.webp",
     "file": "Adam_Smith_The_Muir_portrait_(cropped_2).jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AAdam_Smith_The_Muir_portrait_(cropped_2).jpg",
     "artist": "Unknown author Unknown author",
@@ -397,7 +397,7 @@ const portraitCredits = {
   },
   "叔本华-86": {
     "id": "叔本华-86",
-    "src": "/portraits/----86.jpeg",
+    "src": "/portraits/optimized/portrait-633.webp",
     "file": "Arthur Schopenhauer Portrait by Ludwig Sigismund Ruhl 1815.jpeg",
     "page": "https://commons.wikimedia.org/wiki/File%3AArthur_Schopenhauer_Portrait_by_Ludwig_Sigismund_Ruhl_1815.jpeg",
     "artist": "Ludwig Sigismund Ruhl",
@@ -406,7 +406,7 @@ const portraitCredits = {
   },
   "黑格尔-85": {
     "id": "黑格尔-85",
-    "src": "/portraits/----85.jpg",
+    "src": "/portraits/optimized/portrait-632.webp",
     "file": "Americana 1920 Hegel Georg Wilhelm Friedrich.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AAmericana_1920_Hegel_Georg_Wilhelm_Friedrich.jpg",
     "artist": "unknown author",
@@ -415,7 +415,7 @@ const portraitCredits = {
   },
   "马克思-88": {
     "id": "马克思-88",
-    "src": "/portraits/----88.jpg",
+    "src": "/portraits/optimized/portrait-635.webp",
     "file": "Karl Marx.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AKarl_Marx.jpg",
     "artist": "John Jabez Edwin Mayall",
@@ -424,7 +424,7 @@ const portraitCredits = {
   },
   "托尔斯泰-90": {
     "id": "托尔斯泰-90",
-    "src": "/portraits/-----90.jpg",
+    "src": "/portraits/optimized/portrait-637.webp",
     "file": "Leo Tolstoy, portrait.ws.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3ALeo_Tolstoy%2C_portrait.ws.jpg",
     "artist": "Unknown author Unknown author",
@@ -433,7 +433,7 @@ const portraitCredits = {
   },
   "甘地-91": {
     "id": "甘地-91",
-    "src": "/portraits/---91.jpg",
+    "src": "/portraits/optimized/portrait-638.webp",
     "file": "Mahatma Gandhi, close-up portrait.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AMahatma_Gandhi%2C_close-up_portrait.jpg",
     "artist": "Unknown author Unknown author",
@@ -442,7 +442,7 @@ const portraitCredits = {
   },
   "荣格-92": {
     "id": "荣格-92",
-    "src": "/portraits/---92.jpg",
+    "src": "/portraits/optimized/portrait-639.webp",
     "file": "Carl Gustav Jung portrait.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3ACarl_Gustav_Jung_portrait.jpg",
     "artist": "Unknown author Unknown author",
@@ -451,7 +451,7 @@ const portraitCredits = {
   },
   "cn-curated-1": {
     "id": "cn-curated-1",
-    "src": "/portraits/cn-curated-1.jpg",
+    "src": "/portraits/optimized/portrait-6.webp",
     "file": "华祖立_玄门十子图_(庚桑楚).jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E5%8D%8E%E7%A5%96%E7%AB%8B_%E7%8E%84%E9%97%A8%E5%8D%81%E5%AD%90%E5%9B%BE_(%E5%BA%9A%E6%A1%91%E6%A5%9A).jpg",
     "artist": "Hua Zuli / Wu Bing",
@@ -460,7 +460,7 @@ const portraitCredits = {
   },
   "cn-curated-5": {
     "id": "cn-curated-5",
-    "src": "/portraits/cn-curated-5.jpg",
+    "src": "/portraits/optimized/portrait-10.webp",
     "file": "Cangjie2.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3ACangjie2.jpg",
     "artist": "Unknown author Unknown author",
@@ -469,7 +469,7 @@ const portraitCredits = {
   },
   "cn-curated-14": {
     "id": "cn-curated-14",
-    "src": "/portraits/cn-curated-14.jpg",
+    "src": "/portraits/optimized/portrait-19.webp",
     "file": "Shutong_li.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AShutong_li.jpg",
     "artist": "Unknown author Unknown author",
@@ -478,7 +478,7 @@ const portraitCredits = {
   },
   "cn-curated-13": {
     "id": "cn-curated-13",
-    "src": "/portraits/cn-curated-13.jpg",
+    "src": "/portraits/optimized/portrait-18.webp",
     "file": "丘處機.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E4%B8%98%E8%99%95%E6%A9%9F.jpg",
     "artist": "Unknown author Unknown author",
@@ -487,7 +487,7 @@ const portraitCredits = {
   },
   "cn-curated-12": {
     "id": "cn-curated-12",
-    "src": "/portraits/cn-curated-12.jpg",
+    "src": "/portraits/optimized/portrait-17.webp",
     "file": "Wang Chongyang.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AWang_Chongyang.jpg",
     "artist": "Phoenix Darshan",
@@ -496,7 +496,7 @@ const portraitCredits = {
   },
   "cn-curated-16": {
     "id": "cn-curated-16",
-    "src": "/portraits/cn-curated-16.jpg",
+    "src": "/portraits/optimized/portrait-21.webp",
     "file": "Tseng_Kwo-Fan.tif",
     "page": "https://commons.wikimedia.org/wiki/File%3ATseng_Kwo-Fan.tif",
     "artist": "Unknown author Unknown author",
@@ -505,7 +505,7 @@ const portraitCredits = {
   },
   "司马迁-10": {
     "id": "司马迁-10",
-    "src": "/portraits/----10.jpg",
+    "src": "/portraits/optimized/portrait-36.webp",
     "file": "Si maqian.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3ASi_maqian.jpg",
     "artist": "scan from 《社会历史博物馆》 ISBN 7-5347-1397-8",
@@ -514,7 +514,7 @@ const portraitCredits = {
   },
   "玄奘-14": {
     "id": "玄奘-14",
-    "src": "/portraits/---14.jpg",
+    "src": "/portraits/optimized/portrait-40.webp",
     "file": "玄奘三蔵像-Portrait of Xuanzang (Genjō) with Attendant MET 29 160 29 O2 sf.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E7%8E%84%E5%A5%98%E4%B8%89%E8%94%B5%E5%83%8F-Portrait_of_Xuanzang_(Genj%C5%8D)_with_Attendant_MET_29_160_29_O2_sf.jpg",
     "artist": "Creator:Kasuga Motomitsu",
@@ -523,7 +523,7 @@ const portraitCredits = {
   },
   "苏轼-17": {
     "id": "苏轼-17",
-    "src": "/portraits/---17.jpg",
+    "src": "/portraits/optimized/portrait-43.webp",
     "file": "SuShi-Portrait.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3ASuShi-Portrait.jpg",
     "artist": "Unknown author Unknown author",
@@ -532,7 +532,7 @@ const portraitCredits = {
   },
   "顾炎武-27": {
     "id": "顾炎武-27",
-    "src": "/portraits/----27.jpg",
+    "src": "/portraits/optimized/portrait-53.webp",
     "file": "Gu_yanwu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AGu_yanwu.jpg",
     "artist": "葉衍蘭輯，黃小泉摹繪，",
@@ -541,7 +541,7 @@ const portraitCredits = {
   },
   "程颢-19": {
     "id": "程颢-19",
-    "src": "/portraits/---19.jpg",
+    "src": "/portraits/optimized/portrait-45.webp",
     "file": "Cheng Hao.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3ACheng_Hao.jpg",
     "artist": "?",
@@ -550,7 +550,7 @@ const portraitCredits = {
   },
   "唐君毅-29": {
     "id": "唐君毅-29",
-    "src": "/portraits/----29.jpg",
+    "src": "/portraits/optimized/portrait-55.webp",
     "file": "Tang_Chun-i_-_New_Asia_College_and_Yale-China_Association_Cooperation_1954_(cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3ATang_Chun-i_-_New_Asia_College_and_Yale-China_Association_Cooperation_1954_(cropped).jpg",
     "artist": "Unknown author Unknown author",
@@ -559,7 +559,7 @@ const portraitCredits = {
   },
   "卢梭-82": {
     "id": "卢梭-82",
-    "src": "/portraits/---82.jpg",
+    "src": "/portraits/optimized/portrait-629.webp",
     "file": "Jean-Jacques Rousseau (painted portrait).jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AJean-Jacques_Rousseau_(painted_portrait).jpg",
     "artist": "Maurice Quentin de La Tour",
@@ -568,7 +568,7 @@ const portraitCredits = {
   },
   "zhuangzi": {
     "id": "zhuangzi",
-    "src": "/portraits/zhuangzi.jpg",
+    "src": "/portraits/optimized/portrait-1.webp",
     "file": "玄門十子圖_莊子.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E7%8E%84%E9%96%80%E5%8D%81%E5%AD%90%E5%9C%96_%E8%8E%8A%E5%AD%90.jpg",
     "artist": "Hua Zili (華祖立)",
@@ -577,7 +577,7 @@ const portraitCredits = {
   },
   "cn-curated-6": {
     "id": "cn-curated-6",
-    "src": "/portraits/cn-curated-6.jpg",
+    "src": "/portraits/optimized/portrait-11.webp",
     "file": "Yu, the Great.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AYu%2C_the_Great.jpg",
     "artist": "Johan Hausen (Purple Cloud Institute)",
@@ -586,7 +586,7 @@ const portraitCredits = {
   },
   "cn-curated-10": {
     "id": "cn-curated-10",
-    "src": "/portraits/cn-curated-10.png",
+    "src": "/portraits/optimized/portrait-15.webp",
     "file": "Ge Hong Woodcut Portrait.png",
     "page": "https://commons.wikimedia.org/wiki/File%3AGe_Hong_Woodcut_Portrait.png",
     "artist": "Itstartswithanerveblock",
@@ -595,7 +595,7 @@ const portraitCredits = {
   },
   "cn-curated-4": {
     "id": "cn-curated-4",
-    "src": "/portraits/cn-curated-4.jpg",
+    "src": "/portraits/optimized/portrait-9.webp",
     "file": "Guanyin, Monkeys, and Crane.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AGuanyin%2C_Monkeys%2C_and_Crane.jpg",
     "artist": "Muqi",
@@ -604,7 +604,7 @@ const portraitCredits = {
   },
   "socrates": {
     "id": "socrates",
-    "src": "/portraits/socrates.jpg",
+    "src": "/portraits/optimized/portrait-601.webp",
     "file": "Portrait of Socrates, B. Barloccini.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3APortrait_of_Socrates%2C_B._Barloccini.jpg",
     "artist": "B. Barloccini",
@@ -613,7 +613,7 @@ const portraitCredits = {
   },
   "marcus": {
     "id": "marcus",
-    "src": "/portraits/marcus.jpg",
+    "src": "/portraits/optimized/portrait-604.webp",
     "file": "Marcus Aurelius Louvre MR561 n02.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AMarcus_Aurelius_Louvre_MR561_n02.jpg",
     "artist": "Marie-Lan Nguyen (2011)",
@@ -622,7 +622,7 @@ const portraitCredits = {
   },
   "plato": {
     "id": "plato",
-    "src": "/portraits/plato.jpg",
+    "src": "/portraits/optimized/portrait-602.webp",
     "file": "Plato Silanion Musei Capitolini MC1377.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3APlato_Silanion_Musei_Capitolini_MC1377.jpg",
     "artist": "Marie-Lan Nguyen",
@@ -631,7 +631,7 @@ const portraitCredits = {
   },
   "jesus": {
     "id": "jesus",
-    "src": "/portraits/jesus.jpg",
+    "src": "/portraits/optimized/portrait-605.webp",
     "file": "Vladimir Makovsky — Portrait of Jesus Christ (1891).jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AVladimir_Makovsky_%E2%80%94_Portrait_of_Jesus_Christ_(1891).jpg",
     "artist": "Vladimir Makovsky",
@@ -640,7 +640,7 @@ const portraitCredits = {
   },
   "nietzsche": {
     "id": "nietzsche",
-    "src": "/portraits/nietzsche.jpg",
+    "src": "/portraits/optimized/portrait-606.webp",
     "file": "Friedrich Nietzsche drawn by Hans Olde.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AFriedrich_Nietzsche_drawn_by_Hans_Olde.jpg",
     "artist": "Hans Olde",
@@ -649,7 +649,7 @@ const portraitCredits = {
   },
   "塞涅卡-65": {
     "id": "塞涅卡-65",
-    "src": "/portraits/----65.jpg",
+    "src": "/portraits/optimized/portrait-612.webp",
     "file": "Ny Carlsberg Glyptothek - Doppelherme Seneca.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3ANy_Carlsberg_Glyptothek_-_Doppelherme_Seneca.jpg",
     "artist": "Wolfgang Sauber",
@@ -658,7 +658,7 @@ const portraitCredits = {
   },
   "毕达哥拉斯-60": {
     "id": "毕达哥拉斯-60",
-    "src": "/portraits/------60.jpg",
+    "src": "/portraits/optimized/portrait-607.webp",
     "file": "Pythagoras. Line engraving by B. Barloccini after C. C. Perk Wellcome V0004820.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3APythagoras._Line_engraving_by_B._Barloccini_after_C._C._Perk_Wellcome_V0004820.jpg",
     "artist": "https://wellcomeimages.org/indexplus/obf_images/f0/9d/e7ddf49e5245fd1590657496bcde.jpg Gallery: https://wellcomeimages.org/indexplus/image/V0004820.html Wellcome Collection gallery (2018-04-01): https://wellcomecollection.org/works/jpuw5s9w CC-BY-4.0",
@@ -667,7 +667,7 @@ const portraitCredits = {
   },
   "伊壁鸠鲁-63": {
     "id": "伊壁鸠鲁-63",
-    "src": "/portraits/-----63.jpg",
+    "src": "/portraits/optimized/portrait-610.webp",
     "file": "Epicurus. Line engraving by F. Copparoli after N. Vanni. Wellcome V0001777.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AEpicurus._Line_engraving_by_F._Copparoli_after_N._Vanni._Wellcome_V0001777.jpg",
     "artist": "F. Copparoli after N. Vanni.",
@@ -676,7 +676,7 @@ const portraitCredits = {
   },
   "但丁-71": {
     "id": "但丁-71",
-    "src": "/portraits/---71.jpg",
+    "src": "/portraits/optimized/portrait-618.webp",
     "file": "15th-century painters - Portrait of Dante Alighieri - WGA15992.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3A15th-century_painters_-_Portrait_of_Dante_Alighieri_-_WGA15992.jpg",
     "artist": "Unknown Miniaturist, Italian (active 1440s in Florence)",
@@ -685,7 +685,7 @@ const portraitCredits = {
   },
   "普罗提诺-66": {
     "id": "普罗提诺-66",
-    "src": "/portraits/-----66.jpg",
+    "src": "/portraits/optimized/portrait-613.webp",
     "file": "Paolo_Monti_-_Servizio_fotografico_(Roma,_1969)_-_BEIC_6353762.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3APaolo_Monti_-_Servizio_fotografico_(Roma%2C_1969)_-_BEIC_6353762.jpg",
     "artist": "Paolo Monti",
@@ -694,7 +694,7 @@ const portraitCredits = {
   },
   "培根-76": {
     "id": "培根-76",
-    "src": "/portraits/---76.jpg",
+    "src": "/portraits/optimized/portrait-623.webp",
     "file": "Francis Bacon, Viscount St Alban from NPG (2).jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AFrancis_Bacon%2C_Viscount_St_Alban_from_NPG_(2).jpg",
     "artist": "John Vanderbank",
@@ -703,7 +703,7 @@ const portraitCredits = {
   },
   "洛克-79": {
     "id": "洛克-79",
-    "src": "/portraits/---79.jpg",
+    "src": "/portraits/optimized/portrait-626.webp",
     "file": "Portrait of John Locke (4673782).jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3APortrait_of_John_Locke_(4673782).jpg",
     "artist": "Pierre-Alexandre Aveline",
@@ -712,7 +712,7 @@ const portraitCredits = {
   },
   "laozi": {
     "id": "laozi",
-    "src": "/portraits/laozi-gutenberg.jpg",
+    "src": "/portraits/optimized/portrait-0.webp",
     "file": "Lao_Tzu_-_Project_Gutenberg_eText_15250.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Lao_Tzu_-_Project_Gutenberg_eText_15250.jpg",
     "artist": "Unknown author; 1922 Project Gutenberg illustration",
@@ -721,7 +721,7 @@ const portraitCredits = {
   },
   "wangyangming": {
     "id": "wangyangming",
-    "src": "/portraits/wangyangming.jpg",
+    "src": "/portraits/optimized/portrait-2.webp",
     "file": "蔡世新 王阳明肖像轴 (cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%94%A1%E4%B8%96%E6%96%B0_%E7%8E%8B%E9%98%B3%E6%98%8E%E8%82%96%E5%83%8F%E8%BD%B4_(cropped).jpg",
     "artist": "Cai Shixin",
@@ -730,7 +730,7 @@ const portraitCredits = {
   },
   "荀子-2": {
     "id": "荀子-2",
-    "src": "/portraits/荀子-2.jpg",
+    "src": "/portraits/optimized/portrait-28.webp",
     "file": "Portrait of Xun Zi.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Xun_Zi.jpg",
     "artist": "Unknown author Unknown author",
@@ -739,7 +739,7 @@ const portraitCredits = {
   },
   "孙子-5": {
     "id": "孙子-5",
-    "src": "/portraits/孙子-5.jpg",
+    "src": "/portraits/optimized/portrait-31.webp",
     "file": "吴司马孙武.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%90%B4%E5%8F%B8%E9%A9%AC%E5%AD%99%E6%AD%A6.jpg",
     "artist": "Unknown author Unknown author",
@@ -748,7 +748,7 @@ const portraitCredits = {
   },
   "慧能-13": {
     "id": "慧能-13",
-    "src": "/portraits/慧能-13.jpg",
+    "src": "/portraits/optimized/portrait-39.webp",
     "file": "Unkoku Tōeki 雲谷等益 - Huineng, the Sixth Patriarch of Zen, with Geese and Myna - 2021.398.14a–c - Metropolitan Museum of Art.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Unkoku_T%C5%8Deki_%E9%9B%B2%E8%B0%B7%E7%AD%89%E7%9B%8A_-_Huineng,_the_Sixth_Patriarch_of_Zen,_with_Geese_and_Myna_-_2021.398.14a%E2%80%93c_-_Metropolitan_Museum_of_Art.jpg",
     "artist": "Unkoku Tōeki",
@@ -757,7 +757,7 @@ const portraitCredits = {
   },
   "陆九渊-22": {
     "id": "陆九渊-22",
-    "src": "/portraits/陆九渊-22.jpg",
+    "src": "/portraits/optimized/portrait-48.webp",
     "file": "陸九淵.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E9%99%B8%E4%B9%9D%E6%B7%B5.jpg",
     "artist": "Unknown author Unknown author",
@@ -766,7 +766,7 @@ const portraitCredits = {
   },
   "克尔凯郭尔-87": {
     "id": "克尔凯郭尔-87",
-    "src": "/portraits/克尔凯郭尔-87.jpg",
+    "src": "/portraits/optimized/portrait-634.webp",
     "file": "Kierkegaard portrait.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Kierkegaard_portrait.jpg",
     "artist": "Luplau Janssen",
@@ -775,7 +775,7 @@ const portraitCredits = {
   },
   "第欧根尼-64": {
     "id": "第欧根尼-64",
-    "src": "/portraits/第欧根尼-64.jpg",
+    "src": "/portraits/optimized/portrait-611.webp",
     "file": "Diogenes, bust-length, and turned to the right, holding a lantern MET DP836615.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Diogenes,_bust-length,_and_turned_to_the_right,_holding_a_lantern_MET_DP836615.jpg",
     "artist": "Pierre-François Basan / After Jusepe de Ribera",
@@ -784,7 +784,7 @@ const portraitCredits = {
   },
   "斯宾诺莎-78": {
     "id": "斯宾诺莎-78",
-    "src": "/portraits/斯宾诺莎-78.jpg",
+    "src": "/portraits/optimized/portrait-625.webp",
     "file": "Spinoza.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Spinoza.jpg",
     "artist": "anonymous",
@@ -793,7 +793,7 @@ const portraitCredits = {
   },
   "列子-7": {
     "id": "列子-7",
-    "src": "/portraits/列子-7.jpg",
+    "src": "/portraits/optimized/portrait-33.webp",
     "file": "列子図襖-The Daoist Immortal Liezi MET DT6105.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%88%97%E5%AD%90%E5%9B%B3%E8%A5%96-The_Daoist_Immortal_Liezi_MET_DT6105.jpg",
     "artist": "Creator:Kano School",
@@ -802,7 +802,7 @@ const portraitCredits = {
   },
   "cn-curated-3": {
     "id": "cn-curated-3",
-    "src": "/portraits/cn-curated-3.jpg",
+    "src": "/portraits/optimized/portrait-8.webp",
     "file": "云南甲马-文昌帝君.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E4%BA%91%E5%8D%97%E7%94%B2%E9%A9%AC-%E6%96%87%E6%98%8C%E5%B8%9D%E5%90%9B.jpg",
     "artist": "Pygathrix",
@@ -811,34 +811,16 @@ const portraitCredits = {
   },
   "cn-curated-11": {
     "id": "cn-curated-11",
-    "src": "/portraits/cn-curated-11.jpg",
+    "src": "/portraits/optimized/portrait-16.webp",
     "file": "Statue of Zhang Sanfeng.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Statue_of_Zhang_Sanfeng.jpg",
     "artist": "Nightyday",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
   },
-  "老子骑牛-34": {
-    "id": "老子骑牛-34",
-    "src": "/portraits/老子骑牛-34.jpg",
-    "file": "Zhang Lu-Laozi Riding an Ox.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Zhang_Lu-Laozi_Riding_an_Ox.jpg",
-    "artist": "Zhang Lu",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
-  "妈祖-35": {
-    "id": "妈祖-35",
-    "src": "/portraits/妈祖-35.jpg",
-    "file": "Mazu.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Mazu.jpg",
-    "artist": "Jet.Xu",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
-  },
   "张载-33": {
     "id": "张载-33",
-    "src": "/portraits/张载-33.jpg",
+    "src": "/portraits/optimized/portrait-59.webp",
     "file": "至聖先賢半身像 冊-115-張載.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%87%B3%E8%81%96%E5%85%88%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A-115-%E5%BC%B5%E8%BC%89.jpg",
     "artist": "Anonymous Unknown author",
@@ -847,7 +829,7 @@ const portraitCredits = {
   },
   "陀思妥耶夫斯基-89": {
     "id": "陀思妥耶夫斯基-89",
-    "src": "/portraits/陀思妥耶夫斯基-89.jpg",
+    "src": "/portraits/optimized/portrait-636.webp",
     "file": "Dostoevsky 1872.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Dostoevsky_1872.jpg",
     "artist": "Unknown author Unknown author",
@@ -856,7 +838,7 @@ const portraitCredits = {
   },
   "辛弃疾-23": {
     "id": "辛弃疾-23",
-    "src": "/portraits/辛弃疾-23.jpg",
+    "src": "/portraits/optimized/portrait-49.webp",
     "file": "The statue of Xin Qiji.JPG",
     "page": "https://commons.wikimedia.org/wiki/File:The_statue_of_Xin_Qiji.JPG",
     "artist": "Huangdan2060",
@@ -865,7 +847,7 @@ const portraitCredits = {
   },
   "legacy-cn-3-有巢": {
     "id": "legacy-cn-3-有巢",
-    "src": "/portraits/roster-63.jpg",
+    "src": "/portraits/optimized/portrait-63.webp",
     "file": "有巢氏搆木為巢（廿一史通俗衍義）.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%9C%89%E5%B7%A2%E6%B0%8F%E6%90%86%E6%9C%A8%E7%82%BA%E5%B7%A2%EF%BC%88%E5%BB%BF%E4%B8%80%E5%8F%B2%E9%80%9A%E4%BF%97%E8%A1%8D%E7%BE%A9%EF%BC%89.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9C%89%E5%B7%A2%E6%B0%8F",
@@ -875,7 +857,7 @@ const portraitCredits = {
   },
   "legacy-cn-1-神农": {
     "id": "legacy-cn-1-神农",
-    "src": "/portraits/roster-61.jpg",
+    "src": "/portraits/optimized/portrait-61.webp",
     "file": "Shennong2.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Shennong2.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%A5%9E%E5%86%9C",
@@ -885,7 +867,7 @@ const portraitCredits = {
   },
   "legacy-cn-2-燧人": {
     "id": "legacy-cn-2-燧人",
-    "src": "/portraits/roster-62.jpg",
+    "src": "/portraits/optimized/portrait-62.webp",
     "file": "燧人氏鑚木取火（廿一史通俗衍義）.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E7%87%A7%E4%BA%BA%E6%B0%8F%E9%91%9A%E6%9C%A8%E5%8F%96%E7%81%AB%EF%BC%88%E5%BB%BF%E4%B8%80%E5%8F%B2%E9%80%9A%E4%BF%97%E8%A1%8D%E7%BE%A9%EF%BC%89.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%87%A7%E4%BA%BA%E6%B0%8F",
@@ -895,7 +877,7 @@ const portraitCredits = {
   },
   "legacy-cn-5-祝融": {
     "id": "legacy-cn-5-祝融",
-    "src": "/portraits/roster-65.jpg",
+    "src": "/portraits/optimized/portrait-65.webp",
     "file": "Zhurong01.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Zhurong01.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%A5%9D%E8%9E%8D",
@@ -905,7 +887,7 @@ const portraitCredits = {
   },
   "legacy-cn-11-舜": {
     "id": "legacy-cn-11-舜",
-    "src": "/portraits/roster-71.jpg",
+    "src": "/portraits/optimized/portrait-71.webp",
     "file": "EmperorShun.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:EmperorShun.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%88%9C",
@@ -915,7 +897,7 @@ const portraitCredits = {
   },
   "legacy-cn-8-颛顼": {
     "id": "legacy-cn-8-颛顼",
-    "src": "/portraits/roster-68.jpg",
+    "src": "/portraits/optimized/portrait-68.webp",
     "file": "EmperorZhuanxu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:EmperorZhuanxu.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%A2%9B%E9%A1%BC",
@@ -925,7 +907,7 @@ const portraitCredits = {
   },
   "legacy-cn-17-夔": {
     "id": "legacy-cn-17-夔",
-    "src": "/portraits/roster-77.jpg",
+    "src": "/portraits/optimized/portrait-77.webp",
     "file": "Wu-Renchen-Shanhai-jing-guangzhu-Kui.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Wu-Renchen-Shanhai-jing-guangzhu-Kui.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%A4%94",
@@ -935,7 +917,7 @@ const portraitCredits = {
   },
   "legacy-cn-25-刑天": {
     "id": "legacy-cn-25-刑天",
-    "src": "/portraits/roster-85.jpg",
+    "src": "/portraits/optimized/portrait-85.webp",
     "file": "Xingtian.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Xingtian.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%88%91%E5%A4%A9",
@@ -945,7 +927,7 @@ const portraitCredits = {
   },
   "legacy-cn-13-伯益": {
     "id": "legacy-cn-13-伯益",
-    "src": "/portraits/roster-73.png",
+    "src": "/portraits/optimized/portrait-73.webp",
     "file": "伯益像.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E4%BC%AF%E7%9B%8A%E5%83%8F.png",
     "article": "https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%9B%8A",
@@ -955,7 +937,7 @@ const portraitCredits = {
   },
   "legacy-cn-28-嫦娥": {
     "id": "legacy-cn-28-嫦娥",
-    "src": "/portraits/roster-88.png",
+    "src": "/portraits/optimized/portrait-88.webp",
     "file": "嫦娥奔月.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%AB%A6%E5%A8%A5%E5%A5%94%E6%9C%88.png",
     "article": "https://zh.wikipedia.org/wiki/%E5%AB%A6%E5%A8%A5",
@@ -965,7 +947,7 @@ const portraitCredits = {
   },
   "legacy-cn-16-皋陶": {
     "id": "legacy-cn-16-皋陶",
-    "src": "/portraits/roster-76.jpg",
+    "src": "/portraits/optimized/portrait-76.webp",
     "file": "皋陶.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E7%9A%8B%E9%99%B6.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%9A%8B%E9%99%B6",
@@ -975,7 +957,7 @@ const portraitCredits = {
   },
   "legacy-cn-38-盘古": {
     "id": "legacy-cn-38-盘古",
-    "src": "/portraits/roster-98.jpg",
+    "src": "/portraits/optimized/portrait-98.webp",
     "file": "Pangu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Pangu.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%9B%98%E5%8F%A4",
@@ -985,7 +967,7 @@ const portraitCredits = {
   },
   "legacy-cn-41-蓐收": {
     "id": "legacy-cn-41-蓐收",
-    "src": "/portraits/roster-101.png",
+    "src": "/portraits/optimized/portrait-101.webp",
     "file": "海外西經-蓐收.svg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%B5%B7%E5%A4%96%E8%A5%BF%E7%B6%93-%E8%93%90%E6%94%B6.svg",
     "article": "https://zh.wikipedia.org/wiki/%E8%93%90%E6%94%B6",
@@ -995,7 +977,7 @@ const portraitCredits = {
   },
   "legacy-cn-40-句芒": {
     "id": "legacy-cn-40-句芒",
-    "src": "/portraits/roster-100.jpg",
+    "src": "/portraits/optimized/portrait-100.webp",
     "file": "Goumang.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Goumang.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8F%A5%E8%8A%92",
@@ -1005,7 +987,7 @@ const portraitCredits = {
   },
   "legacy-cn-47-王子乔": {
     "id": "legacy-cn-47-王子乔",
-    "src": "/portraits/roster-107.jpg",
+    "src": "/portraits/optimized/portrait-107.webp",
     "file": "太子晉.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E5%AD%90%E6%99%89.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%AD%90%E6%99%8B",
@@ -1015,7 +997,7 @@ const portraitCredits = {
   },
   "legacy-cn-43-玄女": {
     "id": "legacy-cn-43-玄女",
-    "src": "/portraits/roster-103.jpg",
+    "src": "/portraits/optimized/portrait-103.webp",
     "file": "Ninen.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ninen.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%B9%9D%E5%A4%A9%E7%8E%84%E5%A5%B3",
@@ -1025,7 +1007,7 @@ const portraitCredits = {
   },
   "legacy-cn-42-后土": {
     "id": "legacy-cn-42-后土",
-    "src": "/portraits/roster-102.jpg",
+    "src": "/portraits/optimized/portrait-102.webp",
     "file": "后土皇地祗.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%90%8E%E5%9C%9F%E7%9A%87%E5%9C%B0%E7%A5%97.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%90%8E%E5%9C%9F",
@@ -1035,7 +1017,7 @@ const portraitCredits = {
   },
   "legacy-cn-55-重黎": {
     "id": "legacy-cn-55-重黎",
-    "src": "/portraits/roster-115.jpg",
+    "src": "/portraits/optimized/portrait-115.webp",
     "file": "Zhurong01.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Zhurong01.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%A5%9D%E8%9E%8D",
@@ -1045,7 +1027,7 @@ const portraitCredits = {
   },
   "legacy-cn-68-仲雍": {
     "id": "legacy-cn-68-仲雍",
-    "src": "/portraits/roster-128.jpg",
+    "src": "/portraits/optimized/portrait-128.webp",
     "file": "仲雍.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E4%BB%B2%E9%9B%8D.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BB%B2%E9%9B%8D",
@@ -1055,7 +1037,7 @@ const portraitCredits = {
   },
   "legacy-cn-73-子产": {
     "id": "legacy-cn-73-子产",
-    "src": "/portraits/roster-133.png",
+    "src": "/portraits/optimized/portrait-133.webp",
     "file": "Zichan.png",
     "page": "https://commons.wikimedia.org/wiki/File:Zichan.png",
     "article": "https://zh.wikipedia.org/wiki/%E5%AD%90%E4%BA%A7",
@@ -1065,7 +1047,7 @@ const portraitCredits = {
   },
   "legacy-cn-114-僧璨": {
     "id": "legacy-cn-114-僧璨",
-    "src": "/portraits/roster-174.jpg",
+    "src": "/portraits/optimized/portrait-174.webp",
     "file": "Sengcan.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Sengcan.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%83%A7%E7%92%A8",
@@ -1075,7 +1057,7 @@ const portraitCredits = {
   },
   "legacy-cn-77-范蠡": {
     "id": "legacy-cn-77-范蠡",
-    "src": "/portraits/roster-137.jpg",
+    "src": "/portraits/optimized/portrait-137.webp",
     "file": "Fanli.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Fanli.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%8C%83%E8%A0%A1",
@@ -1085,7 +1067,7 @@ const portraitCredits = {
   },
   "legacy-cn-80-申包胥": {
     "id": "legacy-cn-80-申包胥",
-    "src": "/portraits/roster-140.png",
+    "src": "/portraits/optimized/portrait-140.webp",
     "file": "泣秦庭申包胥借兵.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%B3%A3%E7%A7%A6%E5%BA%AD%E7%94%B3%E5%8C%85%E8%83%A5%E5%80%9F%E5%85%B5.png",
     "article": "https://zh.wikipedia.org/wiki/%E7%94%B3%E5%8C%85%E8%83%A5",
@@ -1095,7 +1077,7 @@ const portraitCredits = {
   },
   "legacy-cn-115-道信": {
     "id": "legacy-cn-115-道信",
-    "src": "/portraits/roster-175.jpg",
+    "src": "/portraits/optimized/portrait-175.webp",
     "file": "Daoxin.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Daoxin.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%81%93%E4%BF%A1",
@@ -1105,7 +1087,7 @@ const portraitCredits = {
   },
   "legacy-cn-116-弘忍": {
     "id": "legacy-cn-116-弘忍",
-    "src": "/portraits/roster-176.jpg",
+    "src": "/portraits/optimized/portrait-176.webp",
     "file": "Hongren.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Hongren.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%98%E5%BF%8D",
@@ -1115,7 +1097,7 @@ const portraitCredits = {
   },
   "legacy-cn-117-神秀": {
     "id": "legacy-cn-117-神秀",
-    "src": "/portraits/roster-177.jpg",
+    "src": "/portraits/optimized/portrait-177.webp",
     "file": "Shenxiu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Shenxiu.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%A5%9E%E7%A7%80",
@@ -1125,7 +1107,7 @@ const portraitCredits = {
   },
   "legacy-cn-124-临济义玄": {
     "id": "legacy-cn-124-临济义玄",
-    "src": "/portraits/roster-184.jpg",
+    "src": "/portraits/optimized/portrait-184.webp",
     "file": "RinzaiGigen.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:RinzaiGigen.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%B8%B4%E6%B5%8E%E4%B9%89%E7%8E%84",
@@ -1135,7 +1117,7 @@ const portraitCredits = {
   },
   "legacy-cn-120-青原行思": {
     "id": "legacy-cn-120-青原行思",
-    "src": "/portraits/roster-180.png",
+    "src": "/portraits/optimized/portrait-180.webp",
     "file": "禪-ouyang.svg",
     "page": "https://commons.wikimedia.org/wiki/File:%E7%A6%AA-ouyang.svg",
     "article": "https://zh.wikipedia.org/wiki/%E9%9D%92%E5%8E%9F%E8%A1%8C%E6%80%9D",
@@ -1145,7 +1127,7 @@ const portraitCredits = {
   },
   "legacy-cn-132-宏智正觉": {
     "id": "legacy-cn-132-宏智正觉",
-    "src": "/portraits/roster-192.png",
+    "src": "/portraits/optimized/portrait-192.webp",
     "file": "禪-ouyang.svg",
     "page": "https://commons.wikimedia.org/wiki/File:%E7%A6%AA-ouyang.svg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AE%8F%E6%99%BA%E6%AD%A3%E8%A6%BA",
@@ -1155,7 +1137,7 @@ const portraitCredits = {
   },
   "legacy-cn-134-紫柏真可": {
     "id": "legacy-cn-134-紫柏真可",
-    "src": "/portraits/roster-194.jpg",
+    "src": "/portraits/optimized/portrait-194.webp",
     "file": "ZiboZhenke1.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:ZiboZhenke1.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%B4%AB%E6%9F%8F%E7%9C%9F%E5%8F%AF",
@@ -1165,7 +1147,7 @@ const portraitCredits = {
   },
   "legacy-cn-133-莲池祩宏": {
     "id": "legacy-cn-133-莲池祩宏",
-    "src": "/portraits/roster-193.jpg",
+    "src": "/portraits/optimized/portrait-193.webp",
     "file": "蓮池袾宏.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%93%AE%E6%B1%A0%E8%A2%BE%E5%AE%8F.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%93%AE%E6%B1%A0%E7%A5%A9%E5%AE%8F",
@@ -1175,7 +1157,7 @@ const portraitCredits = {
   },
   "legacy-cn-136-藕益智旭": {
     "id": "legacy-cn-136-藕益智旭",
-    "src": "/portraits/roster-196.jpg",
+    "src": "/portraits/optimized/portrait-196.webp",
     "file": "OuyiZhixu3.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:OuyiZhixu3.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%95%85%E7%9B%8A%E6%99%BA%E6%97%AD",
@@ -1185,7 +1167,7 @@ const portraitCredits = {
   },
   "legacy-cn-151-宗密": {
     "id": "legacy-cn-151-宗密",
-    "src": "/portraits/roster-211.jpg",
+    "src": "/portraits/optimized/portrait-211.webp",
     "file": "Guifeng-Zongmi-286x300.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Guifeng-Zongmi-286x300.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%9C%AD%E5%B3%B0%E5%AE%97%E5%AF%86",
@@ -1195,7 +1177,7 @@ const portraitCredits = {
   },
   "legacy-cn-161-一遍": {
     "id": "legacy-cn-161-一遍",
-    "src": "/portraits/roster-221.jpg",
+    "src": "/portraits/optimized/portrait-221.webp",
     "file": "Ippen2.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ippen2.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%B8%80%E9%81%8D",
@@ -1205,7 +1187,7 @@ const portraitCredits = {
   },
   "legacy-cn-208-王文卿": {
     "id": "legacy-cn-208-王文卿",
-    "src": "/portraits/roster-268.jpg",
+    "src": "/portraits/optimized/portrait-268.webp",
     "file": "王侍宸（新刻出像增補搜神記）.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E7%8E%8B%E4%BE%8D%E5%AE%B8%EF%BC%88%E6%96%B0%E5%88%BB%E5%87%BA%E5%83%8F%E5%A2%9E%E8%A3%9C%E6%90%9C%E7%A5%9E%E8%A8%98%EF%BC%89.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%96%87%E5%8D%BF",
@@ -1215,7 +1197,7 @@ const portraitCredits = {
   },
   "legacy-cn-209-萨守坚": {
     "id": "legacy-cn-209-萨守坚",
-    "src": "/portraits/roster-269.jpg",
+    "src": "/portraits/optimized/portrait-269.webp",
     "file": "薩真人（新刻出像增補搜神記）.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%96%A9%E7%9C%9F%E4%BA%BA%EF%BC%88%E6%96%B0%E5%88%BB%E5%87%BA%E5%83%8F%E5%A2%9E%E8%A3%9C%E6%90%9C%E7%A5%9E%E8%A8%98%EF%BC%89.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%90%A8%E5%AE%88%E5%9D%9A",
@@ -1225,7 +1207,7 @@ const portraitCredits = {
   },
   "legacy-cn-205-林灵素": {
     "id": "legacy-cn-205-林灵素",
-    "src": "/portraits/roster-265.png",
+    "src": "/portraits/optimized/portrait-265.webp",
     "file": "林霊素.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%9E%97%E9%9C%8A%E7%B4%A0.png",
     "article": "https://zh.wikipedia.org/wiki/%E6%9E%97%E7%81%B5%E7%B4%A0",
@@ -1235,7 +1217,7 @@ const portraitCredits = {
   },
   "legacy-cn-210-王常月": {
     "id": "legacy-cn-210-王常月",
-    "src": "/portraits/roster-270.jpg",
+    "src": "/portraits/optimized/portrait-270.webp",
     "file": "WangChangyue.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:WangChangyue.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B8%B8%E6%9C%88",
@@ -1245,7 +1227,7 @@ const portraitCredits = {
   },
   "legacy-cn-270-叔向": {
     "id": "legacy-cn-270-叔向",
-    "src": "/portraits/roster-330.jpg",
+    "src": "/portraits/optimized/portrait-330.webp",
     "file": "顧愷之作列女仁智圖叔向母子部分.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E9%A1%A7%E6%84%B7%E4%B9%8B%E4%BD%9C%E5%88%97%E5%A5%B3%E4%BB%81%E6%99%BA%E5%9C%96%E5%8F%94%E5%90%91%E6%AF%8D%E5%AD%90%E9%83%A8%E5%88%86.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8F%94%E5%90%91",
@@ -1255,7 +1237,7 @@ const portraitCredits = {
   },
   "legacy-cn-314-向秀": {
     "id": "legacy-cn-314-向秀",
-    "src": "/portraits/roster-374.jpg",
+    "src": "/portraits/optimized/portrait-374.webp",
     "file": "向秀05519.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%90%91%E7%A7%8005519.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%90%91%E7%A7%80",
@@ -1265,7 +1247,7 @@ const portraitCredits = {
   },
   "legacy-cn-326-房玄龄": {
     "id": "legacy-cn-326-房玄龄",
-    "src": "/portraits/roster-386.jpg",
+    "src": "/portraits/optimized/portrait-386.webp",
     "file": "房玄龄.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%88%BF%E7%8E%84%E9%BE%84.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%88%BF%E7%8E%84%E9%BE%84",
@@ -1275,7 +1257,7 @@ const portraitCredits = {
   },
   "legacy-cn-323-杜预": {
     "id": "legacy-cn-323-杜预",
-    "src": "/portraits/roster-383.jpg",
+    "src": "/portraits/optimized/portrait-383.webp",
     "file": "晋征南将军杜预.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%99%8B%E5%BE%81%E5%8D%97%E5%B0%86%E5%86%9B%E6%9D%9C%E9%A2%84.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9D%9C%E9%A2%84",
@@ -1285,7 +1267,7 @@ const portraitCredits = {
   },
   "legacy-cn-327-杜如晦": {
     "id": "legacy-cn-327-杜如晦",
-    "src": "/portraits/roster-387.jpg",
+    "src": "/portraits/optimized/portrait-387.webp",
     "file": "杜如晦.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%9D%9C%E5%A6%82%E6%99%A6.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9D%9C%E5%A6%82%E6%99%A6",
@@ -1295,7 +1277,7 @@ const portraitCredits = {
   },
   "legacy-cn-328-魏征": {
     "id": "legacy-cn-328-魏征",
-    "src": "/portraits/roster-388.jpg",
+    "src": "/portraits/optimized/portrait-388.webp",
     "file": "魏徵.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E9%AD%8F%E5%BE%B5.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%AD%8F%E5%BE%B5",
@@ -1305,7 +1287,7 @@ const portraitCredits = {
   },
   "legacy-cn-330-狄仁杰": {
     "id": "legacy-cn-330-狄仁杰",
-    "src": "/portraits/roster-390.jpg",
+    "src": "/portraits/optimized/portrait-390.webp",
     "file": "狄仁杰.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E7%8B%84%E4%BB%81%E6%9D%B0.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8B%84%E4%BB%81%E6%9D%B0",
@@ -1315,7 +1297,7 @@ const portraitCredits = {
   },
   "legacy-cn-337-柳宗元": {
     "id": "legacy-cn-337-柳宗元",
-    "src": "/portraits/roster-397.jpg",
+    "src": "/portraits/optimized/portrait-397.webp",
     "file": "柳宗元肖像.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%9F%B3%E5%AE%97%E5%85%83%E8%82%96%E5%83%8F.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9F%B3%E5%AE%97%E5%85%83",
@@ -1325,7 +1307,7 @@ const portraitCredits = {
   },
   "legacy-cn-339-白居易": {
     "id": "legacy-cn-339-白居易",
-    "src": "/portraits/roster-399.jpg",
+    "src": "/portraits/optimized/portrait-399.webp",
     "file": "唐名臣像-21-白樂天.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%94%90%E5%90%8D%E8%87%A3%E5%83%8F-21-%E7%99%BD%E6%A8%82%E5%A4%A9.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%99%BD%E5%B1%85%E6%98%93",
@@ -1335,7 +1317,7 @@ const portraitCredits = {
   },
   "legacy-cn-342-裴度": {
     "id": "legacy-cn-342-裴度",
-    "src": "/portraits/roster-402.jpg",
+    "src": "/portraits/optimized/portrait-402.webp",
     "file": "唐裴晋国文忠公度.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%94%90%E8%A3%B4%E6%99%8B%E5%9B%BD%E6%96%87%E5%BF%A0%E5%85%AC%E5%BA%A6.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%A3%B4%E5%BA%A6",
@@ -1345,7 +1327,7 @@ const portraitCredits = {
   },
   "legacy-cn-345-欧阳修": {
     "id": "legacy-cn-345-欧阳修",
-    "src": "/portraits/roster-405.jpg",
+    "src": "/portraits/optimized/portrait-405.webp",
     "file": "宋参政欧阳文忠公修.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E5%8F%82%E6%94%BF%E6%AC%A7%E9%98%B3%E6%96%87%E5%BF%A0%E5%85%AC%E4%BF%AE.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%AC%A7%E9%98%B3%E4%BF%AE",
@@ -1355,7 +1337,7 @@ const portraitCredits = {
   },
   "legacy-cn-344-颜真卿": {
     "id": "legacy-cn-344-颜真卿",
-    "src": "/portraits/roster-404.png",
+    "src": "/portraits/optimized/portrait-404.webp",
     "file": "唐名臣像-13-顔魯公.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%94%90%E5%90%8D%E8%87%A3%E5%83%8F-13-%E9%A1%94%E9%AD%AF%E5%85%AC.png",
     "article": "https://zh.wikipedia.org/wiki/%E9%A2%9C%E7%9C%9F%E5%8D%BF",
@@ -1365,7 +1347,7 @@ const portraitCredits = {
   },
   "legacy-cn-346-王安石": {
     "id": "legacy-cn-346-王安石",
-    "src": "/portraits/roster-406.jpg",
+    "src": "/portraits/optimized/portrait-406.webp",
     "file": "歷代聖賢名人像-29-宋丞相王荆公安石.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%90%8D%E4%BA%BA%E5%83%8F-29-%E5%AE%8B%E4%B8%9E%E7%9B%B8%E7%8E%8B%E8%8D%86%E5%85%AC%E5%AE%89%E7%9F%B3.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%AE%89%E7%9F%B3",
@@ -1375,7 +1357,7 @@ const portraitCredits = {
   },
   "legacy-cn-349-苏辙": {
     "id": "legacy-cn-349-苏辙",
-    "src": "/portraits/roster-409.jpg",
+    "src": "/portraits/optimized/portrait-409.webp",
     "file": "宋门下侍郎苏文定公辙.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E9%97%A8%E4%B8%8B%E4%BE%8D%E9%83%8E%E8%8B%8F%E6%96%87%E5%AE%9A%E5%85%AC%E8%BE%99.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E8%BE%99",
@@ -1385,7 +1367,7 @@ const portraitCredits = {
   },
   "legacy-cn-350-苏洵": {
     "id": "legacy-cn-350-苏洵",
-    "src": "/portraits/roster-410.jpg",
+    "src": "/portraits/optimized/portrait-410.webp",
     "file": "宋太常编校苏洵.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E5%A4%AA%E5%B8%B8%E7%BC%96%E6%A0%A1%E8%8B%8F%E6%B4%B5.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E6%B4%B5",
@@ -1395,7 +1377,7 @@ const portraitCredits = {
   },
   "legacy-cn-351-黄庭坚": {
     "id": "legacy-cn-351-黄庭坚",
-    "src": "/portraits/roster-411.jpg",
+    "src": "/portraits/optimized/portrait-411.webp",
     "file": "黄庭坚.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E9%BB%84%E5%BA%AD%E5%9D%9A.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%BB%83%E5%BA%AD%E5%A0%85",
@@ -1405,7 +1387,7 @@ const portraitCredits = {
   },
   "legacy-cn-354-岳飞": {
     "id": "legacy-cn-354-岳飞",
-    "src": "/portraits/roster-414.jpg",
+    "src": "/portraits/optimized/portrait-414.webp",
     "file": "岳飛.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%B2%B3%E9%A3%9B.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B2%B3%E9%A3%9E",
@@ -1415,7 +1397,7 @@ const portraitCredits = {
   },
   "legacy-cn-356-陆秀夫": {
     "id": "legacy-cn-356-陆秀夫",
-    "src": "/portraits/roster-416.jpg",
+    "src": "/portraits/optimized/portrait-416.webp",
     "file": "陸秀夫.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E9%99%B8%E7%A7%80%E5%A4%AB.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%99%B8%E7%A7%80%E5%A4%AB",
@@ -1425,7 +1407,7 @@ const portraitCredits = {
   },
   "legacy-cn-357-张世杰": {
     "id": "legacy-cn-357-张世杰",
-    "src": "/portraits/roster-417.jpg",
+    "src": "/portraits/optimized/portrait-417.webp",
     "file": "張世傑-吳郡名賢圖傳贊.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%BC%B5%E4%B8%96%E5%82%91-%E5%90%B3%E9%83%A1%E5%90%8D%E8%B3%A2%E5%9C%96%E5%82%B3%E8%B4%8A.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E4%B8%96%E6%9D%B0",
@@ -1435,7 +1417,7 @@ const portraitCredits = {
   },
   "legacy-cn-358-赵普": {
     "id": "legacy-cn-358-赵普",
-    "src": "/portraits/roster-418.jpg",
+    "src": "/portraits/optimized/portrait-418.webp",
     "file": "宋丞相赵普.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E4%B8%9E%E7%9B%B8%E8%B5%B5%E6%99%AE.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%B5%B5%E6%99%AE",
@@ -1445,7 +1427,7 @@ const portraitCredits = {
   },
   "legacy-cn-361-陈亮": {
     "id": "legacy-cn-361-陈亮",
-    "src": "/portraits/roster-421.jpg",
+    "src": "/portraits/optimized/portrait-421.webp",
     "file": "陳亮.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E9%99%B3%E4%BA%AE.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%99%88%E4%BA%AE",
@@ -1455,7 +1437,7 @@ const portraitCredits = {
   },
   "legacy-cn-359-寇准": {
     "id": "legacy-cn-359-寇准",
-    "src": "/portraits/roster-419.jpg",
+    "src": "/portraits/optimized/portrait-419.webp",
     "file": "宋丞相寇莱公准.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E4%B8%9E%E7%9B%B8%E5%AF%87%E8%8E%B1%E5%85%AC%E5%87%86.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AF%87%E6%BA%96",
@@ -1465,7 +1447,7 @@ const portraitCredits = {
   },
   "legacy-cn-370-刘宗周": {
     "id": "legacy-cn-370-刘宗周",
-    "src": "/portraits/roster-430.jpg",
+    "src": "/portraits/optimized/portrait-430.webp",
     "file": "劉宗周像.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%8A%89%E5%AE%97%E5%91%A8%E5%83%8F.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8A%89%E5%AE%97%E5%91%A8",
@@ -1475,7 +1457,7 @@ const portraitCredits = {
   },
   "legacy-cn-369-罗洪先": {
     "id": "legacy-cn-369-罗洪先",
-    "src": "/portraits/roster-429.png",
+    "src": "/portraits/optimized/portrait-429.webp",
     "file": "羅洪先.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E7%BE%85%E6%B4%AA%E5%85%88.png",
     "article": "https://zh.wikipedia.org/wiki/%E7%BE%85%E6%B4%AA%E5%85%88",
@@ -1485,7 +1467,7 @@ const portraitCredits = {
   },
   "legacy-cn-380-张之洞": {
     "id": "legacy-cn-380-张之洞",
-    "src": "/portraits/roster-440.jpg",
+    "src": "/portraits/optimized/portrait-440.webp",
     "file": "張之洞朝服照.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%BC%B5%E4%B9%8B%E6%B4%9E%E6%9C%9D%E6%9C%8D%E7%85%A7.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E4%B9%8B%E6%B4%9E",
@@ -1495,7 +1477,7 @@ const portraitCredits = {
   },
   "legacy-cn-382-梁启超": {
     "id": "legacy-cn-382-梁启超",
-    "src": "/portraits/roster-442.jpg",
+    "src": "/portraits/optimized/portrait-442.webp",
     "file": "MinistroDeJusticiaLiangQichao.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:MinistroDeJusticiaLiangQichao.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%A2%81%E5%90%AF%E8%B6%85",
@@ -1505,7 +1487,7 @@ const portraitCredits = {
   },
   "legacy-cn-385-陈寅恪": {
     "id": "legacy-cn-385-陈寅恪",
-    "src": "/portraits/roster-445.jpg",
+    "src": "/portraits/optimized/portrait-445.webp",
     "file": "陈寅恪.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E9%99%88%E5%AF%85%E6%81%AA.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%99%88%E5%AF%85%E6%81%AA",
@@ -1515,7 +1497,7 @@ const portraitCredits = {
   },
   "legacy-cn-386-钱穆": {
     "id": "legacy-cn-386-钱穆",
-    "src": "/portraits/roster-446.jpg",
+    "src": "/portraits/optimized/portrait-446.webp",
     "file": "錢穆.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E9%8C%A2%E7%A9%86.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%8C%A2%E7%A9%86",
@@ -1525,7 +1507,7 @@ const portraitCredits = {
   },
   "legacy-cn-412-杜甫": {
     "id": "legacy-cn-412-杜甫",
-    "src": "/portraits/roster-472.jpg",
+    "src": "/portraits/optimized/portrait-472.webp",
     "file": "Dufu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Dufu.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9D%9C%E7%94%AB",
@@ -1535,7 +1517,7 @@ const portraitCredits = {
   },
   "legacy-cn-411-李白": {
     "id": "legacy-cn-411-李白",
-    "src": "/portraits/roster-471.jpg",
+    "src": "/portraits/optimized/portrait-471.webp",
     "file": "LiBai.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:LiBai.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E7%99%BD",
@@ -1545,7 +1527,7 @@ const portraitCredits = {
   },
   "legacy-cn-418-贺知章": {
     "id": "legacy-cn-418-贺知章",
-    "src": "/portraits/roster-478.png",
+    "src": "/portraits/optimized/portrait-478.webp",
     "file": "四明人鑑·唐祕書監禮部尚書賀公知章.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%9B%9B%E6%98%8E%E4%BA%BA%E9%91%91%C2%B7%E5%94%90%E7%A5%95%E6%9B%B8%E7%9B%A3%E7%A6%AE%E9%83%A8%E5%B0%9A%E6%9B%B8%E8%B3%80%E5%85%AC%E7%9F%A5%E7%AB%A0.png",
     "article": "https://zh.wikipedia.org/wiki/%E8%B4%BA%E7%9F%A5%E7%AB%A0",
@@ -1555,7 +1537,7 @@ const portraitCredits = {
   },
   "legacy-cn-426-柳永": {
     "id": "legacy-cn-426-柳永",
-    "src": "/portraits/roster-486.jpg",
+    "src": "/portraits/optimized/portrait-486.webp",
     "file": "柳永和歌妓大理石像.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%9F%B3%E6%B0%B8%E5%92%8C%E6%AD%8C%E5%A6%93%E5%A4%A7%E7%90%86%E7%9F%B3%E5%83%8F.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9F%B3%E6%B0%B8",
@@ -1565,7 +1547,7 @@ const portraitCredits = {
   },
   "legacy-cn-428-秦观": {
     "id": "legacy-cn-428-秦观",
-    "src": "/portraits/roster-488.jpg",
+    "src": "/portraits/optimized/portrait-488.webp",
     "file": "宋太史秦观.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E5%A4%AA%E5%8F%B2%E7%A7%A6%E8%A7%82.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%A7%A6%E8%A7%82",
@@ -1575,7 +1557,7 @@ const portraitCredits = {
   },
   "legacy-cn-430-李清照": {
     "id": "legacy-cn-430-李清照",
-    "src": "/portraits/roster-490.jpg",
+    "src": "/portraits/optimized/portrait-490.webp",
     "file": "李清照畫像.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%9D%8E%E6%B8%85%E7%85%A7%E7%95%AB%E5%83%8F.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%B8%85%E7%85%A7",
@@ -1585,7 +1567,7 @@ const portraitCredits = {
   },
   "legacy-cn-434-范成大": {
     "id": "legacy-cn-434-范成大",
-    "src": "/portraits/roster-494.jpg",
+    "src": "/portraits/optimized/portrait-494.webp",
     "file": "淳熙元年（1174）范成大棲霞洞《碧虛銘》.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%B7%B3%E7%86%99%E5%85%83%E5%B9%B4%EF%BC%881174%EF%BC%89%E8%8C%83%E6%88%90%E5%A4%A7%E6%A3%B2%E9%9C%9E%E6%B4%9E%E3%80%8A%E7%A2%A7%E8%99%9B%E9%8A%98%E3%80%8B.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%8C%83%E6%88%90%E5%A4%A7",
@@ -1595,7 +1577,7 @@ const portraitCredits = {
   },
   "legacy-cn-451-张大千": {
     "id": "legacy-cn-451-张大千",
-    "src": "/portraits/roster-511.jpg",
+    "src": "/portraits/optimized/portrait-511.webp",
     "file": "196710張大千.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:196710%E5%BC%B5%E5%A4%A7%E5%8D%83.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%B5%E5%A4%A7%E5%8D%83",
@@ -1605,7 +1587,7 @@ const portraitCredits = {
   },
   "legacy-cn-450-徐悲鸿": {
     "id": "legacy-cn-450-徐悲鸿",
-    "src": "/portraits/roster-510.jpg",
+    "src": "/portraits/optimized/portrait-510.webp",
     "file": "XuBeihong.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:XuBeihong.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BE%90%E6%82%B2%E9%B8%BF",
@@ -1615,7 +1597,7 @@ const portraitCredits = {
   },
   "legacy-cn-440-汤显祖": {
     "id": "legacy-cn-440-汤显祖",
-    "src": "/portraits/roster-500.jpg",
+    "src": "/portraits/optimized/portrait-500.webp",
     "file": "湯顯祖.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%B9%AF%E9%A1%AF%E7%A5%96.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B1%A4%E6%98%BE%E7%A5%96",
@@ -1625,7 +1607,7 @@ const portraitCredits = {
   },
   "legacy-cn-464-华佗": {
     "id": "legacy-cn-464-华佗",
-    "src": "/portraits/roster-524.jpg",
+    "src": "/portraits/optimized/portrait-524.webp",
     "file": "汉名医华佗.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%B1%89%E5%90%8D%E5%8C%BB%E5%8D%8E%E4%BD%97.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8D%8E%E4%BD%97",
@@ -1635,7 +1617,7 @@ const portraitCredits = {
   },
   "legacy-cn-467-李淳风": {
     "id": "legacy-cn-467-李淳风",
-    "src": "/portraits/roster-527.jpg",
+    "src": "/portraits/optimized/portrait-527.webp",
     "file": "李淳風（說唐演義全傳）.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%9D%8E%E6%B7%B3%E9%A2%A8%EF%BC%88%E8%AA%AA%E5%94%90%E6%BC%94%E7%BE%A9%E5%85%A8%E5%82%B3%EF%BC%89.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%B7%B3%E9%A2%A8",
@@ -1645,7 +1627,7 @@ const portraitCredits = {
   },
   "legacy-cn-468-袁天罡": {
     "id": "legacy-cn-468-袁天罡",
-    "src": "/portraits/roster-528.jpg",
+    "src": "/portraits/optimized/portrait-528.webp",
     "file": "袁天罡（說唐演義全傳）.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%A2%81%E5%A4%A9%E7%BD%A1%EF%BC%88%E8%AA%AA%E5%94%90%E6%BC%94%E7%BE%A9%E5%85%A8%E5%82%B3%EF%BC%89.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%A2%81%E5%A4%A9%E7%BD%A1",
@@ -1655,7 +1637,7 @@ const portraitCredits = {
   },
   "legacy-cn-473-祖冲之": {
     "id": "legacy-cn-473-祖冲之",
-    "src": "/portraits/roster-533.jpg",
+    "src": "/portraits/optimized/portrait-533.webp",
     "file": "祖冲之铜像.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E7%A5%96%E5%86%B2%E4%B9%8B%E9%93%9C%E5%83%8F.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%A5%96%E5%86%B2%E4%B9%8B",
@@ -1665,7 +1647,7 @@ const portraitCredits = {
   },
   "legacy-cn-474-贾思勰": {
     "id": "legacy-cn-474-贾思勰",
-    "src": "/portraits/roster-534.jpg",
+    "src": "/portraits/optimized/portrait-534.webp",
     "file": "贾思勰像.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%B4%BE%E6%80%9D%E5%8B%B0%E5%83%8F.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%B4%BE%E6%80%9D%E5%8B%B0",
@@ -1675,7 +1657,7 @@ const portraitCredits = {
   },
   "legacy-cn-472-蔡伦": {
     "id": "legacy-cn-472-蔡伦",
-    "src": "/portraits/roster-532.png",
+    "src": "/portraits/optimized/portrait-532.webp",
     "file": "Wzbwgcailun.png",
     "page": "https://commons.wikimedia.org/wiki/File:Wzbwgcailun.png",
     "article": "https://zh.wikipedia.org/wiki/%E8%94%A1%E4%BC%A6",
@@ -1685,7 +1667,7 @@ const portraitCredits = {
   },
   "legacy-cn-475-徐光启": {
     "id": "legacy-cn-475-徐光启",
-    "src": "/portraits/roster-535.jpg",
+    "src": "/portraits/optimized/portrait-535.webp",
     "file": "徐光啟.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%BE%90%E5%85%89%E5%95%9F.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BE%90%E5%85%89%E5%90%AF",
@@ -1695,7 +1677,7 @@ const portraitCredits = {
   },
   "legacy-cn-477-李善兰": {
     "id": "legacy-cn-477-李善兰",
-    "src": "/portraits/roster-537.jpg",
+    "src": "/portraits/optimized/portrait-537.webp",
     "file": "李善蘭2.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%9D%8E%E5%96%84%E8%98%AD2.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%96%84%E5%85%B0",
@@ -1705,7 +1687,7 @@ const portraitCredits = {
   },
   "legacy-cn-493-乐毅": {
     "id": "legacy-cn-493-乐毅",
-    "src": "/portraits/roster-553.jpg",
+    "src": "/portraits/optimized/portrait-553.webp",
     "file": "乐毅像（清人绘）.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E4%B9%90%E6%AF%85%E5%83%8F%EF%BC%88%E6%B8%85%E4%BA%BA%E7%BB%98%EF%BC%89.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%B9%90%E6%AF%85",
@@ -1715,7 +1697,7 @@ const portraitCredits = {
   },
   "legacy-cn-494-白起": {
     "id": "legacy-cn-494-白起",
-    "src": "/portraits/roster-554.jpg",
+    "src": "/portraits/optimized/portrait-554.webp",
     "file": "白起像（明人绘）.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E7%99%BD%E8%B5%B7%E5%83%8F%EF%BC%88%E6%98%8E%E4%BA%BA%E7%BB%98%EF%BC%89.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%99%BD%E8%B5%B7",
@@ -1725,7 +1707,7 @@ const portraitCredits = {
   },
   "legacy-cn-495-廉颇": {
     "id": "legacy-cn-495-廉颇",
-    "src": "/portraits/roster-555.jpg",
+    "src": "/portraits/optimized/portrait-555.webp",
     "file": "廉頗.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%BB%89%E9%A0%97.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BB%89%E9%A2%87",
@@ -1735,7 +1717,7 @@ const portraitCredits = {
   },
   "legacy-cn-497-赵奢": {
     "id": "legacy-cn-497-赵奢",
-    "src": "/portraits/roster-557.jpg",
+    "src": "/portraits/optimized/portrait-557.webp",
     "file": "赵奢彩像（清人绘）.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%B5%B5%E5%A5%A2%E5%BD%A9%E5%83%8F%EF%BC%88%E6%B8%85%E4%BA%BA%E7%BB%98%EF%BC%89.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%B6%99%E5%A5%A2",
@@ -1745,7 +1727,7 @@ const portraitCredits = {
   },
   "legacy-cn-499-田单": {
     "id": "legacy-cn-499-田单",
-    "src": "/portraits/roster-559.jpg",
+    "src": "/portraits/optimized/portrait-559.webp",
     "file": "田单彩像（清人绘）.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E7%94%B0%E5%8D%95%E5%BD%A9%E5%83%8F%EF%BC%88%E6%B8%85%E4%BA%BA%E7%BB%98%EF%BC%89.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%94%B0%E5%96%AE",
@@ -1755,7 +1737,7 @@ const portraitCredits = {
   },
   "legacy-cn-500-张仪": {
     "id": "legacy-cn-500-张仪",
-    "src": "/portraits/roster-560.png",
+    "src": "/portraits/optimized/portrait-560.webp",
     "file": "张仪.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%BC%A0%E4%BB%AA.png",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E4%BB%AA",
@@ -1765,7 +1747,7 @@ const portraitCredits = {
   },
   "legacy-cn-501-苏秦": {
     "id": "legacy-cn-501-苏秦",
-    "src": "/portraits/roster-561.png",
+    "src": "/portraits/optimized/portrait-561.webp",
     "file": "苏秦.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%8B%8F%E7%A7%A6.png",
     "article": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E7%A7%A6",
@@ -1775,7 +1757,7 @@ const portraitCredits = {
   },
   "legacy-cn-510-萧何": {
     "id": "legacy-cn-510-萧何",
-    "src": "/portraits/roster-570.jpg",
+    "src": "/portraits/optimized/portrait-570.webp",
     "file": "汉相国酂侯萧何.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%B1%89%E7%9B%B8%E5%9B%BD%E9%85%82%E4%BE%AF%E8%90%A7%E4%BD%95.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%90%A7%E4%BD%95",
@@ -1785,7 +1767,7 @@ const portraitCredits = {
   },
   "legacy-cn-511-张良": {
     "id": "legacy-cn-511-张良",
-    "src": "/portraits/roster-571.jpg",
+    "src": "/portraits/optimized/portrait-571.webp",
     "file": "张良像.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%BC%A0%E8%89%AF%E5%83%8F.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E8%89%AF",
@@ -1795,7 +1777,7 @@ const portraitCredits = {
   },
   "legacy-cn-512-韩信": {
     "id": "legacy-cn-512-韩信",
-    "src": "/portraits/roster-572.jpg",
+    "src": "/portraits/optimized/portrait-572.webp",
     "file": "汉淮阴侯韩信.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%B1%89%E6%B7%AE%E9%98%B4%E4%BE%AF%E9%9F%A9%E4%BF%A1.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%9F%A9%E4%BF%A1",
@@ -1805,7 +1787,7 @@ const portraitCredits = {
   },
   "legacy-cn-515-霍去病": {
     "id": "legacy-cn-515-霍去病",
-    "src": "/portraits/roster-575.jpg",
+    "src": "/portraits/optimized/portrait-575.webp",
     "file": "渡河受款.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%B8%A1%E6%B2%B3%E5%8F%97%E6%AC%BE.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%9C%8D%E5%8E%BB%E7%97%85",
@@ -1815,7 +1797,7 @@ const portraitCredits = {
   },
   "legacy-cn-525-周瑜": {
     "id": "legacy-cn-525-周瑜",
-    "src": "/portraits/roster-585.jpg",
+    "src": "/portraits/optimized/portrait-585.webp",
     "file": "ZhouYu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:ZhouYu.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%91%A8%E7%91%9C",
@@ -1825,7 +1807,7 @@ const portraitCredits = {
   },
   "legacy-cn-528-谢安": {
     "id": "legacy-cn-528-谢安",
-    "src": "/portraits/roster-588.jpg",
+    "src": "/portraits/optimized/portrait-588.webp",
     "file": "晋太保建昌公谢安.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%99%8B%E5%A4%AA%E4%BF%9D%E5%BB%BA%E6%98%8C%E5%85%AC%E8%B0%A2%E5%AE%89.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%B0%A2%E5%AE%89",
@@ -1835,7 +1817,7 @@ const portraitCredits = {
   },
   "legacy-cn-530-宇文泰": {
     "id": "legacy-cn-530-宇文泰",
-    "src": "/portraits/roster-590.jpg",
+    "src": "/portraits/optimized/portrait-590.webp",
     "file": "宇文丞相黑獺（北史演義）.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%AE%87%E6%96%87%E4%B8%9E%E7%9B%B8%E9%BB%91%E7%8D%BA%EF%BC%88%E5%8C%97%E5%8F%B2%E6%BC%94%E7%BE%A9%EF%BC%89.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AE%87%E6%96%87%E6%B3%B0",
@@ -1845,7 +1827,7 @@ const portraitCredits = {
   },
   "legacy-cn-522-班超": {
     "id": "legacy-cn-522-班超",
-    "src": "/portraits/roster-582.png",
+    "src": "/portraits/optimized/portrait-582.webp",
     "file": "汉班超立像.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%B1%89%E7%8F%AD%E8%B6%85%E7%AB%8B%E5%83%8F.png",
     "article": "https://zh.wikipedia.org/wiki/%E7%8F%AD%E8%B6%85",
@@ -1855,7 +1837,7 @@ const portraitCredits = {
   },
   "legacy-cn-532-李世民": {
     "id": "legacy-cn-532-李世民",
-    "src": "/portraits/roster-592.jpg",
+    "src": "/portraits/optimized/portrait-592.webp",
     "file": "TangTaizong.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:TangTaizong.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%94%90%E5%A4%AA%E5%AE%97",
@@ -1865,7 +1847,7 @@ const portraitCredits = {
   },
   "legacy-cn-534-郭子仪": {
     "id": "legacy-cn-534-郭子仪",
-    "src": "/portraits/roster-594.jpg",
+    "src": "/portraits/optimized/portrait-594.webp",
     "file": "唐尚父汾阳忠武王像.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%94%90%E5%B0%9A%E7%88%B6%E6%B1%BE%E9%98%B3%E5%BF%A0%E6%AD%A6%E7%8E%8B%E5%83%8F.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%83%AD%E5%AD%90%E4%BB%AA",
@@ -1875,7 +1857,7 @@ const portraitCredits = {
   },
   "legacy-world-1-阿那克西曼德": {
     "id": "legacy-world-1-阿那克西曼德",
-    "src": "/portraits/roster-641.jpg",
+    "src": "/portraits/optimized/portrait-641.webp",
     "file": "Anaximander.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Anaximander.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%BF%E9%82%A3%E5%85%8B%E8%A5%BF%E6%9B%BC%E5%BE%B7",
@@ -1885,7 +1867,7 @@ const portraitCredits = {
   },
   "legacy-cn-535-李光弼": {
     "id": "legacy-cn-535-李光弼",
-    "src": "/portraits/roster-595.jpg",
+    "src": "/portraits/optimized/portrait-595.webp",
     "file": "唐临淮郡王李光弼.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%94%90%E4%B8%B4%E6%B7%AE%E9%83%A1%E7%8E%8B%E6%9D%8E%E5%85%89%E5%BC%BC.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%85%89%E5%BC%BC",
@@ -1895,7 +1877,7 @@ const portraitCredits = {
   },
   "legacy-world-3-巴门尼德": {
     "id": "legacy-world-3-巴门尼德",
-    "src": "/portraits/roster-643.jpg",
+    "src": "/portraits/optimized/portrait-643.webp",
     "file": "Parmenides.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Parmenides.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%97%A8%E5%B0%BC%E5%BE%B7",
@@ -1905,7 +1887,7 @@ const portraitCredits = {
   },
   "legacy-world-4-恩培多克勒": {
     "id": "legacy-world-4-恩培多克勒",
-    "src": "/portraits/roster-644.jpeg",
+    "src": "/portraits/optimized/portrait-644.webp",
     "file": "Empedokles.jpeg",
     "page": "https://commons.wikimedia.org/wiki/File:Empedokles.jpeg",
     "article": "https://zh.wikipedia.org/wiki/%E6%81%A9%E5%9F%B9%E5%A4%9A%E5%85%8B%E5%8B%92",
@@ -1915,7 +1897,7 @@ const portraitCredits = {
   },
   "legacy-world-23-斐洛": {
     "id": "legacy-world-23-斐洛",
-    "src": "/portraits/roster-663.jpg",
+    "src": "/portraits/optimized/portrait-663.webp",
     "file": "Philon.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Philon.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%96%90%E6%B4%9B",
@@ -1925,7 +1907,7 @@ const portraitCredits = {
   },
   "legacy-world-47-维柯": {
     "id": "legacy-world-47-维柯",
-    "src": "/portraits/roster-687.jpg",
+    "src": "/portraits/optimized/portrait-687.webp",
     "file": "GiambattistaVico.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:GiambattistaVico.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%B7%B4%E8%92%82%E6%96%AF%E5%A1%94%C2%B7%E7%BB%B4%E6%9F%AF",
@@ -1935,7 +1917,7 @@ const portraitCredits = {
   },
   "legacy-world-19-法拉比": {
     "id": "legacy-world-19-法拉比",
-    "src": "/portraits/roster-659.jpg",
+    "src": "/portraits/optimized/portrait-659.webp",
     "file": "Al-Farabi.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Al-Farabi.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B3%95%E6%8B%89%E6%AF%94",
@@ -1945,7 +1927,7 @@ const portraitCredits = {
   },
   "legacy-world-15-阿奎那": {
     "id": "legacy-world-15-阿奎那",
-    "src": "/portraits/roster-655.jpg",
+    "src": "/portraits/optimized/portrait-655.webp",
     "file": "St-thomas-aquinasFXD.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:St-thomas-aquinasFXD.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E9%98%BF%E5%A5%8E%E9%82%A3",
@@ -1955,7 +1937,7 @@ const portraitCredits = {
   },
   "legacy-world-50-开普勒": {
     "id": "legacy-world-50-开普勒",
-    "src": "/portraits/roster-690.jpg",
+    "src": "/portraits/optimized/portrait-690.webp",
     "file": "JKepler.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:JKepler.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%E5%86%85%E6%96%AF%C2%B7%E5%BC%80%E6%99%AE%E5%8B%92",
@@ -1965,7 +1947,7 @@ const portraitCredits = {
   },
   "legacy-world-217-哈托尔": {
     "id": "legacy-world-217-哈托尔",
-    "src": "/portraits/roster-857.png",
+    "src": "/portraits/optimized/portrait-857.webp",
     "file": "Hathor.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Hathor.svg",
     "article": "https://zh.wikipedia.org/wiki/%E5%93%88%E7%B4%A2%E5%B0%94",
@@ -1975,7 +1957,7 @@ const portraitCredits = {
   },
   "legacy-world-215-拉": {
     "id": "legacy-world-215-拉",
-    "src": "/portraits/roster-855.png",
+    "src": "/portraits/optimized/portrait-855.webp",
     "file": "Re-Horakhty.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Re-Horakhty.svg",
     "article": "https://zh.wikipedia.org/wiki/%E6%8B%89",
@@ -1985,7 +1967,7 @@ const portraitCredits = {
   },
   "legacy-world-219-托特": {
     "id": "legacy-world-219-托特",
-    "src": "/portraits/roster-859.png",
+    "src": "/portraits/optimized/portrait-859.webp",
     "file": "Thoth.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Thoth.svg",
     "article": "https://zh.wikipedia.org/wiki/%E6%89%98%E7%89%B9",
@@ -1995,7 +1977,7 @@ const portraitCredits = {
   },
   "legacy-world-218-塞赫麦特": {
     "id": "legacy-world-218-塞赫麦特",
-    "src": "/portraits/roster-858.png",
+    "src": "/portraits/optimized/portrait-858.webp",
     "file": "Sekhmet.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Sekhmet.svg",
     "article": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E8%B5%AB%E9%BA%A6%E7%89%B9",
@@ -2005,7 +1987,7 @@ const portraitCredits = {
   },
   "legacy-world-222-奈芙蒂斯": {
     "id": "legacy-world-222-奈芙蒂斯",
-    "src": "/portraits/roster-862.png",
+    "src": "/portraits/optimized/portrait-862.webp",
     "file": "Nepthys.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Nepthys.svg",
     "article": "https://zh.wikipedia.org/wiki/%E5%A5%88%E8%8A%99%E8%92%82%E6%96%AF",
@@ -2015,7 +1997,7 @@ const portraitCredits = {
   },
   "legacy-world-225-阿吞": {
     "id": "legacy-world-225-阿吞",
-    "src": "/portraits/roster-865.png",
+    "src": "/portraits/optimized/portrait-865.webp",
     "file": "Aten.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Aten.svg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A0%93",
@@ -2025,7 +2007,7 @@ const portraitCredits = {
   },
   "legacy-world-224-玛特": {
     "id": "legacy-world-224-玛特",
-    "src": "/portraits/roster-864.png",
+    "src": "/portraits/optimized/portrait-864.webp",
     "file": "Maat.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Maat.svg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8E%9B%E4%BA%9A%E7%89%B9",
@@ -2035,7 +2017,7 @@ const portraitCredits = {
   },
   "legacy-world-223-赛特": {
     "id": "legacy-world-223-赛特",
-    "src": "/portraits/roster-863.png",
+    "src": "/portraits/optimized/portrait-863.webp",
     "file": "Set.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Set.svg",
     "article": "https://zh.wikipedia.org/wiki/%E8%B5%9B%E7%89%B9",
@@ -2045,7 +2027,7 @@ const portraitCredits = {
   },
   "legacy-world-239-帕尔瓦蒂": {
     "id": "legacy-world-239-帕尔瓦蒂",
-    "src": "/portraits/roster-879.jpg",
+    "src": "/portraits/optimized/portrait-879.webp",
     "file": "紅銅帕爾瓦蒂像.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E7%B4%85%E9%8A%85%E5%B8%95%E7%88%BE%E7%93%A6%E8%92%82%E5%83%8F.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%9B%AA%E5%B1%B1%E7%A5%9E%E5%A5%B3",
@@ -2055,7 +2037,7 @@ const portraitCredits = {
   },
   "legacy-world-237-湿婆": {
     "id": "legacy-world-237-湿婆",
-    "src": "/portraits/roster-877.jpg",
+    "src": "/portraits/optimized/portrait-877.webp",
     "file": "Sivakempfort.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Sivakempfort.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B9%BF%E5%A9%86",
@@ -2065,7 +2047,7 @@ const portraitCredits = {
   },
   "legacy-world-234-宁胡尔萨格": {
     "id": "legacy-world-234-宁胡尔萨格",
-    "src": "/portraits/roster-874.jpg",
+    "src": "/portraits/optimized/portrait-874.webp",
     "file": "Ninhursag1.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ninhursag1.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AE%81%E8%83%A1%E5%B0%94%E8%90%A8%E6%A0%BC",
@@ -2075,7 +2057,7 @@ const portraitCredits = {
   },
   "legacy-world-240-萨拉斯瓦蒂": {
     "id": "legacy-world-240-萨拉斯瓦蒂",
-    "src": "/portraits/roster-880.jpg",
+    "src": "/portraits/optimized/portrait-880.webp",
     "file": "Saraswati.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Saraswati.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%BE%AF%E6%89%8D%E5%A4%A9%E5%A5%B3",
@@ -2085,7 +2067,7 @@ const portraitCredits = {
   },
   "legacy-world-248-哈奴曼": {
     "id": "legacy-world-248-哈奴曼",
-    "src": "/portraits/roster-888.jpg",
+    "src": "/portraits/optimized/portrait-888.webp",
     "file": "Hanuman1.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Hanuman1.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%93%88%E5%A5%B4%E6%9B%BC",
@@ -2095,7 +2077,7 @@ const portraitCredits = {
   },
   "legacy-world-254-德罗纳": {
     "id": "legacy-world-254-德罗纳",
-    "src": "/portraits/roster-894.jpg",
+    "src": "/portraits/optimized/portrait-894.webp",
     "file": "Kurukshetra.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Kurukshetra.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BE%B7%E7%BE%85%E7%B4%8D",
@@ -2105,7 +2087,7 @@ const portraitCredits = {
   },
   "legacy-world-278-阿里曼": {
     "id": "legacy-world-278-阿里曼",
-    "src": "/portraits/roster-918.png",
+    "src": "/portraits/optimized/portrait-918.webp",
     "file": "Faravahar.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Faravahar.svg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E6%9B%BC",
@@ -2115,7 +2097,7 @@ const portraitCredits = {
   },
   "legacy-world-293-道元": {
     "id": "legacy-world-293-道元",
-    "src": "/portraits/roster-933.png",
+    "src": "/portraits/optimized/portrait-933.webp",
     "file": "禪-ouyang.svg",
     "page": "https://commons.wikimedia.org/wiki/File:%E7%A6%AA-ouyang.svg",
     "article": "https://zh.wikipedia.org/wiki/%E9%81%93%E5%85%83",
@@ -2125,7 +2107,7 @@ const portraitCredits = {
   },
   "legacy-world-300-宫本武藏": {
     "id": "legacy-world-300-宫本武藏",
-    "src": "/portraits/roster-940.jpg",
+    "src": "/portraits/optimized/portrait-940.webp",
     "file": "P03jigazou.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:P03jigazou.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AE%AE%E6%9C%AC%E6%AD%A6%E8%97%8F",
@@ -2135,7 +2117,7 @@ const portraitCredits = {
   },
   "legacy-world-301-织田信长": {
     "id": "legacy-world-301-织田信长",
-    "src": "/portraits/roster-941.jpg",
+    "src": "/portraits/optimized/portrait-941.webp",
     "file": "Odanobunaga.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Odanobunaga.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%B9%94%E7%94%B0%E4%BF%A1%E9%95%B7",
@@ -2145,7 +2127,7 @@ const portraitCredits = {
   },
   "legacy-world-323-亚瑟王": {
     "id": "legacy-world-323-亚瑟王",
-    "src": "/portraits/roster-963.jpg",
+    "src": "/portraits/optimized/portrait-963.webp",
     "file": "Artus2.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Artus2.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BA%9A%E7%91%9F%E7%8E%8B",
@@ -2155,7 +2137,7 @@ const portraitCredits = {
   },
   "legacy-world-305-弗丽嘉": {
     "id": "legacy-world-305-弗丽嘉",
-    "src": "/portraits/roster-945.jpg",
+    "src": "/portraits/optimized/portrait-945.webp",
     "file": "FriggSpinning.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:FriggSpinning.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%97%E4%B8%BD%E5%98%89",
@@ -2165,7 +2147,7 @@ const portraitCredits = {
   },
   "legacy-world-328-帕西瓦尔": {
     "id": "legacy-world-328-帕西瓦尔",
-    "src": "/portraits/roster-968.jpg",
+    "src": "/portraits/optimized/portrait-968.webp",
     "file": "Parzival.Lauber.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Parzival.Lauber.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B8%95%E8%A5%BF%E7%93%A6%E5%B0%94",
@@ -2175,7 +2157,7 @@ const portraitCredits = {
   },
   "legacy-world-294-荣西": {
     "id": "legacy-world-294-荣西",
-    "src": "/portraits/roster-934.png",
+    "src": "/portraits/optimized/portrait-934.webp",
     "file": "Myoan-Eisai-Kennin-ji-Portrait.png",
     "page": "https://commons.wikimedia.org/wiki/File:Myoan-Eisai-Kennin-ji-Portrait.png",
     "article": "https://zh.wikipedia.org/wiki/%E8%8D%A3%E8%A5%BF",
@@ -2185,7 +2167,7 @@ const portraitCredits = {
   },
   "legacy-cn-0-女娲": {
     "id": "legacy-cn-0-女娲",
-    "src": "/portraits/nuwa-shanhaijing.jpg",
+    "src": "/portraits/optimized/portrait-60.webp",
     "file": "Shanhaijing illustration of Nüwa.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Shanhaijing_illustration_of_N%C3%BCwa.jpg",
     "artist": "明代蒋应镐《山海经图绘全像》",
@@ -2194,7 +2176,7 @@ const portraitCredits = {
   },
   "legacy-cn-6-蚩尤": {
     "id": "legacy-cn-6-蚩尤",
-    "src": "/portraits/chiyou-han-rubbing.jpg",
+    "src": "/portraits/optimized/portrait-66.webp",
     "file": "Chi You Rubbing Wu family shrines Han.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Chi_You_Rubbing_Wu_family_shrines_Han.jpg",
     "artist": "Unknown author Unknown author",
@@ -2203,7 +2185,7 @@ const portraitCredits = {
   },
   "cn-curated-19": {
     "id": "cn-curated-19",
-    "src": "/portraits/roster-24.jpg",
+    "src": "/portraits/optimized/portrait-24.webp",
     "file": "Mao_Zedong_1950_Portrait_(3x4_cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Mao_Zedong_1950_Portrait_(3x4_cropped).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%AF%9B%E6%B3%BD%E4%B8%9C",
@@ -2213,7 +2195,7 @@ const portraitCredits = {
   },
   "cn-curated-20": {
     "id": "cn-curated-20",
-    "src": "/portraits/roster-25.jpg",
+    "src": "/portraits/optimized/portrait-25.webp",
     "file": "Ksitigarbha_(Tokugawa_Art_Museum).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ksitigarbha_(Tokugawa_Art_Museum).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%9C%B0%E8%97%8F%E8%8F%A9%E8%90%A8",
@@ -2223,7 +2205,7 @@ const portraitCredits = {
   },
   "韩非-3": {
     "id": "韩非-3",
-    "src": "/portraits/roster-29.png",
+    "src": "/portraits/optimized/portrait-29.webp",
     "file": "Statue_Of_Han_Fei.png",
     "page": "https://commons.wikimedia.org/wiki/File:Statue_Of_Han_Fei.png",
     "article": "https://zh.wikipedia.org/wiki/%E9%9F%A9%E9%9D%9E",
@@ -2233,7 +2215,7 @@ const portraitCredits = {
   },
   "legacy-cn-7-少昊": {
     "id": "legacy-cn-7-少昊",
-    "src": "/portraits/roster-67.jpg",
+    "src": "/portraits/optimized/portrait-67.webp",
     "file": "Portraits_of_Famous_Men_-_Shaohao.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Portraits_of_Famous_Men_-_Shaohao.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B0%91%E6%98%8A",
@@ -2243,7 +2225,7 @@ const portraitCredits = {
   },
   "legacy-cn-9-帝喾": {
     "id": "legacy-cn-9-帝喾",
-    "src": "/portraits/roster-69.jpg",
+    "src": "/portraits/optimized/portrait-69.webp",
     "file": "Emperor_Ku.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Emperor_Ku.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%9A%B3",
@@ -2253,7 +2235,7 @@ const portraitCredits = {
   },
   "legacy-cn-10-尧": {
     "id": "legacy-cn-10-尧",
-    "src": "/portraits/roster-70.jpg",
+    "src": "/portraits/optimized/portrait-70.webp",
     "file": "Ma_Lin_-_Emperor_Yao.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ma_Lin_-_Emperor_Yao.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B0%A7",
@@ -2261,19 +2243,9 @@ const portraitCredits = {
     "license": "Public domain",
     "licenseUrl": ""
   },
-  "legacy-cn-12-禹": {
-    "id": "legacy-cn-12-禹",
-    "src": "/portraits/roster-72.jpg",
-    "file": "King_Yu_of_Xia.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:King_Yu_of_Xia.jpg",
-    "article": "https://zh.wikipedia.org/wiki/%E7%A6%B9",
-    "artist": "Ma Lin",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
   "legacy-cn-19-马良": {
     "id": "legacy-cn-19-马良",
-    "src": "/portraits/roster-79.jpg",
+    "src": "/portraits/optimized/portrait-79.webp",
     "file": "Ma_Liang_2016_Han_Zhao_Lie_Miao.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ma_Liang_2016_Han_Zhao_Lie_Miao.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%A6%AC%E8%89%AF",
@@ -2283,7 +2255,7 @@ const portraitCredits = {
   },
   "legacy-cn-20-伯乐": {
     "id": "legacy-cn-20-伯乐",
-    "src": "/portraits/roster-80.jpg",
+    "src": "/portraits/optimized/portrait-80.webp",
     "file": "任熊_人物山水册_2.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E4%BB%BB%E7%86%8A_%E4%BA%BA%E7%89%A9%E5%B1%B1%E6%B0%B4%E5%86%8C_2.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BC%AF%E6%A8%82",
@@ -2293,7 +2265,7 @@ const portraitCredits = {
   },
   "legacy-cn-23-西王母": {
     "id": "legacy-cn-23-西王母",
-    "src": "/portraits/roster-83.png",
+    "src": "/portraits/optimized/portrait-83.webp",
     "file": "Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic18_-_西王母圖（此圖據三才圖會）.png",
     "page": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic18_-_%E8%A5%BF%E7%8E%8B%E6%AF%8D%E5%9C%96%EF%BC%88%E6%AD%A4%E5%9C%96%E6%93%9A%E4%B8%89%E6%89%8D%E5%9C%96%E6%9C%83%EF%BC%89.png",
     "article": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%8E%8B%E6%AF%8D",
@@ -2303,7 +2275,7 @@ const portraitCredits = {
   },
   "legacy-cn-24-精卫": {
     "id": "legacy-cn-24-精卫",
-    "src": "/portraits/roster-84.png",
+    "src": "/portraits/optimized/portrait-84.webp",
     "file": "三才圖會_13鸟兽_精卫.svg",
     "page": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E6%89%8D%E5%9C%96%E6%9C%83_13%E9%B8%9F%E5%85%BD_%E7%B2%BE%E5%8D%AB.svg",
     "article": "https://zh.wikipedia.org/wiki/%E7%B2%BE%E5%8D%AB",
@@ -2313,7 +2285,7 @@ const portraitCredits = {
   },
   "legacy-cn-33-简狄": {
     "id": "legacy-cn-33-简狄",
-    "src": "/portraits/roster-93.jpg",
+    "src": "/portraits/optimized/portrait-93.webp",
     "file": "Sibu_Congkan0265-劉向-劉向古列女傳-3-1.djvu",
     "page": "https://commons.wikimedia.org/wiki/File:Sibu_Congkan0265-%E5%8A%89%E5%90%91-%E5%8A%89%E5%90%91%E5%8F%A4%E5%88%97%E5%A5%B3%E5%82%B3-3-1.djvu",
     "article": "https://zh.wikipedia.org/wiki/%E7%B0%A1%E7%8B%84",
@@ -2323,7 +2295,7 @@ const portraitCredits = {
   },
   "legacy-cn-35-应龙": {
     "id": "legacy-cn-35-应龙",
-    "src": "/portraits/roster-95.jpg",
+    "src": "/portraits/optimized/portrait-95.webp",
     "file": "Shan_Hai_Jing_Yinglong.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Shan_Hai_Jing_Yinglong.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%87%89%E9%BE%8D",
@@ -2333,7 +2305,7 @@ const portraitCredits = {
   },
   "legacy-cn-36-烛龙": {
     "id": "legacy-cn-36-烛龙",
-    "src": "/portraits/roster-96.jpg",
+    "src": "/portraits/optimized/portrait-96.webp",
     "file": "Shan_hai_jing_Zhuyin.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Shan_hai_jing_Zhuyin.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%87%AD%E9%BE%8D",
@@ -2343,7 +2315,7 @@ const portraitCredits = {
   },
   "legacy-cn-44-赤松子": {
     "id": "legacy-cn-44-赤松子",
-    "src": "/portraits/roster-104.png",
+    "src": "/portraits/optimized/portrait-104.webp",
     "file": "仙佛奇蹤_卷一_赤松子.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E4%B8%80_%E8%B5%A4%E6%9D%BE%E5%AD%90.png",
     "article": "https://zh.wikipedia.org/wiki/%E8%B5%A4%E6%9D%BE%E5%AD%90",
@@ -2353,7 +2325,7 @@ const portraitCredits = {
   },
   "legacy-cn-45-彭祖": {
     "id": "legacy-cn-45-彭祖",
-    "src": "/portraits/roster-105.png",
+    "src": "/portraits/optimized/portrait-105.webp",
     "file": "仙佛奇蹤_卷一_彭祖.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E4%B8%80_%E5%BD%AD%E7%A5%96.png",
     "article": "https://zh.wikipedia.org/wiki/%E5%BD%AD%E7%A5%96",
@@ -2363,7 +2335,7 @@ const portraitCredits = {
   },
   "legacy-cn-46-王亥": {
     "id": "legacy-cn-46-王亥",
-    "src": "/portraits/roster-106.jpg",
+    "src": "/portraits/optimized/portrait-106.webp",
     "file": "Wang_Hai,_Ancestor_of_Chinese_Business.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Wang_Hai,_Ancestor_of_Chinese_Business.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%BA%A5",
@@ -2373,7 +2345,7 @@ const portraitCredits = {
   },
   "legacy-cn-62-傅说": {
     "id": "legacy-cn-62-傅说",
-    "src": "/portraits/roster-122.jpg",
+    "src": "/portraits/optimized/portrait-122.webp",
     "file": "Fu_Yue.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Fu_Yue.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%82%85%E8%AA%AA",
@@ -2383,17 +2355,7 @@ const portraitCredits = {
   },
   "legacy-cn-63-吕尚": {
     "id": "legacy-cn-63-吕尚",
-    "src": "/portraits/roster-123.jpg",
-    "file": "Portrait_of_Jiang_Ziya.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Jiang_Ziya.jpg",
-    "article": "https://zh.wikipedia.org/wiki/%E5%A7%9C%E5%A4%AA%E5%85%AC",
-    "artist": "Unknown author Unknown author",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
-  "legacy-cn-64-姜太公": {
-    "id": "legacy-cn-64-姜太公",
-    "src": "/portraits/roster-124.jpg",
+    "src": "/portraits/optimized/portrait-123.webp",
     "file": "Portrait_of_Jiang_Ziya.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Jiang_Ziya.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%A7%9C%E5%A4%AA%E5%85%AC",
@@ -2403,7 +2365,7 @@ const portraitCredits = {
   },
   "legacy-cn-65-周公旦": {
     "id": "legacy-cn-65-周公旦",
-    "src": "/portraits/roster-125.jpg",
+    "src": "/portraits/optimized/portrait-125.webp",
     "file": "Zhou_gong.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Zhou_gong.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%91%A8%E5%85%AC%E6%97%A6",
@@ -2413,7 +2375,7 @@ const portraitCredits = {
   },
   "legacy-cn-66-召公奭": {
     "id": "legacy-cn-66-召公奭",
-    "src": "/portraits/roster-126.png",
+    "src": "/portraits/optimized/portrait-126.webp",
     "file": "Duke_of_Shao.png",
     "page": "https://commons.wikimedia.org/wiki/File:Duke_of_Shao.png",
     "article": "https://zh.wikipedia.org/wiki/%E5%8F%AC%E5%85%AC%E5%A5%AD",
@@ -2423,7 +2385,7 @@ const portraitCredits = {
   },
   "legacy-cn-69-季札": {
     "id": "legacy-cn-69-季札",
-    "src": "/portraits/roster-129.png",
+    "src": "/portraits/optimized/portrait-129.webp",
     "file": "Ji_zha.png",
     "page": "https://commons.wikimedia.org/wiki/File:Ji_zha.png",
     "article": "https://zh.wikipedia.org/wiki/%E5%AD%A3%E6%9C%AD",
@@ -2433,7 +2395,7 @@ const portraitCredits = {
   },
   "legacy-cn-71-孙叔敖": {
     "id": "legacy-cn-71-孙叔敖",
-    "src": "/portraits/roster-131.jpg",
+    "src": "/portraits/optimized/portrait-131.webp",
     "file": "NLC892-002298910-329703_歷代畫像傳_四卷_第2冊_(孫叔敖).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:NLC892-002298910-329703_%E6%AD%B7%E4%BB%A3%E7%95%AB%E5%83%8F%E5%82%B3_%E5%9B%9B%E5%8D%B7_%E7%AC%AC2%E5%86%8A_(%E5%AD%AB%E5%8F%94%E6%95%96).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AD%99%E5%8F%94%E6%95%96",
@@ -2443,7 +2405,7 @@ const portraitCredits = {
   },
   "legacy-cn-74-晏婴": {
     "id": "legacy-cn-74-晏婴",
-    "src": "/portraits/roster-134.png",
+    "src": "/portraits/optimized/portrait-134.webp",
     "file": "Yan_Ying.png",
     "page": "https://commons.wikimedia.org/wiki/File:Yan_Ying.png",
     "article": "https://zh.wikipedia.org/wiki/%E6%99%8F%E5%A9%B4",
@@ -2453,7 +2415,7 @@ const portraitCredits = {
   },
   "legacy-cn-75-管仲": {
     "id": "legacy-cn-75-管仲",
-    "src": "/portraits/roster-135.png",
+    "src": "/portraits/optimized/portrait-135.webp",
     "file": "Guan_Zhong.png",
     "page": "https://commons.wikimedia.org/wiki/File:Guan_Zhong.png",
     "article": "https://zh.wikipedia.org/wiki/%E7%AE%A1%E4%BB%B2",
@@ -2463,7 +2425,7 @@ const portraitCredits = {
   },
   "legacy-cn-79-伍子胥": {
     "id": "legacy-cn-79-伍子胥",
-    "src": "/portraits/roster-139.png",
+    "src": "/portraits/optimized/portrait-139.webp",
     "file": "Wu_Yun_(Wu_Zixu).png",
     "page": "https://commons.wikimedia.org/wiki/File:Wu_Yun_(Wu_Zixu).png",
     "article": "https://zh.wikipedia.org/wiki/%E4%BC%8D%E5%AD%90%E8%83%A5",
@@ -2471,19 +2433,9 @@ const portraitCredits = {
     "license": "Public domain",
     "licenseUrl": ""
   },
-  "legacy-cn-81-延陵季子": {
-    "id": "legacy-cn-81-延陵季子",
-    "src": "/portraits/roster-141.png",
-    "file": "Ji_zha.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Ji_zha.png",
-    "article": "https://zh.wikipedia.org/wiki/%E5%AD%A3%E6%9C%AD",
-    "artist": "孔繼堯",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
   "legacy-cn-84-舍利弗": {
     "id": "legacy-cn-84-舍利弗",
-    "src": "/portraits/roster-144.png",
+    "src": "/portraits/optimized/portrait-144.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E8%88%8D%E5%88%A9%E5%BC%97",
@@ -2493,7 +2445,7 @@ const portraitCredits = {
   },
   "legacy-cn-85-目犍连": {
     "id": "legacy-cn-85-目犍连",
-    "src": "/portraits/roster-145.png",
+    "src": "/portraits/optimized/portrait-145.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E7%9B%AE%E7%8A%8D%E9%80%A3",
@@ -2503,7 +2455,7 @@ const portraitCredits = {
   },
   "legacy-cn-86-须菩提": {
     "id": "legacy-cn-86-须菩提",
-    "src": "/portraits/roster-146.png",
+    "src": "/portraits/optimized/portrait-146.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E9%A1%BB%E8%8F%A9%E6%8F%90",
@@ -2513,7 +2465,7 @@ const portraitCredits = {
   },
   "legacy-cn-87-富楼那": {
     "id": "legacy-cn-87-富楼那",
-    "src": "/portraits/roster-147.png",
+    "src": "/portraits/optimized/portrait-147.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AF%8C%E6%A8%93%E9%82%A3",
@@ -2523,7 +2475,7 @@ const portraitCredits = {
   },
   "legacy-cn-88-迦旃延": {
     "id": "legacy-cn-88-迦旃延",
-    "src": "/portraits/roster-148.jpg",
+    "src": "/portraits/optimized/portrait-148.webp",
     "file": "Wat_Bang_Nam_Phueng_Nok_4.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Wat_Bang_Nam_Phueng_Nok_4.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%BF%A6%E6%97%83%E5%BB%B6",
@@ -2533,7 +2485,7 @@ const portraitCredits = {
   },
   "legacy-cn-89-罗睺罗": {
     "id": "legacy-cn-89-罗睺罗",
-    "src": "/portraits/roster-149.png",
+    "src": "/portraits/optimized/portrait-149.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E7%BD%97%E7%9D%BA%E7%BD%97",
@@ -2543,7 +2495,7 @@ const portraitCredits = {
   },
   "legacy-cn-90-优波离": {
     "id": "legacy-cn-90-优波离",
-    "src": "/portraits/roster-150.jpg",
+    "src": "/portraits/optimized/portrait-150.webp",
     "file": "Chùa_Nam_Tông,_Bình_Tân,_tháng_12_năm_2021_(Đại_thánh_tăng_Upali,_Ưu-Bà-Li)_(2).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%B9a_Nam_T%C3%B4ng,_B%C3%ACnh_T%C3%A2n,_th%C3%A1ng_12_n%C4%83m_2021_(%C4%90%E1%BA%A1i_th%C3%A1nh_t%C4%83ng_Upali,_%C6%AFu-B%C3%A0-Li)_(2).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%84%AA%E5%A9%86%E9%9B%A2",
@@ -2551,19 +2503,9 @@ const portraitCredits = {
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
   },
-  "legacy-cn-91-大迦旃延": {
-    "id": "legacy-cn-91-大迦旃延",
-    "src": "/portraits/roster-151.jpg",
-    "file": "Wat_Bang_Nam_Phueng_Nok_4.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Wat_Bang_Nam_Phueng_Nok_4.jpg",
-    "article": "https://zh.wikipedia.org/wiki/%E8%BF%A6%E6%97%83%E5%BB%B6",
-    "artist": "User:HAH",
-    "license": "CC BY 2.5",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
-  },
   "legacy-cn-92-阿那律": {
     "id": "legacy-cn-92-阿那律",
-    "src": "/portraits/roster-152.png",
+    "src": "/portraits/optimized/portrait-152.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%BC%E5%BE%8B%E9%99%80",
@@ -2571,19 +2513,9 @@ const portraitCredits = {
     "license": "GFDL",
     "licenseUrl": "http://www.gnu.org/copyleft/fdl.html"
   },
-  "legacy-cn-93-摩诃迦旃延": {
-    "id": "legacy-cn-93-摩诃迦旃延",
-    "src": "/portraits/roster-153.jpg",
-    "file": "Wat_Bang_Nam_Phueng_Nok_4.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Wat_Bang_Nam_Phueng_Nok_4.jpg",
-    "article": "https://zh.wikipedia.org/wiki/%E8%BF%A6%E6%97%83%E5%BB%B6",
-    "artist": "User:HAH",
-    "license": "CC BY 2.5",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
-  },
   "legacy-cn-95-耶舍": {
     "id": "legacy-cn-95-耶舍",
-    "src": "/portraits/roster-155.png",
+    "src": "/portraits/optimized/portrait-155.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E8%80%B6%E8%88%8D",
@@ -2593,7 +2525,7 @@ const portraitCredits = {
   },
   "legacy-cn-96-阿若憍陈如": {
     "id": "legacy-cn-96-阿若憍陈如",
-    "src": "/portraits/roster-156.png",
+    "src": "/portraits/optimized/portrait-156.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%BF%E8%8B%A5%E6%86%8D%E9%99%88%E5%A6%82",
@@ -2603,7 +2535,7 @@ const portraitCredits = {
   },
   "legacy-cn-97-须跋陀罗": {
     "id": "legacy-cn-97-须跋陀罗",
-    "src": "/portraits/roster-157.png",
+    "src": "/portraits/optimized/portrait-157.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E9%A0%88%E8%B7%8B%E9%99%80%E7%BE%85",
@@ -2613,7 +2545,7 @@ const portraitCredits = {
   },
   "legacy-cn-98-迦留陀夷": {
     "id": "legacy-cn-98-迦留陀夷",
-    "src": "/portraits/roster-158.png",
+    "src": "/portraits/optimized/portrait-158.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E8%BF%A6%E7%95%99%E9%99%80%E5%A4%B7",
@@ -2623,7 +2555,7 @@ const portraitCredits = {
   },
   "legacy-cn-99-那提迦叶": {
     "id": "legacy-cn-99-那提迦叶",
-    "src": "/portraits/roster-159.png",
+    "src": "/portraits/optimized/portrait-159.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E8%BF%A6%E8%91%89%E4%B8%89%E5%85%84%E5%BC%9F",
@@ -2633,7 +2565,7 @@ const portraitCredits = {
   },
   "legacy-cn-100-优波毱多": {
     "id": "legacy-cn-100-优波毱多",
-    "src": "/portraits/roster-160.png",
+    "src": "/portraits/optimized/portrait-160.webp",
     "file": "พระอุปคุต_วัดบวรนิเวศวิหาร_Upagutta_or_Upagupta_At_Wat_Bowon_Niwet_-_CROPPED.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%84%E0%B8%B8%E0%B8%95_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%A7%E0%B8%A3%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_Upagutta_or_Upagupta_At_Wat_Bowon_Niwet_-_CROPPED.png",
     "article": "https://zh.wikipedia.org/wiki/%E4%BC%98%E6%B3%A2%E6%AF%B1%E5%A4%9A",
@@ -2643,7 +2575,7 @@ const portraitCredits = {
   },
   "legacy-cn-103-马鸣": {
     "id": "legacy-cn-103-马鸣",
-    "src": "/portraits/roster-163.jpg",
+    "src": "/portraits/optimized/portrait-163.webp",
     "file": "Wat_Tham_Khao_Rup_Chang_-_013_07_om_(14479854670).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Wat_Tham_Khao_Rup_Chang_-_013_07_om_(14479854670).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%A6%AC%E9%B3%B4",
@@ -2653,17 +2585,7 @@ const portraitCredits = {
   },
   "legacy-cn-106-世亲": {
     "id": "legacy-cn-106-世亲",
-    "src": "/portraits/roster-166.jpg",
-    "file": "Seshin_Vasubandhu_Kofukuji.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Seshin_Vasubandhu_Kofukuji.jpg",
-    "article": "https://zh.wikipedia.org/wiki/%E4%B8%96%E4%BA%B2",
-    "artist": "sculptor: UNKEI, 13th century, photo: Shihachi Fujimoto(family name)), (1911, IIDA,NAGANO, Japan - 2006,Otaru, Hokkaido, Japan ) a renowned Japanese photographer",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
-  "legacy-cn-107-世亲菩萨": {
-    "id": "legacy-cn-107-世亲菩萨",
-    "src": "/portraits/roster-167.jpg",
+    "src": "/portraits/optimized/portrait-166.webp",
     "file": "Seshin_Vasubandhu_Kofukuji.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Seshin_Vasubandhu_Kofukuji.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%B8%96%E4%BA%B2",
@@ -2673,7 +2595,7 @@ const portraitCredits = {
   },
   "legacy-cn-108-鸠摩罗什": {
     "id": "legacy-cn-108-鸠摩罗什",
-    "src": "/portraits/roster-168.jpg",
+    "src": "/portraits/optimized/portrait-168.webp",
     "file": "Kumarajiva_at_Kizil_Caves,_Kuqa_(cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Kumarajiva_at_Kizil_Caves,_Kuqa_(cropped).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%B8%A0%E6%91%A9%E7%BD%97%E4%BB%80",
@@ -2683,7 +2605,7 @@ const portraitCredits = {
   },
   "legacy-cn-111-慧远": {
     "id": "legacy-cn-111-慧远",
-    "src": "/portraits/roster-171.jpg",
+    "src": "/portraits/optimized/portrait-171.webp",
     "file": "Hui_Yuan.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Hui_Yuan.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%85%A7%E9%81%A0",
@@ -2693,7 +2615,7 @@ const portraitCredits = {
   },
   "legacy-cn-112-法显": {
     "id": "legacy-cn-112-法显",
-    "src": "/portraits/roster-172.jpg",
+    "src": "/portraits/optimized/portrait-172.webp",
     "file": "Faxian_statue_in_Maritime_Experiential_Museum_&_Aquarium_Singapore.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Faxian_statue_in_Maritime_Experiential_Museum_%26_Aquarium_Singapore.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B3%95%E6%98%BE",
@@ -2703,7 +2625,7 @@ const portraitCredits = {
   },
   "legacy-cn-113-菩提达摩": {
     "id": "legacy-cn-113-菩提达摩",
-    "src": "/portraits/roster-173.png",
+    "src": "/portraits/optimized/portrait-173.webp",
     "file": "仙佛奇蹤_卷六_菩提達摩尊者.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E5%85%AD_%E8%8F%A9%E6%8F%90%E9%81%94%E6%91%A9%E5%B0%8A%E8%80%85.png",
     "article": "https://zh.wikipedia.org/wiki/%E8%8F%A9%E6%8F%90%E8%BE%BE%E6%91%A9",
@@ -2713,7 +2635,7 @@ const portraitCredits = {
   },
   "legacy-cn-118-永嘉玄觉": {
     "id": "legacy-cn-118-永嘉玄觉",
-    "src": "/portraits/roster-178.jpeg",
+    "src": "/portraits/optimized/portrait-178.webp",
     "file": "Yongjia_Xuanjue_Drawing_Zen.jpeg",
     "page": "https://commons.wikimedia.org/wiki/File:Yongjia_Xuanjue_Drawing_Zen.jpeg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B0%B8%E5%98%89%E7%8E%84%E8%A6%BA",
@@ -2723,7 +2645,7 @@ const portraitCredits = {
   },
   "legacy-cn-119-南岳怀让": {
     "id": "legacy-cn-119-南岳怀让",
-    "src": "/portraits/roster-179.jpg",
+    "src": "/portraits/optimized/portrait-179.webp",
     "file": "Thiền_Sư_Nam_Nhạc_Hoài_Nhượng.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Thi%E1%BB%81n_S%C6%B0_Nam_Nh%E1%BA%A1c_Ho%C3%A0i_Nh%C6%B0%E1%BB%A3ng.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8D%97%E5%B2%B3%E6%80%80%E8%AE%A9",
@@ -2733,7 +2655,7 @@ const portraitCredits = {
   },
   "legacy-cn-121-马祖道一": {
     "id": "legacy-cn-121-马祖道一",
-    "src": "/portraits/roster-181.jpg",
+    "src": "/portraits/optimized/portrait-181.webp",
     "file": "Thiền_Sư_Mã_Tổ_Đạo_Nhất_01.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Thi%E1%BB%81n_S%C6%B0_M%C3%A3_T%E1%BB%95_%C4%90%E1%BA%A1o_Nh%E1%BA%A5t_01.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%A9%AC%E7%A5%96%E9%81%93%E4%B8%80",
@@ -2743,7 +2665,7 @@ const portraitCredits = {
   },
   "legacy-cn-122-百丈怀海": {
     "id": "legacy-cn-122-百丈怀海",
-    "src": "/portraits/roster-182.jpg",
+    "src": "/portraits/optimized/portrait-182.webp",
     "file": "Thiền_Sư_Bách_Trượng_Hoàng_Hải.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Thi%E1%BB%81n_S%C6%B0_B%C3%A1ch_Tr%C6%B0%E1%BB%A3ng_Ho%C3%A0ng_H%E1%BA%A3i.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%99%BE%E4%B8%88%E6%80%80%E6%B5%B7",
@@ -2753,7 +2675,7 @@ const portraitCredits = {
   },
   "legacy-cn-123-黄檗希运": {
     "id": "legacy-cn-123-黄檗希运",
-    "src": "/portraits/roster-183.jpg",
+    "src": "/portraits/optimized/portrait-183.webp",
     "file": "Thiền_Sư_Hoàng_Bá_Hy_Vận.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Thi%E1%BB%81n_S%C6%B0_Ho%C3%A0ng_B%C3%A1_Hy_V%E1%BA%ADn.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%BB%83%E8%98%97%E5%B8%8C%E9%81%8B",
@@ -2763,7 +2685,7 @@ const portraitCredits = {
   },
   "legacy-cn-125-洞山良价": {
     "id": "legacy-cn-125-洞山良价",
-    "src": "/portraits/roster-185.jpg",
+    "src": "/portraits/optimized/portrait-185.webp",
     "file": "Dongshan_Liangjie_Image_Zen.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Dongshan_Liangjie_Image_Zen.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B4%9E%E5%B1%B1%E8%89%AF%E4%BB%B7",
@@ -2773,7 +2695,7 @@ const portraitCredits = {
   },
   "legacy-cn-126-曹山本寂": {
     "id": "legacy-cn-126-曹山本寂",
-    "src": "/portraits/roster-186.jpg",
+    "src": "/portraits/optimized/portrait-186.webp",
     "file": "Caoshan_Benji-Fozu_zhengzong_daoying39.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Caoshan_Benji-Fozu_zhengzong_daoying39.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9B%B9%E5%B1%B1%E6%9C%AC%E5%AF%82",
@@ -2783,7 +2705,7 @@ const portraitCredits = {
   },
   "legacy-cn-127-云门文偃": {
     "id": "legacy-cn-127-云门文偃",
-    "src": "/portraits/roster-187.jpg",
+    "src": "/portraits/optimized/portrait-187.webp",
     "file": "Yunmen-Fozu_zhengzong_daoying40.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Yunmen-Fozu_zhengzong_daoying40.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%9B%B2%E9%96%80%E6%96%87%E5%81%83",
@@ -2793,7 +2715,7 @@ const portraitCredits = {
   },
   "legacy-cn-128-法眼文益": {
     "id": "legacy-cn-128-法眼文益",
-    "src": "/portraits/roster-188.jpg",
+    "src": "/portraits/optimized/portrait-188.webp",
     "file": "Fa_jen_Ven_ji855-958.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Fa_jen_Ven_ji855-958.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B8%85%E6%B6%BC%E6%96%87%E7%9B%8A",
@@ -2803,7 +2725,7 @@ const portraitCredits = {
   },
   "legacy-cn-129-永明延寿": {
     "id": "legacy-cn-129-永明延寿",
-    "src": "/portraits/roster-189.jpg",
+    "src": "/portraits/optimized/portrait-189.webp",
     "file": "Yongming_Yanshou_Image.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Yongming_Yanshou_Image.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B0%B8%E6%98%8E%E5%BB%B6%E5%A3%BD",
@@ -2813,7 +2735,7 @@ const portraitCredits = {
   },
   "legacy-cn-130-圆悟克勤": {
     "id": "legacy-cn-130-圆悟克勤",
-    "src": "/portraits/roster-190.jpg",
+    "src": "/portraits/optimized/portrait-190.webp",
     "file": "Yuanwu_keqin_48th_generation.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Yuanwu_keqin_48th_generation.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%9C%9C%E6%82%9F%E5%85%8B%E5%8B%A4",
@@ -2823,7 +2745,7 @@ const portraitCredits = {
   },
   "legacy-cn-131-大慧宗杲": {
     "id": "legacy-cn-131-大慧宗杲",
-    "src": "/portraits/roster-191.jpg",
+    "src": "/portraits/optimized/portrait-191.webp",
     "file": "Dahui_49th_generation.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Dahui_49th_generation.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%85%A7%E5%AE%97%E6%9D%B2",
@@ -2833,7 +2755,7 @@ const portraitCredits = {
   },
   "legacy-cn-135-憨山德清": {
     "id": "legacy-cn-135-憨山德清",
-    "src": "/portraits/roster-195.png",
+    "src": "/portraits/optimized/portrait-195.webp",
     "file": "Chan_Master_Hanshan_Deqing_Ming_Dynasty.png",
     "page": "https://commons.wikimedia.org/wiki/File:Chan_Master_Hanshan_Deqing_Ming_Dynasty.png",
     "article": "https://zh.wikipedia.org/wiki/%E6%86%A8%E5%B1%B1%E5%BE%B7%E6%B8%85",
@@ -2841,19 +2763,9 @@ const portraitCredits = {
     "license": "Public domain",
     "licenseUrl": ""
   },
-  "legacy-cn-138-弘一法师": {
-    "id": "legacy-cn-138-弘一法师",
-    "src": "/portraits/roster-198.jpg",
-    "file": "Shutong_li.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Shutong_li.jpg",
-    "article": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%8F%94%E5%90%8C",
-    "artist": "Unknown author Unknown author",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
   "legacy-cn-143-布袋和尚": {
     "id": "legacy-cn-143-布袋和尚",
-    "src": "/portraits/roster-203.jpg",
+    "src": "/portraits/optimized/portrait-203.webp",
     "file": "20090607_Hangzhou_Feilai_Feng_9029.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:20090607_Hangzhou_Feilai_Feng_9029.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B8%83%E8%A2%8B%E5%92%8C%E5%B0%9A",
@@ -2863,7 +2775,7 @@ const portraitCredits = {
   },
   "legacy-cn-144-鉴真": {
     "id": "legacy-cn-144-鉴真",
-    "src": "/portraits/roster-204.jpg",
+    "src": "/portraits/optimized/portrait-204.webp",
     "file": "Ganjin_Toshodai-ji.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ganjin_Toshodai-ji.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%91%91%E7%9C%9F",
@@ -2873,7 +2785,7 @@ const portraitCredits = {
   },
   "legacy-cn-145-不空": {
     "id": "legacy-cn-145-不空",
-    "src": "/portraits/roster-205.jpg",
+    "src": "/portraits/optimized/portrait-205.webp",
     "file": "Portrait_of_Amoghavajra,_14_century,_National_Museum,_Tokyo.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Amoghavajra,_14_century,_National_Museum,_Tokyo.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%B8%8D%E7%A9%BA",
@@ -2883,7 +2795,7 @@ const portraitCredits = {
   },
   "legacy-cn-147-一行": {
     "id": "legacy-cn-147-一行",
-    "src": "/portraits/roster-207.jpg",
+    "src": "/portraits/optimized/portrait-207.webp",
     "file": "Eight_Patriarchs_of_the_Shingon_Sect_of_Buddhism,_I_Hsing_(Nara_National_Museum).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Eight_Patriarchs_of_the_Shingon_Sect_of_Buddhism,_I_Hsing_(Nara_National_Museum).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%B8%80%E8%A1%8C",
@@ -2893,7 +2805,7 @@ const portraitCredits = {
   },
   "legacy-cn-149-法藏": {
     "id": "legacy-cn-149-法藏",
-    "src": "/portraits/roster-209.png",
+    "src": "/portraits/optimized/portrait-209.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B3%95%E8%97%8F",
@@ -2903,7 +2815,7 @@ const portraitCredits = {
   },
   "legacy-cn-150-澄观": {
     "id": "legacy-cn-150-澄观",
-    "src": "/portraits/roster-210.png",
+    "src": "/portraits/optimized/portrait-210.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B8%85%E6%B6%BC%E6%BE%84%E8%A7%80",
@@ -2913,7 +2825,7 @@ const portraitCredits = {
   },
   "legacy-cn-152-智顗": {
     "id": "legacy-cn-152-智顗",
-    "src": "/portraits/roster-212.png",
+    "src": "/portraits/optimized/portrait-212.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E6%99%BA%E9%A1%97",
@@ -2923,7 +2835,7 @@ const portraitCredits = {
   },
   "legacy-cn-153-灌顶": {
     "id": "legacy-cn-153-灌顶",
-    "src": "/portraits/roster-213.jpg",
+    "src": "/portraits/optimized/portrait-213.webp",
     "file": "Mahamastakabhisheka_at_Shravanabelagola_in_August_2018_2.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Mahamastakabhisheka_at_Shravanabelagola_in_August_2018_2.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%81%8C%E9%A0%82",
@@ -2933,7 +2845,7 @@ const portraitCredits = {
   },
   "legacy-cn-154-吉藏": {
     "id": "legacy-cn-154-吉藏",
-    "src": "/portraits/roster-214.jpg",
+    "src": "/portraits/optimized/portrait-214.webp",
     "file": "Kashō_Daishi_(Todaiji).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Kash%C5%8D_Daishi_(Todaiji).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%90%89%E8%97%8F",
@@ -2943,7 +2855,7 @@ const portraitCredits = {
   },
   "legacy-cn-155-窥基": {
     "id": "legacy-cn-155-窥基",
-    "src": "/portraits/roster-215.jpg",
+    "src": "/portraits/optimized/portrait-215.webp",
     "file": "Jion_Daishi.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Jion_Daishi.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%B9%98%E5%9F%BA",
@@ -2953,7 +2865,7 @@ const portraitCredits = {
   },
   "legacy-cn-157-道宣": {
     "id": "legacy-cn-157-道宣",
-    "src": "/portraits/roster-217.png",
+    "src": "/portraits/optimized/portrait-217.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E9%81%93%E5%AE%A3",
@@ -2963,7 +2875,7 @@ const portraitCredits = {
   },
   "legacy-cn-159-善导": {
     "id": "legacy-cn-159-善导",
-    "src": "/portraits/roster-219.jpg",
+    "src": "/portraits/optimized/portrait-219.webp",
     "file": "MET_DP231452.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:MET_DP231452.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%96%84%E5%AF%BC",
@@ -2973,7 +2885,7 @@ const portraitCredits = {
   },
   "legacy-cn-162-张道陵": {
     "id": "legacy-cn-162-张道陵",
-    "src": "/portraits/roster-222.jpg",
+    "src": "/portraits/optimized/portrait-222.webp",
     "file": "Zhang_Daoling.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Zhang_Daoling.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%81%93%E9%99%B5",
@@ -2983,7 +2895,7 @@ const portraitCredits = {
   },
   "legacy-cn-164-张角": {
     "id": "legacy-cn-164-张角",
-    "src": "/portraits/roster-224.jpg",
+    "src": "/portraits/optimized/portrait-224.webp",
     "file": "Zhang_Jue_Qing_portrait.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Zhang_Jue_Qing_portrait.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%B5%E8%A7%92",
@@ -2993,7 +2905,7 @@ const portraitCredits = {
   },
   "legacy-cn-167-魏伯阳": {
     "id": "legacy-cn-167-魏伯阳",
-    "src": "/portraits/roster-227.png",
+    "src": "/portraits/optimized/portrait-227.webp",
     "file": "仙佛奇蹤_卷三_魏伯陽.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E4%B8%89_%E9%AD%8F%E4%BC%AF%E9%99%BD.png",
     "article": "https://zh.wikipedia.org/wiki/%E9%AD%8F%E4%BC%AF%E9%98%B3",
@@ -3003,7 +2915,7 @@ const portraitCredits = {
   },
   "legacy-cn-169-葛玄": {
     "id": "legacy-cn-169-葛玄",
-    "src": "/portraits/roster-229.jpg",
+    "src": "/portraits/optimized/portrait-229.webp",
     "file": "Guo_Xu_album_dated_1503_(7).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Guo_Xu_album_dated_1503_(7).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%91%9B%E7%8E%84",
@@ -3013,7 +2925,7 @@ const portraitCredits = {
   },
   "legacy-cn-173-孙思邈": {
     "id": "legacy-cn-173-孙思邈",
-    "src": "/portraits/roster-233.jpg",
+    "src": "/portraits/optimized/portrait-233.webp",
     "file": "Chinese_woodcut,_Famous_medical_figures;_Sun_Simiao_Wellcome_L0039324.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Chinese_woodcut,_Famous_medical_figures;_Sun_Simiao_Wellcome_L0039324.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AD%99%E6%80%9D%E9%82%88",
@@ -3023,7 +2935,7 @@ const portraitCredits = {
   },
   "legacy-cn-176-吕洞宾": {
     "id": "legacy-cn-176-吕洞宾",
-    "src": "/portraits/roster-236.jpg",
+    "src": "/portraits/optimized/portrait-236.webp",
     "file": "Lü_Dongbin.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:L%C3%BC_Dongbin.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%90%95%E6%B4%9E%E5%AE%BE",
@@ -3033,7 +2945,7 @@ const portraitCredits = {
   },
   "legacy-cn-177-刘海蟾": {
     "id": "legacy-cn-177-刘海蟾",
-    "src": "/portraits/roster-237.jpg",
+    "src": "/portraits/optimized/portrait-237.webp",
     "file": "Liu_Jun-Liu_Hai_and_Chan_Chu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Liu_Jun-Liu_Hai_and_Chan_Chu.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8A%89%E6%B5%B7%E8%9F%BE",
@@ -3043,7 +2955,7 @@ const portraitCredits = {
   },
   "legacy-cn-178-蓝采和": {
     "id": "legacy-cn-178-蓝采和",
-    "src": "/portraits/roster-238.jpg",
+    "src": "/portraits/optimized/portrait-238.webp",
     "file": "Lan_Caihe.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Lan_Caihe.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%97%8D%E9%87%87%E5%92%8C",
@@ -3053,7 +2965,7 @@ const portraitCredits = {
   },
   "legacy-cn-180-曹国舅": {
     "id": "legacy-cn-180-曹国舅",
-    "src": "/portraits/roster-240.jpg",
+    "src": "/portraits/optimized/portrait-240.webp",
     "file": "Cao_Guojiu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Cao_Guojiu.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9B%B9%E4%BD%BE",
@@ -3063,7 +2975,7 @@ const portraitCredits = {
   },
   "legacy-cn-182-张果老": {
     "id": "legacy-cn-182-张果老",
-    "src": "/portraits/roster-242.jpg",
+    "src": "/portraits/optimized/portrait-242.webp",
     "file": "Zhang_Guo_Lao.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Zhang_Guo_Lao.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%B5%E6%9E%9C%E8%80%81",
@@ -3073,7 +2985,7 @@ const portraitCredits = {
   },
   "legacy-cn-183-何仙姑": {
     "id": "legacy-cn-183-何仙姑",
-    "src": "/portraits/roster-243.jpg",
+    "src": "/portraits/optimized/portrait-243.webp",
     "file": "He_Xiangu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:He_Xiangu.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BD%95%E4%BB%99%E5%A7%91",
@@ -3083,7 +2995,7 @@ const portraitCredits = {
   },
   "legacy-cn-199-白玉蟾": {
     "id": "legacy-cn-199-白玉蟾",
-    "src": "/portraits/roster-259.png",
+    "src": "/portraits/optimized/portrait-259.webp",
     "file": "仙佛奇蹤_卷三_白玉蟾.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E4%B8%89_%E7%99%BD%E7%8E%89%E8%9F%BE.png",
     "article": "https://zh.wikipedia.org/wiki/%E7%99%BD%E7%8E%89%E8%9F%BE",
@@ -3093,7 +3005,7 @@ const portraitCredits = {
   },
   "legacy-cn-204-张继先": {
     "id": "legacy-cn-204-张继先",
-    "src": "/portraits/roster-264.png",
+    "src": "/portraits/optimized/portrait-264.webp",
     "file": "Zhang_Jixian.png",
     "page": "https://commons.wikimedia.org/wiki/File:Zhang_Jixian.png",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E7%BB%A7%E5%85%88",
@@ -3103,7 +3015,7 @@ const portraitCredits = {
   },
   "legacy-cn-213-安期生": {
     "id": "legacy-cn-213-安期生",
-    "src": "/portraits/roster-273.png",
+    "src": "/portraits/optimized/portrait-273.webp",
     "file": "仙佛奇蹤_卷一_安期生.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E4%B8%80_%E5%AE%89%E6%9C%9F%E7%94%9F.png",
     "article": "https://zh.wikipedia.org/wiki/%E5%AE%89%E6%9C%9F%E7%94%9F",
@@ -3111,29 +3023,9 @@ const portraitCredits = {
     "license": "Public domain",
     "licenseUrl": ""
   },
-  "legacy-cn-214-鬼谷先生": {
-    "id": "legacy-cn-214-鬼谷先生",
-    "src": "/portraits/roster-274.png",
-    "file": "仙佛奇蹤_卷一_鬼谷子.png",
-    "page": "https://commons.wikimedia.org/wiki/File:%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E4%B8%80_%E9%AC%BC%E8%B0%B7%E5%AD%90.png",
-    "article": "https://zh.wikipedia.org/wiki/%E9%AC%BC%E8%B0%B7%E5%AD%90",
-    "artist": "Hong Zicheng",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
   "legacy-cn-218-徐福": {
     "id": "legacy-cn-218-徐福",
-    "src": "/portraits/roster-278.jpg",
-    "file": "Xü_Fu.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:X%C3%BC_Fu.jpg",
-    "article": "https://zh.wikipedia.org/wiki/%E5%BE%90%E7%A6%8F",
-    "artist": "Fanghong",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
-  },
-  "legacy-cn-219-徐市": {
-    "id": "legacy-cn-219-徐市",
-    "src": "/portraits/roster-279.jpg",
+    "src": "/portraits/optimized/portrait-278.webp",
     "file": "Xü_Fu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:X%C3%BC_Fu.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BE%90%E7%A6%8F",
@@ -3143,7 +3035,7 @@ const portraitCredits = {
   },
   "legacy-cn-222-麻姑": {
     "id": "legacy-cn-222-麻姑",
-    "src": "/portraits/roster-282.jpg",
+    "src": "/portraits/optimized/portrait-282.webp",
     "file": "Qing_Dynasty_Immortal_Magu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Qing_Dynasty_Immortal_Magu.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%BA%BB%E5%A7%91",
@@ -3153,7 +3045,7 @@ const portraitCredits = {
   },
   "legacy-cn-223-许逊": {
     "id": "legacy-cn-223-许逊",
-    "src": "/portraits/roster-283.png",
+    "src": "/portraits/optimized/portrait-283.webp",
     "file": "仙佛奇蹤_卷二_許真君.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E4%BA%8C_%E8%A8%B1%E7%9C%9F%E5%90%9B.png",
     "article": "https://zh.wikipedia.org/wiki/%E8%AE%B8%E9%80%8A",
@@ -3163,7 +3055,7 @@ const portraitCredits = {
   },
   "legacy-cn-224-吴猛": {
     "id": "legacy-cn-224-吴猛",
-    "src": "/portraits/roster-284.jpg",
+    "src": "/portraits/optimized/portrait-284.webp",
     "file": "Weng_Zai_Deng_14.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Weng_Zai_Deng_14.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%90%B4%E7%8C%9B",
@@ -3171,29 +3063,9 @@ const portraitCredits = {
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
   },
-  "legacy-cn-225-许旌阳": {
-    "id": "legacy-cn-225-许旌阳",
-    "src": "/portraits/roster-285.png",
-    "file": "仙佛奇蹤_卷二_許真君.png",
-    "page": "https://commons.wikimedia.org/wiki/File:%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E4%BA%8C_%E8%A8%B1%E7%9C%9F%E5%90%9B.png",
-    "article": "https://zh.wikipedia.org/wiki/%E8%AE%B8%E9%80%8A",
-    "artist": "Hong Zicheng",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
-  "legacy-cn-226-许真君": {
-    "id": "legacy-cn-226-许真君",
-    "src": "/portraits/roster-286.png",
-    "file": "仙佛奇蹤_卷二_許真君.png",
-    "page": "https://commons.wikimedia.org/wiki/File:%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E4%BA%8C_%E8%A8%B1%E7%9C%9F%E5%90%9B.png",
-    "article": "https://zh.wikipedia.org/wiki/%E8%AE%B8%E9%80%8A",
-    "artist": "Hong Zicheng",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
   "legacy-cn-242-尹文": {
     "id": "legacy-cn-242-尹文",
-    "src": "/portraits/roster-302.jpg",
+    "src": "/portraits/optimized/portrait-302.webp",
     "file": "华祖立_玄门十子图_(尹文).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%8D%8E%E7%A5%96%E7%AB%8B_%E7%8E%84%E9%97%A8%E5%8D%81%E5%AD%90%E5%9B%BE_(%E5%B0%B9%E6%96%87).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B0%B9%E6%96%87",
@@ -3203,7 +3075,7 @@ const portraitCredits = {
   },
   "legacy-cn-243-关尹": {
     "id": "legacy-cn-243-关尹",
-    "src": "/portraits/roster-303.png",
+    "src": "/portraits/optimized/portrait-303.webp",
     "file": "仙佛奇蹤_卷一_尹喜.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E4%B8%80_%E5%B0%B9%E5%96%9C.png",
     "article": "https://zh.wikipedia.org/wiki/%E5%B0%B9%E5%96%9C",
@@ -3211,19 +3083,9 @@ const portraitCredits = {
     "license": "Public domain",
     "licenseUrl": ""
   },
-  "legacy-cn-245-庄周": {
-    "id": "legacy-cn-245-庄周",
-    "src": "/portraits/roster-305.jpg",
-    "file": "玄門十子圖_莊子.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:%E7%8E%84%E9%96%80%E5%8D%81%E5%AD%90%E5%9C%96_%E8%8E%8A%E5%AD%90.jpg",
-    "article": "https://zh.wikipedia.org/wiki/%E5%BA%84%E5%AD%90",
-    "artist": "Hua Zili (華祖立)",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
   "legacy-cn-246-惠施": {
     "id": "legacy-cn-246-惠施",
-    "src": "/portraits/roster-306.jpeg",
+    "src": "/portraits/optimized/portrait-306.webp",
     "file": "Confucius_and_His_Disciples_Yanzi_and_Huizi_at_the_Apricot_Altar_(Huizi).jpeg",
     "page": "https://commons.wikimedia.org/wiki/File:Confucius_and_His_Disciples_Yanzi_and_Huizi_at_the_Apricot_Altar_(Huizi).jpeg",
     "article": "https://zh.wikipedia.org/wiki/%E6%83%A0%E6%96%BD",
@@ -3233,7 +3095,7 @@ const portraitCredits = {
   },
   "legacy-cn-247-公孙龙": {
     "id": "legacy-cn-247-公孙龙",
-    "src": "/portraits/roster-307.jpg",
+    "src": "/portraits/optimized/portrait-307.webp",
     "file": "至聖先賢半身像_冊-039-公孫龍.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%87%B3%E8%81%96%E5%85%88%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A-039-%E5%85%AC%E5%AD%AB%E9%BE%8D.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%85%AC%E5%AD%99%E9%BE%99",
@@ -3241,19 +3103,9 @@ const portraitCredits = {
     "license": "Public domain",
     "licenseUrl": ""
   },
-  "legacy-cn-249-尹喜": {
-    "id": "legacy-cn-249-尹喜",
-    "src": "/portraits/roster-309.png",
-    "file": "仙佛奇蹤_卷一_尹喜.png",
-    "page": "https://commons.wikimedia.org/wiki/File:%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E4%B8%80_%E5%B0%B9%E5%96%9C.png",
-    "article": "https://zh.wikipedia.org/wiki/%E5%B0%B9%E5%96%9C",
-    "artist": "Hong Zicheng",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
   "legacy-cn-251-颜回": {
     "id": "legacy-cn-251-颜回",
-    "src": "/portraits/roster-311.jpg",
+    "src": "/portraits/optimized/portrait-311.webp",
     "file": "Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Yan_Hui_Ziyuan_(顏回_子淵).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Yan_Hui_Ziyuan_(%E9%A1%8F%E5%9B%9E_%E5%AD%90%E6%B7%B5).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%A2%9C%E5%9B%9E",
@@ -3263,7 +3115,7 @@ const portraitCredits = {
   },
   "legacy-cn-252-曾参": {
     "id": "legacy-cn-252-曾参",
-    "src": "/portraits/roster-312.jpg",
+    "src": "/portraits/optimized/portrait-312.webp",
     "file": "Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Zeng_Shen_Ziyu_(曾參_子輿).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Zeng_Shen_Ziyu_(%E6%9B%BE%E5%8F%83_%E5%AD%90%E8%BC%BF).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9B%BE%E5%AD%90",
@@ -3273,7 +3125,7 @@ const portraitCredits = {
   },
   "legacy-cn-253-子思": {
     "id": "legacy-cn-253-子思",
-    "src": "/portraits/roster-313.jpg",
+    "src": "/portraits/optimized/portrait-313.webp",
     "file": "Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Kong_Ji_Zisi_(孔伋_子思).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Kong_Ji_Zisi_(%E5%AD%94%E4%BC%8B_%E5%AD%90%E6%80%9D).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AD%90%E6%80%9D",
@@ -3283,7 +3135,7 @@ const portraitCredits = {
   },
   "legacy-cn-254-子夏": {
     "id": "legacy-cn-254-子夏",
-    "src": "/portraits/roster-314.jpg",
+    "src": "/portraits/optimized/portrait-314.webp",
     "file": "Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Bu_Shang_Zixia_(卜商_子夏).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Bu_Shang_Zixia_(%E5%8D%9C%E5%95%86_%E5%AD%90%E5%A4%8F).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AD%90%E5%A4%8F",
@@ -3293,7 +3145,7 @@ const portraitCredits = {
   },
   "legacy-cn-255-子贡": {
     "id": "legacy-cn-255-子贡",
-    "src": "/portraits/roster-315.jpg",
+    "src": "/portraits/optimized/portrait-315.webp",
     "file": "Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Duanmu_Ci_Zigong_(端木賜_子貢).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Duanmu_Ci_Zigong_(%E7%AB%AF%E6%9C%A8%E8%B3%9C_%E5%AD%90%E8%B2%A2).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AD%90%E8%B4%A1",
@@ -3303,7 +3155,7 @@ const portraitCredits = {
   },
   "legacy-cn-256-子路": {
     "id": "legacy-cn-256-子路",
-    "src": "/portraits/roster-316.jpg",
+    "src": "/portraits/optimized/portrait-316.webp",
     "file": "Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Zhong_You_Zilu_(仲由_子路).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Zhong_You_Zilu_(%E4%BB%B2%E7%94%B1_%E5%AD%90%E8%B7%AF).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AD%90%E8%B7%AF",
@@ -3313,7 +3165,7 @@ const portraitCredits = {
   },
   "legacy-cn-257-冉有": {
     "id": "legacy-cn-257-冉有",
-    "src": "/portraits/roster-317.jpg",
+    "src": "/portraits/optimized/portrait-317.webp",
     "file": "Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Ran_Qiu_Ziyou_(冉求_子有).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Ran_Qiu_Ziyou_(%E5%86%89%E6%B1%82_%E5%AD%90%E6%9C%89).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%86%89%E6%B1%82",
@@ -3323,7 +3175,7 @@ const portraitCredits = {
   },
   "legacy-cn-258-冉雍": {
     "id": "legacy-cn-258-冉雍",
-    "src": "/portraits/roster-318.jpg",
+    "src": "/portraits/optimized/portrait-318.webp",
     "file": "Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Ran_Yong_Zhonggong_(冉雍_仲弓).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Ran_Yong_Zhonggong_(%E5%86%89%E9%9B%8D_%E4%BB%B2%E5%BC%93).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%86%89%E9%9B%8D",
@@ -3333,7 +3185,7 @@ const portraitCredits = {
   },
   "legacy-cn-259-闵子骞": {
     "id": "legacy-cn-259-闵子骞",
-    "src": "/portraits/roster-319.jpg",
+    "src": "/portraits/optimized/portrait-319.webp",
     "file": "Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Min_Sun_Ziqian_(閔損_子騫).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Min_Sun_Ziqian_(%E9%96%94%E6%90%8D_%E5%AD%90%E9%A8%AB).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%97%B5%E6%8D%9F",
@@ -3343,7 +3195,7 @@ const portraitCredits = {
   },
   "legacy-cn-260-宰我": {
     "id": "legacy-cn-260-宰我",
-    "src": "/portraits/roster-320.jpg",
+    "src": "/portraits/optimized/portrait-320.webp",
     "file": "Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Zai_Yu_Ziwo_(宰予_子我).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Zai_Yu_Ziwo_(%E5%AE%B0%E4%BA%88_%E5%AD%90%E6%88%91).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AE%B0%E4%BA%88",
@@ -3351,19 +3203,9 @@ const portraitCredits = {
     "license": "Public domain",
     "licenseUrl": ""
   },
-  "legacy-cn-261-端木赐": {
-    "id": "legacy-cn-261-端木赐",
-    "src": "/portraits/roster-321.jpg",
-    "file": "Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Duanmu_Ci_Zigong_(端木賜_子貢).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Duanmu_Ci_Zigong_(%E7%AB%AF%E6%9C%A8%E8%B3%9C_%E5%AD%90%E8%B2%A2).jpg",
-    "article": "https://zh.wikipedia.org/wiki/%E5%AD%90%E8%B4%A1",
-    "artist": "anonymous",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
   "legacy-cn-262-有若": {
     "id": "legacy-cn-262-有若",
-    "src": "/portraits/roster-322.jpg",
+    "src": "/portraits/optimized/portrait-322.webp",
     "file": "至聖先賢半身像_冊-031-有若.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%87%B3%E8%81%96%E5%85%88%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A-031-%E6%9C%89%E8%8B%A5.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9C%89%E8%8B%A5",
@@ -3373,27 +3215,7 @@ const portraitCredits = {
   },
   "legacy-cn-263-曾皙": {
     "id": "legacy-cn-263-曾皙",
-    "src": "/portraits/roster-323.jpg",
-    "file": "至聖先賢半身像_冊-023-曾點.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:%E8%87%B3%E8%81%96%E5%85%88%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A-023-%E6%9B%BE%E9%BB%9E.jpg",
-    "article": "https://zh.wikipedia.org/wiki/%E6%9B%BE%E7%82%B9",
-    "artist": "Anonymous Unknown author",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
-  "legacy-cn-264-颜渊": {
-    "id": "legacy-cn-264-颜渊",
-    "src": "/portraits/roster-324.jpg",
-    "file": "Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Yan_Hui_Ziyuan_(顏回_子淵).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Yan_Hui_Ziyuan_(%E9%A1%8F%E5%9B%9E_%E5%AD%90%E6%B7%B5).jpg",
-    "article": "https://zh.wikipedia.org/wiki/%E9%A2%9C%E5%9B%9E",
-    "artist": "anonymous",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
-  "legacy-cn-265-曾点": {
-    "id": "legacy-cn-265-曾点",
-    "src": "/portraits/roster-325.jpg",
+    "src": "/portraits/optimized/portrait-323.webp",
     "file": "至聖先賢半身像_冊-023-曾點.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%87%B3%E8%81%96%E5%85%88%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A-023-%E6%9B%BE%E9%BB%9E.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9B%BE%E7%82%B9",
@@ -3403,7 +3225,7 @@ const portraitCredits = {
   },
   "legacy-cn-266-子游": {
     "id": "legacy-cn-266-子游",
-    "src": "/portraits/roster-326.jpg",
+    "src": "/portraits/optimized/portrait-326.webp",
     "file": "Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Yan_Yan_Ziyou_(言偃_子游).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Yan_Yan_Ziyou_(%E8%A8%80%E5%81%83_%E5%AD%90%E6%B8%B8).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%A8%80%E5%81%83",
@@ -3413,7 +3235,7 @@ const portraitCredits = {
   },
   "legacy-cn-268-子羔": {
     "id": "legacy-cn-268-子羔",
-    "src": "/portraits/roster-328.jpg",
+    "src": "/portraits/optimized/portrait-328.webp",
     "file": "至聖先賢半身像_冊-024-高柴.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%87%B3%E8%81%96%E5%85%88%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A-024-%E9%AB%98%E6%9F%B4.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%AB%98%E6%9F%B4",
@@ -3421,19 +3243,9 @@ const portraitCredits = {
     "license": "Public domain",
     "licenseUrl": ""
   },
-  "legacy-cn-275-孟轲": {
-    "id": "legacy-cn-275-孟轲",
-    "src": "/portraits/roster-335.jpg",
-    "file": "Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Meng_Ke_(孟軻).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Meng_Ke_(%E5%AD%9F%E8%BB%BB).jpg",
-    "article": "https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%AD%90",
-    "artist": "anonymous",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
   "legacy-cn-280-戴圣": {
     "id": "legacy-cn-280-戴圣",
-    "src": "/portraits/roster-340.jpg",
+    "src": "/portraits/optimized/portrait-340.webp",
     "file": "至聖先賢半身像_冊-095-戴聖.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%87%B3%E8%81%96%E5%85%88%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A-095-%E6%88%B4%E8%81%96.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%88%B4%E5%9C%A3",
@@ -3443,7 +3255,7 @@ const portraitCredits = {
   },
   "legacy-cn-283-毛苌": {
     "id": "legacy-cn-283-毛苌",
-    "src": "/portraits/roster-343.jpg",
+    "src": "/portraits/optimized/portrait-343.webp",
     "file": "至聖先賢半身像_冊-094-毛萇.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%87%B3%E8%81%96%E5%85%88%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A-094-%E6%AF%9B%E8%90%87.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%AF%9B%E8%8B%8C",
@@ -3453,7 +3265,7 @@ const portraitCredits = {
   },
   "legacy-cn-284-伏生": {
     "id": "legacy-cn-284-伏生",
-    "src": "/portraits/roster-344.jpg",
+    "src": "/portraits/optimized/portrait-344.webp",
     "file": "Wang_Wei_001.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Wang_Wei_001.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BC%8F%E7%94%9F",
@@ -3463,7 +3275,7 @@ const portraitCredits = {
   },
   "legacy-cn-285-孔安国": {
     "id": "legacy-cn-285-孔安国",
-    "src": "/portraits/roster-345.jpg",
+    "src": "/portraits/optimized/portrait-345.webp",
     "file": "至聖先賢半身像_冊-097-孔安國.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%87%B3%E8%81%96%E5%85%88%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A-097-%E5%AD%94%E5%AE%89%E5%9C%8B.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AD%94%E5%AE%89%E5%9B%BD",
@@ -3473,7 +3285,7 @@ const portraitCredits = {
   },
   "legacy-cn-289-扬雄": {
     "id": "legacy-cn-289-扬雄",
-    "src": "/portraits/roster-349.jpg",
+    "src": "/portraits/optimized/portrait-349.webp",
     "file": "至聖先賢半身像_冊-098-楊雄.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%87%B3%E8%81%96%E5%85%88%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A-098-%E6%A5%8A%E9%9B%84.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%89%AC%E9%9B%84",
@@ -3483,7 +3295,7 @@ const portraitCredits = {
   },
   "legacy-cn-292-班固": {
     "id": "legacy-cn-292-班固",
-    "src": "/portraits/roster-352.jpg",
+    "src": "/portraits/optimized/portrait-352.webp",
     "file": "Ban_Gu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ban_Gu.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8F%AD%E5%9B%BA",
@@ -3493,7 +3305,7 @@ const portraitCredits = {
   },
   "legacy-cn-293-班昭": {
     "id": "legacy-cn-293-班昭",
-    "src": "/portraits/roster-353.jpg",
+    "src": "/portraits/optimized/portrait-353.webp",
     "file": "Ban_Zhao.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ban_Zhao.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8F%AD%E6%98%AD",
@@ -3503,7 +3315,7 @@ const portraitCredits = {
   },
   "legacy-cn-294-郑玄": {
     "id": "legacy-cn-294-郑玄",
-    "src": "/portraits/roster-354.jpg",
+    "src": "/portraits/optimized/portrait-354.webp",
     "file": "至聖先賢半身像_冊-100-鄭玄.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%87%B3%E8%81%96%E5%85%88%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A-100-%E9%84%AD%E7%8E%84.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%83%91%E7%8E%84",
@@ -3513,7 +3325,7 @@ const portraitCredits = {
   },
   "legacy-cn-295-何休": {
     "id": "legacy-cn-295-何休",
-    "src": "/portraits/roster-355.jpg",
+    "src": "/portraits/optimized/portrait-355.webp",
     "file": "至聖先賢半身像_冊-106-何休.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%87%B3%E8%81%96%E5%85%88%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A-106-%E4%BD%95%E4%BC%91.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BD%95%E4%BC%91",
@@ -3523,7 +3335,7 @@ const portraitCredits = {
   },
   "legacy-cn-304-桑弘羊": {
     "id": "legacy-cn-304-桑弘羊",
-    "src": "/portraits/roster-364.jpg",
+    "src": "/portraits/optimized/portrait-364.webp",
     "file": "Sang_Hongyang.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Sang_Hongyang.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%A1%91%E5%BC%98%E7%BE%8A",
@@ -3533,7 +3345,7 @@ const portraitCredits = {
   },
   "legacy-cn-310-王弼": {
     "id": "legacy-cn-310-王弼",
-    "src": "/portraits/roster-370.jpg",
+    "src": "/portraits/optimized/portrait-370.webp",
     "file": "至聖先賢半身像_冊-107-王弼.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%87%B3%E8%81%96%E5%85%88%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A-107-%E7%8E%8B%E5%BC%BC.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%BC%BC",
@@ -3543,7 +3355,7 @@ const portraitCredits = {
   },
   "legacy-cn-311-何晏": {
     "id": "legacy-cn-311-何晏",
-    "src": "/portraits/roster-371.jpg",
+    "src": "/portraits/optimized/portrait-371.webp",
     "file": "Commentaries_of_the_Analects_of_Confucius.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Commentaries_of_the_Analects_of_Confucius.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BD%95%E6%99%8F",
@@ -3553,7 +3365,7 @@ const portraitCredits = {
   },
   "legacy-cn-312-阮籍": {
     "id": "legacy-cn-312-阮籍",
-    "src": "/portraits/roster-372.jpg",
+    "src": "/portraits/optimized/portrait-372.webp",
     "file": "Ruan_Ji_or_scholar._Sun_Wei._ShanghaiMuseum.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ruan_Ji_or_scholar._Sun_Wei._ShanghaiMuseum.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%AE%E7%B1%8D",
@@ -3563,7 +3375,7 @@ const portraitCredits = {
   },
   "legacy-cn-313-嵇康": {
     "id": "legacy-cn-313-嵇康",
-    "src": "/portraits/roster-373.jpg",
+    "src": "/portraits/optimized/portrait-373.webp",
     "file": "Seven_Sages_of_the_Bamboo_Grove.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Seven_Sages_of_the_Bamboo_Grove.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B5%87%E5%BA%B7",
@@ -3573,7 +3385,7 @@ const portraitCredits = {
   },
   "legacy-cn-320-刘徽": {
     "id": "legacy-cn-320-刘徽",
-    "src": "/portraits/roster-380.jpg",
+    "src": "/portraits/optimized/portrait-380.webp",
     "file": "Hunan_International_Economics_University20.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Hunan_International_Economics_University20.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%88%98%E5%BE%BD",
@@ -3583,7 +3395,7 @@ const portraitCredits = {
   },
   "legacy-cn-324-范宁": {
     "id": "legacy-cn-324-范宁",
-    "src": "/portraits/roster-384.jpg",
+    "src": "/portraits/optimized/portrait-384.webp",
     "file": "至聖先賢半身像_冊-104-范寗.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E8%87%B3%E8%81%96%E5%85%88%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A-104-%E8%8C%83%E5%AF%97.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%8C%83%E7%94%AF",
@@ -3593,7 +3405,7 @@ const portraitCredits = {
   },
   "legacy-cn-329-长孙无忌": {
     "id": "legacy-cn-329-长孙无忌",
-    "src": "/portraits/roster-389.png",
+    "src": "/portraits/optimized/portrait-389.webp",
     "file": "Chinese_-_The_Twenty-Four_Ministers_of_the_Tang_-T'ang-_Dynasty_Emperor_Taizong_-T'ai-Tsung-_-_Walters_3557_-_Changsun_Wuji.png",
     "page": "https://commons.wikimedia.org/wiki/File:Chinese_-_The_Twenty-Four_Ministers_of_the_Tang_-T%27ang-_Dynasty_Emperor_Taizong_-T%27ai-Tsung-_-_Walters_3557_-_Changsun_Wuji.png",
     "article": "https://zh.wikipedia.org/wiki/%E9%95%BF%E5%AD%99%E6%97%A0%E5%BF%8C",
@@ -3603,7 +3415,7 @@ const portraitCredits = {
   },
   "legacy-cn-331-姚崇": {
     "id": "legacy-cn-331-姚崇",
-    "src": "/portraits/roster-391.jpg",
+    "src": "/portraits/optimized/portrait-391.webp",
     "file": "Portraits_of_Famous_Men_-_Yao_Chong.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Portraits_of_Famous_Men_-_Yao_Chong.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%A7%9A%E5%B4%87",
@@ -3613,7 +3425,7 @@ const portraitCredits = {
   },
   "legacy-cn-335-李泌": {
     "id": "legacy-cn-335-李泌",
-    "src": "/portraits/roster-395.jpg",
+    "src": "/portraits/optimized/portrait-395.webp",
     "file": "Li_Bi,_WuShuangPu_(1694,_1996).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Li_Bi,_WuShuangPu_(1694,_1996).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%B3%8C",
@@ -3623,7 +3435,7 @@ const portraitCredits = {
   },
   "legacy-cn-348-曾巩": {
     "id": "legacy-cn-348-曾巩",
-    "src": "/portraits/roster-408.jpg",
+    "src": "/portraits/optimized/portrait-408.webp",
     "file": "Zeng_Gong.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Zeng_Gong.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9B%BE%E5%B7%A9",
@@ -3633,7 +3445,7 @@ const portraitCredits = {
   },
   "legacy-cn-353-李纲": {
     "id": "legacy-cn-353-李纲",
-    "src": "/portraits/roster-413.jpg",
+    "src": "/portraits/optimized/portrait-413.webp",
     "file": "Li_Kang.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Li_Kang.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E7%BA%B2",
@@ -3643,7 +3455,7 @@ const portraitCredits = {
   },
   "legacy-cn-360-包拯": {
     "id": "legacy-cn-360-包拯",
-    "src": "/portraits/roster-420.jpg",
+    "src": "/portraits/optimized/portrait-420.webp",
     "file": "Portrait_of_Bao_Zheng_(998-1061).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Bao_Zheng_(998-1061).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8C%85%E6%8B%AF",
@@ -3653,7 +3465,7 @@ const portraitCredits = {
   },
   "legacy-cn-362-叶适": {
     "id": "legacy-cn-362-叶适",
-    "src": "/portraits/roster-422.jpg",
+    "src": "/portraits/optimized/portrait-422.webp",
     "file": "Ye_Shi_wzm.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ye_Shi_wzm.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8F%B6%E9%80%82",
@@ -3663,7 +3475,7 @@ const portraitCredits = {
   },
   "legacy-cn-364-真德秀": {
     "id": "legacy-cn-364-真德秀",
-    "src": "/portraits/roster-424.jpg",
+    "src": "/portraits/optimized/portrait-424.webp",
     "file": "Portraits_of_Famous_Men_-_Zhen_Dexiu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Portraits_of_Famous_Men_-_Zhen_Dexiu.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%9C%9F%E5%BE%B7%E7%A7%80",
@@ -3671,19 +3483,9 @@ const portraitCredits = {
     "license": "Public domain",
     "licenseUrl": ""
   },
-  "legacy-cn-366-王守仁": {
-    "id": "legacy-cn-366-王守仁",
-    "src": "/portraits/roster-426.jpg",
-    "file": "蔡世新_王阳明肖像轴_(cropped).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:%E8%94%A1%E4%B8%96%E6%96%B0_%E7%8E%8B%E9%98%B3%E6%98%8E%E8%82%96%E5%83%8F%E8%BD%B4_(cropped).jpg",
-    "article": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E9%99%BD%E6%98%8E",
-    "artist": "Cai Shixin",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
   "legacy-cn-373-戴震": {
     "id": "legacy-cn-373-戴震",
-    "src": "/portraits/roster-433.png",
+    "src": "/portraits/optimized/portrait-433.webp",
     "file": "Dai_Zhen.png",
     "page": "https://commons.wikimedia.org/wiki/File:Dai_Zhen.png",
     "article": "https://zh.wikipedia.org/wiki/%E6%88%B4%E9%9C%87",
@@ -3693,7 +3495,7 @@ const portraitCredits = {
   },
   "legacy-cn-376-章学诚": {
     "id": "legacy-cn-376-章学诚",
-    "src": "/portraits/roster-436.jpg",
+    "src": "/portraits/optimized/portrait-436.webp",
     "file": "Zhang_Xuecheng.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Zhang_Xuecheng.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%AB%A0%E5%AD%B8%E8%AA%A0",
@@ -3703,7 +3505,7 @@ const portraitCredits = {
   },
   "legacy-cn-378-魏源": {
     "id": "legacy-cn-378-魏源",
-    "src": "/portraits/roster-438.png",
+    "src": "/portraits/optimized/portrait-438.webp",
     "file": "Wei_Yuan.png",
     "page": "https://commons.wikimedia.org/wiki/File:Wei_Yuan.png",
     "article": "https://zh.wikipedia.org/wiki/%E9%AD%8F%E6%BA%90",
@@ -3713,7 +3515,7 @@ const portraitCredits = {
   },
   "legacy-cn-379-左宗棠": {
     "id": "legacy-cn-379-左宗棠",
-    "src": "/portraits/roster-439.jpg",
+    "src": "/portraits/optimized/portrait-439.webp",
     "file": "Zuo_Zongtang_1875.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Zuo_Zongtang_1875.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B7%A6%E5%AE%97%E6%A3%A0",
@@ -3723,7 +3525,7 @@ const portraitCredits = {
   },
   "legacy-cn-381-康有为": {
     "id": "legacy-cn-381-康有为",
-    "src": "/portraits/roster-441.jpg",
+    "src": "/portraits/optimized/portrait-441.webp",
     "file": "Kang_Yu-wei_cph.3a36142.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Kang_Yu-wei_cph.3a36142.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BA%B7%E6%9C%89%E4%B8%BA",
@@ -3733,7 +3535,7 @@ const portraitCredits = {
   },
   "legacy-cn-384-蔡元培": {
     "id": "legacy-cn-384-蔡元培",
-    "src": "/portraits/roster-444.jpg",
+    "src": "/portraits/optimized/portrait-444.webp",
     "file": "Cai_Yuanpei_(Cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Cai_Yuanpei_(Cropped).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%94%A1%E5%85%83%E5%9F%B9",
@@ -3743,7 +3545,7 @@ const portraitCredits = {
   },
   "legacy-cn-389-牟宗三": {
     "id": "legacy-cn-389-牟宗三",
-    "src": "/portraits/roster-449.jpg",
+    "src": "/portraits/optimized/portrait-449.webp",
     "file": "Mou_Tsung-san_1960s.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Mou_Tsung-san_1960s.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%89%9F%E5%AE%97%E4%B8%89",
@@ -3753,7 +3555,7 @@ const portraitCredits = {
   },
   "legacy-cn-390-张君劢": {
     "id": "legacy-cn-390-张君劢",
-    "src": "/portraits/roster-450.jpg",
+    "src": "/portraits/optimized/portrait-450.webp",
     "file": "Zhang_Junmai2_cropped.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Zhang_Junmai2_cropped.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%90%9B%E5%8A%A2",
@@ -3763,7 +3565,7 @@ const portraitCredits = {
   },
   "legacy-cn-392-曹操": {
     "id": "legacy-cn-392-曹操",
-    "src": "/portraits/roster-452.jpg",
+    "src": "/portraits/optimized/portrait-452.webp",
     "file": "Cao_Cao_scth.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Cao_Cao_scth.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9B%B9%E6%93%8D",
@@ -3773,7 +3575,7 @@ const portraitCredits = {
   },
   "legacy-cn-393-曹丕": {
     "id": "legacy-cn-393-曹丕",
-    "src": "/portraits/roster-453.jpg",
+    "src": "/portraits/optimized/portrait-453.webp",
     "file": "Cao_Pi_Tang.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Cao_Pi_Tang.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9B%B9%E4%B8%95",
@@ -3783,7 +3585,7 @@ const portraitCredits = {
   },
   "legacy-cn-401-谢灵运": {
     "id": "legacy-cn-401-谢灵运",
-    "src": "/portraits/roster-461.jpg",
+    "src": "/portraits/optimized/portrait-461.webp",
     "file": "Southern_and_Northern_Dynasties_poet_Xie_Lingyun.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Southern_and_Northern_Dynasties_poet_Xie_Lingyun.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%B0%A2%E7%81%B5%E8%BF%90",
@@ -3793,7 +3595,7 @@ const portraitCredits = {
   },
   "legacy-cn-404-王勃": {
     "id": "legacy-cn-404-王勃",
-    "src": "/portraits/roster-464.jpg",
+    "src": "/portraits/optimized/portrait-464.webp",
     "file": "Wang_Bo.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Wang_Bo.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8B%83",
@@ -3803,7 +3605,7 @@ const portraitCredits = {
   },
   "legacy-cn-406-卢照邻": {
     "id": "legacy-cn-406-卢照邻",
-    "src": "/portraits/roster-466.jpg",
+    "src": "/portraits/optimized/portrait-466.webp",
     "file": "Lu_Chaolin.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Lu_Chaolin.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8D%A2%E7%85%A7%E9%82%BB",
@@ -3813,7 +3615,7 @@ const portraitCredits = {
   },
   "legacy-cn-407-骆宾王": {
     "id": "legacy-cn-407-骆宾王",
-    "src": "/portraits/roster-467.jpg",
+    "src": "/portraits/optimized/portrait-467.webp",
     "file": "Luo_Binwang.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Luo_Binwang.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%AA%86%E5%AE%BE%E7%8E%8B",
@@ -3823,7 +3625,7 @@ const portraitCredits = {
   },
   "legacy-cn-408-陈子昂": {
     "id": "legacy-cn-408-陈子昂",
-    "src": "/portraits/roster-468.jpg",
+    "src": "/portraits/optimized/portrait-468.webp",
     "file": "Tang_dynasty_poet_Chen_Zi'ang.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Tang_dynasty_poet_Chen_Zi%27ang.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%99%B3%E5%AD%90%E6%98%82",
@@ -3833,7 +3635,7 @@ const portraitCredits = {
   },
   "legacy-cn-409-孟浩然": {
     "id": "legacy-cn-409-孟浩然",
-    "src": "/portraits/roster-469.jpg",
+    "src": "/portraits/optimized/portrait-469.webp",
     "file": "Meng_Haoran.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Meng_Haoran.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AD%9F%E6%B5%A9%E7%84%B6",
@@ -3843,7 +3645,7 @@ const portraitCredits = {
   },
   "legacy-cn-410-王维": {
     "id": "legacy-cn-410-王维",
-    "src": "/portraits/roster-470.jpg",
+    "src": "/portraits/optimized/portrait-470.webp",
     "file": "Wang_Wei.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Wang_Wei.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%BB%B4",
@@ -3853,7 +3655,7 @@ const portraitCredits = {
   },
   "legacy-cn-419-李贺": {
     "id": "legacy-cn-419-李贺",
-    "src": "/portraits/roster-479.jpg",
+    "src": "/portraits/optimized/portrait-479.webp",
     "file": "Drawing_of_the_Chinese_poet_Li_He.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Drawing_of_the_Chinese_poet_Li_He.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E8%B4%BA",
@@ -3863,7 +3665,7 @@ const portraitCredits = {
   },
   "legacy-cn-420-杜牧": {
     "id": "legacy-cn-420-杜牧",
-    "src": "/portraits/roster-480.jpg",
+    "src": "/portraits/optimized/portrait-480.webp",
     "file": "Du_Mu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Du_Mu.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9D%9C%E7%89%A7",
@@ -3873,7 +3675,7 @@ const portraitCredits = {
   },
   "legacy-cn-422-温庭筠": {
     "id": "legacy-cn-422-温庭筠",
-    "src": "/portraits/roster-482.jpg",
+    "src": "/portraits/optimized/portrait-482.webp",
     "file": "Wen_Tingyun.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Wen_Tingyun.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B8%A9%E5%BA%AD%E7%AD%A0",
@@ -3883,7 +3685,7 @@ const portraitCredits = {
   },
   "legacy-cn-424-元稹": {
     "id": "legacy-cn-424-元稹",
-    "src": "/portraits/roster-484.jpg",
+    "src": "/portraits/optimized/portrait-484.webp",
     "file": "Yuan_Chen.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Yuan_Chen.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%85%83%E7%A8%B9",
@@ -3893,7 +3695,7 @@ const portraitCredits = {
   },
   "legacy-cn-425-李煜": {
     "id": "legacy-cn-425-李煜",
-    "src": "/portraits/roster-485.jpg",
+    "src": "/portraits/optimized/portrait-485.webp",
     "file": "Li_Yu_scth.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Li_Yu_scth.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E7%85%9C",
@@ -3903,7 +3705,7 @@ const portraitCredits = {
   },
   "legacy-cn-432-陆游": {
     "id": "legacy-cn-432-陆游",
-    "src": "/portraits/roster-492.jpg",
+    "src": "/portraits/optimized/portrait-492.webp",
     "file": "陸游_肖像.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E9%99%B8%E6%B8%B8_%E8%82%96%E5%83%8F.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%99%B8%E6%B8%B8",
@@ -3913,7 +3715,7 @@ const portraitCredits = {
   },
   "legacy-cn-436-关汉卿": {
     "id": "legacy-cn-436-关汉卿",
-    "src": "/portraits/roster-496.jpg",
+    "src": "/portraits/optimized/portrait-496.webp",
     "file": "Ji50,_3-2,_Portrait_of_Guan_Hanqing,_1958.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ji50,_3-2,_Portrait_of_Guan_Hanqing,_1958.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%85%B3%E6%B1%89%E5%8D%BF",
@@ -3923,7 +3725,7 @@ const portraitCredits = {
   },
   "legacy-cn-438-马致远": {
     "id": "legacy-cn-438-马致远",
-    "src": "/portraits/roster-498.jpg",
+    "src": "/portraits/optimized/portrait-498.webp",
     "file": "Statue_of_Ma_Zhiyuan,_Former_Residence_of_Ma_Zhiyuan.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Statue_of_Ma_Zhiyuan,_Former_Residence_of_Ma_Zhiyuan.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%87%B4%E8%BF%9C",
@@ -3933,7 +3735,7 @@ const portraitCredits = {
   },
   "legacy-cn-439-白朴": {
     "id": "legacy-cn-439-白朴",
-    "src": "/portraits/roster-499.jpg",
+    "src": "/portraits/optimized/portrait-499.webp",
     "file": "A_statue_of_Bai_Pu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:A_statue_of_Bai_Pu.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%99%BD%E6%A8%B8",
@@ -3943,7 +3745,7 @@ const portraitCredits = {
   },
   "legacy-cn-441-施耐庵": {
     "id": "legacy-cn-441-施耐庵",
-    "src": "/portraits/roster-501.jpg",
+    "src": "/portraits/optimized/portrait-501.webp",
     "file": "Statue_of_Shi_Naian_(cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Statue_of_Shi_Naian_(cropped).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%96%BD%E8%80%90%E5%BA%B5",
@@ -3953,7 +3755,7 @@ const portraitCredits = {
   },
   "legacy-cn-442-罗贯中": {
     "id": "legacy-cn-442-罗贯中",
-    "src": "/portraits/roster-502.jpg",
+    "src": "/portraits/optimized/portrait-502.webp",
     "file": "罗贯中_01.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E7%BD%97%E8%B4%AF%E4%B8%AD_01.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%BD%97%E8%B4%AF%E4%B8%AD",
@@ -3963,7 +3765,7 @@ const portraitCredits = {
   },
   "legacy-cn-443-吴承恩": {
     "id": "legacy-cn-443-吴承恩",
-    "src": "/portraits/roster-503.jpg",
+    "src": "/portraits/optimized/portrait-503.webp",
     "file": "20240811_Bust_of_Wu_Cheng’en.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:20240811_Bust_of_Wu_Cheng%E2%80%99en.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%90%B4%E6%89%BF%E6%81%A9",
@@ -3973,7 +3775,7 @@ const portraitCredits = {
   },
   "legacy-cn-446-纳兰性德": {
     "id": "legacy-cn-446-纳兰性德",
-    "src": "/portraits/roster-506.jpg",
+    "src": "/portraits/optimized/portrait-506.webp",
     "file": "Nalan_Xingde.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Nalan_Xingde.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%BA%B3%E5%85%B0%E6%80%A7%E5%BE%B7",
@@ -3983,7 +3785,7 @@ const portraitCredits = {
   },
   "legacy-cn-447-袁枚": {
     "id": "legacy-cn-447-袁枚",
-    "src": "/portraits/roster-507.png",
+    "src": "/portraits/optimized/portrait-507.webp",
     "file": "Yuan_Mei.png",
     "page": "https://commons.wikimedia.org/wiki/File:Yuan_Mei.png",
     "article": "https://zh.wikipedia.org/wiki/%E8%A2%81%E6%9E%9A",
@@ -3993,7 +3795,7 @@ const portraitCredits = {
   },
   "legacy-cn-448-郑板桥": {
     "id": "legacy-cn-448-郑板桥",
-    "src": "/portraits/roster-508.png",
+    "src": "/portraits/optimized/portrait-508.webp",
     "file": "Zheng_Xie.png",
     "page": "https://commons.wikimedia.org/wiki/File:Zheng_Xie.png",
     "article": "https://zh.wikipedia.org/wiki/%E9%83%91%E6%9D%BF%E6%A1%A5",
@@ -4003,7 +3805,7 @@ const portraitCredits = {
   },
   "legacy-cn-449-齐白石": {
     "id": "legacy-cn-449-齐白石",
-    "src": "/portraits/roster-509.jpg",
+    "src": "/portraits/optimized/portrait-509.webp",
     "file": "Qi_Baishi_(1956),_by_Zheng_Jingkang.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Qi_Baishi_(1956),_by_Zheng_Jingkang.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%BD%90%E7%99%BD%E7%9F%B3",
@@ -4013,7 +3815,7 @@ const portraitCredits = {
   },
   "legacy-cn-452-顾恺之": {
     "id": "legacy-cn-452-顾恺之",
-    "src": "/portraits/roster-512.jpg",
+    "src": "/portraits/optimized/portrait-512.webp",
     "file": "Gu_Kaizhi.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Gu_Kaizhi.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%A1%BE%E6%81%BA%E4%B9%8B",
@@ -4023,7 +3825,7 @@ const portraitCredits = {
   },
   "legacy-cn-453-吴道子": {
     "id": "legacy-cn-453-吴道子",
-    "src": "/portraits/roster-513.jpg",
+    "src": "/portraits/optimized/portrait-513.webp",
     "file": "Confucius_Tang_Dynasty.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Confucius_Tang_Dynasty.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%90%B4%E9%81%93%E5%AD%90",
@@ -4033,7 +3835,7 @@ const portraitCredits = {
   },
   "legacy-cn-454-王羲之": {
     "id": "legacy-cn-454-王羲之",
-    "src": "/portraits/roster-514.jpg",
+    "src": "/portraits/optimized/portrait-514.webp",
     "file": "Portraits_of_Famous_Men_-_Wang_Xizhi_(cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Portraits_of_Famous_Men_-_Wang_Xizhi_(cropped).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%BE%B2%E4%B9%8B",
@@ -4043,7 +3845,7 @@ const portraitCredits = {
   },
   "legacy-cn-455-王献之": {
     "id": "legacy-cn-455-王献之",
-    "src": "/portraits/roster-515.jpg",
+    "src": "/portraits/optimized/portrait-515.webp",
     "file": "Du_Jin_-_Wang_Xianzhi_(Wang_Hsien-Chih)_and_Two_Wives_Among_Willows_and_Rocks_-_Walters_355.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Du_Jin_-_Wang_Xianzhi_(Wang_Hsien-Chih)_and_Two_Wives_Among_Willows_and_Rocks_-_Walters_355.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%8C%AE%E4%B9%8B",
@@ -4053,7 +3855,7 @@ const portraitCredits = {
   },
   "legacy-cn-456-欧阳询": {
     "id": "legacy-cn-456-欧阳询",
-    "src": "/portraits/roster-516.jpg",
+    "src": "/portraits/optimized/portrait-516.webp",
     "file": "Ouyang_Xun_Bu_Shang_Tie.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ouyang_Xun_Bu_Shang_Tie.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%AC%A7%E9%98%B3%E8%AF%A2",
@@ -4063,7 +3865,7 @@ const portraitCredits = {
   },
   "legacy-cn-459-怀素": {
     "id": "legacy-cn-459-怀素",
-    "src": "/portraits/roster-519.jpg",
+    "src": "/portraits/optimized/portrait-519.webp",
     "file": "怀素_苦笋帖.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%80%80%E7%B4%A0_%E8%8B%A6%E7%AC%8B%E5%B8%96.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%80%80%E7%B4%A0",
@@ -4073,7 +3875,7 @@ const portraitCredits = {
   },
   "legacy-cn-461-扁鹊": {
     "id": "legacy-cn-461-扁鹊",
-    "src": "/portraits/roster-521.jpg",
+    "src": "/portraits/optimized/portrait-521.webp",
     "file": "Chinese_woodcut,_Famous_medical_figures;_Portrait_of_Bian_Que_Wellcome_L0039317.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Chinese_woodcut,_Famous_medical_figures;_Portrait_of_Bian_Que_Wellcome_L0039317.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%89%81%E9%B9%8A",
@@ -4083,7 +3885,7 @@ const portraitCredits = {
   },
   "legacy-cn-462-仓公": {
     "id": "legacy-cn-462-仓公",
-    "src": "/portraits/roster-522.jpg",
+    "src": "/portraits/optimized/portrait-522.webp",
     "file": "Chinese_woodcut,_Famous_medical_figures;_Chunyu_Yi_Wellcome_L0039318.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Chinese_woodcut,_Famous_medical_figures;_Chunyu_Yi_Wellcome_L0039318.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B7%B3%E4%BA%8E%E6%84%8F",
@@ -4093,7 +3895,7 @@ const portraitCredits = {
   },
   "legacy-cn-463-张仲景": {
     "id": "legacy-cn-463-张仲景",
-    "src": "/portraits/roster-523.jpg",
+    "src": "/portraits/optimized/portrait-523.webp",
     "file": "Chinese_woodcut,_Famous_medical_figures;_Zhang_Zhongjing_Wellcome_L0039319.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Chinese_woodcut,_Famous_medical_figures;_Zhang_Zhongjing_Wellcome_L0039319.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%B5%E4%BB%B2%E6%99%AF",
@@ -4103,7 +3905,7 @@ const portraitCredits = {
   },
   "legacy-cn-465-皇甫谧": {
     "id": "legacy-cn-465-皇甫谧",
-    "src": "/portraits/roster-525.jpg",
+    "src": "/portraits/optimized/portrait-525.webp",
     "file": "Chinese_woodcut,_Famous_medical_figures;_Huangfu_Mi_Wellcome_L0039322.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Chinese_woodcut,_Famous_medical_figures;_Huangfu_Mi_Wellcome_L0039322.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%9A%87%E7%94%AB%E8%B0%A7",
@@ -4113,7 +3915,7 @@ const portraitCredits = {
   },
   "legacy-cn-466-王冰": {
     "id": "legacy-cn-466-王冰",
-    "src": "/portraits/roster-526.jpg",
+    "src": "/portraits/optimized/portrait-526.webp",
     "file": "New_Edition_with_Supplemental_Annotations_of_The_Inner_Canon_of_the_Yellow_Emperor._Su_wen_WDL11409.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:New_Edition_with_Supplemental_Annotations_of_The_Inner_Canon_of_the_Yellow_Emperor._Su_wen_WDL11409.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%86%B0",
@@ -4123,7 +3925,7 @@ const portraitCredits = {
   },
   "legacy-cn-470-沈括": {
     "id": "legacy-cn-470-沈括",
-    "src": "/portraits/roster-530.jpg",
+    "src": "/portraits/optimized/portrait-530.webp",
     "file": "Beijing_Ancient_Observatory_20090715-19_(cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Beijing_Ancient_Observatory_20090715-19_(cropped).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B2%88%E6%8B%AC",
@@ -4133,7 +3935,7 @@ const portraitCredits = {
   },
   "legacy-cn-471-毕昇": {
     "id": "legacy-cn-471-毕昇",
-    "src": "/portraits/roster-531.jpg",
+    "src": "/portraits/optimized/portrait-531.webp",
     "file": "Beijing.Musee_imprimerie.caracteres_mobiles.Bisheng.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Beijing.Musee_imprimerie.caracteres_mobiles.Bisheng.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%AF%95%E6%98%87",
@@ -4143,7 +3945,7 @@ const portraitCredits = {
   },
   "legacy-cn-478-商汤": {
     "id": "legacy-cn-478-商汤",
-    "src": "/portraits/roster-538.jpg",
+    "src": "/portraits/optimized/portrait-538.webp",
     "file": "King_Tang_of_Shang.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:King_Tang_of_Shang.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%95%86%E6%B1%A4",
@@ -4153,7 +3955,7 @@ const portraitCredits = {
   },
   "legacy-cn-479-伊尹": {
     "id": "legacy-cn-479-伊尹",
-    "src": "/portraits/roster-539.png",
+    "src": "/portraits/optimized/portrait-539.webp",
     "file": "歷代聖賢半身像_冊_伊尹_(Yi_Yin).png",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A_%E4%BC%8A%E5%B0%B9_(Yi_Yin).png",
     "article": "https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%B0%B9",
@@ -4163,7 +3965,7 @@ const portraitCredits = {
   },
   "legacy-cn-480-盘庚": {
     "id": "legacy-cn-480-盘庚",
-    "src": "/portraits/roster-540.jpg",
+    "src": "/portraits/optimized/portrait-540.webp",
     "file": "欽定書經圖說_斆始在位圖.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%AC%BD%E5%AE%9A%E6%9B%B8%E7%B6%93%E5%9C%96%E8%AA%AA_%E6%96%86%E5%A7%8B%E5%9C%A8%E4%BD%8D%E5%9C%96.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%9B%98%E5%BA%9A",
@@ -4173,7 +3975,7 @@ const portraitCredits = {
   },
   "legacy-cn-482-周文王": {
     "id": "legacy-cn-482-周文王",
-    "src": "/portraits/roster-542.jpg",
+    "src": "/portraits/optimized/portrait-542.webp",
     "file": "King_Wen_of_Zhou_(cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:King_Wen_of_Zhou_(cropped).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%91%A8%E6%96%87%E7%8E%8B",
@@ -4183,7 +3985,7 @@ const portraitCredits = {
   },
   "legacy-cn-483-周武王": {
     "id": "legacy-cn-483-周武王",
-    "src": "/portraits/roster-543.jpg",
+    "src": "/portraits/optimized/portrait-543.webp",
     "file": "King_Wu_of_Zhou.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:King_Wu_of_Zhou.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%91%A8%E6%AD%A6%E7%8E%8B",
@@ -4193,7 +3995,7 @@ const portraitCredits = {
   },
   "legacy-cn-485-晋文公": {
     "id": "legacy-cn-485-晋文公",
-    "src": "/portraits/roster-545.jpg",
+    "src": "/portraits/optimized/portrait-545.webp",
     "file": "Duke_Wen_of_Jin_(晉文公).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Duke_Wen_of_Jin_(%E6%99%89%E6%96%87%E5%85%AC).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%99%8B%E6%96%87%E5%85%AC",
@@ -4203,7 +4005,7 @@ const portraitCredits = {
   },
   "legacy-cn-488-越王勾践": {
     "id": "legacy-cn-488-越王勾践",
-    "src": "/portraits/roster-548.jpg",
+    "src": "/portraits/optimized/portrait-548.webp",
     "file": "NJlib-0026095-0001_東周列國志二十七卷一百八回圖二卷_(勾踐).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:NJlib-0026095-0001_%E6%9D%B1%E5%91%A8%E5%88%97%E5%9C%8B%E5%BF%97%E4%BA%8C%E5%8D%81%E4%B8%83%E5%8D%B7%E4%B8%80%E7%99%BE%E5%85%AB%E5%9B%9E%E5%9C%96%E4%BA%8C%E5%8D%B7_(%E5%8B%BE%E8%B8%90).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8B%BE%E8%B7%B5",
@@ -4213,7 +4015,7 @@ const portraitCredits = {
   },
   "legacy-cn-490-商鞅": {
     "id": "legacy-cn-490-商鞅",
-    "src": "/portraits/roster-550.jpg",
+    "src": "/portraits/optimized/portrait-550.webp",
     "file": "Statue_of_Shang_Yang.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Statue_of_Shang_Yang.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%95%86%E9%9E%85",
@@ -4223,7 +4025,7 @@ const portraitCredits = {
   },
   "legacy-cn-491-李悝": {
     "id": "legacy-cn-491-李悝",
-    "src": "/portraits/roster-551.jpg",
+    "src": "/portraits/optimized/portrait-551.webp",
     "file": "Li_Kui.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Li_Kui.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%82%9D",
@@ -4233,7 +4035,7 @@ const portraitCredits = {
   },
   "legacy-cn-492-吴起": {
     "id": "legacy-cn-492-吴起",
-    "src": "/portraits/roster-552.jpg",
+    "src": "/portraits/optimized/portrait-552.webp",
     "file": "Wu_Qi.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Wu_Qi.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%90%B4%E8%B5%B7",
@@ -4243,7 +4045,7 @@ const portraitCredits = {
   },
   "legacy-cn-496-蔺相如": {
     "id": "legacy-cn-496-蔺相如",
-    "src": "/portraits/roster-556.png",
+    "src": "/portraits/optimized/portrait-556.webp",
     "file": "Lin_Xiangru_(a_general_of_the_State_of_Zhao).png",
     "page": "https://commons.wikimedia.org/wiki/File:Lin_Xiangru_(a_general_of_the_State_of_Zhao).png",
     "article": "https://zh.wikipedia.org/wiki/%E8%97%BA%E7%9B%B8%E5%A6%82",
@@ -4253,7 +4055,7 @@ const portraitCredits = {
   },
   "legacy-cn-498-孙膑": {
     "id": "legacy-cn-498-孙膑",
-    "src": "/portraits/roster-558.jpg",
+    "src": "/portraits/optimized/portrait-558.webp",
     "file": "Sun_Bin.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Sun_Bin.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AD%99%E8%86%91",
@@ -4263,7 +4065,7 @@ const portraitCredits = {
   },
   "legacy-cn-508-项羽": {
     "id": "legacy-cn-508-项羽",
-    "src": "/portraits/roster-568.png",
+    "src": "/portraits/optimized/portrait-568.webp",
     "file": "Xiang_Yu.png",
     "page": "https://commons.wikimedia.org/wiki/File:Xiang_Yu.png",
     "article": "https://zh.wikipedia.org/wiki/%E9%A1%B9%E7%BE%BD",
@@ -4273,7 +4075,7 @@ const portraitCredits = {
   },
   "legacy-cn-509-刘邦": {
     "id": "legacy-cn-509-刘邦",
-    "src": "/portraits/roster-569.png",
+    "src": "/portraits/optimized/portrait-569.webp",
     "file": "Liu_Bang_(Emperor_Gaozu_of_Han).png",
     "page": "https://commons.wikimedia.org/wiki/File:Liu_Bang_(Emperor_Gaozu_of_Han).png",
     "article": "https://zh.wikipedia.org/wiki/%E5%88%98%E9%82%A6",
@@ -4283,7 +4085,7 @@ const portraitCredits = {
   },
   "legacy-cn-517-张骞": {
     "id": "legacy-cn-517-张骞",
-    "src": "/portraits/roster-577.jpg",
+    "src": "/portraits/optimized/portrait-577.webp",
     "file": "Zhangqian_Statue.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Zhangqian_Statue.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%B5%E9%A8%AB",
@@ -4293,7 +4095,7 @@ const portraitCredits = {
   },
   "legacy-cn-518-苏武": {
     "id": "legacy-cn-518-苏武",
-    "src": "/portraits/roster-578.jpg",
+    "src": "/portraits/optimized/portrait-578.webp",
     "file": "Su_Wu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Su_Wu.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E6%AD%A6",
@@ -4303,7 +4105,7 @@ const portraitCredits = {
   },
   "legacy-cn-523-刘备": {
     "id": "legacy-cn-523-刘备",
-    "src": "/portraits/roster-583.jpg",
+    "src": "/portraits/optimized/portrait-583.webp",
     "file": "Liu_Bei_Tang.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Liu_Bei_Tang.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%88%98%E5%A4%87",
@@ -4313,7 +4115,7 @@ const portraitCredits = {
   },
   "legacy-cn-524-孙权": {
     "id": "legacy-cn-524-孙权",
-    "src": "/portraits/roster-584.jpg",
+    "src": "/portraits/optimized/portrait-584.webp",
     "file": "Sun_Quan_Tang.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Sun_Quan_Tang.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AD%99%E6%9D%83",
@@ -4323,7 +4125,7 @@ const portraitCredits = {
   },
   "legacy-cn-527-王猛": {
     "id": "legacy-cn-527-王猛",
-    "src": "/portraits/roster-587.jpg",
+    "src": "/portraits/optimized/portrait-587.webp",
     "file": "任熊_人物山水册_7.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E4%BB%BB%E7%86%8A_%E4%BA%BA%E7%89%A9%E5%B1%B1%E6%B0%B4%E5%86%8C_7.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%8C%9B",
@@ -4333,7 +4135,7 @@ const portraitCredits = {
   },
   "legacy-cn-529-陶侃": {
     "id": "legacy-cn-529-陶侃",
-    "src": "/portraits/roster-589.jpg",
+    "src": "/portraits/optimized/portrait-589.webp",
     "file": "任熊_人物山水册_6.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E4%BB%BB%E7%86%8A_%E4%BA%BA%E7%89%A9%E5%B1%B1%E6%B0%B4%E5%86%8C_6.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%99%B6%E4%BE%83",
@@ -4343,7 +4145,7 @@ const portraitCredits = {
   },
   "legacy-cn-531-杨坚": {
     "id": "legacy-cn-531-杨坚",
-    "src": "/portraits/roster-591.jpg",
+    "src": "/portraits/optimized/portrait-591.webp",
     "file": "Sui_Wendi_Tang.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Sui_Wendi_Tang.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%9D%9A",
@@ -4353,7 +4155,7 @@ const portraitCredits = {
   },
   "legacy-cn-533-武则天": {
     "id": "legacy-cn-533-武则天",
-    "src": "/portraits/roster-593.png",
+    "src": "/portraits/optimized/portrait-593.webp",
     "file": "唐后行從圖_(局部)_-_武則天.png",
     "page": "https://commons.wikimedia.org/wiki/File:%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_(%E5%B1%80%E9%83%A8)_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png",
     "article": "https://zh.wikipedia.org/wiki/%E6%AD%A6%E5%88%99%E5%A4%A9",
@@ -4363,7 +4165,7 @@ const portraitCredits = {
   },
   "legacy-cn-537-狄青": {
     "id": "legacy-cn-537-狄青",
-    "src": "/portraits/roster-597.jpg",
+    "src": "/portraits/optimized/portrait-597.webp",
     "file": "Ti_Ching.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ti_Ching.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8B%84%E9%9D%92",
@@ -4373,7 +4175,7 @@ const portraitCredits = {
   },
   "legacy-cn-538-郑和": {
     "id": "legacy-cn-538-郑和",
-    "src": "/portraits/roster-598.jpg",
+    "src": "/portraits/optimized/portrait-598.webp",
     "file": "2016_Malakka,_Stadhuys_(09).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:2016_Malakka,_Stadhuys_(09).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%84%AD%E5%92%8C",
@@ -4383,7 +4185,7 @@ const portraitCredits = {
   },
   "legacy-cn-539-于谦": {
     "id": "legacy-cn-539-于谦",
-    "src": "/portraits/roster-599.jpg",
+    "src": "/portraits/optimized/portrait-599.webp",
     "file": "Yu_Qian_by_Gu_Jianlong.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Yu_Qian_by_Gu_Jianlong.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BA%8E%E8%B0%A6",
@@ -4393,7 +4195,7 @@ const portraitCredits = {
   },
   "legacy-world-0-泰勒斯": {
     "id": "legacy-world-0-泰勒斯",
-    "src": "/portraits/roster-640.jpg",
+    "src": "/portraits/optimized/portrait-640.webp",
     "file": "Illustrerad_Verldshistoria_band_I_Ill_107.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Illustrerad_Verldshistoria_band_I_Ill_107.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%8B%92%E6%96%AF",
@@ -4403,7 +4205,7 @@ const portraitCredits = {
   },
   "legacy-world-5-阿那克萨戈拉": {
     "id": "legacy-world-5-阿那克萨戈拉",
-    "src": "/portraits/roster-645.jpg",
+    "src": "/portraits/optimized/portrait-645.webp",
     "file": "Anaxagoras_Lebiedzki_Rahl.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Anaxagoras_Lebiedzki_Rahl.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%BF%E9%82%A3%E5%85%8B%E8%90%A8%E5%93%A5%E6%8B%89",
@@ -4413,7 +4215,7 @@ const portraitCredits = {
   },
   "legacy-world-6-普罗泰戈拉": {
     "id": "legacy-world-6-普罗泰戈拉",
-    "src": "/portraits/roster-646.jpg",
+    "src": "/portraits/optimized/portrait-646.webp",
     "file": "Salvator_Rosa_-_Démocrite_et_Protagoras.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Salvator_Rosa_-_D%C3%A9mocrite_et_Protagoras.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%99%AE%E7%BD%97%E6%B3%B0%E6%88%88%E6%8B%89",
@@ -4423,7 +4225,7 @@ const portraitCredits = {
   },
   "legacy-world-7-高尔吉亚": {
     "id": "legacy-world-7-高尔吉亚",
-    "src": "/portraits/roster-647.png",
+    "src": "/portraits/optimized/portrait-647.webp",
     "file": "Gorgia_di_Leontini.png",
     "page": "https://commons.wikimedia.org/wiki/File:Gorgia_di_Leontini.png",
     "article": "https://zh.wikipedia.org/wiki/%E9%AB%98%E7%88%BE%E5%90%89%E4%BA%9E",
@@ -4433,7 +4235,7 @@ const portraitCredits = {
   },
   "legacy-world-11-皮浪": {
     "id": "legacy-world-11-皮浪",
-    "src": "/portraits/roster-651.jpg",
+    "src": "/portraits/optimized/portrait-651.webp",
     "file": "Philosopher,_marble_head,_Roman_copy,_AM_Corfu,_Krfm22.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Philosopher,_marble_head,_Roman_copy,_AM_Corfu,_Krfm22.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%9A%AE%E6%B5%AA",
@@ -4441,19 +4243,9 @@ const portraitCredits = {
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
   },
-  "legacy-world-13-马可奥勒留": {
-    "id": "legacy-world-13-马可奥勒留",
-    "src": "/portraits/roster-653.jpg",
-    "file": "MSR-ra-61-b-1-DM_(cropped).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:MSR-ra-61-b-1-DM_(cropped).jpg",
-    "article": "https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%8F%AF%C2%B7%E5%A5%A7%E7%90%86%E7%95%A5",
-    "artist": "Daniel Martin",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
-  },
   "legacy-world-14-安瑟伦": {
     "id": "legacy-world-14-安瑟伦",
-    "src": "/portraits/roster-654.jpg",
+    "src": "/portraits/optimized/portrait-654.webp",
     "file": "Anselm_of_Canterbury.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Anselm_of_Canterbury.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%9D%8E%E7%89%B9%E4%BC%AF%E9%9B%B7%E7%9A%84%E5%AE%89%E7%91%9F%E8%8E%AB",
@@ -4463,7 +4255,7 @@ const portraitCredits = {
   },
   "legacy-world-20-安萨里": {
     "id": "legacy-world-20-安萨里",
-    "src": "/portraits/roster-660.png",
+    "src": "/portraits/optimized/portrait-660.webp",
     "file": "أبو_حامد_الغزالي.png",
     "page": "https://commons.wikimedia.org/wiki/File:%D8%A3%D8%A8%D9%88_%D8%AD%D8%A7%D9%85%D8%AF_%D8%A7%D9%84%D8%BA%D8%B2%D8%A7%D9%84%D9%8A.png",
     "article": "https://zh.wikipedia.org/wiki/%E5%AE%89%E8%90%A8%E9%87%8C",
@@ -4473,7 +4265,7 @@ const portraitCredits = {
   },
   "legacy-world-22-迈蒙尼德": {
     "id": "legacy-world-22-迈蒙尼德",
-    "src": "/portraits/roster-662.jpg",
+    "src": "/portraits/optimized/portrait-662.webp",
     "file": "Ben_Maimónides._Córdoba,_España-eue.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ben_Maim%C3%B3nides._C%C3%B3rdoba,_Espa%C3%B1a-eue.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%82%81%E8%92%99%E5%B0%BC%E5%BE%B7",
@@ -4483,7 +4275,7 @@ const portraitCredits = {
   },
   "legacy-world-24-彼特拉克": {
     "id": "legacy-world-24-彼特拉克",
-    "src": "/portraits/roster-664.jpg",
+    "src": "/portraits/optimized/portrait-664.webp",
     "file": "Altichiero,_ritratto_di_Francesco_Petrarca.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Altichiero,_ritratto_di_Francesco_Petrarca.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E5%88%87%E6%96%AF%E7%A7%91%C2%B7%E5%BD%BC%E7%89%B9%E6%8B%89%E5%85%8B",
@@ -4493,7 +4285,7 @@ const portraitCredits = {
   },
   "legacy-world-25-霍布斯": {
     "id": "legacy-world-25-霍布斯",
-    "src": "/portraits/roster-665.jpg",
+    "src": "/portraits/optimized/portrait-665.webp",
     "file": "Thomas_Hobbes_by_John_Michael_Wright1.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Thomas_Hobbes_by_John_Michael_Wright1.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E9%9C%8D%E5%B8%83%E6%96%AF",
@@ -4503,7 +4295,7 @@ const portraitCredits = {
   },
   "legacy-world-26-休谟": {
     "id": "legacy-world-26-休谟",
-    "src": "/portraits/roster-666.jpg",
+    "src": "/portraits/optimized/portrait-666.webp",
     "file": "Allan_Ramsay_-_David_Hume,_1711_-_1776._Historian_and_philosopher_-_PG_3521_-_National_Galleries_of_Scotland.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Allan_Ramsay_-_David_Hume,_1711_-_1776._Historian_and_philosopher_-_PG_3521_-_National_Galleries_of_Scotland.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E4%BC%91%E8%B0%9F",
@@ -4513,7 +4305,7 @@ const portraitCredits = {
   },
   "legacy-world-27-孟德斯鸠": {
     "id": "legacy-world-27-孟德斯鸠",
-    "src": "/portraits/roster-667.jpg",
+    "src": "/portraits/optimized/portrait-667.webp",
     "file": "Charles_Montesquieu.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Charles_Montesquieu.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%BE%B7%E6%96%AF%E9%B8%A0",
@@ -4523,7 +4315,7 @@ const portraitCredits = {
   },
   "legacy-world-28-费希特": {
     "id": "legacy-world-28-费希特",
-    "src": "/portraits/roster-668.jpg",
+    "src": "/portraits/optimized/portrait-668.webp",
     "file": "Johann_Gottlieb_Fichte.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Johann_Gottlieb_Fichte.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%B4%84%E7%BF%B0%C2%B7%E6%88%88%E7%89%B9%E5%88%A9%E5%B8%83%C2%B7%E8%B2%BB%E5%B8%8C%E7%89%B9",
@@ -4533,7 +4325,7 @@ const portraitCredits = {
   },
   "legacy-world-30-恩格斯": {
     "id": "legacy-world-30-恩格斯",
-    "src": "/portraits/roster-670.jpg",
+    "src": "/portraits/optimized/portrait-670.webp",
     "file": "Friedrich_Engels_portrait_(cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Friedrich_Engels_portrait_(cropped).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E6%81%A9%E6%A0%BC%E6%96%AF",
@@ -4543,7 +4335,7 @@ const portraitCredits = {
   },
   "legacy-world-33-罗素": {
     "id": "legacy-world-33-罗素",
-    "src": "/portraits/roster-673.jpg",
+    "src": "/portraits/optimized/portrait-673.webp",
     "file": "Bertrand_Russell_in_1936.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Bertrand_Russell_in_1936.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0",
@@ -4553,7 +4345,7 @@ const portraitCredits = {
   },
   "legacy-world-34-维特根斯坦": {
     "id": "legacy-world-34-维特根斯坦",
-    "src": "/portraits/roster-674.jpg",
+    "src": "/portraits/optimized/portrait-674.webp",
     "file": "Ludwig_Wittgenstein_4-5(cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ludwig_Wittgenstein_4-5(cropped).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%BB%B4%E5%B8%8C%C2%B7%E7%BB%B4%E7%89%B9%E6%A0%B9%E6%96%AF%E5%9D%A6",
@@ -4563,7 +4355,7 @@ const portraitCredits = {
   },
   "legacy-world-35-波普尔": {
     "id": "legacy-world-35-波普尔",
-    "src": "/portraits/roster-675.jpg",
+    "src": "/portraits/optimized/portrait-675.webp",
     "file": "Karl_Popper.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Karl_Popper.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94",
@@ -4573,7 +4365,7 @@ const portraitCredits = {
   },
   "legacy-world-36-汉娜阿伦特": {
     "id": "legacy-world-36-汉娜阿伦特",
-    "src": "/portraits/roster-676.jpg",
+    "src": "/portraits/optimized/portrait-676.webp",
     "file": "Hannah_Arendt_auf_dem_1._Kulturkritikerkongress,_Barbara_Niggl_Radloff,_FM-2019-1-5-9-16_(cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Hannah_Arendt_auf_dem_1._Kulturkritikerkongress,_Barbara_Niggl_Radloff,_FM-2019-1-5-9-16_(cropped).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9",
@@ -4583,7 +4375,7 @@ const portraitCredits = {
   },
   "legacy-world-37-西蒙娜德波伏娃": {
     "id": "legacy-world-37-西蒙娜德波伏娃",
-    "src": "/portraits/roster-677.jpg",
+    "src": "/portraits/optimized/portrait-677.webp",
     "file": "Simone_De_Beauvoir_(cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Simone_De_Beauvoir_(cropped).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%92%99%C2%B7%E5%BE%B7%C2%B7%E6%B3%A2%E5%A8%83",
@@ -4593,7 +4385,7 @@ const portraitCredits = {
   },
   "legacy-world-38-萨特": {
     "id": "legacy-world-38-萨特",
-    "src": "/portraits/roster-678.jpg",
+    "src": "/portraits/optimized/portrait-678.webp",
     "file": "Jean_Paul_Sartre_1965.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Jean_Paul_Sartre_1965.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%AE%A9-%E4%BF%9D%E7%BD%97%C2%B7%E8%90%A8%E7%89%B9",
@@ -4603,7 +4395,7 @@ const portraitCredits = {
   },
   "legacy-world-39-加缪": {
     "id": "legacy-world-39-加缪",
-    "src": "/portraits/roster-679.jpg",
+    "src": "/portraits/optimized/portrait-679.webp",
     "file": "Albert_Camus,_gagnant_de_prix_Nobel,_portrait_en_buste,_posé_au_bureau,_faisant_face_à_gauche,_cigarette_de_tabagisme.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Albert_Camus,_gagnant_de_prix_Nobel,_portrait_en_buste,_pos%C3%A9_au_bureau,_faisant_face_%C3%A0_gauche,_cigarette_de_tabagisme.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E8%B4%9D%C2%B7%E5%8A%A0%E7%BC%AA",
@@ -4613,7 +4405,7 @@ const portraitCredits = {
   },
   "legacy-world-40-柏格森": {
     "id": "legacy-world-40-柏格森",
-    "src": "/portraits/roster-680.jpg",
+    "src": "/portraits/optimized/portrait-680.webp",
     "file": "Henri_Bergson_02.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Henri_Bergson_02.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E6%9F%8F%E6%A0%BC%E6%A3%AE",
@@ -4623,7 +4415,7 @@ const portraitCredits = {
   },
   "legacy-world-44-福柯": {
     "id": "legacy-world-44-福柯",
-    "src": "/portraits/roster-684.jpg",
+    "src": "/portraits/optimized/portrait-684.webp",
     "file": "Photo_of_Michel_Foucault_on_1970_dustjacket_of_The_Order_of_Things.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Photo_of_Michel_Foucault_on_1970_dustjacket_of_The_Order_of_Things.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%AD%87%E5%B0%94%C2%B7%E7%A6%8F%E6%9F%AF",
@@ -4633,7 +4425,7 @@ const portraitCredits = {
   },
   "legacy-world-45-德里达": {
     "id": "legacy-world-45-德里达",
-    "src": "/portraits/roster-685.jpg",
+    "src": "/portraits/optimized/portrait-685.webp",
     "file": "Derrida_Dibujo.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Derrida_Dibujo.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%9B%85%E5%85%8B%C2%B7%E5%BE%B7%E9%87%8C%E8%BE%BE",
@@ -4643,7 +4435,7 @@ const portraitCredits = {
   },
   "legacy-world-48-伽利略": {
     "id": "legacy-world-48-伽利略",
-    "src": "/portraits/roster-688.jpg",
+    "src": "/portraits/optimized/portrait-688.webp",
     "file": "Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BC%BD%E5%88%A9%E7%95%A5%C2%B7%E4%BC%BD%E5%88%A9%E8%8E%B1",
@@ -4653,7 +4445,7 @@ const portraitCredits = {
   },
   "legacy-world-49-牛顿": {
     "id": "legacy-world-49-牛顿",
-    "src": "/portraits/roster-689.jpg",
+    "src": "/portraits/optimized/portrait-689.webp",
     "file": "Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E7%89%9B%E9%A1%BF",
@@ -4663,7 +4455,7 @@ const portraitCredits = {
   },
   "legacy-world-51-哥白尼": {
     "id": "legacy-world-51-哥白尼",
-    "src": "/portraits/roster-691.jpg",
+    "src": "/portraits/optimized/portrait-691.webp",
     "file": "Nikolaus_Kopernikus_MOT.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Nikolaus_Kopernikus_MOT.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E5%93%A5%E7%99%BD%E5%B0%BC",
@@ -4673,7 +4465,7 @@ const portraitCredits = {
   },
   "legacy-world-53-达尔文": {
     "id": "legacy-world-53-达尔文",
-    "src": "/portraits/roster-693.jpg",
+    "src": "/portraits/optimized/portrait-693.webp",
     "file": "Charles_Darwin_portrait.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_portrait.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9F%A5%E5%B0%94%E6%96%AF%C2%B7%E8%BE%BE%E5%B0%94%E6%96%87",
@@ -4683,7 +4475,7 @@ const portraitCredits = {
   },
   "legacy-world-54-居里夫人": {
     "id": "legacy-world-54-居里夫人",
-    "src": "/portraits/roster-694.jpg",
+    "src": "/portraits/optimized/portrait-694.webp",
     "file": "Marie_Curie_c._1920s.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8E%9B%E4%B8%BD%C2%B7%E5%B1%85%E9%87%8C",
@@ -4693,7 +4485,7 @@ const portraitCredits = {
   },
   "legacy-world-55-爱因斯坦": {
     "id": "legacy-world-55-爱因斯坦",
-    "src": "/portraits/roster-695.jpg",
+    "src": "/portraits/optimized/portrait-695.webp",
     "file": "Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E4%BC%AF%E7%89%B9%C2%B7%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6",
@@ -4703,7 +4495,7 @@ const portraitCredits = {
   },
   "legacy-world-56-麦克斯韦": {
     "id": "legacy-world-56-麦克斯韦",
-    "src": "/portraits/roster-696.jpg",
+    "src": "/portraits/optimized/portrait-696.webp",
     "file": "James-Clerk-Maxwell-1831-1879.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:James-Clerk-Maxwell-1831-1879.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E5%85%8B%E6%8B%89%E5%85%8B%C2%B7%E9%BA%A6%E5%85%8B%E6%96%AF%E9%9F%A6",
@@ -4713,7 +4505,7 @@ const portraitCredits = {
   },
   "legacy-world-57-法拉第": {
     "id": "legacy-world-57-法拉第",
-    "src": "/portraits/roster-697.jpg",
+    "src": "/portraits/optimized/portrait-697.webp",
     "file": "Michael_Faraday_Millikan-Gale-1906-crop.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Michael_Faraday_Millikan-Gale-1906-crop.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%8F%AF%C2%B7%E6%B3%95%E6%8B%89%E7%AC%AC",
@@ -4723,7 +4515,7 @@ const portraitCredits = {
   },
   "legacy-world-59-欧拉": {
     "id": "legacy-world-59-欧拉",
-    "src": "/portraits/roster-699.jpg",
+    "src": "/portraits/optimized/portrait-699.webp",
     "file": "Leonhard_Euler_-_Jakob_Emanuel_Handmann_(Kunstmuseum_Basel).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Leonhard_Euler_-_Jakob_Emanuel_Handmann_(Kunstmuseum_Basel).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%90%8A%E6%98%82%E5%93%88%E5%BE%B7%C2%B7%E6%AD%90%E6%8B%89",
@@ -4733,7 +4525,7 @@ const portraitCredits = {
   },
   "legacy-world-60-高斯": {
     "id": "legacy-world-60-高斯",
-    "src": "/portraits/roster-700.jpg",
+    "src": "/portraits/optimized/portrait-700.webp",
     "file": "Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E9%AB%98%E6%96%AF",
@@ -4743,7 +4535,7 @@ const portraitCredits = {
   },
   "legacy-world-61-黎曼": {
     "id": "legacy-world-61-黎曼",
-    "src": "/portraits/roster-701.jpg",
+    "src": "/portraits/optimized/portrait-701.webp",
     "file": "Bernhard_Riemann_3.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Bernhard_Riemann_3.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BC%AF%E6%81%A9%E5%93%88%E5%BE%B7%C2%B7%E9%BB%8E%E6%9B%BC",
@@ -4753,7 +4545,7 @@ const portraitCredits = {
   },
   "legacy-world-62-诺特": {
     "id": "legacy-world-62-诺特",
-    "src": "/portraits/roster-702.jpg",
+    "src": "/portraits/optimized/portrait-702.webp",
     "file": "Emmy_Noether_(3x4_cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Emmy_Noether_(3x4_cropped).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%9F%83%E7%B1%B3%C2%B7%E8%AF%BA%E7%89%B9",
@@ -4763,7 +4555,7 @@ const portraitCredits = {
   },
   "legacy-world-63-亚伯拉罕": {
     "id": "legacy-world-63-亚伯拉罕",
-    "src": "/portraits/roster-703.jpg",
+    "src": "/portraits/optimized/portrait-703.webp",
     "file": "Rembrandt_Harmensz._van_Rijn_035.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_035.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BA%9E%E4%BC%AF%E6%8B%89%E7%BD%95",
@@ -4773,7 +4565,7 @@ const portraitCredits = {
   },
   "legacy-world-65-亚伦": {
     "id": "legacy-world-65-亚伦",
-    "src": "/portraits/roster-705.jpg",
+    "src": "/portraits/optimized/portrait-705.webp",
     "file": "Aaron_(Kirillo-Belozersk).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Aaron_(Kirillo-Belozersk).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BA%9E%E5%80%AB",
@@ -4783,7 +4575,7 @@ const portraitCredits = {
   },
   "legacy-world-66-米利暗": {
     "id": "legacy-world-66-米利暗",
-    "src": "/portraits/roster-706.jpg",
+    "src": "/portraits/optimized/portrait-706.webp",
     "file": "Miriams_Tanz.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Miriams_Tanz.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%88%A9%E6%9A%97",
@@ -4793,7 +4585,7 @@ const portraitCredits = {
   },
   "legacy-world-67-约书亚": {
     "id": "legacy-world-67-约书亚",
-    "src": "/portraits/roster-707.jpg",
+    "src": "/portraits/optimized/portrait-707.webp",
     "file": "Lanfranco_Moses_and_the_Messengers_from_Canaan.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Lanfranco_Moses_and_the_Messengers_from_Canaan.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%B4%84%E6%9B%B8%E4%BA%9E",
@@ -4803,7 +4595,7 @@ const portraitCredits = {
   },
   "legacy-world-68-撒母耳": {
     "id": "legacy-world-68-撒母耳",
-    "src": "/portraits/roster-708.jpg",
+    "src": "/portraits/optimized/portrait-708.webp",
     "file": "Saul_and_the_Witch_of_Endor_(Stom,_1635)_(cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Saul_and_the_Witch_of_Endor_(Stom,_1635)_(cropped).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%92%92%E6%AF%8D%E8%80%B3",
@@ -4813,7 +4605,7 @@ const portraitCredits = {
   },
   "legacy-world-70-所罗门": {
     "id": "legacy-world-70-所罗门",
-    "src": "/portraits/roster-710.jpg",
+    "src": "/portraits/optimized/portrait-710.webp",
     "file": "Simeon_Solomon,_King_Solomon,_1872_or_1874,_NGA_76152_(cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Simeon_Solomon,_King_Solomon,_1872_or_1874,_NGA_76152_(cropped).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%89%80%E7%BE%85%E9%96%80",
@@ -4823,7 +4615,7 @@ const portraitCredits = {
   },
   "legacy-world-72-以赛亚": {
     "id": "legacy-world-72-以赛亚",
-    "src": "/portraits/roster-712.jpg",
+    "src": "/portraits/optimized/portrait-712.webp",
     "file": "Isaiah_(Bible_Card).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Isaiah_(Bible_Card).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A",
@@ -4833,7 +4625,7 @@ const portraitCredits = {
   },
   "legacy-world-74-以西结": {
     "id": "legacy-world-74-以西结",
-    "src": "/portraits/roster-714.jpg",
+    "src": "/portraits/optimized/portrait-714.webp",
     "file": "Ezekiel.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ezekiel.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%A5%BF%E7%B5%90",
@@ -4843,7 +4635,7 @@ const portraitCredits = {
   },
   "legacy-world-75-但以理": {
     "id": "legacy-world-75-但以理",
-    "src": "/portraits/roster-715.jpg",
+    "src": "/portraits/optimized/portrait-715.webp",
     "file": "Daniel's_Answer_to_the_King,_by_Briton_Riviere,_GMIII_MCAG_1937_123-001.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Daniel%27s_Answer_to_the_King,_by_Briton_Riviere,_GMIII_MCAG_1937_123-001.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BD%86%E4%BB%A5%E7%90%86",
@@ -4853,7 +4645,7 @@ const portraitCredits = {
   },
   "legacy-world-76-约拿": {
     "id": "legacy-world-76-约拿",
-    "src": "/portraits/roster-716.jpg",
+    "src": "/portraits/optimized/portrait-716.webp",
     "file": "Sistine_jonah.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Sistine_jonah.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%B4%84%E6%8B%BF",
@@ -4863,7 +4655,7 @@ const portraitCredits = {
   },
   "legacy-world-77-约伯": {
     "id": "legacy-world-77-约伯",
-    "src": "/portraits/roster-717.jpg",
+    "src": "/portraits/optimized/portrait-717.webp",
     "file": "Léon_Bonnat_-_Job.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:L%C3%A9on_Bonnat_-_Job.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%BA%A6%E4%BC%AF",
@@ -4873,7 +4665,7 @@ const portraitCredits = {
   },
   "legacy-world-79-尼希米": {
     "id": "legacy-world-79-尼希米",
-    "src": "/portraits/roster-719.jpg",
+    "src": "/portraits/optimized/portrait-719.webp",
     "file": "Prophet_nehemiah.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Prophet_nehemiah.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%B8%8C%E7%B1%B3",
@@ -4883,7 +4675,7 @@ const portraitCredits = {
   },
   "legacy-world-80-路得": {
     "id": "legacy-world-80-路得",
-    "src": "/portraits/roster-720.jpg",
+    "src": "/portraits/optimized/portrait-720.webp",
     "file": "Ruth_-_Hayez.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ruth_-_Hayez.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%97",
@@ -4893,7 +4685,7 @@ const portraitCredits = {
   },
   "legacy-world-81-以斯帖": {
     "id": "legacy-world-81-以斯帖",
-    "src": "/portraits/roster-721.jpg",
+    "src": "/portraits/optimized/portrait-721.webp",
     "file": "Rembrandt_Harmensz_van_Rijn_-_Ahasuerus,_Haman_and_Esther_-_Google_Art_Project.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz_van_Rijn_-_Ahasuerus,_Haman_and_Esther_-_Google_Art_Project.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BB%A5%E6%96%AF%E5%B8%96",
@@ -4903,7 +4695,7 @@ const portraitCredits = {
   },
   "legacy-world-82-施洗约翰": {
     "id": "legacy-world-82-施洗约翰",
-    "src": "/portraits/roster-722.jpg",
+    "src": "/portraits/optimized/portrait-722.webp",
     "file": "Accademia_-_St_John_the_Baptist_by_Titian_Cat314.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Accademia_-_St_John_the_Baptist_by_Titian_Cat314.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%96%BD%E6%B4%97%E7%B4%84%E7%BF%B0",
@@ -4913,7 +4705,7 @@ const portraitCredits = {
   },
   "legacy-world-84-抹大拉的马利亚": {
     "id": "legacy-world-84-抹大拉的马利亚",
-    "src": "/portraits/roster-724.jpg",
+    "src": "/portraits/optimized/portrait-724.webp",
     "file": "TINTORETTO_-_Magdalena_penitente_(Musei_Capitolini,_Roma,_1598-1602)_-_copia.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:TINTORETTO_-_Magdalena_penitente_(Musei_Capitolini,_Roma,_1598-1602)_-_copia.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%8A%B9%E5%A4%A7%E6%8B%89%E7%9A%84%E9%A6%AC%E5%88%A9%E4%BA%9E",
@@ -4923,7 +4715,7 @@ const portraitCredits = {
   },
   "legacy-world-91-奥利振": {
     "id": "legacy-world-91-奥利振",
-    "src": "/portraits/roster-731.jpg",
+    "src": "/portraits/optimized/portrait-731.webp",
     "file": "Origen.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Origen.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%88%A9%E6%A0%B9",
@@ -4933,7 +4725,7 @@ const portraitCredits = {
   },
   "legacy-world-92-金口约翰": {
     "id": "legacy-world-92-金口约翰",
-    "src": "/portraits/roster-732.jpg",
+    "src": "/portraits/optimized/portrait-732.webp",
     "file": "Johnchrysostom.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Johnchrysostom.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%81%96%E9%87%91%E5%8F%A3%E7%B4%84%E7%BF%B0",
@@ -4943,7 +4735,7 @@ const portraitCredits = {
   },
   "legacy-world-94-大德兰": {
     "id": "legacy-world-94-大德兰",
-    "src": "/portraits/roster-734.jpg",
+    "src": "/portraits/optimized/portrait-734.webp",
     "file": "Peter_Paul_Rubens_138.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_138.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BA%9E%E7%B6%AD%E6%8B%89%E7%9A%84%E5%BE%B7%E8%98%AD",
@@ -4953,7 +4745,7 @@ const portraitCredits = {
   },
   "legacy-world-99-约翰卫斯理": {
     "id": "legacy-world-99-约翰卫斯理",
-    "src": "/portraits/roster-739.jpg",
+    "src": "/portraits/optimized/portrait-739.webp",
     "file": "John_Wesley_by_William_Hamilton.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:John_Wesley_by_William_Hamilton.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%B4%84%E7%BF%B0%C2%B7%E8%A1%9B%E6%96%AF%E7%90%86",
@@ -4961,19 +4753,9 @@ const portraitCredits = {
     "license": "Public domain",
     "licenseUrl": ""
   },
-  "legacy-world-104-德兰修女": {
-    "id": "legacy-world-104-德兰修女",
-    "src": "/portraits/roster-744.jpg",
-    "file": "Mother_Teresa_1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Mother_Teresa_1.jpg",
-    "article": "https://zh.wikipedia.org/wiki/%E5%BE%B7%E8%95%BE%E8%8E%8E%E4%BF%AE%E5%A5%B3",
-    "artist": "Kingkongphoto & www.celebrity-photos.com from Laurel Maryland, USA",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
-  },
   "legacy-world-105-穆罕默德": {
     "id": "legacy-world-105-穆罕默德",
-    "src": "/portraits/roster-745.png",
+    "src": "/portraits/optimized/portrait-745.webp",
     "file": "Calligraphic_representation_of_Muhammad's_name.png",
     "page": "https://commons.wikimedia.org/wiki/File:Calligraphic_representation_of_Muhammad%27s_name.png",
     "article": "https://zh.wikipedia.org/wiki/%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7",
@@ -4983,7 +4765,7 @@ const portraitCredits = {
   },
   "legacy-world-110-欧麦尔": {
     "id": "legacy-world-110-欧麦尔",
-    "src": "/portraits/roster-750.png",
+    "src": "/portraits/optimized/portrait-750.webp",
     "file": "Rashidun_Caliphs_Umar_ibn_Al-Khattāb_-_عُمر_بن_الخطّاب_ثاني_الخلفاء_الراشدين.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Rashidun_Caliphs_Umar_ibn_Al-Khatt%C4%81b_-_%D8%B9%D9%8F%D9%85%D8%B1_%D8%A8%D9%86_%D8%A7%D9%84%D8%AE%D8%B7%D9%91%D8%A7%D8%A8_%D8%AB%D8%A7%D9%86%D9%8A_%D8%A7%D9%84%D8%AE%D9%84%D9%81%D8%A7%D8%A1_%D8%A7%D9%84%D8%B1%D8%A7%D8%B4%D8%AF%D9%8A%D9%86.svg",
     "article": "https://zh.wikipedia.org/wiki/%E6%AC%A7%E9%BA%A6%E5%B0%94%C2%B7%E6%9C%AC%C2%B7%E8%B5%AB%E5%A1%94%E5%8D%9C",
@@ -4993,7 +4775,7 @@ const portraitCredits = {
   },
   "legacy-world-123-摩尼": {
     "id": "legacy-world-123-摩尼",
-    "src": "/portraits/roster-763.jpg",
+    "src": "/portraits/optimized/portrait-763.webp",
     "file": "Icon_of_Mani_2.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Icon_of_Mani_2.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%91%A9%E5%B0%BC",
@@ -5003,7 +4785,7 @@ const portraitCredits = {
   },
   "legacy-world-124-巴哈欧拉": {
     "id": "legacy-world-124-巴哈欧拉",
-    "src": "/portraits/roster-764.jpg",
+    "src": "/portraits/optimized/portrait-764.webp",
     "file": "Shrine_of_Bahá'u'lláh.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Shrine_of_Bah%C3%A1%27u%27ll%C3%A1h.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%93%88%E6%AC%A7%E6%8B%89",
@@ -5013,7 +4795,7 @@ const portraitCredits = {
   },
   "legacy-world-125-巴孛": {
     "id": "legacy-world-125-巴孛",
-    "src": "/portraits/roster-765.jpg",
+    "src": "/portraits/optimized/portrait-765.webp",
     "file": "Shrine_Bab_North_West.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Shrine_Bab_North_West.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%B8%83%20(%E5%B7%B4%E5%93%88%E4%BC%8A%E4%BF%A1%E4%BB%B0%E5%85%88%E7%9F%A5)",
@@ -5023,7 +4805,7 @@ const portraitCredits = {
   },
   "legacy-world-126-古鲁那纳克": {
     "id": "legacy-world-126-古鲁那纳克",
-    "src": "/portraits/roster-766.jpg",
+    "src": "/portraits/optimized/portrait-766.webp",
     "file": "Sikh_Gurus_with_Bhai_Bala_and_Bhai_Mardana.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Sikh_Gurus_with_Bhai_Bala_and_Bhai_Mardana.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8F%A4%E9%AD%AF%E9%82%A3%E7%B4%8D%E5%85%8B",
@@ -5033,7 +4815,7 @@ const portraitCredits = {
   },
   "legacy-world-130-古鲁阿尔琼": {
     "id": "legacy-world-130-古鲁阿尔琼",
-    "src": "/portraits/roster-770.jpg",
+    "src": "/portraits/optimized/portrait-770.webp",
     "file": "Guru_Arjun_Dev_painting_from_the_family_workshop_of_Nainsukh_of_Guler.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Guru_Arjun_Dev_painting_from_the_family_workshop_of_Nainsukh_of_Guler.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8F%A4%E9%AD%AF%E9%98%BF%E7%88%BE%E7%93%8A",
@@ -5043,7 +4825,7 @@ const portraitCredits = {
   },
   "legacy-world-136-宙斯": {
     "id": "legacy-world-136-宙斯",
-    "src": "/portraits/roster-776.jpg",
+    "src": "/portraits/optimized/portrait-776.webp",
     "file": "Jupiter_Smyrna_Louvre_Ma13.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Jupiter_Smyrna_Louvre_Ma13.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AE%99%E6%96%AF",
@@ -5053,7 +4835,7 @@ const portraitCredits = {
   },
   "legacy-world-137-赫拉": {
     "id": "legacy-world-137-赫拉",
-    "src": "/portraits/roster-777.jpg",
+    "src": "/portraits/optimized/portrait-777.webp",
     "file": "Hera_Campana_Louvre_Ma2283.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Hera_Campana_Louvre_Ma2283.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%B5%AB%E6%8B%89",
@@ -5063,7 +4845,7 @@ const portraitCredits = {
   },
   "legacy-world-138-波塞冬": {
     "id": "legacy-world-138-波塞冬",
-    "src": "/portraits/roster-778.jpg",
+    "src": "/portraits/optimized/portrait-778.webp",
     "file": "0036MAN_Poseidon.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:0036MAN_Poseidon.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B3%A2%E5%A1%9E%E5%86%AC",
@@ -5073,7 +4855,7 @@ const portraitCredits = {
   },
   "legacy-world-139-哈得斯": {
     "id": "legacy-world-139-哈得斯",
-    "src": "/portraits/roster-779.jpg",
+    "src": "/portraits/optimized/portrait-779.webp",
     "file": "Mack,_Ludwig,_Die_Unterwelt,_mitte.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Mack,_Ludwig,_Die_Unterwelt,_mitte.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%93%88%E5%BE%97%E6%96%AF",
@@ -5083,7 +4865,7 @@ const portraitCredits = {
   },
   "legacy-world-140-雅典娜": {
     "id": "legacy-world-140-雅典娜",
-    "src": "/portraits/roster-780.jpg",
+    "src": "/portraits/optimized/portrait-780.webp",
     "file": "Mattei_Athena_Louvre_Ma530_n2.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Mattei_Athena_Louvre_Ma530_n2.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%9B%85%E5%85%B8%E5%A8%9C",
@@ -5093,7 +4875,7 @@ const portraitCredits = {
   },
   "legacy-world-141-阿波罗": {
     "id": "legacy-world-141-阿波罗",
-    "src": "/portraits/roster-781.jpg",
+    "src": "/portraits/optimized/portrait-781.webp",
     "file": "Apollo_ny_carlsberg_glyptotek.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Apollo_ny_carlsberg_glyptotek.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E7%BD%97",
@@ -5103,7 +4885,7 @@ const portraitCredits = {
   },
   "legacy-world-142-阿尔忒弥斯": {
     "id": "legacy-world-142-阿尔忒弥斯",
-    "src": "/portraits/roster-782.jpg",
+    "src": "/portraits/optimized/portrait-782.webp",
     "file": "Diane_de_Versailles_Leochares.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Diane_de_Versailles_Leochares.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%BF%E8%80%B3%E5%BF%92%E5%BC%A5%E6%96%AF",
@@ -5113,7 +4895,7 @@ const portraitCredits = {
   },
   "legacy-world-143-阿瑞斯": {
     "id": "legacy-world-143-阿瑞斯",
-    "src": "/portraits/roster-783.jpg",
+    "src": "/portraits/optimized/portrait-783.webp",
     "file": "Ares_Ludovisi_Altemps_Inv8602_n2.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ares_Ludovisi_Altemps_Inv8602_n2.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%BF%E7%91%9E%E6%96%AF",
@@ -5123,7 +4905,7 @@ const portraitCredits = {
   },
   "legacy-world-145-赫淮斯托斯": {
     "id": "legacy-world-145-赫淮斯托斯",
-    "src": "/portraits/roster-785.jpg",
+    "src": "/portraits/optimized/portrait-785.webp",
     "file": "Vulcan_Coustou_Louvre_MR1814.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Vulcan_Coustou_Louvre_MR1814.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%B5%AB%E6%B7%AE%E6%96%AF%E6%89%98%E6%96%AF",
@@ -5133,7 +4915,7 @@ const portraitCredits = {
   },
   "legacy-world-146-赫尔墨斯": {
     "id": "legacy-world-146-赫尔墨斯",
-    "src": "/portraits/roster-786.jpg",
+    "src": "/portraits/optimized/portrait-786.webp",
     "file": "Hermes_Logios_Altemps_33.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Hermes_Logios_Altemps_33.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%B5%AB%E8%80%B3%E5%A2%A8%E6%96%AF",
@@ -5143,7 +4925,7 @@ const portraitCredits = {
   },
   "legacy-world-147-德墨忒尔": {
     "id": "legacy-world-147-德墨忒尔",
-    "src": "/portraits/roster-787.jpg",
+    "src": "/portraits/optimized/portrait-787.webp",
     "file": "Hera_Barberini_Pio-Clementino_Inv254.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Hera_Barberini_Pio-Clementino_Inv254.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BE%97%E5%A2%A8%E5%BF%92%E8%80%B3",
@@ -5153,7 +4935,7 @@ const portraitCredits = {
   },
   "legacy-world-148-狄俄尼索斯": {
     "id": "legacy-world-148-狄俄尼索斯",
-    "src": "/portraits/roster-788.jpg",
+    "src": "/portraits/optimized/portrait-788.webp",
     "file": "Dionysos_Louvre_Ma87_n2.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Dionysos_Louvre_Ma87_n2.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8B%84%E4%BF%84%E5%80%AA%E7%B4%A2%E6%96%AF",
@@ -5163,7 +4945,7 @@ const portraitCredits = {
   },
   "legacy-world-149-赫斯提亚": {
     "id": "legacy-world-149-赫斯提亚",
-    "src": "/portraits/roster-789.jpg",
+    "src": "/portraits/optimized/portrait-789.webp",
     "file": "Hestia_MKL_Bd._8_1890_(130918480).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Hestia_MKL_Bd._8_1890_(130918480).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%B5%AB%E6%96%AF%E6%8F%90%E4%BA%9E",
@@ -5173,7 +4955,7 @@ const portraitCredits = {
   },
   "legacy-world-150-厄洛斯": {
     "id": "legacy-world-150-厄洛斯",
-    "src": "/portraits/roster-790.jpg",
+    "src": "/portraits/optimized/portrait-790.webp",
     "file": "Eros_Farnese_MAN_Napoli_6353.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Eros_Farnese_MAN_Napoli_6353.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8E%84%E6%B4%9B%E6%96%AF",
@@ -5183,7 +4965,7 @@ const portraitCredits = {
   },
   "legacy-world-151-普罗米修斯": {
     "id": "legacy-world-151-普罗米修斯",
-    "src": "/portraits/roster-791.jpg",
+    "src": "/portraits/optimized/portrait-791.webp",
     "file": "Heinrich_fueger_1817_prometheus_brings_fire_to_mankind.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Heinrich_fueger_1817_prometheus_brings_fire_to_mankind.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%99%AE%E7%BD%97%E7%B1%B3%E4%BF%AE%E6%96%AF",
@@ -5193,7 +4975,7 @@ const portraitCredits = {
   },
   "legacy-world-153-潘多拉": {
     "id": "legacy-world-153-潘多拉",
-    "src": "/portraits/roster-793.jpg",
+    "src": "/portraits/optimized/portrait-793.webp",
     "file": "Pandora_Loison_cour_Carree_Louvre.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Pandora_Loison_cour_Carree_Louvre.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%BD%98%E5%A4%9A%E6%8B%89",
@@ -5203,7 +4985,7 @@ const portraitCredits = {
   },
   "legacy-world-154-克洛诺斯": {
     "id": "legacy-world-154-克洛诺斯",
-    "src": "/portraits/roster-794.jpg",
+    "src": "/portraits/optimized/portrait-794.webp",
     "file": "Rubens_saturn.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Rubens_saturn.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%85%8B%E6%B4%9B%E8%AF%BA%E6%96%AF",
@@ -5213,7 +4995,7 @@ const portraitCredits = {
   },
   "legacy-world-156-乌拉诺斯": {
     "id": "legacy-world-156-乌拉诺斯",
-    "src": "/portraits/roster-796.jpg",
+    "src": "/portraits/optimized/portrait-796.webp",
     "file": "Aion_mosaic_Glyptothek_Munich_W504.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Aion_mosaic_Glyptothek_Munich_W504.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%B9%8C%E6%8B%89%E8%AF%BA%E6%96%AF",
@@ -5223,7 +5005,7 @@ const portraitCredits = {
   },
   "legacy-world-157-盖亚": {
     "id": "legacy-world-157-盖亚",
-    "src": "/portraits/roster-797.jpg",
+    "src": "/portraits/optimized/portrait-797.webp",
     "file": "Pergamonmuseum_-_Antikensammlung_-_Pergamonaltar_13_detail.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Pergamonmuseum_-_Antikensammlung_-_Pergamonaltar_13_detail.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%9B%96%E4%BA%9A",
@@ -5233,7 +5015,7 @@ const portraitCredits = {
   },
   "legacy-world-158-塔耳塔洛斯": {
     "id": "legacy-world-158-塔耳塔洛斯",
-    "src": "/portraits/roster-798.jpg",
+    "src": "/portraits/optimized/portrait-798.webp",
     "file": "Mack,_Ludwig,_Die_Unterwelt,_mitte.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Mack,_Ludwig,_Die_Unterwelt,_mitte.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%A1%94%E8%80%B3%E5%A1%94%E7%BD%97%E6%96%AF",
@@ -5243,7 +5025,7 @@ const portraitCredits = {
   },
   "legacy-world-159-倪克斯": {
     "id": "legacy-world-159-倪克斯",
-    "src": "/portraits/roster-799.jpg",
+    "src": "/portraits/optimized/portrait-799.webp",
     "file": "William-Adolphe_Bouguereau_(1825-1905)_-_La_Nuit_(1883).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_La_Nuit_(1883).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%80%AA%E5%85%8B%E6%96%AF",
@@ -5253,7 +5035,7 @@ const portraitCredits = {
   },
   "legacy-world-161-俄刻阿诺斯": {
     "id": "legacy-world-161-俄刻阿诺斯",
-    "src": "/portraits/roster-801.jpg",
+    "src": "/portraits/optimized/portrait-801.webp",
     "file": "Oceanus_(Trevi_fountain).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Oceanus_(Trevi_fountain).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%88%BB%E9%98%BF%E8%AF%BA%E6%96%AF",
@@ -5263,7 +5045,7 @@ const portraitCredits = {
   },
   "legacy-world-163-忒弥斯": {
     "id": "legacy-world-163-忒弥斯",
-    "src": "/portraits/roster-803.jpg",
+    "src": "/portraits/optimized/portrait-803.webp",
     "file": "0029MAN-Themis.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:0029MAN-Themis.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BF%92%E5%BC%A5%E6%96%AF",
@@ -5273,7 +5055,7 @@ const portraitCredits = {
   },
   "legacy-world-164-摩涅莫绪涅": {
     "id": "legacy-world-164-摩涅莫绪涅",
-    "src": "/portraits/roster-804.jpg",
+    "src": "/portraits/optimized/portrait-804.webp",
     "file": "Mnemosyne_(color)_Rossetti.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Mnemosyne_(color)_Rossetti.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%B0%9F%E6%B6%85%E6%91%A9%E5%8F%99%E6%B6%85",
@@ -5283,7 +5065,7 @@ const portraitCredits = {
   },
   "legacy-world-170-珀耳塞福涅": {
     "id": "legacy-world-170-珀耳塞福涅",
-    "src": "/portraits/roster-810.jpg",
+    "src": "/portraits/optimized/portrait-810.webp",
     "file": "AMI_-_Isis-Persephone.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:AMI_-_Isis-Persephone.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8F%80%E8%80%B3%E5%A1%9E%E7%A6%8F%E6%B6%85",
@@ -5293,7 +5075,7 @@ const portraitCredits = {
   },
   "legacy-world-172-涅墨西斯": {
     "id": "legacy-world-172-涅墨西斯",
-    "src": "/portraits/roster-812.jpg",
+    "src": "/portraits/optimized/portrait-812.webp",
     "file": "Statue_Nemesis_Louvre_Ma4873.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Statue_Nemesis_Louvre_Ma4873.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B6%85%E5%A2%A8%E8%A5%BF%E6%96%AF",
@@ -5303,7 +5085,7 @@ const portraitCredits = {
   },
   "legacy-world-173-缪斯": {
     "id": "legacy-world-173-缪斯",
-    "src": "/portraits/roster-813.jpg",
+    "src": "/portraits/optimized/portrait-813.webp",
     "file": "Jan_van_Balen_(attr)_Apollo_und_die_Musen.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Jan_van_Balen_(attr)_Apollo_und_die_Musen.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%BC%AA%E6%96%AF",
@@ -5313,7 +5095,7 @@ const portraitCredits = {
   },
   "legacy-world-174-卡利俄佩": {
     "id": "legacy-world-174-卡利俄佩",
-    "src": "/portraits/roster-814.jpg",
+    "src": "/portraits/optimized/portrait-814.webp",
     "file": "Calliope.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Calliope.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%88%A9%E4%BF%84%E4%BD%A9",
@@ -5323,7 +5105,7 @@ const portraitCredits = {
   },
   "legacy-world-175-克利俄": {
     "id": "legacy-world-175-克利俄",
-    "src": "/portraits/roster-815.jpg",
+    "src": "/portraits/optimized/portrait-815.webp",
     "file": "Virgil_Mosaic_Bardo_Museum_Tunis.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Virgil_Mosaic_Bardo_Museum_Tunis.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%85%8B%E5%88%A9%E4%BF%84",
@@ -5333,7 +5115,7 @@ const portraitCredits = {
   },
   "legacy-world-177-塔利亚": {
     "id": "legacy-world-177-塔利亚",
-    "src": "/portraits/roster-817.jpg",
+    "src": "/portraits/optimized/portrait-817.webp",
     "file": "Thalia_by_Jean-Marc_Nattier.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Thalia_by_Jean-Marc_Nattier.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%A1%94%E5%88%A9%E4%BA%9A",
@@ -5343,7 +5125,7 @@ const portraitCredits = {
   },
   "legacy-world-178-墨尔波墨涅": {
     "id": "legacy-world-178-墨尔波墨涅",
-    "src": "/portraits/roster-818.jpg",
+    "src": "/portraits/optimized/portrait-818.webp",
     "file": "Melpomene_Louvre.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Melpomene_Louvre.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%A2%A8%E7%88%BE%E6%B3%A2%E5%A2%A8%E6%B6%85",
@@ -5353,7 +5135,7 @@ const portraitCredits = {
   },
   "legacy-world-179-忒耳普西科瑞": {
     "id": "legacy-world-179-忒耳普西科瑞",
-    "src": "/portraits/roster-819.jpg",
+    "src": "/portraits/optimized/portrait-819.webp",
     "file": "Terpsichore.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Terpsichore.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BF%92%E8%80%B3%E6%99%AE%E8%A5%BF%E7%A7%91%E7%91%9E",
@@ -5363,7 +5145,7 @@ const portraitCredits = {
   },
   "legacy-world-180-埃拉托": {
     "id": "legacy-world-180-埃拉托",
-    "src": "/portraits/roster-820.jpg",
+    "src": "/portraits/optimized/portrait-820.webp",
     "file": "Erato.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Erato.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8E%84%E5%89%8C%E6%89%98",
@@ -5373,7 +5155,7 @@ const portraitCredits = {
   },
   "legacy-world-183-赫拉克勒斯": {
     "id": "legacy-world-183-赫拉克勒斯",
-    "src": "/portraits/roster-823.jpg",
+    "src": "/portraits/optimized/portrait-823.webp",
     "file": "Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%B5%AB%E6%8B%89%E5%85%8B%E5%8B%92%E6%96%AF",
@@ -5383,7 +5165,7 @@ const portraitCredits = {
   },
   "legacy-world-184-阿喀琉斯": {
     "id": "legacy-world-184-阿喀琉斯",
-    "src": "/portraits/roster-824.jpg",
+    "src": "/portraits/optimized/portrait-824.webp",
     "file": "Kämpfender_Achilles_by_Teicher.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:K%C3%A4mpfender_Achilles_by_Teicher.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%96%80%E7%90%89%E6%96%AF",
@@ -5393,7 +5175,7 @@ const portraitCredits = {
   },
   "legacy-world-185-奥德修斯": {
     "id": "legacy-world-185-奥德修斯",
-    "src": "/portraits/roster-825.jpg",
+    "src": "/portraits/optimized/portrait-825.webp",
     "file": "Head_Odysseus_MAR_Sperlonga.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Head_Odysseus_MAR_Sperlonga.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%BE%B7%E4%BF%AE%E6%96%AF",
@@ -5403,7 +5185,7 @@ const portraitCredits = {
   },
   "legacy-world-186-俄耳甫斯": {
     "id": "legacy-world-186-俄耳甫斯",
-    "src": "/portraits/roster-826.jpg",
+    "src": "/portraits/optimized/portrait-826.webp",
     "file": "Kadmos_dragon_Louvre_E707.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Kadmos_dragon_Louvre_E707.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BF%84%E8%80%B3%E7%94%AB%E6%96%AF",
@@ -5413,7 +5195,7 @@ const portraitCredits = {
   },
   "legacy-world-187-伊阿宋": {
     "id": "legacy-world-187-伊阿宋",
-    "src": "/portraits/roster-827.jpg",
+    "src": "/portraits/optimized/portrait-827.webp",
     "file": "Kadmos_dragon_Louvre_E707.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Kadmos_dragon_Louvre_E707.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BC%8A%E9%98%BF%E5%AE%8B",
@@ -5423,7 +5205,7 @@ const portraitCredits = {
   },
   "legacy-world-188-美狄亚": {
     "id": "legacy-world-188-美狄亚",
-    "src": "/portraits/roster-828.jpg",
+    "src": "/portraits/optimized/portrait-828.webp",
     "file": "Herbert_James_Draper,_The_Golden_Fleece.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Herbert_James_Draper,_The_Golden_Fleece.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%BE%8E%E7%8B%84%E4%BA%9E",
@@ -5433,7 +5215,7 @@ const portraitCredits = {
   },
   "legacy-world-190-珀尔修斯": {
     "id": "legacy-world-190-珀尔修斯",
-    "src": "/portraits/roster-830.jpg",
+    "src": "/portraits/optimized/portrait-830.webp",
     "file": "Persus-with-the-head-of-med.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Persus-with-the-head-of-med.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8F%80%E8%80%B3%E4%BF%AE%E6%96%AF",
@@ -5443,7 +5225,7 @@ const portraitCredits = {
   },
   "legacy-world-191-安提戈涅": {
     "id": "legacy-world-191-安提戈涅",
-    "src": "/portraits/roster-831.jpeg",
+    "src": "/portraits/optimized/portrait-831.webp",
     "file": "Lytras_nikiforos_antigone_polynices.jpeg",
     "page": "https://commons.wikimedia.org/wiki/File:Lytras_nikiforos_antigone_polynices.jpeg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AE%89%E6%8F%90%E6%88%88%E6%B6%85",
@@ -5453,7 +5235,7 @@ const portraitCredits = {
   },
   "legacy-world-192-伊卡洛斯": {
     "id": "legacy-world-192-伊卡洛斯",
-    "src": "/portraits/roster-832.jpg",
+    "src": "/portraits/optimized/portrait-832.webp",
     "file": "Anthony_van_Dyck_-_Daedalus_and_Icarus_-_Google_Art_Project.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Anthony_van_Dyck_-_Daedalus_and_Icarus_-_Google_Art_Project.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%8D%A1%E6%B4%9B%E6%96%AF",
@@ -5463,7 +5245,7 @@ const portraitCredits = {
   },
   "legacy-world-194-西西弗斯": {
     "id": "legacy-world-194-西西弗斯",
-    "src": "/portraits/roster-834.jpg",
+    "src": "/portraits/optimized/portrait-834.webp",
     "file": "Nekyia_Staatliche_Antikensammlungen_1494_n2.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Nekyia_Staatliche_Antikensammlungen_1494_n2.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%A5%BF%E5%BC%97%E6%96%AF",
@@ -5473,7 +5255,7 @@ const portraitCredits = {
   },
   "legacy-world-195-俄狄浦斯": {
     "id": "legacy-world-195-俄狄浦斯",
-    "src": "/portraits/roster-835.jpg",
+    "src": "/portraits/optimized/portrait-835.webp",
     "file": "IngresOdipusAndSphinx.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:IngresOdipusAndSphinx.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BF%84%E7%8B%84%E6%B5%A6%E6%96%AF",
@@ -5483,7 +5265,7 @@ const portraitCredits = {
   },
   "legacy-world-196-安提俄珀": {
     "id": "legacy-world-196-安提俄珀",
-    "src": "/portraits/roster-836.jpg",
+    "src": "/portraits/optimized/portrait-836.webp",
     "file": "Franz_Anton_Maulbertsch_003.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Franz_Anton_Maulbertsch_003.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AE%89%E6%8F%90%E4%BF%84%E7%8F%80",
@@ -5493,7 +5275,7 @@ const portraitCredits = {
   },
   "legacy-world-197-卡德摩斯": {
     "id": "legacy-world-197-卡德摩斯",
-    "src": "/portraits/roster-837.jpg",
+    "src": "/portraits/optimized/portrait-837.webp",
     "file": "Kadmos_dragon_Louvre_N3157.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Kadmos_dragon_Louvre_N3157.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%BE%B7%E6%91%A9%E6%96%AF",
@@ -5503,7 +5285,7 @@ const portraitCredits = {
   },
   "legacy-world-198-维纳斯": {
     "id": "legacy-world-198-维纳斯",
-    "src": "/portraits/roster-838.jpg",
+    "src": "/portraits/optimized/portrait-838.webp",
     "file": "1863_Alexandre_Cabanel_-_The_Birth_of_Venus.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:1863_Alexandre_Cabanel_-_The_Birth_of_Venus.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E7%BA%B3%E6%96%AF",
@@ -5513,7 +5295,7 @@ const portraitCredits = {
   },
   "legacy-world-199-朱庇特": {
     "id": "legacy-world-199-朱庇特",
-    "src": "/portraits/roster-839.jpg",
+    "src": "/portraits/optimized/portrait-839.webp",
     "file": "Júpiter_y_Tetis,_por_Dominique_Ingres.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:J%C3%BApiter_y_Tetis,_por_Dominique_Ingres.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%BA%87%E7%89%B9",
@@ -5523,7 +5305,7 @@ const portraitCredits = {
   },
   "legacy-world-200-密涅瓦": {
     "id": "legacy-world-200-密涅瓦",
-    "src": "/portraits/roster-840.jpg",
+    "src": "/portraits/optimized/portrait-840.webp",
     "file": "Minerva_MET_DP822418.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Minerva_MET_DP822418.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%A5%E6%B6%85%E8%80%B3%E7%93%A6",
@@ -5533,7 +5315,7 @@ const portraitCredits = {
   },
   "legacy-world-202-墨丘利": {
     "id": "legacy-world-202-墨丘利",
-    "src": "/portraits/roster-842.jpg",
+    "src": "/portraits/optimized/portrait-842.webp",
     "file": "Mercury_by_Hendrick_Goltzius.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Mercury_by_Hendrick_Goltzius.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%A2%A8%E4%B8%98%E5%88%A9",
@@ -5543,7 +5325,7 @@ const portraitCredits = {
   },
   "legacy-world-204-尼普顿": {
     "id": "legacy-world-204-尼普顿",
-    "src": "/portraits/roster-844.jpg",
+    "src": "/portraits/optimized/portrait-844.webp",
     "file": "Sousse_neptune.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Sousse_neptune.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B0%BC%E6%99%AE%E9%A1%BF",
@@ -5553,7 +5335,7 @@ const portraitCredits = {
   },
   "legacy-world-205-普路托": {
     "id": "legacy-world-205-普路托",
-    "src": "/portraits/roster-845.jpg",
+    "src": "/portraits/optimized/portrait-845.webp",
     "file": "Statuette_of_Pluto,_front_-_Getty_Museum_(71.AA.438).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Statuette_of_Pluto,_front_-_Getty_Museum_(71.AA.438).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%99%AE%E8%B7%AF%E6%89%98",
@@ -5563,7 +5345,7 @@ const portraitCredits = {
   },
   "legacy-world-206-维斯塔": {
     "id": "legacy-world-206-维斯塔",
-    "src": "/portraits/roster-846.jpg",
+    "src": "/portraits/optimized/portrait-846.webp",
     "file": "Fresco_of_Vesta-Hestia_from_Pompeii.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Fresco_of_Vesta-Hestia_from_Pompeii.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%B6%AD%E6%96%AF%E5%A1%94",
@@ -5573,7 +5355,7 @@ const portraitCredits = {
   },
   "legacy-world-208-狄安娜": {
     "id": "legacy-world-208-狄安娜",
-    "src": "/portraits/roster-848.jpg",
+    "src": "/portraits/optimized/portrait-848.webp",
     "file": "Cametti_Diana.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Cametti_Diana.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%8B%84%E9%98%BF%E5%A8%9C",
@@ -5583,7 +5365,7 @@ const portraitCredits = {
   },
   "legacy-world-210-瑞摩斯": {
     "id": "legacy-world-210-瑞摩斯",
-    "src": "/portraits/roster-850.jpg",
+    "src": "/portraits/optimized/portrait-850.webp",
     "file": "Romulus_and_Remus_suckling_the_she-wolf_on_a_riverbank_MET_DP878752.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Romulus_and_Remus_suckling_the_she-wolf_on_a_riverbank_MET_DP878752.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%BD%97%E6%85%95%E8%B7%AF%E6%96%AF%E4%B8%8E%E9%9B%B7%E7%A9%86%E6%96%AF",
@@ -5593,7 +5375,7 @@ const portraitCredits = {
   },
   "legacy-world-211-伊西斯": {
     "id": "legacy-world-211-伊西斯",
-    "src": "/portraits/roster-851.png",
+    "src": "/portraits/optimized/portrait-851.webp",
     "file": "Isis.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Isis.svg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%A5%BF%E6%96%AF",
@@ -5603,7 +5385,7 @@ const portraitCredits = {
   },
   "legacy-world-212-奥西里斯": {
     "id": "legacy-world-212-奥西里斯",
-    "src": "/portraits/roster-852.png",
+    "src": "/portraits/optimized/portrait-852.webp",
     "file": "Standing_Osiris.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Standing_Osiris.svg",
     "article": "https://zh.wikipedia.org/wiki/%E6%AC%A7%E8%A5%BF%E9%87%8C%E6%96%AF",
@@ -5613,7 +5395,7 @@ const portraitCredits = {
   },
   "legacy-world-213-荷鲁斯": {
     "id": "legacy-world-213-荷鲁斯",
-    "src": "/portraits/roster-853.png",
+    "src": "/portraits/optimized/portrait-853.webp",
     "file": "Horus_standing.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Horus_standing.svg",
     "article": "https://zh.wikipedia.org/wiki/%E8%8D%B7%E9%B2%81%E6%96%AF",
@@ -5623,7 +5405,7 @@ const portraitCredits = {
   },
   "legacy-world-214-阿努比斯": {
     "id": "legacy-world-214-阿努比斯",
-    "src": "/portraits/roster-854.png",
+    "src": "/portraits/optimized/portrait-854.webp",
     "file": "Anubis_standing.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Anubis_standing.svg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%AF%94%E6%96%AF",
@@ -5633,7 +5415,7 @@ const portraitCredits = {
   },
   "legacy-world-216-阿蒙": {
     "id": "legacy-world-216-阿蒙",
-    "src": "/portraits/roster-856.jpg",
+    "src": "/portraits/optimized/portrait-856.webp",
     "file": "Buste_du_dieu_Amon_-_Louvre_E_10377.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Buste_du_dieu_Amon_-_Louvre_E_10377.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%BF%E8%92%99",
@@ -5643,7 +5425,7 @@ const portraitCredits = {
   },
   "legacy-world-220-普塔": {
     "id": "legacy-world-220-普塔",
-    "src": "/portraits/roster-860.png",
+    "src": "/portraits/optimized/portrait-860.webp",
     "file": "Ancient_Egypt_combinations.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Ancient_Egypt_combinations.svg",
     "article": "https://zh.wikipedia.org/wiki/%E5%8D%9C%E5%A1%94",
@@ -5653,7 +5435,7 @@ const portraitCredits = {
   },
   "legacy-world-221-阿佩普": {
     "id": "legacy-world-221-阿佩普",
-    "src": "/portraits/roster-861.png",
+    "src": "/portraits/optimized/portrait-861.webp",
     "file": "Apep_(Deity).svg",
     "page": "https://commons.wikimedia.org/wiki/File:Apep_(Deity).svg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BD%A9%E6%99%AE",
@@ -5663,7 +5445,7 @@ const portraitCredits = {
   },
   "legacy-world-227-吉尔伽美什": {
     "id": "legacy-world-227-吉尔伽美什",
-    "src": "/portraits/roster-867.jpg",
+    "src": "/portraits/optimized/portrait-867.webp",
     "file": "Hero_mastering_a_lion,_AO19862_(1818).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Hero_mastering_a_lion,_AO19862_(1818).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%90%89%E7%88%BE%E4%BC%BD%E7%BE%8E%E4%BB%80",
@@ -5673,7 +5455,7 @@ const portraitCredits = {
   },
   "legacy-world-228-恩奇都": {
     "id": "legacy-world-228-恩奇都",
-    "src": "/portraits/roster-868.jpg",
+    "src": "/portraits/optimized/portrait-868.webp",
     "file": "Enkidu,_Gilgamesh's_friend._From_Ur,_Iraq,_2027-1763_BCE._Iraq_Museum.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Enkidu,_Gilgamesh%27s_friend._From_Ur,_Iraq,_2027-1763_BCE._Iraq_Museum.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%81%A9%E5%A5%87%E6%9D%9C",
@@ -5683,7 +5465,7 @@ const portraitCredits = {
   },
   "legacy-world-229-伊什塔尔": {
     "id": "legacy-world-229-伊什塔尔",
-    "src": "/portraits/roster-869.jpg",
+    "src": "/portraits/optimized/portrait-869.webp",
     "file": "Seal_of_Inanna,_2350-2150_BCE.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Seal_of_Inanna,_2350-2150_BCE.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%8D%97%E5%A8%9C",
@@ -5693,7 +5475,7 @@ const portraitCredits = {
   },
   "legacy-world-230-马尔杜克": {
     "id": "legacy-world-230-马尔杜克",
-    "src": "/portraits/roster-870.jpg",
+    "src": "/portraits/optimized/portrait-870.webp",
     "file": "Marduk_and_pet.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Marduk_and_pet.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%B0%94%E6%9D%9C%E5%85%8B",
@@ -5703,7 +5485,7 @@ const portraitCredits = {
   },
   "legacy-world-232-阿努": {
     "id": "legacy-world-232-阿努",
-    "src": "/portraits/roster-872.jpg",
+    "src": "/portraits/optimized/portrait-872.webp",
     "file": "Vue_générale_d'Anould_(2).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Vue_g%C3%A9n%C3%A9rale_d%27Anould_(2).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E5%B0%94%E5%BE%B7",
@@ -5713,7 +5495,7 @@ const portraitCredits = {
   },
   "legacy-world-233-恩利尔": {
     "id": "legacy-world-233-恩利尔",
-    "src": "/portraits/roster-873.png",
+    "src": "/portraits/optimized/portrait-873.webp",
     "file": "Chaos_Monster_and_Sun_God.png",
     "page": "https://commons.wikimedia.org/wiki/File:Chaos_Monster_and_Sun_God.png",
     "article": "https://zh.wikipedia.org/wiki/%E6%81%A9%E5%88%A9%E7%88%BE",
@@ -5723,7 +5505,7 @@ const portraitCredits = {
   },
   "legacy-world-235-梵天": {
     "id": "legacy-world-235-梵天",
-    "src": "/portraits/roster-875.jpg",
+    "src": "/portraits/optimized/portrait-875.webp",
     "file": "Brahma,_dal_soffitto_del_tempio_di_huchchappaiyya_gudi,_aihole_(balgakot),_karnataka,_VII_secolo_(cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Brahma,_dal_soffitto_del_tempio_di_huchchappaiyya_gudi,_aihole_(balgakot),_karnataka,_VII_secolo_(cropped).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%A2%B5%E5%A4%A9",
@@ -5733,7 +5515,7 @@ const portraitCredits = {
   },
   "legacy-world-236-毗湿奴": {
     "id": "legacy-world-236-毗湿奴",
-    "src": "/portraits/roster-876.jpg",
+    "src": "/portraits/optimized/portrait-876.webp",
     "file": "Vishnu_from_Gita_Govinda.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Vishnu_from_Gita_Govinda.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%AF%97%E6%B9%BF%E5%A5%B4",
@@ -5743,7 +5525,7 @@ const portraitCredits = {
   },
   "legacy-world-238-拉克什米": {
     "id": "legacy-world-238-拉克什米",
-    "src": "/portraits/roster-878.jpg",
+    "src": "/portraits/optimized/portrait-878.webp",
     "file": "Raja_Ravi_Varma,_Goddess_Lakshmi,_1896.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Goddess_Lakshmi,_1896.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%90%89%E7%A5%A5%E5%A4%A9%E5%A5%B3",
@@ -5753,7 +5535,7 @@ const portraitCredits = {
   },
   "legacy-world-241-杜尔迦": {
     "id": "legacy-world-241-杜尔迦",
-    "src": "/portraits/roster-881.jpg",
+    "src": "/portraits/optimized/portrait-881.webp",
     "file": "Durga_Mata_image_photo.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Durga_Mata_image_photo.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%9A%BE%E8%BF%91%E6%AF%8D",
@@ -5763,7 +5545,7 @@ const portraitCredits = {
   },
   "legacy-world-242-迦梨": {
     "id": "legacy-world-242-迦梨",
-    "src": "/portraits/roster-882.jpg",
+    "src": "/portraits/optimized/portrait-882.webp",
     "file": "Kali_Devi.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Kali_Devi.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%97%B6%E6%AF%8D",
@@ -5773,7 +5555,7 @@ const portraitCredits = {
   },
   "legacy-world-243-象头神": {
     "id": "legacy-world-243-象头神",
-    "src": "/portraits/roster-883.jpg",
+    "src": "/portraits/optimized/portrait-883.webp",
     "file": "Ganesh_sits_affectionately_with_his_vahana,_Mushika_another_version.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Ganesh_sits_affectionately_with_his_vahana,_Mushika_another_version.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%B1%A1%E5%A4%B4%E7%A5%9E",
@@ -5783,7 +5565,7 @@ const portraitCredits = {
   },
   "legacy-world-244-室建陀": {
     "id": "legacy-world-244-室建陀",
-    "src": "/portraits/roster-884.jpg",
+    "src": "/portraits/optimized/portrait-884.webp",
     "file": "Lord_Muruga_Batu_Caves.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Lord_Muruga_Batu_Caves.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AE%A4%E5%BB%BA%E9%99%80",
@@ -5793,7 +5575,7 @@ const portraitCredits = {
   },
   "legacy-world-245-罗摩": {
     "id": "legacy-world-245-罗摩",
-    "src": "/portraits/roster-885.jpg",
+    "src": "/portraits/optimized/portrait-885.webp",
     "file": "Lord_Rama_with_arrows.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Lord_Rama_with_arrows.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%BE%85%E6%91%A9",
@@ -5803,7 +5585,7 @@ const portraitCredits = {
   },
   "legacy-world-247-罗什曼那": {
     "id": "legacy-world-247-罗什曼那",
-    "src": "/portraits/roster-887.jpg",
+    "src": "/portraits/optimized/portrait-887.webp",
     "file": "Rama_Lakshmana.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Rama_Lakshmana.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BB%80%E6%9B%BC%E9%82%A3",
@@ -5813,7 +5595,7 @@ const portraitCredits = {
   },
   "legacy-world-252-坚战": {
     "id": "legacy-world-252-坚战",
-    "src": "/portraits/roster-892.jpg",
+    "src": "/portraits/optimized/portrait-892.webp",
     "file": "Draupadi_and_Pandavas.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Draupadi_and_Pandavas.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%A0%85%E6%88%B0",
@@ -5823,7 +5605,7 @@ const portraitCredits = {
   },
   "legacy-world-253-毗湿摩": {
     "id": "legacy-world-253-毗湿摩",
-    "src": "/portraits/roster-893.jpg",
+    "src": "/portraits/optimized/portrait-893.webp",
     "file": "The_Death_of_Bhishma.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:The_Death_of_Bhishma.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%AF%97%E6%BF%95%E6%91%A9",
@@ -5833,7 +5615,7 @@ const portraitCredits = {
   },
   "legacy-world-255-迦尔纳": {
     "id": "legacy-world-255-迦尔纳",
-    "src": "/portraits/roster-895.jpg",
+    "src": "/portraits/optimized/portrait-895.webp",
     "file": "Arjuna_and_His_Charioteer_Krishna_Confront_Karna.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Arjuna_and_His_Charioteer_Krishna_Confront_Karna.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%BF%A6%E7%88%BE%E7%B4%8D",
@@ -5843,7 +5625,7 @@ const portraitCredits = {
   },
   "legacy-world-258-那罗陀": {
     "id": "legacy-world-258-那罗陀",
-    "src": "/portraits/roster-898.jpg",
+    "src": "/portraits/optimized/portrait-898.webp",
     "file": "Narad_-_Vintage_Print.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Narad_-_Vintage_Print.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%82%A3%E7%BD%97%E9%99%80",
@@ -5853,7 +5635,7 @@ const portraitCredits = {
   },
   "legacy-world-259-因陀罗": {
     "id": "legacy-world-259-因陀罗",
-    "src": "/portraits/roster-899.jpg",
+    "src": "/portraits/optimized/portrait-899.webp",
     "file": "Indra_deva.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Indra_deva.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%9B%A0%E9%99%80%E7%BE%85",
@@ -5863,7 +5645,7 @@ const portraitCredits = {
   },
   "legacy-world-261-伐楼那": {
     "id": "legacy-world-261-伐楼那",
-    "src": "/portraits/roster-901.jpg",
+    "src": "/portraits/optimized/portrait-901.webp",
     "file": "Varuna_makara.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Varuna_makara.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BC%90%E6%A5%BC%E6%8B%BF",
@@ -5873,7 +5655,7 @@ const portraitCredits = {
   },
   "legacy-world-262-苏利耶": {
     "id": "legacy-world-262-苏利耶",
-    "src": "/portraits/roster-902.jpg",
+    "src": "/portraits/optimized/portrait-902.webp",
     "file": "Surya_Narayana.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Surya_Narayana.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%98%87%E5%88%A9%E8%80%B6",
@@ -5883,7 +5665,7 @@ const portraitCredits = {
   },
   "legacy-world-263-月天": {
     "id": "legacy-world-263-月天",
-    "src": "/portraits/roster-903.png",
+    "src": "/portraits/optimized/portrait-903.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9C%88%E5%A4%A9",
@@ -5893,7 +5675,7 @@ const portraitCredits = {
   },
   "legacy-world-268-那伽": {
     "id": "legacy-world-268-那伽",
-    "src": "/portraits/roster-908.png",
+    "src": "/portraits/optimized/portrait-908.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E9%82%A3%E4%BC%BD",
@@ -5903,7 +5685,7 @@ const portraitCredits = {
   },
   "legacy-world-270-帕坦伽利": {
     "id": "legacy-world-270-帕坦伽利",
-    "src": "/portraits/roster-910.jpg",
+    "src": "/portraits/optimized/portrait-910.webp",
     "file": "Patanjali_Statue.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Patanjali_Statue.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B3%A2%E9%A2%A0%E9%98%87%E5%88%A9",
@@ -5913,7 +5695,7 @@ const portraitCredits = {
   },
   "legacy-world-273-摩陀婆": {
     "id": "legacy-world-273-摩陀婆",
-    "src": "/portraits/roster-913.jpg",
+    "src": "/portraits/optimized/portrait-913.webp",
     "file": "Shri_Madhvacharya_Vigraha,_Pajaka,_Udupi.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Shri_Madhvacharya_Vigraha,_Pajaka,_Udupi.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%91%A9%E9%99%80%E5%A9%86",
@@ -5921,19 +5703,9 @@ const portraitCredits = {
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
   },
-  "legacy-world-274-圣雄甘地": {
-    "id": "legacy-world-274-圣雄甘地",
-    "src": "/portraits/roster-914.jpg",
-    "file": "Mahatma-Gandhi,_studio,_1931.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Mahatma-Gandhi,_studio,_1931.jpg",
-    "article": "https://zh.wikipedia.org/wiki/%E5%9C%A3%E9%9B%84%E7%94%98%E5%9C%B0",
-    "artist": "Elliott & Fry",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
   "legacy-world-275-特蕾莎修女": {
     "id": "legacy-world-275-特蕾莎修女",
-    "src": "/portraits/roster-915.jpg",
+    "src": "/portraits/optimized/portrait-915.webp",
     "file": "Mother_Teresa_1.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Mother_Teresa_1.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BE%B7%E8%95%BE%E8%8E%8E%E4%BF%AE%E5%A5%B3",
@@ -5943,7 +5715,7 @@ const portraitCredits = {
   },
   "legacy-world-276-泰戈尔": {
     "id": "legacy-world-276-泰戈尔",
-    "src": "/portraits/roster-916.jpg",
+    "src": "/portraits/optimized/portrait-916.webp",
     "file": "Rabindranath_Tagore.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Rabindranath_Tagore.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%BD%97%E5%AE%BE%E5%BE%B7%E6%8B%89%E7%BA%B3%E7%89%B9%C2%B7%E6%B3%B0%E6%88%88%E5%B0%94",
@@ -5953,7 +5725,7 @@ const portraitCredits = {
   },
   "legacy-world-282-天照大神": {
     "id": "legacy-world-282-天照大神",
-    "src": "/portraits/roster-922.jpg",
+    "src": "/portraits/optimized/portrait-922.webp",
     "file": "Amaterasu_cave_crop.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Amaterasu_cave_crop.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%85%A7%E5%A4%A7%E7%A5%9E",
@@ -5963,7 +5735,7 @@ const portraitCredits = {
   },
   "legacy-world-285-稻荷神": {
     "id": "legacy-world-285-稻荷神",
-    "src": "/portraits/roster-925.jpg",
+    "src": "/portraits/optimized/portrait-925.webp",
     "file": "Kyoto_FushimiInari01.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Kyoto_FushimiInari01.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%A8%BB%E8%8D%B7%E7%A5%9E",
@@ -5973,7 +5745,7 @@ const portraitCredits = {
   },
   "legacy-world-286-八幡神": {
     "id": "legacy-world-286-八幡神",
-    "src": "/portraits/roster-926.jpg",
+    "src": "/portraits/optimized/portrait-926.webp",
     "file": "Todaiji_Monastery_Hachiman_by_Kaikei_(420).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Todaiji_Monastery_Hachiman_by_Kaikei_(420).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%85%AB%E5%B9%A1%E7%A5%9E",
@@ -5983,7 +5755,7 @@ const portraitCredits = {
   },
   "legacy-world-287-菅原道真": {
     "id": "legacy-world-287-菅原道真",
-    "src": "/portraits/roster-927.jpg",
+    "src": "/portraits/optimized/portrait-927.webp",
     "file": "Sugawara_Michizane.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Sugawara_Michizane.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%8F%85%E5%8E%9F%E9%81%93%E7%9C%9F",
@@ -5993,7 +5765,7 @@ const portraitCredits = {
   },
   "legacy-world-288-安倍晴明": {
     "id": "legacy-world-288-安倍晴明",
-    "src": "/portraits/roster-928.jpg",
+    "src": "/portraits/optimized/portrait-928.webp",
     "file": "Abe_Seimei.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Abe_Seimei.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%AE%89%E5%80%8D%E6%99%B4%E6%98%8E",
@@ -6003,7 +5775,7 @@ const portraitCredits = {
   },
   "legacy-world-289-空海": {
     "id": "legacy-world-289-空海",
-    "src": "/portraits/roster-929.jpg",
+    "src": "/portraits/optimized/portrait-929.webp",
     "file": "Eight_Patriarchs_of_the_Shingon_Sect_of_Buddhism_Kukai_Cropped.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Eight_Patriarchs_of_the_Shingon_Sect_of_Buddhism_Kukai_Cropped.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%A9%BA%E6%B5%B7",
@@ -6013,7 +5785,7 @@ const portraitCredits = {
   },
   "legacy-world-290-最澄": {
     "id": "legacy-world-290-最澄",
-    "src": "/portraits/roster-930.jpg",
+    "src": "/portraits/optimized/portrait-930.webp",
     "file": "最澄像_一乗寺蔵_平安時代.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E6%9C%80%E6%BE%84%E5%83%8F_%E4%B8%80%E4%B9%97%E5%AF%BA%E8%94%B5_%E5%B9%B3%E5%AE%89%E6%99%82%E4%BB%A3.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9C%80%E6%BE%84",
@@ -6023,7 +5795,7 @@ const portraitCredits = {
   },
   "legacy-world-291-亲鸾": {
     "id": "legacy-world-291-亲鸾",
-    "src": "/portraits/roster-931.png",
+    "src": "/portraits/optimized/portrait-931.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E8%A6%AA%E9%B8%9E",
@@ -6033,7 +5805,7 @@ const portraitCredits = {
   },
   "legacy-world-292-法然": {
     "id": "legacy-world-292-法然",
-    "src": "/portraits/roster-932.jpg",
+    "src": "/portraits/optimized/portrait-932.webp",
     "file": "MET_DP231445.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:MET_DP231445.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B3%95%E7%84%B6",
@@ -6043,7 +5815,7 @@ const portraitCredits = {
   },
   "legacy-world-295-日莲": {
     "id": "legacy-world-295-日莲",
-    "src": "/portraits/roster-935.jpg",
+    "src": "/portraits/optimized/portrait-935.webp",
     "file": "Nichiren_Daishonin_Hakii_Portrait.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Nichiren_Daishonin_Hakii_Portrait.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%97%A5%E8%8E%B2",
@@ -6053,7 +5825,7 @@ const portraitCredits = {
   },
   "legacy-world-296-一休宗纯": {
     "id": "legacy-world-296-一休宗纯",
-    "src": "/portraits/roster-936.png",
+    "src": "/portraits/optimized/portrait-936.webp",
     "file": "Dharma_Wheel.svg",
     "page": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.svg",
     "article": "https://zh.wikipedia.org/wiki/%E4%B8%80%E4%BC%91%E5%AE%97%E7%BA%AF",
@@ -6063,7 +5835,7 @@ const portraitCredits = {
   },
   "legacy-world-297-紫式部": {
     "id": "legacy-world-297-紫式部",
-    "src": "/portraits/roster-937.jpg",
+    "src": "/portraits/optimized/portrait-937.webp",
     "file": "Portrait_of_Murasaki_Shikibu_04_02.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Murasaki_Shikibu_04_02.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%B4%AB%E5%BC%8F%E9%83%A8",
@@ -6073,7 +5845,7 @@ const portraitCredits = {
   },
   "legacy-world-298-清少纳言": {
     "id": "legacy-world-298-清少纳言",
-    "src": "/portraits/roster-938.jpg",
+    "src": "/portraits/optimized/portrait-938.webp",
     "file": "Hyakuninisshu_062.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Hyakuninisshu_062.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B8%85%E5%B0%91%E7%B4%8D%E8%A8%80",
@@ -6083,7 +5855,7 @@ const portraitCredits = {
   },
   "legacy-world-299-松尾芭蕉": {
     "id": "legacy-world-299-松尾芭蕉",
-    "src": "/portraits/roster-939.jpg",
+    "src": "/portraits/optimized/portrait-939.webp",
     "file": "Basho_by_Hokusai-small.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Basho_by_Hokusai-small.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%9D%BE%E5%B0%BE%E8%8A%AD%E8%95%89",
@@ -6093,7 +5865,7 @@ const portraitCredits = {
   },
   "legacy-world-303-德川家康": {
     "id": "legacy-world-303-德川家康",
-    "src": "/portraits/roster-943.jpg",
+    "src": "/portraits/optimized/portrait-943.webp",
     "file": "Tokugawa_Ieyasu_kao.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Tokugawa_Ieyasu_kao.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%B7%9D%E5%AE%B6%E5%BA%B7",
@@ -6103,7 +5875,7 @@ const portraitCredits = {
   },
   "legacy-world-304-奥丁": {
     "id": "legacy-world-304-奥丁",
-    "src": "/portraits/roster-944.jpg",
+    "src": "/portraits/optimized/portrait-944.webp",
     "file": "Georg_von_Rosen_-_Oden_som_vandringsman,_1886_(Odin,_the_Wanderer).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Georg_von_Rosen_-_Oden_som_vandringsman,_1886_(Odin,_the_Wanderer).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%A5%A5%E4%B8%81",
@@ -6113,7 +5885,7 @@ const portraitCredits = {
   },
   "legacy-world-306-索尔": {
     "id": "legacy-world-306-索尔",
-    "src": "/portraits/roster-946.jpg",
+    "src": "/portraits/optimized/portrait-946.webp",
     "file": "Thor's_Battle_Against_the_Jötnar_(1872)_by_Mårten_Eskil_Winge.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Thor%27s_Battle_Against_the_J%C3%B6tnar_(1872)_by_M%C3%A5rten_Eskil_Winge.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%B4%A2%E5%B0%94",
@@ -6123,7 +5895,7 @@ const portraitCredits = {
   },
   "legacy-world-307-洛基": {
     "id": "legacy-world-307-洛基",
-    "src": "/portraits/roster-947.jpg",
+    "src": "/portraits/optimized/portrait-947.webp",
     "file": "Processed_SAM_loki.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Processed_SAM_loki.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B4%9B%E5%9F%BA",
@@ -6133,7 +5905,7 @@ const portraitCredits = {
   },
   "legacy-world-308-巴德尔": {
     "id": "legacy-world-308-巴德尔",
-    "src": "/portraits/roster-948.jpg",
+    "src": "/portraits/optimized/portrait-948.webp",
     "file": "SÁM_66,_75v,_death_of_Baldr.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:S%C3%81M_66,_75v,_death_of_Baldr.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%BE%B7%E7%88%BE",
@@ -6143,7 +5915,7 @@ const portraitCredits = {
   },
   "legacy-world-309-提尔": {
     "id": "legacy-world-309-提尔",
-    "src": "/portraits/roster-949.jpg",
+    "src": "/portraits/optimized/portrait-949.webp",
     "file": "Tyr_and_Fenrir-John_Bauer.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Tyr_and_Fenrir-John_Bauer.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%8F%90%E7%88%BE",
@@ -6153,7 +5925,7 @@ const portraitCredits = {
   },
   "legacy-world-310-海姆达尔": {
     "id": "legacy-world-310-海姆达尔",
-    "src": "/portraits/roster-950.jpg",
+    "src": "/portraits/optimized/portrait-950.webp",
     "file": "Nils_Asplund_-_Heimdal.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Nils_Asplund_-_Heimdal.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%B5%B7%E5%A7%86%E8%BE%BE%E5%B0%94",
@@ -6163,7 +5935,7 @@ const portraitCredits = {
   },
   "legacy-world-312-弗蕾亚": {
     "id": "legacy-world-312-弗蕾亚",
-    "src": "/portraits/roster-952.jpg",
+    "src": "/portraits/optimized/portrait-952.webp",
     "file": "Freyja_and_cats_and_angels_by_Blommer.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Freyja_and_cats_and_angels_by_Blommer.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%97%E8%95%BE%E4%BA%9A",
@@ -6173,7 +5945,7 @@ const portraitCredits = {
   },
   "legacy-world-314-尼约德": {
     "id": "legacy-world-314-尼约德",
-    "src": "/portraits/roster-954.jpg",
+    "src": "/portraits/optimized/portrait-954.webp",
     "file": "Njord_dieu_de_la_mer.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Njord_dieu_de_la_mer.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%A5%A5%E5%B0%94%E5%BE%B7",
@@ -6183,7 +5955,7 @@ const portraitCredits = {
   },
   "legacy-world-315-斯卡蒂": {
     "id": "legacy-world-315-斯卡蒂",
-    "src": "/portraits/roster-955.jpg",
+    "src": "/portraits/optimized/portrait-955.webp",
     "file": "Skade_by_Frölich.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Skade_by_Fr%C3%B6lich.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%B5%B2%E5%8D%A1%E8%92%82",
@@ -6193,7 +5965,7 @@ const portraitCredits = {
   },
   "legacy-world-317-布拉吉": {
     "id": "legacy-world-317-布拉吉",
-    "src": "/portraits/roster-957.jpg",
+    "src": "/portraits/optimized/portrait-957.webp",
     "file": "Afternoon_ensemble_MET_63.212a-b_CP4.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Afternoon_ensemble_MET_63.212a-b_CP4.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%BF%9E%E8%A1%A3%E8%A3%99",
@@ -6203,7 +5975,7 @@ const portraitCredits = {
   },
   "legacy-world-319-布伦希尔德": {
     "id": "legacy-world-319-布伦希尔德",
-    "src": "/portraits/roster-959.jpg",
+    "src": "/portraits/optimized/portrait-959.webp",
     "file": "Brunhilde_(Prünhilt)_by_Arpád_Basch_(1900).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Brunhilde_(Pr%C3%BCnhilt)_by_Arp%C3%A1d_Basch_(1900).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B8%83%E5%80%AB%E5%B8%8C%E7%88%BE%E5%BE%B7",
@@ -6213,7 +5985,7 @@ const portraitCredits = {
   },
   "legacy-world-321-库丘林": {
     "id": "legacy-world-321-库丘林",
-    "src": "/portraits/roster-961.jpg",
+    "src": "/portraits/optimized/portrait-961.webp",
     "file": "Cuchulain_in_Battle.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Cuchulain_in_Battle.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BA%AB%E8%83%A1%E6%9E%97",
@@ -6223,7 +5995,7 @@ const portraitCredits = {
   },
   "legacy-world-322-布狄卡": {
     "id": "legacy-world-322-布狄卡",
-    "src": "/portraits/roster-962.jpg",
+    "src": "/portraits/optimized/portrait-962.webp",
     "file": "Queen_Boudica_by_John_Opie.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Queen_Boudica_by_John_Opie.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%B8%83%E7%8B%84%E5%8D%A1",
@@ -6233,7 +6005,7 @@ const portraitCredits = {
   },
   "legacy-world-325-摩根勒菲": {
     "id": "legacy-world-325-摩根勒菲",
-    "src": "/portraits/roster-965.jpg",
+    "src": "/portraits/optimized/portrait-965.webp",
     "file": "Frederick_Sandys_-_Morgan-le-Fay_-_1925P104_-_Birmingham_Museum_and_Art_Gallery.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Frederick_Sandys_-_Morgan-le-Fay_-_1925P104_-_Birmingham_Museum_and_Art_Gallery.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%91%A9%E6%A0%B9%E5%8B%92%E8%8F%B2",
@@ -6243,7 +6015,7 @@ const portraitCredits = {
   },
   "legacy-world-330-以撒": {
     "id": "legacy-world-330-以撒",
-    "src": "/portraits/roster-970.jpg",
+    "src": "/portraits/optimized/portrait-970.webp",
     "file": "Isaac_sarcifice_Pio_Christiano_Inv31648.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Isaac_sarcifice_Pio_Christiano_Inv31648.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BB%A5%E6%92%92",
@@ -6253,7 +6025,7 @@ const portraitCredits = {
   },
   "legacy-world-334-何西阿": {
     "id": "legacy-world-334-何西阿",
-    "src": "/portraits/roster-974.jpg",
+    "src": "/portraits/optimized/portrait-974.webp",
     "file": "Hosea_by_James_Tissot_(cropped).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Hosea_by_James_Tissot_(cropped).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E4%BD%95%E8%A5%BF%E9%98%BF",
@@ -6263,7 +6035,7 @@ const portraitCredits = {
   },
   "legacy-world-335-阿摩司": {
     "id": "legacy-world-335-阿摩司",
-    "src": "/portraits/roster-975.jpg",
+    "src": "/portraits/optimized/portrait-975.webp",
     "file": "Prophet_Amos_(89471482).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Prophet_Amos_(89471482).jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%98%BF%E6%91%A9%E5%8F%B8",
@@ -6273,7 +6045,7 @@ const portraitCredits = {
   },
   "legacy-world-336-撒迦利亚": {
     "id": "legacy-world-336-撒迦利亚",
-    "src": "/portraits/roster-976.jpg",
+    "src": "/portraits/optimized/portrait-976.webp",
     "file": "Michelangelo_Buonarroti_031.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Michelangelo_Buonarroti_031.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%92%92%E8%BF%A6%E5%88%A9%E4%BA%9A",
@@ -6283,7 +6055,7 @@ const portraitCredits = {
   },
   "legacy-world-338-使徒雅各": {
     "id": "legacy-world-338-使徒雅各",
-    "src": "/portraits/roster-978.jpg",
+    "src": "/portraits/optimized/portrait-978.webp",
     "file": "Santiago_el_Mayor.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Santiago_el_Mayor.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E9%9B%85%E5%90%84%20(%E8%A5%BF%E5%BA%87%E5%A4%AA%E4%B9%8B%E5%AD%90)",
@@ -6293,7 +6065,7 @@ const portraitCredits = {
   },
   "legacy-world-340-使徒腓力": {
     "id": "legacy-world-340-使徒腓力",
-    "src": "/portraits/roster-980.jpg",
+    "src": "/portraits/optimized/portrait-980.webp",
     "file": "Rubens_apostel_philippus.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Rubens_apostel_philippus.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%85%93%E5%8A%9B%20(%E4%BD%BF%E5%BE%92)",
@@ -6301,19 +6073,9 @@ const portraitCredits = {
     "license": "Public domain",
     "licenseUrl": ""
   },
-  "legacy-world-349-约翰加尔文": {
-    "id": "legacy-world-349-约翰加尔文",
-    "src": "/portraits/roster-989.jpg",
-    "file": "Portrait_of_John_Calvin_(1509–1564),_by_anonymous_-_Museum_Catharijneconvent.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_John_Calvin_(1509%E2%80%931564),_by_anonymous_-_Museum_Catharijneconvent.jpg",
-    "article": "https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%8A%A0%E5%B0%94%E6%96%87",
-    "artist": "Anonymous ( France ) Unknown author",
-    "license": "Public domain",
-    "licenseUrl": ""
-  },
   "legacy-world-351-弥尔顿": {
     "id": "legacy-world-351-弥尔顿",
-    "src": "/portraits/roster-991.jpg",
+    "src": "/portraits/optimized/portrait-991.webp",
     "file": "John_Milton_Christ's_College.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:John_Milton_Christ%27s_College.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%A5%E5%B0%94%E9%A1%BF",
@@ -6323,7 +6085,7 @@ const portraitCredits = {
   },
   "legacy-world-356-施莱尔马赫": {
     "id": "legacy-world-356-施莱尔马赫",
-    "src": "/portraits/roster-996.jpg",
+    "src": "/portraits/optimized/portrait-996.webp",
     "file": "Friedrich_Daniel_Ernst_Schleiermacher.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Friedrich_Daniel_Ernst_Schleiermacher.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E6%96%BD%E8%90%8A%E7%88%BE%E9%A6%AC%E8%B5%AB",
@@ -6333,7 +6095,7 @@ const portraitCredits = {
   },
   "legacy-world-358-沙勿略": {
     "id": "legacy-world-358-沙勿略",
-    "src": "/portraits/roster-998.jpg",
+    "src": "/portraits/optimized/portrait-998.webp",
     "file": "Franciscus_de_Xabier.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Franciscus_de_Xabier.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E6%96%B9%E6%BF%9F%C2%B7%E6%B2%99%E5%8B%BF%E7%95%A5",
@@ -6343,7 +6105,7 @@ const portraitCredits = {
   },
   "legacy-cn-388-金岳霖": {
     "id": "legacy-cn-388-金岳霖",
-    "src": "/portraits/roster-448-verified.jpg",
+    "src": "/portraits/optimized/portrait-448.webp",
     "file": "金岳霖.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:%E9%87%91%E5%B2%B3%E9%9C%96.jpg",
     "artist": "不詳",
@@ -6352,7 +6114,7 @@ const portraitCredits = {
   },
   "legacy-cn-27-后羿": {
     "id": "legacy-cn-27-后羿",
-    "src": "/portraits/reviewed-87.gif",
+    "src": "/portraits/optimized/portrait-87.webp",
     "file": "Houyi Shooting an Arrow, Xiao Yuncong.gif",
     "page": "https://commons.wikimedia.org/wiki/File:Houyi_Shooting_an_Arrow,_Xiao_Yuncong.gif",
     "artist": "Xiao Yuncong (蕭雲從)",
@@ -6361,7 +6123,7 @@ const portraitCredits = {
   },
   "cn-curated-8": {
     "id": "cn-curated-8",
-    "src": "/portraits/museum-13.jpg",
+    "src": "/portraits/optimized/portrait-13.webp",
     "file": "The Hermit Xu You Resting by a Stream",
     "page": "https://clevelandart.org/art/1974.45",
     "artist": "Dai Jin (Chinese, 1388–1462)",
@@ -6371,7 +6133,7 @@ const portraitCredits = {
   },
   "legacy-cn-51-隐士巢父": {
     "id": "legacy-cn-51-隐士巢父",
-    "src": "/portraits/museum-111.jpg",
+    "src": "/portraits/optimized/portrait-111.webp",
     "file": "Xu You and Chao Fu",
     "page": "https://www.metmuseum.org/art/collection/search/55754",
     "artist": "Okumura Masanobu",
@@ -6379,19 +6141,9 @@ const portraitCredits = {
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "provider": "Metropolitan Museum of Art"
   },
-  "legacy-cn-52-许由尧时": {
-    "id": "legacy-cn-52-许由尧时",
-    "src": "/portraits/museum-112.jpg",
-    "file": "The Hermit Xu You Resting by a Stream",
-    "page": "https://clevelandart.org/art/1974.45",
-    "artist": "Dai Jin (Chinese, 1388–1462)",
-    "license": "CC0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "provider": "Cleveland Museum of Art"
-  },
   "legacy-cn-83-阿难": {
     "id": "legacy-cn-83-阿难",
-    "src": "/portraits/museum-143.jpg",
+    "src": "/portraits/optimized/portrait-143.webp",
     "file": "Seated Ananda",
     "page": "https://www.metmuseum.org/art/collection/search/38872",
     "artist": "未注明",
@@ -6401,7 +6153,7 @@ const portraitCredits = {
   },
   "legacy-cn-141-寒山": {
     "id": "legacy-cn-141-寒山",
-    "src": "/portraits/museum-201.jpg",
+    "src": "/portraits/optimized/portrait-201.webp",
     "file": "Hanshan and Shide",
     "page": "https://clevelandart.org/art/1979.49",
     "artist": "Ike Taiga (Japanese, 1723–1776)",
@@ -6411,7 +6163,7 @@ const portraitCredits = {
   },
   "legacy-cn-142-拾得": {
     "id": "legacy-cn-142-拾得",
-    "src": "/portraits/museum-202.jpg",
+    "src": "/portraits/optimized/portrait-202.webp",
     "file": "Hanshan and Shide",
     "page": "https://clevelandart.org/art/1979.49",
     "artist": "Ike Taiga (Japanese, 1723–1776)",
@@ -6421,7 +6173,7 @@ const portraitCredits = {
   },
   "legacy-cn-179-韩湘子": {
     "id": "legacy-cn-179-韩湘子",
-    "src": "/portraits/museum-239.jpg",
+    "src": "/portraits/optimized/portrait-239.webp",
     "file": "Daoist Immortal Han Xiangzi",
     "page": "https://clevelandart.org/art/1964.194",
     "artist": "未注明",
@@ -6431,7 +6183,7 @@ const portraitCredits = {
   },
   "legacy-cn-175-钟离权": {
     "id": "legacy-cn-175-钟离权",
-    "src": "/portraits/museum-235.jpg",
+    "src": "/portraits/optimized/portrait-235.webp",
     "file": "Zhongli Quan Crossing the Ocean",
     "page": "https://clevelandart.org/art/1976.13",
     "artist": "Zhao Qi (Chinese, active early 1500s)",
@@ -6441,7 +6193,7 @@ const portraitCredits = {
   },
   "legacy-cn-181-铁拐李": {
     "id": "legacy-cn-181-铁拐李",
-    "src": "/portraits/museum-241.jpg",
+    "src": "/portraits/optimized/portrait-241.webp",
     "file": "The Immortal Li Tieguai",
     "page": "https://clevelandart.org/art/1973.158",
     "artist": "Su Wennan (Chinese)",
@@ -6449,19 +6201,9 @@ const portraitCredits = {
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "provider": "Cleveland Museum of Art"
   },
-  "legacy-cn-184-汉钟离": {
-    "id": "legacy-cn-184-汉钟离",
-    "src": "/portraits/museum-244.jpg",
-    "file": "Zhongli Quan Crossing the Ocean",
-    "page": "https://clevelandart.org/art/1976.13",
-    "artist": "Zhao Qi (Chinese, active early 1500s)",
-    "license": "CC0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "provider": "Cleveland Museum of Art"
-  },
   "legacy-cn-237-老莱子": {
     "id": "legacy-cn-237-老莱子",
-    "src": "/portraits/museum-297.jpg",
+    "src": "/portraits/optimized/portrait-297.webp",
     "file": "Lao Laizi (Ro Raishi), from the series \"Twenty-four Paragons of Filial Piety in China (Morokoshi nijushiko)\"",
     "page": "https://www.artic.edu/artworks/149892",
     "artist": "Utagawa Kuniyoshi\nJapanese, 1797-1861",
@@ -6471,7 +6213,7 @@ const portraitCredits = {
   },
   "legacy-cn-82-摩诃迦叶": {
     "id": "legacy-cn-82-摩诃迦叶",
-    "src": "/portraits/museum-142.jpg",
+    "src": "/portraits/optimized/portrait-142.webp",
     "file": "Buddha Maitreya with Ananda and Kasyapa",
     "page": "https://www.metmuseum.org/art/collection/search/61814",
     "artist": "未注明",
@@ -6481,7 +6223,7 @@ const portraitCredits = {
   },
   "legacy-cn-347-司马光": {
     "id": "legacy-cn-347-司马光",
-    "src": "/portraits/museum-407.jpg",
+    "src": "/portraits/optimized/portrait-407.webp",
     "file": "Sima Guang and Shibata Katsuie, from the series \"Five Sibling Pictures of China and Japan for the Zakurogaki Group (Zakurogaki-ren goban no uchi wakan e-kyodai)\"",
     "page": "https://www.artic.edu/artworks/81207",
     "artist": "Katsushika Hokusai 葛飾 北斎\nJapanese, 1760-1849",
@@ -6491,7 +6233,7 @@ const portraitCredits = {
   },
   "legacy-world-64-摩西": {
     "id": "legacy-world-64-摩西",
-    "src": "/portraits/museum-704.jpg",
+    "src": "/portraits/optimized/portrait-704.webp",
     "file": "Portrait of Moses",
     "page": "https://clevelandart.org/art/1917.895",
     "artist": "Hillel Braverman (German or French)",
@@ -6501,7 +6243,7 @@ const portraitCredits = {
   },
   "legacy-world-69-大卫": {
     "id": "legacy-world-69-大卫",
-    "src": "/portraits/museum-709.jpg",
+    "src": "/portraits/optimized/portrait-709.webp",
     "file": "Leaf from a Psalter with Historiated Initial (B): King David",
     "page": "https://clevelandart.org/art/1964.149",
     "artist": "未注明",
@@ -6511,7 +6253,7 @@ const portraitCredits = {
   },
   "legacy-world-71-以利亚": {
     "id": "legacy-world-71-以利亚",
-    "src": "/portraits/museum-711.jpg",
+    "src": "/portraits/optimized/portrait-711.webp",
     "file": "Elijah in the Wilderness Fed by Ravens",
     "page": "https://clevelandart.org/art/1991.263",
     "artist": "Jan Saenredam (Dutch, 1565–1607); Jan Saenredam (Dutch, 1565–1607); Abraham Bloemaert (Dutch, 1566–1651)",
@@ -6521,7 +6263,7 @@ const portraitCredits = {
   },
   "legacy-world-73-耶利米": {
     "id": "legacy-world-73-耶利米",
-    "src": "/portraits/museum-713.jpg",
+    "src": "/portraits/optimized/portrait-713.webp",
     "file": "Fol. 315r, Lamentations, historiated initial E, a kneeling Jeremiah praying to a bust of God",
     "page": "https://clevelandart.org/art/2008.2.315.a",
     "artist": "未注明",
@@ -6531,7 +6273,7 @@ const portraitCredits = {
   },
   "legacy-world-85-彼得": {
     "id": "legacy-world-85-彼得",
-    "src": "/portraits/museum-725.jpg",
+    "src": "/portraits/optimized/portrait-725.webp",
     "file": "Saint Peter Repentant",
     "page": "https://clevelandart.org/art/1951.454",
     "artist": "Georges de La Tour (French, 1593–1652)",
@@ -6541,7 +6283,7 @@ const portraitCredits = {
   },
   "legacy-world-83-马利亚": {
     "id": "legacy-world-83-马利亚",
-    "src": "/portraits/museum-723.jpg",
+    "src": "/portraits/optimized/portrait-723.webp",
     "file": "Virgin Mary Handing Scapular to Saint Simon Stock",
     "page": "https://www.artic.edu/artworks/81926",
     "artist": "Possibly after Paolo Caliari, called Paolo Veronese\nItalian, 1528-1588",
@@ -6551,7 +6293,7 @@ const portraitCredits = {
   },
   "legacy-world-87-约翰": {
     "id": "legacy-world-87-约翰",
-    "src": "/portraits/museum-727.jpg",
+    "src": "/portraits/optimized/portrait-727.webp",
     "file": "Head of Saint John the Evangelist: Study for the Disputation on the Immaculate Conception",
     "page": "https://www.artic.edu/artworks/142536",
     "artist": "Giovanni Antonio Sogliani\nItalian, 1492-1544",
@@ -6561,7 +6303,7 @@ const portraitCredits = {
   },
   "legacy-world-88-方济各": {
     "id": "legacy-world-88-方济各",
-    "src": "/portraits/museum-728.jpg",
+    "src": "/portraits/optimized/portrait-728.webp",
     "file": "The Virgin and Child Appearing to Saint Francis of Assisi",
     "page": "https://clevelandart.org/art/1966.125",
     "artist": "Luca Giordano (Italian, 1634–1705)",
@@ -6571,7 +6313,7 @@ const portraitCredits = {
   },
   "legacy-world-89-本笃": {
     "id": "legacy-world-89-本笃",
-    "src": "/portraits/museum-729.jpg",
+    "src": "/portraits/optimized/portrait-729.webp",
     "file": "Saint Benedict Presenting his Rule to Benedictine and Cistercian Monks in a Historiated Initial \"O\" from a Choirbook",
     "page": "https://www.artic.edu/artworks/10927",
     "artist": "Italian (Siena)\nMartino di Bartolomeo (Italian, 1389-1434/5)\n1394/95",
@@ -6581,7 +6323,7 @@ const portraitCredits = {
   },
   "legacy-world-90-安东尼": {
     "id": "legacy-world-90-安东尼",
-    "src": "/portraits/museum-730.jpg",
+    "src": "/portraits/optimized/portrait-730.webp",
     "file": "Saint Anthony Abbot",
     "page": "https://www.artic.edu/artworks/129756",
     "artist": "Fra Angelico (Guido di Pietro; Italian, c. 1395/1400–1455)",
@@ -6591,7 +6333,7 @@ const portraitCredits = {
   },
   "legacy-world-97-路德": {
     "id": "legacy-world-97-路德",
-    "src": "/portraits/museum-737.jpg",
+    "src": "/portraits/optimized/portrait-737.webp",
     "file": "Portrait of Martin Luther",
     "page": "https://www.artic.edu/artworks/95616",
     "artist": "Master I.B.\nGerman, died 1525/30",
@@ -6601,7 +6343,7 @@ const portraitCredits = {
   },
   "legacy-world-98-加尔文": {
     "id": "legacy-world-98-加尔文",
-    "src": "/portraits/museum-738.jpg",
+    "src": "/portraits/optimized/portrait-738.webp",
     "file": "John Calvin",
     "page": "https://clevelandart.org/art/1939.579",
     "artist": "Jacob Gole (Dutch, 1660–1737)",
@@ -6611,7 +6353,7 @@ const portraitCredits = {
   },
   "legacy-world-100-乔治福克斯": {
     "id": "legacy-world-100-乔治福克斯",
-    "src": "/portraits/museum-740.jpg",
+    "src": "/portraits/optimized/portrait-740.webp",
     "file": "George Fox",
     "page": "https://www.artic.edu/artworks/148593",
     "artist": "Leopold Grozelier\nAmerican, 1830-1865",
@@ -6621,7 +6363,7 @@ const portraitCredits = {
   },
   "legacy-world-144-阿佛洛狄忒": {
     "id": "legacy-world-144-阿佛洛狄忒",
-    "src": "/portraits/museum-784.jpg",
+    "src": "/portraits/optimized/portrait-784.webp",
     "file": "Head of Aphrodite",
     "page": "https://clevelandart.org/art/1926.53",
     "artist": "未注明",
@@ -6631,7 +6373,7 @@ const portraitCredits = {
   },
   "legacy-world-162-忒提斯": {
     "id": "legacy-world-162-忒提斯",
-    "src": "/portraits/museum-802.jpg",
+    "src": "/portraits/optimized/portrait-802.webp",
     "file": "Tethys, from The Deities",
     "page": "https://www.artic.edu/artworks/268529",
     "artist": "Hendrick Goltzius \nDutch, 1558–1617",
@@ -6641,7 +6383,7 @@ const portraitCredits = {
   },
   "legacy-world-168-阿特拉斯": {
     "id": "legacy-world-168-阿特拉斯",
-    "src": "/portraits/museum-808.jpg",
+    "src": "/portraits/optimized/portrait-808.webp",
     "file": "Winged Atlas-Hercules",
     "page": "https://clevelandart.org/art/2011.136",
     "artist": "未注明",
@@ -6651,7 +6393,7 @@ const portraitCredits = {
   },
   "legacy-world-176-欧忒耳佩": {
     "id": "legacy-world-176-欧忒耳佩",
-    "src": "/portraits/museum-816.jpg",
+    "src": "/portraits/optimized/portrait-816.webp",
     "file": "Euterpe (music, lyric poetry) (from the Tarocchi series D:  Apollo and the Muses, #18)",
     "page": "https://clevelandart.org/art/1924.432.18",
     "artist": "Master of the E-Series Tarocchi (Italian, active 1460s)",
@@ -6661,7 +6403,7 @@ const portraitCredits = {
   },
   "legacy-world-181-波吕许谟尼": {
     "id": "legacy-world-181-波吕许谟尼",
-    "src": "/portraits/museum-821.jpg",
+    "src": "/portraits/optimized/portrait-821.webp",
     "file": "Polyhymnia, Muse of Eloquence; Erato, Muse of Lyrical Poetry; Apollo, God of Light, Eloquence, Poetry, and the Fine Arts with Urania, Muse of Astronomy; Calliope, Muse of Epic Poetry; Clio, Muse of History",
     "page": "https://clevelandart.org/art/2003.6",
     "artist": "Charles Meynier (French, 1768–1832)",
@@ -6671,7 +6413,7 @@ const portraitCredits = {
   },
   "legacy-world-182-乌拉尼亚": {
     "id": "legacy-world-182-乌拉尼亚",
-    "src": "/portraits/museum-822.jpg",
+    "src": "/portraits/optimized/portrait-822.webp",
     "file": "Apollo, God of Light, Eloquence, Poetry, and the Fine Arts with Urania, Muse of Astronomy",
     "page": "https://clevelandart.org/art/2003.6.3",
     "artist": "Charles Meynier (French, 1768–1832)",
@@ -6681,7 +6423,7 @@ const portraitCredits = {
   },
   "legacy-world-189-忒修斯": {
     "id": "legacy-world-189-忒修斯",
-    "src": "/portraits/museum-829.jpg",
+    "src": "/portraits/optimized/portrait-829.webp",
     "file": "Black-Figure Hydria (Water Vessel): Frontal Quadriga (Body); Theseus and Minotaur (Shoulder)",
     "page": "https://clevelandart.org/art/1975.1",
     "artist": "Antimenes Painter (Greek, Attic, active c. 530–510 BCE)",
@@ -6691,7 +6433,7 @@ const portraitCredits = {
   },
   "legacy-world-193-代达罗斯": {
     "id": "legacy-world-193-代达罗斯",
-    "src": "/portraits/museum-833.jpg",
+    "src": "/portraits/optimized/portrait-833.webp",
     "file": "Daedalus and Icarus",
     "page": "https://www.artic.edu/artworks/149019",
     "artist": "Giulio Pippi, called Giulio Romano\nItalian, c. 1499-1546",
@@ -6701,7 +6443,7 @@ const portraitCredits = {
   },
   "legacy-world-203-朱诺": {
     "id": "legacy-world-203-朱诺",
-    "src": "/portraits/museum-843.jpg",
+    "src": "/portraits/optimized/portrait-843.webp",
     "file": "Dido Sacrifices to Juno, the Goddess of Marriage",
     "page": "https://clevelandart.org/art/1915.79.3",
     "artist": "Giovanni Francesco Romanelli (Italian, 1610–1662); Michael Wauters (Flemish, 1679)",
@@ -6711,7 +6453,7 @@ const portraitCredits = {
   },
   "legacy-world-201-玛尔斯": {
     "id": "legacy-world-201-玛尔斯",
-    "src": "/portraits/museum-841.jpg",
+    "src": "/portraits/optimized/portrait-841.webp",
     "file": "Head of Mars",
     "page": "https://www.artic.edu/artworks/102074",
     "artist": "Roman",
@@ -6719,19 +6461,9 @@ const portraitCredits = {
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "provider": "Art Institute of Chicago"
   },
-  "legacy-world-207-戴安娜": {
-    "id": "legacy-world-207-戴安娜",
-    "src": "/portraits/museum-847.jpg",
-    "file": "Portrait of a Woman as Diana",
-    "page": "https://clevelandart.org/art/1942.643",
-    "artist": "Jean-Marc Nattier (French, 1685–1766)",
-    "license": "CC0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "provider": "Cleveland Museum of Art"
-  },
   "legacy-world-246-悉多": {
     "id": "legacy-world-246-悉多",
-    "src": "/portraits/museum-886.jpg",
+    "src": "/portraits/optimized/portrait-886.webp",
     "file": "Rama, Sita, and Lakshmana in the forest",
     "page": "https://clevelandart.org/art/1989.332",
     "artist": "未注明",
@@ -6741,7 +6473,7 @@ const portraitCredits = {
   },
   "legacy-world-249-克里希那": {
     "id": "legacy-world-249-克里希那",
-    "src": "/portraits/museum-889.jpg",
+    "src": "/portraits/optimized/portrait-889.webp",
     "file": "God Krishna Dancing on the Head of the Snake Demon Kaliya (Kaliyadamana)",
     "page": "https://www.artic.edu/artworks/136981",
     "artist": "India\nTamil Nadu",
@@ -6751,7 +6483,7 @@ const portraitCredits = {
   },
   "legacy-world-250-罗陀": {
     "id": "legacy-world-250-罗陀",
-    "src": "/portraits/museum-890.jpg",
+    "src": "/portraits/optimized/portrait-890.webp",
     "file": "Sakhi persuades Radha to meet Krishna, from a Gita Govinda (Song of the Cowherd) of Jayadeva",
     "page": "https://clevelandart.org/art/1989.334",
     "artist": "Purkhu (Indian, 1750–1860)",
@@ -6761,7 +6493,7 @@ const portraitCredits = {
   },
   "legacy-world-251-阿周那": {
     "id": "legacy-world-251-阿周那",
-    "src": "/portraits/museum-891.jpg",
+    "src": "/portraits/optimized/portrait-891.webp",
     "file": "Vabhruvahana Approaches Arjuna, page from the Khan Khanan's Razm-nama",
     "page": "https://clevelandart.org/art/1960.44",
     "artist": "Sur Das Gujarati (Indian, active 16th century)",
@@ -6771,7 +6503,7 @@ const portraitCredits = {
   },
   "legacy-world-256-德鲁帕蒂": {
     "id": "legacy-world-256-德鲁帕蒂",
-    "src": "/portraits/museum-896.jpg",
+    "src": "/portraits/optimized/portrait-896.webp",
     "file": "Draupadi Rescued from Abduction, from a Mahabharata",
     "page": "https://clevelandart.org/art/2018.189",
     "artist": "未注明",
@@ -6781,7 +6513,7 @@ const portraitCredits = {
   },
   "legacy-world-257-娑维德丽": {
     "id": "legacy-world-257-娑维德丽",
-    "src": "/portraits/museum-897.jpg",
+    "src": "/portraits/optimized/portrait-897.webp",
     "file": "Savitri Triumphs over Yama, the God of Death",
     "page": "https://www.artic.edu/artworks/130671",
     "artist": "India\nMadhya Pradesh",
@@ -6791,7 +6523,7 @@ const portraitCredits = {
   },
   "legacy-world-260-阿耆尼": {
     "id": "legacy-world-260-阿耆尼",
-    "src": "/portraits/museum-900.jpg",
+    "src": "/portraits/optimized/portrait-900.webp",
     "file": "Agni, God of Fire",
     "page": "https://clevelandart.org/art/1955.51",
     "artist": "未注明",
@@ -6801,7 +6533,7 @@ const portraitCredits = {
   },
   "legacy-world-265-波湿奴": {
     "id": "legacy-world-265-波湿奴",
-    "src": "/portraits/museum-905.jpg",
+    "src": "/portraits/optimized/portrait-905.webp",
     "file": "Head of Vishnu",
     "page": "https://clevelandart.org/art/1969.57",
     "artist": "未注明",
@@ -6811,7 +6543,7 @@ const portraitCredits = {
   },
   "legacy-world-267-迦楼罗": {
     "id": "legacy-world-267-迦楼罗",
-    "src": "/portraits/museum-907.jpg",
+    "src": "/portraits/optimized/portrait-907.webp",
     "file": "Pair of Deity Earrings with Vishnu on Garuda (front) and chepu (monster mask) (back)",
     "page": "https://clevelandart.org/art/1915.338",
     "artist": "未注明",
@@ -6821,7 +6553,7 @@ const portraitCredits = {
   },
   "legacy-world-269-摩诃毗罗": {
     "id": "legacy-world-269-摩诃毗罗",
-    "src": "/portraits/museum-909.jpg",
+    "src": "/portraits/optimized/portrait-909.webp",
     "file": "Birth of Mahavira, folio 40 (verso) from a Kalpa-sutra",
     "page": "https://clevelandart.org/art/1976.27.b",
     "artist": "未注明",
@@ -6831,7 +6563,7 @@ const portraitCredits = {
   },
   "legacy-world-277-祆教阿胡拉玛兹达": {
     "id": "legacy-world-277-祆教阿胡拉玛兹达",
-    "src": "/portraits/museum-917.jpg",
+    "src": "/portraits/optimized/portrait-917.webp",
     "file": "Drawing of Sasanian rock relief: Ardashir I (r. A.D. 224-241) and the Zoroastrian divinity Ohrmazd [Ahura Mazda] at Naqsh-i Rustam, southern Iran",
     "page": "https://www.metmuseum.org/art/collection/search/327535",
     "artist": "Lutf-'Ali Shirazi",
@@ -6841,7 +6573,7 @@ const portraitCredits = {
   },
   "legacy-world-280-阿娜希塔": {
     "id": "legacy-world-280-阿娜希塔",
-    "src": "/portraits/museum-920.jpg",
+    "src": "/portraits/optimized/portrait-920.webp",
     "file": "Anahita Vessel",
     "page": "https://clevelandart.org/art/1962.294",
     "artist": "未注明",
@@ -6851,7 +6583,7 @@ const portraitCredits = {
   },
   "legacy-world-283-月读须佐之男": {
     "id": "legacy-world-283-月读须佐之男",
-    "src": "/portraits/museum-923.jpg",
+    "src": "/portraits/optimized/portrait-923.webp",
     "file": "Fireman’s Jacket (Hikeshi-Banten) with Susanoo-no-mikoto Deity Scene",
     "page": "https://www.metmuseum.org/art/collection/search/82175",
     "artist": "未注明",
@@ -6861,7 +6593,7 @@ const portraitCredits = {
   },
   "legacy-world-326-兰斯洛特": {
     "id": "legacy-world-326-兰斯洛特",
-    "src": "/portraits/museum-966.jpg",
+    "src": "/portraits/optimized/portrait-966.webp",
     "file": "Sir Lancelot Approaching the Castle of Astolat",
     "page": "https://www.artic.edu/artworks/43672",
     "artist": "Gustave Doré\nFrench, 1832-1883",
@@ -6871,7 +6603,7 @@ const portraitCredits = {
   },
   "legacy-world-324-梅林": {
     "id": "legacy-world-324-梅林",
-    "src": "/portraits/museum-964.jpg",
+    "src": "/portraits/optimized/portrait-964.webp",
     "file": "In the Grotto of Merlin, the Magician",
     "page": "https://clevelandart.org/art/1941.133",
     "artist": "Nicolas Delaunay (French, 1739–1792)",
@@ -6881,7 +6613,7 @@ const portraitCredits = {
   },
   "legacy-world-327-高文": {
     "id": "legacy-world-327-高文",
-    "src": "/portraits/museum-967.jpg",
+    "src": "/portraits/optimized/portrait-967.webp",
     "file": "Study for the Failure of Gawain from the Holy Grail Tapestries",
     "page": "https://clevelandart.org/art/2013.248",
     "artist": "Edward Burne-Jones (British, 1833–1898)",
@@ -6891,7 +6623,7 @@ const portraitCredits = {
   },
   "legacy-world-331-雅各": {
     "id": "legacy-world-331-雅各",
-    "src": "/portraits/museum-971.jpg",
+    "src": "/portraits/optimized/portrait-971.webp",
     "file": "The Departure of Jacob",
     "page": "https://clevelandart.org/art/1981.58",
     "artist": "François Boucher (French, 1703–1770)",
@@ -6901,7 +6633,7 @@ const portraitCredits = {
   },
   "legacy-world-332-约瑟": {
     "id": "legacy-world-332-约瑟",
-    "src": "/portraits/museum-972.jpg",
+    "src": "/portraits/optimized/portrait-972.webp",
     "file": "Joseph and his Brothers at the Well, Initial V from an Antiphonary",
     "page": "https://www.artic.edu/artworks/45521",
     "artist": "Neri da Rimini \nItalian (Rimini), active 1300-1338",
@@ -6911,7 +6643,7 @@ const portraitCredits = {
   },
   "legacy-world-333-以利沙": {
     "id": "legacy-world-333-以利沙",
-    "src": "/portraits/museum-973.jpg",
+    "src": "/portraits/optimized/portrait-973.webp",
     "file": "Plaque with Seated Prophet from a Reliquary Shrine: Heliseus (Elisha)",
     "page": "https://clevelandart.org/art/1950.574.b",
     "artist": "未注明",
@@ -6921,7 +6653,7 @@ const portraitCredits = {
   },
   "legacy-world-339-使徒安德烈": {
     "id": "legacy-world-339-使徒安德烈",
-    "src": "/portraits/museum-979.jpg",
+    "src": "/portraits/optimized/portrait-979.webp",
     "file": "The Crucifixion of Saint Andrew",
     "page": "https://clevelandart.org/art/1976.2",
     "artist": "Caravaggio (Italian, 1571–1610)",
@@ -6931,7 +6663,7 @@ const portraitCredits = {
   },
   "legacy-world-341-使徒马太": {
     "id": "legacy-world-341-使徒马太",
-    "src": "/portraits/museum-981.jpg",
+    "src": "/portraits/optimized/portrait-981.webp",
     "file": "Gospel Book with Evangelist Portraits: Saint Matthew",
     "page": "https://clevelandart.org/art/1952.465.2.b",
     "artist": "Master of the House-Book (German, c. 1470–1500)",
@@ -6941,7 +6673,7 @@ const portraitCredits = {
   },
   "legacy-world-342-使徒巴多罗买": {
     "id": "legacy-world-342-使徒巴多罗买",
-    "src": "/portraits/museum-982.jpg",
+    "src": "/portraits/optimized/portrait-982.webp",
     "file": "Saint Bartholomew",
     "page": "https://clevelandart.org/art/1923.327",
     "artist": "Master ES (German, active 1450–67)",
@@ -6951,7 +6683,7 @@ const portraitCredits = {
   },
   "legacy-world-344-使徒犹大": {
     "id": "legacy-world-344-使徒犹大",
-    "src": "/portraits/museum-984.jpg",
+    "src": "/portraits/optimized/portrait-984.webp",
     "file": "Saint Jude, from The Martyrdom of the Apostles",
     "page": "https://www.artic.edu/artworks/45780",
     "artist": "Lucas Cranach the Elder\nGerman, 1472-1553",
@@ -6959,29 +6691,9 @@ const portraitCredits = {
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "provider": "Art Institute of Chicago"
   },
-  "legacy-world-347-大安东尼": {
-    "id": "legacy-world-347-大安东尼",
-    "src": "/portraits/museum-987.jpg",
-    "file": "Saint Anthony Abbot",
-    "page": "https://www.artic.edu/artworks/129756",
-    "artist": "Fra Angelico (Guido di Pietro; Italian, c. 1395/1400–1455)",
-    "license": "CC0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "provider": "Art Institute of Chicago"
-  },
-  "legacy-world-359-方济各沙勿略": {
-    "id": "legacy-world-359-方济各沙勿略",
-    "src": "/portraits/museum-999.jpg",
-    "file": "The Virgin and Child Appearing to Saint Francis Xavier",
-    "page": "https://www.artic.edu/artworks/223265",
-    "artist": "Schelte Adamsz. Bolswert (Dutch, active in Flanders, c. 1586–1659)\nafter Gerard Seghers (Flemish, 1591–1651)",
-    "license": "CC0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "provider": "Art Institute of Chicago"
-  },
   "legacy-cn-22-嫘祖": {
     "id": "legacy-cn-22-嫘祖",
-    "src": "/portraits/web-82.webp",
+    "src": "/portraits/optimized/portrait-82.webp",
     "file": "嫘祖的伟大贡献",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5662713719925760271",
     "artist": "来源网页见链接",
@@ -6993,7 +6705,7 @@ const portraitCredits = {
   },
   "legacy-cn-4-共工": {
     "id": "legacy-cn-4-共工",
-    "src": "/portraits/web-64.webp",
+    "src": "/portraits/optimized/portrait-64.webp",
     "file": "共工:神话与历史交织的复杂人物",
     "page": "http://baijiahao.baidu.com/s?id=1829121888027455020&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7005,7 +6717,7 @@ const portraitCredits = {
   },
   "legacy-cn-21-造父": {
     "id": "legacy-cn-21-造父",
-    "src": "/portraits/web-81.webp",
+    "src": "/portraits/optimized/portrait-81.webp",
     "file": "赵姓始祖造父传奇",
     "page": "http://baijiahao.baidu.com/s?id=1729553274389080817&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7017,7 +6729,7 @@ const portraitCredits = {
   },
   "cn-curated-0": {
     "id": "cn-curated-0",
-    "src": "/portraits/web-5.webp",
+    "src": "/portraits/optimized/portrait-5.webp",
     "file": "\"然而,杨朱的学说因为直指内心,故此也对中国的古代哲学",
     "page": "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_3546069092180756277",
     "artist": "来源网页见链接",
@@ -7029,7 +6741,7 @@ const portraitCredits = {
   },
   "legacy-cn-14-契": {
     "id": "legacy-cn-14-契",
-    "src": "/portraits/web-74.webp",
+    "src": "/portraits/optimized/portrait-74.webp",
     "file": "契:商族的始祖与火神",
     "page": "http://baijiahao.baidu.com/s?id=1833437127728376116&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7041,7 +6753,7 @@ const portraitCredits = {
   },
   "legacy-cn-15-后稷": {
     "id": "legacy-cn-15-后稷",
-    "src": "/portraits/web-75.webp",
+    "src": "/portraits/optimized/portrait-75.webp",
     "file": "后稷:古代中国的农业之神",
     "page": "http://baijiahao.baidu.com/s?id=1823190274209203810&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7053,7 +6765,7 @@ const portraitCredits = {
   },
   "legacy-cn-18-龙": {
     "id": "legacy-cn-18-龙",
-    "src": "/portraits/web-78.webp",
+    "src": "/portraits/optimized/portrait-78.webp",
     "file": "过年啦,画龙啦!",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4347779078155614179",
     "artist": "来源网页见链接",
@@ -7065,7 +6777,7 @@ const portraitCredits = {
   },
   "legacy-cn-30-常羲": {
     "id": "legacy-cn-30-常羲",
-    "src": "/portraits/web-90.webp",
+    "src": "/portraits/optimized/portrait-90.webp",
     "file": "月亮女神常羲:十二月亮的守护者",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_3048720580852489114",
     "artist": "来源网页见链接",
@@ -7077,7 +6789,7 @@ const portraitCredits = {
   },
   "legacy-cn-31-羲和": {
     "id": "legacy-cn-31-羲和",
-    "src": "/portraits/web-91.webp",
+    "src": "/portraits/optimized/portrait-91.webp",
     "file": "《羲和》画作解读:神话与艺术的完美结合",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4841440020581154548",
     "artist": "来源网页见链接",
@@ -7089,7 +6801,7 @@ const portraitCredits = {
   },
   "legacy-cn-29-大羿": {
     "id": "legacy-cn-29-大羿",
-    "src": "/portraits/web-89.webp",
+    "src": "/portraits/optimized/portrait-89.webp",
     "file": "大羿射日故事概述",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5135315027328548885",
     "artist": "来源网页见链接",
@@ -7101,7 +6813,7 @@ const portraitCredits = {
   },
   "legacy-cn-39-玄冥": {
     "id": "legacy-cn-39-玄冥",
-    "src": "/portraits/web-99.webp",
+    "src": "/portraits/optimized/portrait-99.webp",
     "file": "🌊 水神玄冥的神秘面纱 🌊",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4631434626952661971",
     "artist": "来源网页见链接",
@@ -7113,7 +6825,7 @@ const portraitCredits = {
   },
   "legacy-cn-37-伏羲女娲": {
     "id": "legacy-cn-37-伏羲女娲",
-    "src": "/portraits/web-97.webp",
+    "src": "/portraits/optimized/portrait-97.webp",
     "file": "伏羲女娲的神秘起源与宇宙寓意",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_2648802380434954391",
     "artist": "来源网页见链接",
@@ -7125,7 +6837,7 @@ const portraitCredits = {
   },
   "legacy-cn-32-玄鸟": {
     "id": "legacy-cn-32-玄鸟",
-    "src": "/portraits/web-92.webp",
+    "src": "/portraits/optimized/portrait-92.webp",
     "file": "黑暗玄鸟的起源与能力",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4383155065914537272",
     "artist": "来源网页见链接",
@@ -7137,7 +6849,7 @@ const portraitCredits = {
   },
   "legacy-cn-48-赤将子舆": {
     "id": "legacy-cn-48-赤将子舆",
-    "src": "/portraits/web-108.webp",
+    "src": "/portraits/optimized/portrait-108.webp",
     "file": "赤将子舆,是黄帝时候的一位木匠.他手艺高超,做木工不依寻常规 - 抖音",
     "page": "http://www.douyin.com/note/7526236165570694435",
     "artist": "来源网页见链接",
@@ -7149,7 +6861,7 @@ const portraitCredits = {
   },
   "legacy-cn-53-老彭": {
     "id": "legacy-cn-53-老彭",
-    "src": "/portraits/web-113.webp",
+    "src": "/portraits/optimized/portrait-113.webp",
     "file": "老彭帮我搞到了一张今天草莓音乐节的票,有美好药店,声音碎片,万青",
     "page": "http://weibo.com/2167499753/PuAjNkay0",
     "artist": "来源网页见链接",
@@ -7161,7 +6873,7 @@ const portraitCredits = {
   },
   "legacy-cn-50-容成公": {
     "id": "legacy-cn-50-容成公",
-    "src": "/portraits/web-110.webp",
+    "src": "/portraits/optimized/portrait-110.webp",
     "file": "围棋文化发展史:容成公发明围棋可能性探讨",
     "page": "http://sports.sina.com.cn/go/2016-08-11/doc-ifxuxnai9852063.shtml?from=wap",
     "artist": "来源网页见链接",
@@ -7173,7 +6885,7 @@ const portraitCredits = {
   },
   "legacy-cn-58-昆吾": {
     "id": "legacy-cn-58-昆吾",
-    "src": "/portraits/web-118.webp",
+    "src": "/portraits/optimized/portrait-118.webp",
     "file": "樊氏始祖源流之一 昆吾樊姓源流与传承 昆吾樊姓,作为中华姓氏中一支",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_3996990398636318278",
     "artist": "来源网页见链接",
@@ -7185,7 +6897,7 @@ const portraitCredits = {
   },
   "legacy-cn-56-吴回": {
     "id": "legacy-cn-56-吴回",
-    "src": "/portraits/web-116.webp",
+    "src": "/portraits/optimized/portrait-116.webp",
     "file": "吴回",
     "page": "http://baike.baidu.com/item/%E5%90%B4%E5%9B%9E/1678877",
     "artist": "来源网页见链接",
@@ -7197,7 +6909,7 @@ const portraitCredits = {
   },
   "legacy-cn-57-陆终": {
     "id": "legacy-cn-57-陆终",
-    "src": "/portraits/web-117.webp",
+    "src": "/portraits/optimized/portrait-117.webp",
     "file": "陆终公像",
     "page": "http://www.meipian.cn/oujpw57",
     "artist": "来源网页见链接",
@@ -7209,7 +6921,7 @@ const portraitCredits = {
   },
   "legacy-cn-59-尧舜禹": {
     "id": "legacy-cn-59-尧舜禹",
-    "src": "/portraits/web-119.webp",
+    "src": "/portraits/optimized/portrait-119.webp",
     "file": "人生如梦有点追求 的想法: 说一说尧舜禹\"禅让制度\"的真相是什么?",
     "page": "http://www.zhihu.com/pin/1725298853417525248",
     "artist": "来源网页见链接",
@@ -7221,7 +6933,7 @@ const portraitCredits = {
   },
   "legacy-cn-60-伯夷叔齐": {
     "id": "legacy-cn-60-伯夷叔齐",
-    "src": "/portraits/web-120.webp",
+    "src": "/portraits/optimized/portrait-120.webp",
     "file": "典故\"不食周粟\":伯夷叔齐的故事",
     "page": "http://baijiahao.baidu.com/s?id=1825008689989066423&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7233,7 +6945,7 @@ const portraitCredits = {
   },
   "legacy-cn-49-宁封子": {
     "id": "legacy-cn-49-宁封子",
-    "src": "/portraits/web-109.webp",
+    "src": "/portraits/optimized/portrait-109.webp",
     "file": "【神仙谱】陶器祖师宁封子,肉身不怕真火炼,五色烟火能修仙",
     "page": "http://www.163.com/dy/article/HLOQD0H1055600QN.html",
     "artist": "来源网页见链接",
@@ -7245,7 +6957,7 @@ const portraitCredits = {
   },
   "legacy-cn-72-西门豹": {
     "id": "legacy-cn-72-西门豹",
-    "src": "/portraits/web-132.webp",
+    "src": "/portraits/optimized/portrait-132.webp",
     "file": "怎么样的西门豹  西门豹,智慧与勇气的化身 作为邺城地方官,他兴水利",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4000561586589965562",
     "artist": "来源网页见链接",
@@ -7257,7 +6969,7 @@ const portraitCredits = {
   },
   "legacy-cn-70-介子推": {
     "id": "legacy-cn-70-介子推",
-    "src": "/portraits/web-130.webp",
+    "src": "/portraits/optimized/portrait-130.webp",
     "file": "介子推:忠诚与隐逸的传奇英雄",
     "page": "http://baijiahao.baidu.com/s?id=1819739970850396163&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7269,7 +6981,7 @@ const portraitCredits = {
   },
   "legacy-cn-67-太伯": {
     "id": "legacy-cn-67-太伯",
-    "src": "/portraits/web-127.webp",
+    "src": "/portraits/optimized/portrait-127.webp",
     "file": "吴太伯(政治人物|历史人物)吴太伯,又称泰伯,吴国",
     "page": "http://m.jidianwang.com/entry/12071635.html",
     "artist": "来源网页见链接",
@@ -7281,7 +6993,7 @@ const portraitCredits = {
   },
   "legacy-cn-76-鲍叔牙": {
     "id": "legacy-cn-76-鲍叔牙",
-    "src": "/portraits/web-136.webp",
+    "src": "/portraits/optimized/portrait-136.webp",
     "file": "群星璀璨的济南名士(二)鲍叔牙",
     "page": "http://weibo.com/ttarticle/p/show?id=2309405069130159226979",
     "artist": "来源网页见链接",
@@ -7293,7 +7005,7 @@ const portraitCredits = {
   },
   "legacy-cn-78-文种": {
     "id": "legacy-cn-78-文种",
-    "src": "/portraits/web-138.webp",
+    "src": "/portraits/optimized/portrait-138.webp",
     "file": "春秋第一聪明人临终遗言:人有四祸躲过便是福,文种不信死得最惨 春秋",
     "page": "http://history.sohu.com/a/952102236_121180648",
     "artist": "来源网页见链接",
@@ -7305,7 +7017,7 @@ const portraitCredits = {
   },
   "legacy-cn-94-摩诃波阇波提": {
     "id": "legacy-cn-94-摩诃波阇波提",
-    "src": "/portraits/web-154.webp",
+    "src": "/portraits/optimized/portrait-154.webp",
     "file": "摩诃波阇波提",
     "page": "http://baike.baidu.com/item/%E6%91%A9%E8%AF%83%E6%B3%A2%E9%98%87%E6%B3%A2%E6%8F%90/861584",
     "artist": "来源网页见链接",
@@ -7317,7 +7029,7 @@ const portraitCredits = {
   },
   "legacy-cn-101-商那和修": {
     "id": "legacy-cn-101-商那和修",
-    "src": "/portraits/web-161.webp",
+    "src": "/portraits/optimized/portrait-161.webp",
     "file": "清凉大师作品欣赏之商那和修尊者: 五百罗汉第贰拾肆尊商那和修尊者又",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4671587795240221820",
     "artist": "来源网页见链接",
@@ -7329,7 +7041,7 @@ const portraitCredits = {
   },
   "legacy-cn-102-末田底迦": {
     "id": "legacy-cn-102-末田底迦",
-    "src": "/portraits/web-162.webp",
+    "src": "/portraits/optimized/portrait-162.webp",
     "file": "末田底迦",
     "page": "http://baike.baidu.com/item/%E6%9C%AB%E7%94%B0%E5%BA%95%E8%BF%A6/15711338",
     "artist": "来源网页见链接",
@@ -7341,7 +7053,7 @@ const portraitCredits = {
   },
   "legacy-cn-110-道安": {
     "id": "legacy-cn-110-道安",
-    "src": "/portraits/web-170.webp",
+    "src": "/portraits/optimized/portrait-170.webp",
     "file": "佛学:道安法师追寻转世的慧能大师,慧能大师传授了哪句经文",
     "page": "http://baijiahao.baidu.com/s?id=1835777820043387639&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7353,7 +7065,7 @@ const portraitCredits = {
   },
   "legacy-cn-105-无著": {
     "id": "legacy-cn-105-无著",
-    "src": "/portraits/web-165.webp",
+    "src": "/portraits/optimized/portrait-165.webp",
     "file": "无著菩萨兜率天见弥勒后,回寺指向东方:圣教将在此地弘扬五百年",
     "page": "http://baijiahao.baidu.com/s?id=1830071716767904131&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7365,7 +7077,7 @@ const portraitCredits = {
   },
   "legacy-cn-104-提婆": {
     "id": "legacy-cn-104-提婆",
-    "src": "/portraits/web-164.webp",
+    "src": "/portraits/optimized/portrait-164.webp",
     "file": "谈师谈佛:闲话密宗之提婆的故事",
     "page": "http://fo.sina.com.cn/intro/basic/2015-08-25/doc-ifxhcvry1016068.shtml",
     "artist": "来源网页见链接",
@@ -7377,7 +7089,7 @@ const portraitCredits = {
   },
   "legacy-cn-109-僧肇": {
     "id": "legacy-cn-109-僧肇",
-    "src": "/portraits/web-169.webp",
+    "src": "/portraits/optimized/portrait-169.webp",
     "file": "本节大茶经就来分享中国哲学历史,被称为中国佛教解空第一的\"僧肇\"",
     "page": "http://baijiahao.baidu.com/s?id=1737595082224267837&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7389,7 +7101,7 @@ const portraitCredits = {
   },
   "legacy-cn-140-济公道济": {
     "id": "legacy-cn-140-济公道济",
-    "src": "/portraits/web-200.webp",
+    "src": "/portraits/optimized/portrait-200.webp",
     "file": "济公活佛显灵:酒肉穿肠过,为何不坏佛性?原来藏着这个天机",
     "page": "http://baijiahao.baidu.com/s?id=1823752696308323803&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7401,7 +7113,7 @@ const portraitCredits = {
   },
   "legacy-cn-163-张鲁": {
     "id": "legacy-cn-163-张鲁",
-    "src": "/portraits/web-223.webp",
+    "src": "/portraits/optimized/portrait-223.webp",
     "file": "张鲁是刘焉的部将,曾在刘焉的指派下与张修一同率军攻打汉中郡并杀死",
     "page": "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4510618601350811981",
     "artist": "来源网页见链接",
@@ -7413,7 +7125,7 @@ const portraitCredits = {
   },
   "legacy-cn-146-善无畏": {
     "id": "legacy-cn-146-善无畏",
-    "src": "/portraits/web-206.webp",
+    "src": "/portraits/optimized/portrait-206.webp",
     "file": "善无畏大士",
     "page": "http://baike.baidu.com/item/%E5%96%84%E6%97%A0%E7%95%8F%E5%A4%A7%E5%A3%AB/10978546",
     "artist": "来源网页见链接",
@@ -7425,7 +7137,7 @@ const portraitCredits = {
   },
   "legacy-cn-158-法照": {
     "id": "legacy-cn-158-法照",
-    "src": "/portraits/web-218.webp",
+    "src": "/portraits/optimized/portrait-218.webp",
     "file": "无论身处何方,法照大师的慈悲音声永远在我们心中",
     "page": "http://baijiahao.baidu.com/s?id=1847548672013377573&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7437,7 +7149,7 @@ const portraitCredits = {
   },
   "legacy-cn-148-慧忠": {
     "id": "legacy-cn-148-慧忠",
-    "src": "/portraits/web-208.webp",
+    "src": "/portraits/optimized/portrait-208.webp",
     "file": "南阳慧忠",
     "page": "http://baike.baidu.com/item/%E5%8D%97%E9%98%B3%E6%85%A7%E5%BF%A0/3276025",
     "artist": "来源网页见链接",
@@ -7449,7 +7161,7 @@ const portraitCredits = {
   },
   "legacy-cn-160-承远": {
     "id": "legacy-cn-160-承远",
-    "src": "/portraits/web-220.webp",
+    "src": "/portraits/optimized/portrait-220.webp",
     "file": "释承远",
     "page": "http://baike.baidu.com/item/%E9%87%8A%E6%89%BF%E8%BF%9C/12013993",
     "artist": "来源网页见链接",
@@ -7461,7 +7173,7 @@ const portraitCredits = {
   },
   "legacy-cn-165-张衡": {
     "id": "legacy-cn-165-张衡",
-    "src": "/portraits/web-225.webp",
+    "src": "/portraits/optimized/portrait-225.webp",
     "file": "张衡:古代\"科学家\"的传奇人生与幽默故事!",
     "page": "http://baijiahao.baidu.com/s?id=1817925074044332080&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7473,7 +7185,7 @@ const portraitCredits = {
   },
   "legacy-cn-166-张修": {
     "id": "legacy-cn-166-张修",
-    "src": "/portraits/web-226.webp",
+    "src": "/portraits/optimized/portrait-226.webp",
     "file": "张修",
     "page": "http://baike.baidu.com/item/%E5%BC%A0%E4%BF%AE/29291",
     "artist": "来源网页见链接",
@@ -7485,7 +7197,7 @@ const portraitCredits = {
   },
   "legacy-cn-156-义净": {
     "id": "legacy-cn-156-义净",
-    "src": "/portraits/web-216.webp",
+    "src": "/portraits/optimized/portrait-216.webp",
     "file": "寻迹长清:义净传奇与八景蝶变",
     "page": "http://jinan.dzwww.com/ztzh/jncqpd/ttxw/202506/t20250605_16026730.htm",
     "artist": "来源网页见链接",
@@ -7497,7 +7209,7 @@ const portraitCredits = {
   },
   "legacy-cn-170-郑隐": {
     "id": "legacy-cn-170-郑隐",
-    "src": "/portraits/web-230.webp",
+    "src": "/portraits/optimized/portrait-230.webp",
     "file": "他早年跟随郑隐学习炼丹秘术,游历四方,收集民间药方.",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5664715681516184544",
     "artist": "来源网页见链接",
@@ -7509,7 +7221,7 @@ const portraitCredits = {
   },
   "legacy-cn-168-魏华存": {
     "id": "legacy-cn-168-魏华存",
-    "src": "/portraits/web-228.webp",
+    "src": "/portraits/optimized/portrait-228.webp",
     "file": "24岁被迫嫁人竟成茅山派宗师,靠3次改朝换代0伤亡_魏华存_魏舒_生活",
     "page": "http://news.sohu.com/a/967045962_120524991",
     "artist": "来源网页见链接",
@@ -7521,7 +7233,7 @@ const portraitCredits = {
   },
   "legacy-cn-174-王玄甫": {
     "id": "legacy-cn-174-王玄甫",
-    "src": "/portraits/web-234.webp",
+    "src": "/portraits/optimized/portrait-234.webp",
     "file": " p data-id=\"gnvjjy2gmo\">王玄甫,天下道教全真道始祖,又名王少阳, a",
     "page": "http://baike.baidu.com/item/%E5%B0%91%E9%98%B3%E5%B8%9D%E5%90%9B/10016336",
     "artist": "来源网页见链接",
@@ -7533,7 +7245,7 @@ const portraitCredits = {
   },
   "legacy-cn-185-陈抟": {
     "id": "legacy-cn-185-陈抟",
-    "src": "/portraits/web-245.webp",
+    "src": "/portraits/optimized/portrait-245.webp",
     "file": "陈抟老祖:民间传说中的神仙",
     "page": "http://baijiahao.baidu.com/s?id=1796033852145651996&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7545,7 +7257,7 @@ const portraitCredits = {
   },
   "legacy-cn-172-寇谦之": {
     "id": "legacy-cn-172-寇谦之",
-    "src": "/portraits/web-232.webp",
+    "src": "/portraits/optimized/portrait-232.webp",
     "file": "北魏国师寇谦之:从山野道士到一代帝师,他用一部\"伪造\"的天书,将道教",
     "page": "http://baijiahao.baidu.com/s?id=1855998212773917827&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7555,21 +7267,9 @@ const portraitCredits = {
     "searchQuery": "寇谦之 画像",
     "verification": "搜索结果标题包含对应人物名"
   },
-  "legacy-cn-186-陈抟老祖": {
-    "id": "legacy-cn-186-陈抟老祖",
-    "src": "/portraits/web-246.webp",
-    "file": "陈抟老祖:民间传说中的神仙",
-    "page": "http://baijiahao.baidu.com/s?id=1796033852145651996&wfr=spider&for=pc",
-    "artist": "来源网页见链接",
-    "license": "来源网页，许可未核实",
-    "licenseUrl": "",
-    "provider": "Public web image search",
-    "searchQuery": "陈抟 画像",
-    "verification": "搜索结果标题包含对应人物名"
-  },
   "legacy-cn-187-陈景元": {
     "id": "legacy-cn-187-陈景元",
-    "src": "/portraits/web-247.webp",
+    "src": "/portraits/optimized/portrait-247.webp",
     "file": "陈景元",
     "page": "http://baike.baidu.com/item/%E9%99%88%E6%99%AF%E5%85%83/1438876",
     "artist": "来源网页见链接",
@@ -7581,7 +7281,7 @@ const portraitCredits = {
   },
   "legacy-cn-171-陆修静": {
     "id": "legacy-cn-171-陆修静",
-    "src": "/portraits/web-231.webp",
+    "src": "/portraits/optimized/portrait-231.webp",
     "file": "「道文化趣谈」陆修静:玩转道教系统各门派的全能型人才",
     "page": "http://baijiahao.baidu.com/s?id=1828368416823435536&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7593,7 +7293,7 @@ const portraitCredits = {
   },
   "legacy-cn-189-马钰": {
     "id": "legacy-cn-189-马钰",
-    "src": "/portraits/web-249.webp",
+    "src": "/portraits/optimized/portrait-249.webp",
     "file": "马钰",
     "page": "http://baike.baidu.com/item/%E9%A9%AC%E9%92%B0/50272",
     "artist": "来源网页见链接",
@@ -7605,7 +7305,7 @@ const portraitCredits = {
   },
   "legacy-cn-191-刘处玄": {
     "id": "legacy-cn-191-刘处玄",
-    "src": "/portraits/web-251.webp",
+    "src": "/portraits/optimized/portrait-251.webp",
     "file": " p>刘处玄,公元1147出生,卒于1203年,字通妙,一说字道妙,号长生子.",
     "page": "http://baike.baidu.com/item/%E9%95%BF%E7%94%9F%E7%9C%9F%E4%BA%BA/10735991",
     "artist": "来源网页见链接",
@@ -7617,7 +7317,7 @@ const portraitCredits = {
   },
   "legacy-cn-192-孙不二": {
     "id": "legacy-cn-192-孙不二",
-    "src": "/portraits/web-252.webp",
+    "src": "/portraits/optimized/portrait-252.webp",
     "file": "恭迎全真清静启教孙不二祖师圣诞",
     "page": "http://weibo.com/ttarticle/p/show?id=2309405129270577201532",
     "artist": "来源网页见链接",
@@ -7629,7 +7329,7 @@ const portraitCredits = {
   },
   "legacy-cn-194-尹志平": {
     "id": "legacy-cn-194-尹志平",
-    "src": "/portraits/web-254.webp",
+    "src": "/portraits/optimized/portrait-254.webp",
     "file": "转发这个尹志平 羊过也能绿",
     "page": "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4039935402911222346",
     "artist": "来源网页见链接",
@@ -7641,7 +7341,7 @@ const portraitCredits = {
   },
   "legacy-cn-195-张伯端": {
     "id": "legacy-cn-195-张伯端",
-    "src": "/portraits/web-255.webp",
+    "src": "/portraits/optimized/portrait-255.webp",
     "file": "张伯端祖师的内丹思想如何影响道教的发展",
     "page": "http://baijiahao.baidu.com/s?id=1826067554039864850&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7653,7 +7353,7 @@ const portraitCredits = {
   },
   "legacy-cn-197-薛道光": {
     "id": "legacy-cn-197-薛道光",
-    "src": "/portraits/web-257.webp",
+    "src": "/portraits/optimized/portrait-257.webp",
     "file": "道光紫贤真人薛道光",
     "page": "http://www.syyqg.org/nd.jsp?id=433",
     "artist": "来源网页见链接",
@@ -7665,7 +7365,7 @@ const portraitCredits = {
   },
   "legacy-cn-198-陈楠": {
     "id": "legacy-cn-198-陈楠",
-    "src": "/portraits/web-258.webp",
+    "src": "/portraits/optimized/portrait-258.webp",
     "file": "女篮名宿陈楠近况,和2米04帅哥结婚,转型当教练,42岁苍老不少 女篮",
     "page": "http://roll.sohu.com/a/868043372_121614119",
     "artist": "来源网页见链接",
@@ -7677,7 +7377,7 @@ const portraitCredits = {
   },
   "legacy-cn-196-石泰": {
     "id": "legacy-cn-196-石泰",
-    "src": "/portraits/web-256.webp",
+    "src": "/portraits/optimized/portrait-256.webp",
     "file": "宋代道士石泰:仙风道骨的隐世奇人,揭秘千年道教传奇",
     "page": "http://baijiahao.baidu.com/s?id=1845991834540607259&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7689,7 +7389,7 @@ const portraitCredits = {
   },
   "legacy-cn-193-王处一": {
     "id": "legacy-cn-193-王处一",
-    "src": "/portraits/web-253.webp",
+    "src": "/portraits/optimized/portrait-253.webp",
     "file": "王处一.王处一(公元1142--1217)号玉阳子(一说字玉 - 抖音",
     "page": "http://www.douyin.com/note/7371591156511051043",
     "artist": "来源网页见链接",
@@ -7701,7 +7401,7 @@ const portraitCredits = {
   },
   "legacy-cn-200-张宇初": {
     "id": "legacy-cn-200-张宇初",
-    "src": "/portraits/web-260.webp",
+    "src": "/portraits/optimized/portrait-260.webp",
     "file": "水月观音图:元代画家张宇初的神秘杰作",
     "page": "http://baijiahao.baidu.com/s?id=1835189603314913333&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7713,7 +7413,7 @@ const portraitCredits = {
   },
   "legacy-cn-203-张与材": {
     "id": "legacy-cn-203-张与材",
-    "src": "/portraits/web-263.webp",
+    "src": "/portraits/optimized/portrait-263.webp",
     "file": "张羽材 张羽材,一作张与材,字国梁,号薇山,别号广微子,他是道教",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4807200300680209142",
     "artist": "来源网页见链接",
@@ -7725,7 +7425,7 @@ const portraitCredits = {
   },
   "legacy-cn-206-萧抱珍": {
     "id": "legacy-cn-206-萧抱珍",
-    "src": "/portraits/web-266.webp",
+    "src": "/portraits/optimized/portrait-266.webp",
     "file": "\"金熙宗并没有怀疑萧抱珍的法力,但对所谓的\"露药\"产生了浓厚的兴趣",
     "page": "http://baike.baidu.com/tashuo/browse/content?id=fbc778d5b1f70b1876e1a5a8",
     "artist": "来源网页见链接",
@@ -7735,21 +7435,9 @@ const portraitCredits = {
     "searchQuery": "萧抱珍 画像",
     "verification": "搜索结果标题包含对应人物名"
   },
-  "legacy-cn-212-张果": {
-    "id": "legacy-cn-212-张果",
-    "src": "/portraits/web-272.webp",
-    "file": "三月初八\"张果老诞辰\",三样吉祥如意菜记得吃,福寿",
-    "page": "http://www.sohu.com/a/880038000_121702330",
-    "artist": "来源网页见链接",
-    "license": "来源网页，许可未核实",
-    "licenseUrl": "",
-    "provider": "Public web image search",
-    "searchQuery": "张果 画像",
-    "verification": "搜索结果标题包含对应人物名"
-  },
   "legacy-cn-215-茅盈": {
     "id": "legacy-cn-215-茅盈",
-    "src": "/portraits/web-275.webp",
+    "src": "/portraits/optimized/portrait-275.webp",
     "file": "九天司命三茅应化天尊.三茅真君为汉代得道成仙的茅盈,茅固,茅 - 抖音",
     "page": "http://www.douyin.com/note/7217319979115433227",
     "artist": "来源网页见链接",
@@ -7761,7 +7449,7 @@ const portraitCredits = {
   },
   "legacy-cn-217-茅衷": {
     "id": "legacy-cn-217-茅衷",
-    "src": "/portraits/web-277.webp",
+    "src": "/portraits/optimized/portrait-277.webp",
     "file": "茅衷",
     "page": "http://baike.baidu.com/item/%E8%8C%85%E8%A1%B7/23147782",
     "artist": "来源网页见链接",
@@ -7773,7 +7461,7 @@ const portraitCredits = {
   },
   "legacy-cn-221-王远": {
     "id": "legacy-cn-221-王远",
-    "src": "/portraits/web-281.webp",
+    "src": "/portraits/optimized/portrait-281.webp",
     "file": "音乐才子王远一为祖国七十华诞献礼歌曲《柿子红了》",
     "page": "http://zhuanlan.zhihu.com/p/85199913",
     "artist": "来源网页见链接",
@@ -7783,21 +7471,9 @@ const portraitCredits = {
     "searchQuery": "王远 画像",
     "verification": "搜索结果标题包含对应人物名"
   },
-  "legacy-cn-228-铁拐李李玄": {
-    "id": "legacy-cn-228-铁拐李李玄",
-    "src": "/portraits/web-288.webp",
-    "file": "八月初十:北岳大帝与铁拐李祖师圣诞",
-    "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_3533957821190190050",
-    "artist": "来源网页见链接",
-    "license": "来源网页，许可未核实",
-    "licenseUrl": "",
-    "provider": "Public web image search",
-    "searchQuery": "铁拐李 画像",
-    "verification": "搜索结果标题包含对应人物名"
-  },
   "legacy-cn-211-王嘉": {
     "id": "legacy-cn-211-王嘉",
-    "src": "/portraits/web-271.webp",
+    "src": "/portraits/optimized/portrait-271.webp",
     "file": "传说王嘉是东晋时期著名的方士与预言家,其生平充满传奇色彩,尤 - 抖",
     "page": "http://www.douyin.com/note/7510294506944924982",
     "artist": "来源网页见链接",
@@ -7807,21 +7483,9 @@ const portraitCredits = {
     "searchQuery": "王嘉 画像",
     "verification": "搜索结果标题包含对应人物名"
   },
-  "legacy-cn-232-何仙姑何琼": {
-    "id": "legacy-cn-232-何仙姑何琼",
-    "src": "/portraits/web-292.webp",
-    "file": "何仙姑:道教\"顶流仙女\"的凡间之旅",
-    "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4523631398510635854",
-    "artist": "来源网页见链接",
-    "license": "来源网页，许可未核实",
-    "licenseUrl": "",
-    "provider": "Public web image search",
-    "searchQuery": "何仙姑 画像",
-    "verification": "搜索结果标题包含对应人物名"
-  },
   "legacy-cn-238-子华子": {
     "id": "legacy-cn-238-子华子",
-    "src": "/portraits/web-298.webp",
+    "src": "/portraits/optimized/portrait-298.webp",
     "file": "子华子",
     "page": "http://baike.baidu.com/item/%E5%AD%90%E5%8D%8E%E5%AD%90/8705438",
     "artist": "来源网页见链接",
@@ -7831,21 +7495,9 @@ const portraitCredits = {
     "searchQuery": "子华子 画像",
     "verification": "搜索结果标题包含对应人物名"
   },
-  "legacy-cn-230-韩湘子韩湘": {
-    "id": "legacy-cn-230-韩湘子韩湘",
-    "src": "/portraits/web-290.webp",
-    "file": "八仙之韩湘子:唐代大文豪韩愈的侄孙,是如何一步步走上神坛的?",
-    "page": "http://baijiahao.baidu.com/s?id=1826106726318045193&wfr=spider&for=pc",
-    "artist": "来源网页见链接",
-    "license": "来源网页，许可未核实",
-    "licenseUrl": "",
-    "provider": "Public web image search",
-    "searchQuery": "韩湘子 画像",
-    "verification": "搜索结果标题包含对应人物名"
-  },
   "legacy-cn-216-茅固": {
     "id": "legacy-cn-216-茅固",
-    "src": "/portraits/web-276.webp",
+    "src": "/portraits/optimized/portrait-276.webp",
     "file": "九天司命三茅应化天尊.三茅真君为汉代得道成仙的茅盈,茅固,茅 - 抖音",
     "page": "http://www.douyin.com/note/7217319979115433227",
     "artist": "来源网页见链接",
@@ -7857,7 +7509,7 @@ const portraitCredits = {
   },
   "legacy-cn-248-邓析": {
     "id": "legacy-cn-248-邓析",
-    "src": "/portraits/web-308.webp",
+    "src": "/portraits/optimized/portrait-308.webp",
     "file": "法家先驱邓析提倡\"法治\"的思想",
     "page": "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4910650746955031779",
     "artist": "来源网页见链接",
@@ -7867,21 +7519,9 @@ const portraitCredits = {
     "searchQuery": "邓析 画像",
     "verification": "搜索结果标题包含对应人物名"
   },
-  "legacy-cn-244-列御寇": {
-    "id": "legacy-cn-244-列御寇",
-    "src": "/portraits/web-304.webp",
-    "file": "列子:百家争鸣中的另类传奇",
-    "page": "http://baijiahao.baidu.com/s?id=1826170010151651560&wfr=spider&for=pc",
-    "artist": "来源网页见链接",
-    "license": "来源网页，许可未核实",
-    "licenseUrl": "",
-    "provider": "Public web image search",
-    "searchQuery": "列子 画像",
-    "verification": "搜索结果标题包含对应人物名"
-  },
   "legacy-cn-240-慎到": {
     "id": "legacy-cn-240-慎到",
-    "src": "/portraits/web-300.webp",
+    "src": "/portraits/optimized/portrait-300.webp",
     "file": "浅论法家代表人物慎到┃作者:行德学派李向东",
     "page": "http://zhuanlan.zhihu.com/p/708801350",
     "artist": "来源网页见链接",
@@ -7893,7 +7533,7 @@ const portraitCredits = {
   },
   "legacy-cn-271-伯阳父": {
     "id": "legacy-cn-271-伯阳父",
-    "src": "/portraits/web-331.webp",
+    "src": "/portraits/optimized/portrait-331.webp",
     "file": "伯阳父的这一番语言立刻引起了赵叔带的高度重视,出于臣子的职责,他",
     "page": "http://www.360doc.com/content/22/1124/21/36319167_1057415721.shtml",
     "artist": "来源网页见链接",
@@ -7905,7 +7545,7 @@ const portraitCredits = {
   },
   "legacy-cn-267-子张": {
     "id": "legacy-cn-267-子张",
-    "src": "/portraits/web-327.webp",
+    "src": "/portraits/optimized/portrait-327.webp",
     "file": "缅怀先贤子张",
     "page": "http://baijiahao.baidu.com/s?id=1761931358911252307&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -7917,7 +7557,7 @@ const portraitCredits = {
   },
   "legacy-cn-269-子贱": {
     "id": "legacy-cn-269-子贱",
-    "src": "/portraits/web-329.webp",
+    "src": "/portraits/optimized/portrait-329.webp",
     "file": "📚《论语》共读:子贱的君子之德",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4693191282885681473",
     "artist": "来源网页见链接",
@@ -7929,7 +7569,7 @@ const portraitCredits = {
   },
   "legacy-cn-281-戴德": {
     "id": "legacy-cn-281-戴德",
-    "src": "/portraits/web-341.webp",
+    "src": "/portraits/optimized/portrait-341.webp",
     "file": "戴德",
     "page": "http://baike.baidu.com/item/%E6%88%B4%E5%BE%B7/6589592",
     "artist": "来源网页见链接",
@@ -7941,7 +7581,7 @@ const portraitCredits = {
   },
   "legacy-cn-287-刘向": {
     "id": "legacy-cn-287-刘向",
-    "src": "/portraits/web-347.webp",
+    "src": "/portraits/optimized/portrait-347.webp",
     "file": "刘向",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4134090835687363579",
     "artist": "来源网页见链接",
@@ -7953,7 +7593,7 @@ const portraitCredits = {
   },
   "legacy-cn-286-司马谈": {
     "id": "legacy-cn-286-司马谈",
-    "src": "/portraits/web-346.webp",
+    "src": "/portraits/optimized/portrait-346.webp",
     "file": "司马谈:以史为训,托付家族使命的千年传承家风,是一个家庭的精神内核",
     "page": "http://cul.sohu.com/a/876583313_121106869",
     "artist": "来源网页见链接",
@@ -7965,7 +7605,7 @@ const portraitCredits = {
   },
   "legacy-cn-299-仲长统": {
     "id": "legacy-cn-299-仲长统",
-    "src": "/portraits/web-359.webp",
+    "src": "/portraits/optimized/portrait-359.webp",
     "file": "仲长统(字公理)",
     "page": "http://www.163.com/dy/article/JAJK2CCT05568F65.html",
     "artist": "来源网页见链接",
@@ -7977,7 +7617,7 @@ const portraitCredits = {
   },
   "legacy-cn-317-张湛": {
     "id": "legacy-cn-317-张湛",
-    "src": "/portraits/web-377.webp",
+    "src": "/portraits/optimized/portrait-377.webp",
     "file": "张湛,东晋学者,玄学家,养生学家,字处度,高平(郡治在山东金乡西北)人.",
     "page": "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5179180099762195102",
     "artist": "来源网页见链接",
@@ -7989,7 +7629,7 @@ const portraitCredits = {
   },
   "legacy-cn-325-皇侃": {
     "id": "legacy-cn-325-皇侃",
-    "src": "/portraits/web-385.webp",
+    "src": "/portraits/optimized/portrait-385.webp",
     "file": "皇侃",
     "page": "http://baike.baidu.com/item/%E7%9A%87%E4%BE%83/3093609",
     "artist": "来源网页见链接",
@@ -8001,7 +7641,7 @@ const portraitCredits = {
   },
   "legacy-cn-400-陈琳": {
     "id": "legacy-cn-400-陈琳",
-    "src": "/portraits/web-460.webp",
+    "src": "/portraits/optimized/portrait-460.webp",
     "file": "陈琳:23岁成名,前夫生日时9楼坠亡背后的隐情",
     "page": "http://baijiahao.baidu.com/s?id=1852781541666534463&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -8013,7 +7653,7 @@ const portraitCredits = {
   },
   "legacy-cn-396-王粲": {
     "id": "legacy-cn-396-王粲",
-    "src": "/portraits/web-456.webp",
+    "src": "/portraits/optimized/portrait-456.webp",
     "file": "王粲:三国时被封侯的诗人,长相丑陋不拘小节,怀才不遇英年早逝",
     "page": "http://biznews.sohu.com/a/820464715_120998420",
     "artist": "来源网页见链接",
@@ -8025,7 +7665,7 @@ const portraitCredits = {
   },
   "legacy-cn-398-阮瑀": {
     "id": "legacy-cn-398-阮瑀",
-    "src": "/portraits/web-458.webp",
+    "src": "/portraits/optimized/portrait-458.webp",
     "file": "让\"三国文化\"活起来(第45期)|建安七子——阮瑀篇",
     "page": "http://www.sohu.com/a/958074953_121106991",
     "artist": "来源网页见链接",
@@ -8037,7 +7677,7 @@ const portraitCredits = {
   },
   "legacy-cn-405-杨炯": {
     "id": "legacy-cn-405-杨炯",
-    "src": "/portraits/web-465.webp",
+    "src": "/portraits/optimized/portrait-465.webp",
     "file": "\"初唐四杰\"之一的杨炯,少年成名,博学善文,11岁时被称为神童,后与王勃",
     "page": "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5090494621606023248",
     "artist": "来源网页见链接",
@@ -8049,7 +7689,7 @@ const portraitCredits = {
   },
   "legacy-cn-397-刘桢": {
     "id": "legacy-cn-397-刘桢",
-    "src": "/portraits/web-457.webp",
+    "src": "/portraits/optimized/portrait-457.webp",
     "file": "建安七子之一刘桢,他这十首诗,以气取胜,富有风骨,五言诗绝佳",
     "page": "http://baijiahao.baidu.com/s?id=1763617907095129317&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -8061,7 +7701,7 @@ const portraitCredits = {
   },
   "legacy-cn-399-应玚": {
     "id": "legacy-cn-399-应玚",
-    "src": "/portraits/web-459.webp",
+    "src": "/portraits/optimized/portrait-459.webp",
     "file": "应玚",
     "page": "http://upimg.baike.so.com/gallery/list?ghid=first&pic_idx=1&eid=6134928&sid=32350373",
     "artist": "来源网页见链接",
@@ -8073,7 +7713,7 @@ const portraitCredits = {
   },
   "legacy-cn-402-鲍照": {
     "id": "legacy-cn-402-鲍照",
-    "src": "/portraits/web-462.webp",
+    "src": "/portraits/optimized/portrait-462.webp",
     "file": "鲍照:坎坷命运中的不灭诗魂",
     "page": "http://baijiahao.baidu.com/s?id=1831129327212953353&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -8085,7 +7725,7 @@ const portraitCredits = {
   },
   "legacy-cn-403-谢朓": {
     "id": "legacy-cn-403-谢朓",
-    "src": "/portraits/web-463.webp",
+    "src": "/portraits/optimized/portrait-463.webp",
     "file": "江南才子:风华绝代的一生  谢朓,字玄晖,南朝齐杰出",
     "page": "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5288369567115188930",
     "artist": "来源网页见链接",
@@ -8097,7 +7737,7 @@ const portraitCredits = {
   },
   "legacy-cn-423-韦应物": {
     "id": "legacy-cn-423-韦应物",
-    "src": "/portraits/web-483.webp",
+    "src": "/portraits/optimized/portrait-483.webp",
     "file": "韦应物有一首非常著名的写景小诗《滁州西涧》:  独怜幽草涧边生,上有",
     "page": "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_3388298317699546709",
     "artist": "来源网页见链接",
@@ -8109,7 +7749,7 @@ const portraitCredits = {
   },
   "legacy-cn-415-岑参": {
     "id": "legacy-cn-415-岑参",
-    "src": "/portraits/web-475.webp",
+    "src": "/portraits/optimized/portrait-475.webp",
     "file": "岑参:西域风沙中的诗与梦🌍",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4628751436264686529",
     "artist": "来源网页见链接",
@@ -8121,7 +7761,7 @@ const portraitCredits = {
   },
   "legacy-cn-414-高适": {
     "id": "legacy-cn-414-高适",
-    "src": "/portraits/web-474.webp",
+    "src": "/portraits/optimized/portrait-474.webp",
     "file": "高适的诗词十首名诗",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4554511972761911054",
     "artist": "来源网页见链接",
@@ -8133,7 +7773,7 @@ const portraitCredits = {
   },
   "legacy-cn-413-王昌龄": {
     "id": "legacy-cn-413-王昌龄",
-    "src": "/portraits/web-473.webp",
+    "src": "/portraits/optimized/portrait-473.webp",
     "file": "揭秘\"七绝圣手\"王昌龄:被嫉妒谋杀的天才诗人,为何仍有争议?",
     "page": "http://baijiahao.baidu.com/s?id=1831970086424739068&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -8145,7 +7785,7 @@ const portraitCredits = {
   },
   "legacy-cn-417-王翰": {
     "id": "legacy-cn-417-王翰",
-    "src": "/portraits/web-477.webp",
+    "src": "/portraits/optimized/portrait-477.webp",
     "file": "古诗新解:王翰《凉州词》的隐藏深意",
     "page": "http://quanmin.baidu.com/sv?source=share-h5&pd=qm_share_search&vid=3336466195323451897",
     "artist": "来源网页见链接",
@@ -8157,7 +7797,7 @@ const portraitCredits = {
   },
   "legacy-cn-416-王之涣": {
     "id": "legacy-cn-416-王之涣",
-    "src": "/portraits/web-476.webp",
+    "src": "/portraits/optimized/portrait-476.webp",
     "file": "📜💫王之涣:6首诗名垂千古!",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4348674853684477370",
     "artist": "来源网页见链接",
@@ -8169,7 +7809,7 @@ const portraitCredits = {
   },
   "legacy-cn-421-李商隐": {
     "id": "legacy-cn-421-李商隐",
-    "src": "/portraits/web-481.webp",
+    "src": "/portraits/optimized/portrait-481.webp",
     "file": "荥阳初恋,洛阳暧昧,郑州诀别:李商隐的爱情故事比诗还戳泪",
     "page": "http://view.inews.qq.com/a/20250724A07R4U00",
     "artist": "来源网页见链接",
@@ -8181,7 +7821,7 @@ const portraitCredits = {
   },
   "legacy-cn-429-贺铸": {
     "id": "legacy-cn-429-贺铸",
-    "src": "/portraits/web-489.webp",
+    "src": "/portraits/optimized/portrait-489.webp",
     "file": "丑到令人心疼的词坛奇才:贺铸的悲情人生,丑陋外貌与绝美词作",
     "page": "http://baijiahao.baidu.com/s?id=1837008117206613535&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -8193,7 +7833,7 @@ const portraitCredits = {
   },
   "legacy-cn-435-姜夔": {
     "id": "legacy-cn-435-姜夔",
-    "src": "/portraits/web-495.webp",
+    "src": "/portraits/optimized/portrait-495.webp",
     "file": "姜夔:22岁写《扬州慢》成为宋词巅峰,南宋词宗,江湖巨擘 姜夔:22岁写",
     "page": "http://history.sohu.com/a/989638957_121180648",
     "artist": "来源网页见链接",
@@ -8205,7 +7845,7 @@ const portraitCredits = {
   },
   "legacy-cn-437-王实甫": {
     "id": "legacy-cn-437-王实甫",
-    "src": "/portraits/web-497.webp",
+    "src": "/portraits/optimized/portrait-497.webp",
     "file": "元曲大家之王实甫:曲韵平生,西厢记里说乾坤   第一卷 山坡羊·少年",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4799796146625306471",
     "artist": "来源网页见链接",
@@ -8217,7 +7857,7 @@ const portraitCredits = {
   },
   "legacy-cn-431-周邦彦": {
     "id": "legacy-cn-431-周邦彦",
-    "src": "/portraits/web-491.webp",
+    "src": "/portraits/optimized/portrait-491.webp",
     "file": "穿越千年,品周邦彦十大经典词作",
     "page": "http://baijiahao.baidu.com/s?id=1820401041091843142&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -8229,7 +7869,7 @@ const portraitCredits = {
   },
   "legacy-cn-433-杨万里": {
     "id": "legacy-cn-433-杨万里",
-    "src": "/portraits/web-493.webp",
+    "src": "/portraits/optimized/portrait-493.webp",
     "file": "杨万里的轻松愉快诗集",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4164096310217975219",
     "artist": "来源网页见链接",
@@ -8241,7 +7881,7 @@ const portraitCredits = {
   },
   "legacy-cn-445-蒲松龄": {
     "id": "legacy-cn-445-蒲松龄",
-    "src": "/portraits/web-505.webp",
+    "src": "/portraits/optimized/portrait-505.webp",
     "file": "蒲松龄与淄川毕家不可不说的往事 蒲松龄与淄川毕家不可不说的往事",
     "page": "http://news.sohu.com/a/911501865_121161816",
     "artist": "来源网页见链接",
@@ -8253,7 +7893,7 @@ const portraitCredits = {
   },
   "legacy-cn-457-褚遂良": {
     "id": "legacy-cn-457-褚遂良",
-    "src": "/portraits/web-517.webp",
+    "src": "/portraits/optimized/portrait-517.webp",
     "file": "褚遂良:李世民看中的忠臣,却因一个意外举动,在绝望中走完一生 褚遂良",
     "page": "http://news.sohu.com/a/782685515_121463306",
     "artist": "来源网页见链接",
@@ -8265,7 +7905,7 @@ const portraitCredits = {
   },
   "legacy-cn-458-张旭": {
     "id": "legacy-cn-458-张旭",
-    "src": "/portraits/web-518.webp",
+    "src": "/portraits/optimized/portrait-518.webp",
     "file": "精细赏析草神张旭墨宝参悟草书创作妙艺",
     "page": "http://www.xiaohongshu.com/discovery/item/635b1aac000000001401e4f0",
     "artist": "来源网页见链接",
@@ -8277,7 +7917,7 @@ const portraitCredits = {
   },
   "legacy-cn-469-郭守敬": {
     "id": "legacy-cn-469-郭守敬",
-    "src": "/portraits/web-529.webp",
+    "src": "/portraits/optimized/portrait-529.webp",
     "file": "郭守敬:勘天治水的元代科技巨匠",
     "page": "http://quanmin.baidu.com/sv?source=share-h5&pd=qm_share_search&vid=5203420650654234137",
     "artist": "来源网页见链接",
@@ -8289,7 +7929,7 @@ const portraitCredits = {
   },
   "legacy-cn-476-宋应星": {
     "id": "legacy-cn-476-宋应星",
-    "src": "/portraits/web-536.webp",
+    "src": "/portraits/optimized/portrait-536.webp",
     "file": "明朝科学家宋应星:一己之力编写《天工开物》,他为何如此博学?",
     "page": "http://baijiahao.baidu.com/s?id=1791579753115078695&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -8301,7 +7941,7 @@ const portraitCredits = {
   },
   "legacy-cn-487-吴王阖闾": {
     "id": "legacy-cn-487-吴王阖闾",
-    "src": "/portraits/web-547.webp",
+    "src": "/portraits/optimized/portrait-547.webp",
     "file": "吴王阖闾给女儿夹了块鱼,女儿看后自刎,死后围观群众为其殉葬",
     "page": "http://news.sohu.com/a/902629141_121166508",
     "artist": "来源网页见链接",
@@ -8313,7 +7953,7 @@ const portraitCredits = {
   },
   "legacy-cn-486-楚庄王": {
     "id": "legacy-cn-486-楚庄王",
-    "src": "/portraits/web-546.webp",
+    "src": "/portraits/optimized/portrait-546.webp",
     "file": "楚庄王这招\"装糊涂\",成就春秋最强霸主!",
     "page": "http://www.sohu.com/a/952678179_122547167",
     "artist": "来源网页见链接",
@@ -8325,7 +7965,7 @@ const portraitCredits = {
   },
   "legacy-cn-484-齐桓公": {
     "id": "legacy-cn-484-齐桓公",
-    "src": "/portraits/web-544.webp",
+    "src": "/portraits/optimized/portrait-544.webp",
     "file": "春秋首霸齐桓公:霸业的辉煌与陨落",
     "page": "http://baijiahao.baidu.com/s?id=1839591747972012222&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -8337,7 +7977,7 @@ const portraitCredits = {
   },
   "legacy-cn-481-武丁": {
     "id": "legacy-cn-481-武丁",
-    "src": "/portraits/web-541.webp",
+    "src": "/portraits/optimized/portrait-541.webp",
     "file": "武丁:从\"民间小子\"到殷高宗的逆袭之路!",
     "page": "http://baijiahao.baidu.com/s?id=1811957718084061576&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -8347,21 +7987,9 @@ const portraitCredits = {
     "searchQuery": "武丁 画像",
     "verification": "搜索结果标题包含对应人物名"
   },
-  "legacy-cn-489-孙武": {
-    "id": "legacy-cn-489-孙武",
-    "src": "/portraits/web-549.webp",
-    "file": "千古兵法宗师:孙武的智慧与影响力",
-    "page": "http://baijiahao.baidu.com/s?id=1829479912812810834&wfr=spider&for=pc",
-    "artist": "来源网页见链接",
-    "license": "来源网页，许可未核实",
-    "licenseUrl": "",
-    "provider": "Public web image search",
-    "searchQuery": "孙武 画像",
-    "verification": "搜索结果标题包含对应人物名"
-  },
   "legacy-cn-503-李斯": {
     "id": "legacy-cn-503-李斯",
-    "src": "/portraits/web-563.webp",
+    "src": "/portraits/optimized/portrait-563.webp",
     "file": "李斯真的篡改了秦始皇遗诏?北大收藏的汉简,与史记记载大不相同",
     "page": "http://baijiahao.baidu.com/s?id=1823590092237005662&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -8373,7 +8001,7 @@ const portraitCredits = {
   },
   "legacy-cn-504-蒙恬": {
     "id": "legacy-cn-504-蒙恬",
-    "src": "/portraits/web-564.webp",
+    "src": "/portraits/optimized/portrait-564.webp",
     "file": "秦朝名将蒙恬与毛笔发明的传奇故事",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5257197257240213736",
     "artist": "来源网页见链接",
@@ -8385,7 +8013,7 @@ const portraitCredits = {
   },
   "legacy-cn-505-王翦": {
     "id": "legacy-cn-505-王翦",
-    "src": "/portraits/web-565.webp",
+    "src": "/portraits/optimized/portrait-565.webp",
     "file": "中国历史中擅长大兵团作战的统帅之一——王翦   王翦,位列战国\"四大",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5279577541573060714",
     "artist": "来源网页见链接",
@@ -8397,7 +8025,7 @@ const portraitCredits = {
   },
   "legacy-cn-502-范雎": {
     "id": "legacy-cn-502-范雎",
-    "src": "/portraits/web-562.webp",
+    "src": "/portraits/optimized/portrait-562.webp",
     "file": "范雎复仇记,从厕所死囚到秦国宰相,一场跨越二十年的权力反杀",
     "page": "http://history.sohu.com/a/898374951_120378764",
     "artist": "来源网页见链接",
@@ -8409,7 +8037,7 @@ const portraitCredits = {
   },
   "legacy-cn-513-陈平": {
     "id": "legacy-cn-513-陈平",
-    "src": "/portraits/web-573.webp",
+    "src": "/portraits/optimized/portrait-573.webp",
     "file": "从寒门谋士到开国名相,陈平的传奇人生",
     "page": "http://baijiahao.baidu.com/s?id=1826999530698975370&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -8421,7 +8049,7 @@ const portraitCredits = {
   },
   "legacy-cn-506-陈胜": {
     "id": "legacy-cn-506-陈胜",
-    "src": "/portraits/web-566.webp",
+    "src": "/portraits/optimized/portrait-566.webp",
     "file": "陈胜名言及事迹概述",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4030925154286537017",
     "artist": "来源网页见链接",
@@ -8433,7 +8061,7 @@ const portraitCredits = {
   },
   "legacy-cn-516-卫青": {
     "id": "legacy-cn-516-卫青",
-    "src": "/portraits/web-576.webp",
+    "src": "/portraits/optimized/portrait-576.webp",
     "file": "卫青:民族英雄系列之二",
     "page": "http://baijiahao.baidu.com/s?id=1828994576786313428&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -8445,7 +8073,7 @@ const portraitCredits = {
   },
   "legacy-cn-514-周勃": {
     "id": "legacy-cn-514-周勃",
-    "src": "/portraits/web-574.webp",
+    "src": "/portraits/optimized/portrait-574.webp",
     "file": "公元前179年,周勃被封为右丞相,朝会上群臣对他弯腰行礼,朝会结束时",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5620412204715851867",
     "artist": "来源网页见链接",
@@ -8457,7 +8085,7 @@ const portraitCredits = {
   },
   "legacy-cn-519-司马相如": {
     "id": "legacy-cn-519-司马相如",
-    "src": "/portraits/web-579.webp",
+    "src": "/portraits/optimized/portrait-579.webp",
     "file": "汉代名人:司马相如",
     "page": "http://baijiahao.baidu.com/s?id=1826839374864760293&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -8469,7 +8097,7 @@ const portraitCredits = {
   },
   "legacy-cn-520-东方朔": {
     "id": "legacy-cn-520-东方朔",
-    "src": "/portraits/web-580.webp",
+    "src": "/portraits/optimized/portrait-580.webp",
     "file": "汉武帝乳母犯错被判斩首,她托人求助东方朔东方朔道:\"若真想活命,被拉",
     "page": "http://baijiahao.baidu.com/s?id=1855839883649083368&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -8481,7 +8109,7 @@ const portraitCredits = {
   },
   "legacy-cn-526-陆逊": {
     "id": "legacy-cn-526-陆逊",
-    "src": "/portraits/web-586.webp",
+    "src": "/portraits/optimized/portrait-586.webp",
     "file": "本来是刘备带领着四万人顺江而下,攻打五万人的江东沿岸守军,陆逊龟",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4169983417781673498",
     "artist": "来源网页见链接",
@@ -8493,7 +8121,7 @@ const portraitCredits = {
   },
   "legacy-cn-521-光武帝刘秀": {
     "id": "legacy-cn-521-光武帝刘秀",
-    "src": "/portraits/web-581.webp",
+    "src": "/portraits/optimized/portrait-581.webp",
     "file": "正史上的光武帝刘秀,到底有多厉害?扒一扒刘秀的称帝之路!",
     "page": "http://baijiahao.baidu.com/s?id=1814067311377064498&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -8505,7 +8133,7 @@ const portraitCredits = {
   },
   "legacy-cn-536-范阳卢氏": {
     "id": "legacy-cn-536-范阳卢氏",
-    "src": "/portraits/web-596.webp",
+    "src": "/portraits/optimized/portrait-596.webp",
     "file": "范阳卢氏:从东汉到唐代的家族传奇 🏛️",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4407500503938911636",
     "artist": "来源网页见链接",
@@ -8517,7 +8145,7 @@ const portraitCredits = {
   },
   "legacy-world-2-阿那克西美尼": {
     "id": "legacy-world-2-阿那克西美尼",
-    "src": "/portraits/web-642.webp",
+    "src": "/portraits/optimized/portrait-642.webp",
     "file": "古希腊哲学家阿那克西美尼的哲学思想",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_3181336797203612489",
     "artist": "来源网页见链接",
@@ -8529,7 +8157,7 @@ const portraitCredits = {
   },
   "legacy-world-8-芝诺": {
     "id": "legacy-world-8-芝诺",
-    "src": "/portraits/web-648.webp",
+    "src": "/portraits/optimized/portrait-648.webp",
     "file": "杨君《思想者》:古希腊哲学家,埃利亚学派的核心代表人物芝诺",
     "page": "http://healthnews.sohu.com/a/990031574_122377333",
     "artist": "来源网页见链接",
@@ -8541,7 +8169,7 @@ const portraitCredits = {
   },
   "legacy-world-12-爱比克泰德": {
     "id": "legacy-world-12-爱比克泰德",
-    "src": "/portraits/web-652.webp",
+    "src": "/portraits/optimized/portrait-652.webp",
     "file": "爱比克泰德肖像",
     "page": "https://www.veer.com/vectorgraph/371683402?utm_source=baidu&utm_medium=imagesearch&chid=902",
     "artist": "来源网页见链接",
@@ -8553,7 +8181,7 @@ const portraitCredits = {
   },
   "埃克哈特-72": {
     "id": "埃克哈特-72",
-    "src": "/portraits/web-619.webp",
+    "src": "/portraits/optimized/portrait-619.webp",
     "file": "埃克哈特托利灵性开悟是一种什么样的体验",
     "page": "http://www.xiaohongshu.com/discovery/item/624daec9000000000102d97d",
     "artist": "来源网页见链接",
@@ -8565,7 +8193,7 @@ const portraitCredits = {
   },
   "legacy-world-29-谢林": {
     "id": "legacy-world-29-谢林",
-    "src": "/portraits/web-669.webp",
+    "src": "/portraits/optimized/portrait-669.webp",
     "file": "弗里德里希·威廉·约瑟夫·谢林",
     "page": "http://baike.baidu.com/item/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%A8%81%E5%BB%89%C2%B7%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E8%B0%A2%E6%9E%97/841345",
     "artist": "来源网页见链接",
@@ -8577,7 +8205,7 @@ const portraitCredits = {
   },
   "legacy-world-31-密尔": {
     "id": "legacy-world-31-密尔",
-    "src": "/portraits/web-671.webp",
+    "src": "/portraits/optimized/portrait-671.webp",
     "file": "自由主义发展史(四):格莱斯顿与密尔 - 知乎",
     "page": "http://zhuanlan.zhihu.com/p/439472185?utm_id=0",
     "artist": "来源网页见链接",
@@ -8589,7 +8217,7 @@ const portraitCredits = {
   },
   "legacy-world-21-伊本赫勒敦": {
     "id": "legacy-world-21-伊本赫勒敦",
-    "src": "/portraits/web-661.webp",
+    "src": "/portraits/optimized/portrait-661.webp",
     "file": "如何评价伊本赫勒敦的《历史绪论》? - 知乎",
     "page": "http://www.zhihu.com/question/552779409/answer/3205628560?utm_id=0",
     "artist": "来源网页见链接",
@@ -8601,7 +8229,7 @@ const portraitCredits = {
   },
   "legacy-world-32-斯宾塞": {
     "id": "legacy-world-32-斯宾塞",
-    "src": "/portraits/web-672.webp",
+    "src": "/portraits/optimized/portrait-672.webp",
     "file": "斯宾塞:以愉快方式获得知识_孩子",
     "page": "http://mt.sohu.com/a/484299950_121091558",
     "artist": "来源网页见链接",
@@ -8611,21 +8239,9 @@ const portraitCredits = {
     "searchQuery": "斯宾塞 画像",
     "verification": "搜索结果标题包含对应人物名"
   },
-  "legacy-world-18-伊本西那": {
-    "id": "legacy-world-18-伊本西那",
-    "src": "/portraits/web-658.webp",
-    "file": "伊斯兰黄金时代最杰出学者伊本西那15则哲学箴言助你拥有一双隐形的",
-    "page": "http://zhuanlan.zhihu.com/p/685890860",
-    "artist": "来源网页见链接",
-    "license": "来源网页，许可未核实",
-    "licenseUrl": "",
-    "provider": "Public web image search",
-    "searchQuery": "伊本西那 画像",
-    "verification": "搜索结果标题包含对应人物名"
-  },
   "legacy-world-41-威廉詹姆斯": {
     "id": "legacy-world-41-威廉詹姆斯",
-    "src": "/portraits/web-681.webp",
+    "src": "/portraits/optimized/portrait-681.webp",
     "file": "恢复能量的小事:威廉詹姆斯的实用主义",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5300210856517403918",
     "artist": "来源网页见链接",
@@ -8637,7 +8253,7 @@ const portraitCredits = {
   },
   "legacy-world-42-杜威": {
     "id": "legacy-world-42-杜威",
-    "src": "/portraits/web-682.webp",
+    "src": "/portraits/optimized/portrait-682.webp",
     "file": "杜威教育思想:从生活到民主的转变 📚",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5532207182922363302",
     "artist": "来源网页见链接",
@@ -8649,7 +8265,7 @@ const portraitCredits = {
   },
   "legacy-world-43-皮尔士": {
     "id": "legacy-world-43-皮尔士",
-    "src": "/portraits/web-683.webp",
+    "src": "/portraits/optimized/portrait-683.webp",
     "file": "查尔斯·桑德斯·皮尔士",
     "page": "http://baike.baidu.com/item/%E6%9F%A5%E5%B0%94%E6%96%AF%C2%B7%E6%A1%91%E5%BE%B7%E6%96%AF%C2%B7%E7%9A%AE%E5%B0%94%E5%A3%AB/5028870",
     "artist": "来源网页见链接",
@@ -8661,7 +8277,7 @@ const portraitCredits = {
   },
   "legacy-world-46-列维斯特劳斯": {
     "id": "legacy-world-46-列维斯特劳斯",
-    "src": "/portraits/web-686.webp",
+    "src": "/portraits/optimized/portrait-686.webp",
     "file": "列维斯特劳斯对话录",
     "page": "http://www.xiaohongshu.com/discovery/item/63280e9c00000000180148c9",
     "artist": "来源网页见链接",
@@ -8673,7 +8289,7 @@ const portraitCredits = {
   },
   "legacy-world-95-十字若望": {
     "id": "legacy-world-95-十字若望",
-    "src": "/portraits/web-735.webp",
+    "src": "/portraits/optimized/portrait-735.webp",
     "file": "达利《十字若望的基督》赏析",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_3726380173024016829",
     "artist": "来源网页见链接",
@@ -8685,7 +8301,7 @@ const portraitCredits = {
   },
   "legacy-world-58-特斯拉": {
     "id": "legacy-world-58-特斯拉",
-    "src": "/portraits/web-698.webp",
+    "src": "/portraits/optimized/portrait-698.webp",
     "file": "特斯拉y电池:两年仅衰减3%",
     "page": "http://m.yoojia.com/pages/dongtai/index?id=3421276002&from_src=magic",
     "artist": "来源网页见链接",
@@ -8697,7 +8313,7 @@ const portraitCredits = {
   },
   "legacy-world-101-威廉布莱克": {
     "id": "legacy-world-101-威廉布莱克",
-    "src": "/portraits/web-741.webp",
+    "src": "/portraits/optimized/portrait-741.webp",
     "file": "前言威廉布莱克williamblake是英国浪漫主义时期的诗人和艺术家,他以",
     "page": "http://www.sohu.com/a/782516337_120568811",
     "artist": "来源网页见链接",
@@ -8709,7 +8325,7 @@ const portraitCredits = {
   },
   "legacy-world-93-额我略": {
     "id": "legacy-world-93-额我略",
-    "src": "/portraits/web-733.webp",
+    "src": "/portraits/optimized/portrait-733.webp",
     "file": "圣巴西略与圣额我略纳齐盎 - 抖音",
     "page": "http://www.douyin.com/note/7455246989136104704",
     "artist": "来源网页见链接",
@@ -8721,7 +8337,7 @@ const portraitCredits = {
   },
   "legacy-world-103-西蒙娜薇依": {
     "id": "legacy-world-103-西蒙娜薇依",
-    "src": "/portraits/web-743.webp",
+    "src": "/portraits/optimized/portrait-743.webp",
     "file": "西蒙娜薇依那如诗一般的人生和哲学",
     "page": "http://www.xiaohongshu.com/discovery/item/63bbf487000000002202be47",
     "artist": "来源网页见链接",
@@ -8733,7 +8349,7 @@ const portraitCredits = {
   },
   "legacy-world-109-阿布伯克尔": {
     "id": "legacy-world-109-阿布伯克尔",
-    "src": "/portraits/web-749.webp",
+    "src": "/portraits/optimized/portrait-749.webp",
     "file": "一,四大哈里发  阿布伯克尔→欧麦尔→奥斯曼→阿里  伊斯兰教创始",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4518845563725015279",
     "artist": "来源网页见链接",
@@ -8745,7 +8361,7 @@ const portraitCredits = {
   },
   "legacy-world-112-哈桑": {
     "id": "legacy-world-112-哈桑",
-    "src": "/portraits/web-752.webp",
+    "src": "/portraits/optimized/portrait-752.webp",
     "file": "哈桑",
     "page": "http://baike.baidu.com/item/%E5%93%88%E6%A1%91/60266273",
     "artist": "来源网页见链接",
@@ -8757,7 +8373,7 @@ const portraitCredits = {
   },
   "legacy-world-113-侯赛因": {
     "id": "legacy-world-113-侯赛因",
-    "src": "/portraits/web-753.jpg",
+    "src": "/portraits/optimized/portrait-753.webp",
     "file": "\"中东现状推手,约旦传奇国王\" 侯赛因一",
     "page": "https://mbook.kongfz.com/311860/5161522974/?for=baidu",
     "artist": "来源网页见链接",
@@ -8769,7 +8385,7 @@ const portraitCredits = {
   },
   "legacy-world-111-奥斯曼": {
     "id": "legacy-world-111-奥斯曼",
-    "src": "/portraits/web-751.webp",
+    "src": "/portraits/optimized/portrait-751.webp",
     "file": "苏莱曼大帝:奥斯曼帝国的辉煌皇帝",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5165655733164184008",
     "artist": "来源网页见链接",
@@ -8781,7 +8397,7 @@ const portraitCredits = {
   },
   "legacy-world-115-萨迪": {
     "id": "legacy-world-115-萨迪",
-    "src": "/portraits/web-755.webp",
+    "src": "/portraits/optimized/portrait-755.webp",
     "file": "萨迪·卡诺画像第零定律:宇宙的\"测温计\"在热力学大厦建立之前,连\"",
     "page": "http://baijiahao.baidu.com/s?id=1851128478602347902&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -8793,7 +8409,7 @@ const portraitCredits = {
   },
   "legacy-world-119-巴耶济德": {
     "id": "legacy-world-119-巴耶济德",
-    "src": "/portraits/web-759.webp",
+    "src": "/portraits/optimized/portrait-759.webp",
     "file": "巴耶济德二世的\"内忧外患\"",
     "page": "http://news.sohu.com/a/1003459832_121161795",
     "artist": "来源网页见链接",
@@ -8805,7 +8421,7 @@ const portraitCredits = {
   },
   "legacy-world-160-厄瑞玻斯": {
     "id": "legacy-world-160-厄瑞玻斯",
-    "src": "/portraits/web-800.webp",
+    "src": "/portraits/optimized/portrait-800.webp",
     "file": "混沌恩赐-厄瑞玻斯",
     "page": "http://baike.baidu.com/item/%E6%B7%B7%E6%B2%8C%E6%81%A9%E8%B5%90-%E5%8E%84%E7%91%9E%E7%8E%BB%E6%96%AF/63386995",
     "artist": "来源网页见链接",
@@ -8817,7 +8433,7 @@ const portraitCredits = {
   },
   "legacy-world-166-科俄斯": {
     "id": "legacy-world-166-科俄斯",
-    "src": "/portraits/web-806.webp",
+    "src": "/portraits/optimized/portrait-806.webp",
     "file": "她是泰坦神科俄斯和福柏的女儿,勒托的妹妹,赫卡忒的母亲.",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4797953803397377184",
     "artist": "来源网页见链接",
@@ -8829,7 +8445,7 @@ const portraitCredits = {
   },
   "legacy-world-167-伊阿佩托斯": {
     "id": "legacy-world-167-伊阿佩托斯",
-    "src": "/portraits/web-807.webp",
+    "src": "/portraits/optimized/portrait-807.webp",
     "file": "母亲:克吕墨涅父亲:伊阿佩托斯实力:t2能力:传授知识,用泥土雕刻出人",
     "page": "http://www.bilibili.com/read/cv41308803",
     "artist": "来源网页见链接",
@@ -8841,7 +8457,7 @@ const portraitCredits = {
   },
   "legacy-world-171-赫卡忒": {
     "id": "legacy-world-171-赫卡忒",
-    "src": "/portraits/web-811.webp",
+    "src": "/portraits/optimized/portrait-811.webp",
     "file": "赫卡忒",
     "page": "http://baike.baidu.com/item/%E8%B5%AB%E5%8D%A1%E5%BF%92/4615261",
     "artist": "来源网页见链接",
@@ -8853,7 +8469,7 @@ const portraitCredits = {
   },
   "legacy-world-169-墨提斯": {
     "id": "legacy-world-169-墨提斯",
-    "src": "/portraits/web-809.webp",
+    "src": "/portraits/optimized/portrait-809.webp",
     "file": "💫希腊神话中的智慧女神墨提斯💫",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4713994876162991940",
     "artist": "来源网页见链接",
@@ -8865,7 +8481,7 @@ const portraitCredits = {
   },
   "legacy-world-284-大国主神": {
     "id": "legacy-world-284-大国主神",
-    "src": "/portraits/web-924.webp",
+    "src": "/portraits/optimized/portrait-924.webp",
     "file": "🍶日本酒神:大国主神的传奇🍶",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5320472712554917144",
     "artist": "来源网页见链接",
@@ -8877,7 +8493,7 @@ const portraitCredits = {
   },
   "legacy-world-311-弗雷": {
     "id": "legacy-world-311-弗雷",
-    "src": "/portraits/web-951.webp",
+    "src": "/portraits/optimized/portrait-951.webp",
     "file": "北欧神话——弗雷(freyr)",
     "page": "http://weibo.com/ttarticle/p/show?id=2309405051577877790722",
     "artist": "来源网页见链接",
@@ -8887,21 +8503,9 @@ const portraitCredits = {
     "searchQuery": "弗雷 画像",
     "verification": "搜索结果标题包含对应人物名"
   },
-  "legacy-cn-234-张紫阳": {
-    "id": "legacy-cn-234-张紫阳",
-    "src": "/portraits/web-294.webp",
-    "file": "张伯端祖师的内丹思想如何影响道教的发展",
-    "page": "http://baijiahao.baidu.com/s?id=1826067554039864850&wfr=spider&for=pc",
-    "artist": "来源网页见链接",
-    "license": "来源网页，许可未核实",
-    "licenseUrl": "",
-    "provider": "Public web image search",
-    "searchQuery": "张伯端 画像",
-    "verification": "搜索结果标题包含对应人物名"
-  },
   "legacy-cn-233-李凝阳": {
     "id": "legacy-cn-233-李凝阳",
-    "src": "/portraits/web-293.webp",
+    "src": "/portraits/optimized/portrait-293.webp",
     "file": "阳雷经,神剑御真诀,天雷劫陆默:疾电术,阳雷经,神瑘奔雷,天雷劫李凝阳",
     "page": "http://healthnews.sohu.com/a/622545141_121631443",
     "artist": "来源网页见链接",
@@ -8911,21 +8515,9 @@ const portraitCredits = {
     "searchQuery": "李凝阳 画像",
     "verification": "搜索结果标题包含对应人物名"
   },
-  "legacy-cn-229-曹国舅曹景休": {
-    "id": "legacy-cn-229-曹国舅曹景休",
-    "src": "/portraits/web-289.webp",
-    "file": "从\"官帽仙\"到\"心天合一\":曹国舅的成仙密码",
-    "page": "http://baijiahao.baidu.com/s?id=1858602161322045253&wfr=spider&for=pc",
-    "artist": "来源网页见链接",
-    "license": "来源网页，许可未核实",
-    "licenseUrl": "",
-    "provider": "Public web image search",
-    "searchQuery": "曹国舅 画像",
-    "verification": "搜索结果标题包含对应人物名"
-  },
   "legacy-cn-272-史伯": {
     "id": "legacy-cn-272-史伯",
-    "src": "/portraits/web-332.webp",
+    "src": "/portraits/optimized/portrait-332.webp",
     "file": " p data-id=\"gnwm478ysa\">史伯, a target=\"",
     "page": "http://baike.baidu.com/item/%E5%8F%B2%E4%BC%AF/2071029",
     "artist": "来源网页见链接",
@@ -8937,7 +8529,7 @@ const portraitCredits = {
   },
   "legacy-cn-241-田骈": {
     "id": "legacy-cn-241-田骈",
-    "src": "/portraits/web-301.webp",
+    "src": "/portraits/optimized/portrait-301.webp",
     "file": "田骈",
     "page": "http://baike.baidu.com/item/%E7%94%B0%E9%AA%88/7271467",
     "artist": "来源网页见链接",
@@ -8949,7 +8541,7 @@ const portraitCredits = {
   },
   "legacy-cn-273-史墨": {
     "id": "legacy-cn-273-史墨",
-    "src": "/portraits/web-333.webp",
+    "src": "/portraits/optimized/portrait-333.webp",
     "file": "成语故事10:按兵不动丨赵简子调兵讨伐卫国,晋大夫史墨劝止行动 成语",
     "page": "http://history.sohu.com/a/919446413_120129611",
     "artist": "来源网页见链接",
@@ -8961,7 +8553,7 @@ const portraitCredits = {
   },
   "legacy-cn-276-告子": {
     "id": "legacy-cn-276-告子",
-    "src": "/portraits/web-336.webp",
+    "src": "/portraits/optimized/portrait-336.webp",
     "file": "告子",
     "page": "http://baike.baidu.com/item/%E5%91%8A%E5%AD%90/7271495",
     "artist": "来源网页见链接",
@@ -8973,7 +8565,7 @@ const portraitCredits = {
   },
   "legacy-cn-278-乐正克": {
     "id": "legacy-cn-278-乐正克",
-    "src": "/portraits/web-338.webp",
+    "src": "/portraits/optimized/portrait-338.webp",
     "file": "乐正克",
     "page": "http://www.gerenjianli.com/mingren/10/lnn47kntie.html",
     "artist": "来源网页见链接",
@@ -8985,7 +8577,7 @@ const portraitCredits = {
   },
   "legacy-cn-282-毛亨": {
     "id": "legacy-cn-282-毛亨",
-    "src": "/portraits/web-342.webp",
+    "src": "/portraits/optimized/portrait-342.webp",
     "file": "毛亨",
     "page": "http://baike.baidu.com/item/%E6%AF%9B%E4%BA%A8/1183821",
     "artist": "来源网页见链接",
@@ -8997,7 +8589,7 @@ const portraitCredits = {
   },
   "legacy-cn-288-刘歆": {
     "id": "legacy-cn-288-刘歆",
-    "src": "/portraits/web-348.webp",
+    "src": "/portraits/optimized/portrait-348.webp",
     "file": "刘歆的\"污点\"真相:学者还是篡汉帮凶?",
     "page": "http://baijiahao.baidu.com/s?id=1845736788018552324&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9009,7 +8601,7 @@ const portraitCredits = {
   },
   "legacy-cn-26-夸父": {
     "id": "legacy-cn-26-夸父",
-    "src": "/portraits/web-86.jpg",
+    "src": "/portraits/optimized/portrait-86.webp",
     "file": "夸父_百度百科",
     "page": "https://wapbaike.baidu.com/item/夸父",
     "artist": "来源网页见链接",
@@ -9021,7 +8613,7 @@ const portraitCredits = {
   },
   "legacy-cn-290-王充": {
     "id": "legacy-cn-290-王充",
-    "src": "/portraits/web-350.webp",
+    "src": "/portraits/optimized/portrait-350.webp",
     "file": "王充:圣贤系列之九",
     "page": "http://baijiahao.baidu.com/s?id=1829713673529458285&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9033,7 +8625,7 @@ const portraitCredits = {
   },
   "legacy-cn-279-万章": {
     "id": "legacy-cn-279-万章",
-    "src": "/portraits/web-339.webp",
+    "src": "/portraits/optimized/portrait-339.webp",
     "file": "万章画像",
     "page": "http://www.qqlqq.com/mingzi/%D3%FA%D5%C2.htm",
     "artist": "来源网页见链接",
@@ -9045,7 +8637,7 @@ const portraitCredits = {
   },
   "legacy-cn-291-班彪": {
     "id": "legacy-cn-291-班彪",
-    "src": "/portraits/web-351.webp",
+    "src": "/portraits/optimized/portrait-351.webp",
     "file": "班彪",
     "page": "http://www.52hrtt.com/Singapore/n/w/info/ifm2025060603454715258758",
     "artist": "来源网页见链接",
@@ -9057,7 +8649,7 @@ const portraitCredits = {
   },
   "legacy-cn-296-许慎": {
     "id": "legacy-cn-296-许慎",
-    "src": "/portraits/web-356.webp",
+    "src": "/portraits/optimized/portrait-356.webp",
     "file": "云图百科 | 探寻汉字前世今生,每一笔都是故事(一)_许慎_文字学家",
     "page": "http://news.sohu.com/a/663049441_121123814",
     "artist": "来源网页见链接",
@@ -9069,7 +8661,7 @@ const portraitCredits = {
   },
   "legacy-cn-297-蔡邕": {
     "id": "legacy-cn-297-蔡邕",
-    "src": "/portraits/web-357.webp",
+    "src": "/portraits/optimized/portrait-357.webp",
     "file": "蔡邕:汉隶巅峰的书法家与音乐家",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5486571235495222417",
     "artist": "来源网页见链接",
@@ -9081,7 +8673,7 @@ const portraitCredits = {
   },
   "legacy-cn-274-叔孙豹": {
     "id": "legacy-cn-274-叔孙豹",
-    "src": "/portraits/web-334.webp",
+    "src": "/portraits/optimized/portrait-334.webp",
     "file": "春秋辑影之叔孙豹:稳辣政客,老来翻车",
     "page": "http://baijiahao.baidu.com/s?id=1653535881327556326",
     "artist": "来源网页见链接",
@@ -9093,7 +8685,7 @@ const portraitCredits = {
   },
   "legacy-cn-298-王符": {
     "id": "legacy-cn-298-王符",
-    "src": "/portraits/web-358.webp",
+    "src": "/portraits/optimized/portrait-358.webp",
     "file": "甘肃省美术家协会会员景中道《王符画像》系列作品鉴赏",
     "page": "http://www.sohu.com/a/864065257_120242009",
     "artist": "来源网页见链接",
@@ -9105,7 +8697,7 @@ const portraitCredits = {
   },
   "legacy-cn-302-晁错": {
     "id": "legacy-cn-302-晁错",
-    "src": "/portraits/web-362.webp",
+    "src": "/portraits/optimized/portrait-362.webp",
     "file": "七国之乱期间,汉景帝为何要拿忠诚的晁错开刀",
     "page": "http://baijiahao.baidu.com/s?id=1823048312560830315&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9117,7 +8709,7 @@ const portraitCredits = {
   },
   "legacy-cn-303-主父偃": {
     "id": "legacy-cn-303-主父偃",
-    "src": "/portraits/web-363.webp",
+    "src": "/portraits/optimized/portrait-363.webp",
     "file": "主父偃出身贫寒,却有鸿鹄之志,为何落得全族被诛杀?",
     "page": "http://baijiahao.baidu.com/s?id=1626075803183256263",
     "artist": "来源网页见链接",
@@ -9129,7 +8721,7 @@ const portraitCredits = {
   },
   "legacy-cn-300-荀悦": {
     "id": "legacy-cn-300-荀悦",
-    "src": "/portraits/web-360.webp",
+    "src": "/portraits/optimized/portrait-360.webp",
     "file": "东汉侍中荀悦的春秋笔法 汉纪中那些被删减",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5505352964372430675",
     "artist": "来源网页见链接",
@@ -9141,7 +8733,7 @@ const portraitCredits = {
   },
   "legacy-cn-307-刘安": {
     "id": "legacy-cn-307-刘安",
-    "src": "/portraits/web-367.webp",
+    "src": "/portraits/optimized/portrait-367.webp",
     "file": "淮南王刘安:琴棋书画全才的传奇",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5544395235102896307",
     "artist": "来源网页见链接",
@@ -9153,7 +8745,7 @@ const portraitCredits = {
   },
   "legacy-cn-306-贾山": {
     "id": "legacy-cn-306-贾山",
-    "src": "/portraits/web-366.webp",
+    "src": "/portraits/optimized/portrait-366.webp",
     "file": "前146年,汉文帝将贾山骂他的《至言》贴满朝堂让天下人看",
     "page": "http://baijiahao.baidu.com/s?id=1871599991623132657&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9165,7 +8757,7 @@ const portraitCredits = {
   },
   "legacy-cn-309-严遵": {
     "id": "legacy-cn-309-严遵",
-    "src": "/portraits/web-369.webp",
+    "src": "/portraits/optimized/portrait-369.webp",
     "file": "严遵",
     "page": "http://baike.baidu.com/item/%E4%B8%A5%E9%81%B5/10631748",
     "artist": "来源网页见链接",
@@ -9175,21 +8767,9 @@ const portraitCredits = {
     "searchQuery": "严遵 画像",
     "verification": "搜索结果标题包含对应人物名"
   },
-  "legacy-cn-308-淮南王刘安": {
-    "id": "legacy-cn-308-淮南王刘安",
-    "src": "/portraits/web-368.webp",
-    "file": "淮南王刘安:琴棋书画全才的传奇",
-    "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5544395235102896307",
-    "artist": "来源网页见链接",
-    "license": "来源网页，许可未核实",
-    "licenseUrl": "",
-    "provider": "Public web image search",
-    "searchQuery": "刘安 画像",
-    "verification": "搜索结果标题包含对应人物名"
-  },
   "legacy-cn-315-郭象": {
     "id": "legacy-cn-315-郭象",
-    "src": "/portraits/web-375.webp",
+    "src": "/portraits/optimized/portrait-375.webp",
     "file": " p>郭象(约252-312年),字子玄, a target=\"_blank\" href=\"/item/河南",
     "page": "http://baike.baidu.com/item/%E9%83%AD%E5%AD%90%E7%8E%84/15395215",
     "artist": "来源网页见链接",
@@ -9201,7 +8781,7 @@ const portraitCredits = {
   },
   "legacy-cn-318-葛荣": {
     "id": "legacy-cn-318-葛荣",
-    "src": "/portraits/web-378.webp",
+    "src": "/portraits/optimized/portrait-378.webp",
     "file": "大齐王葛荣(?",
     "page": "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4581773118254713181",
     "artist": "来源网页见链接",
@@ -9213,7 +8793,7 @@ const portraitCredits = {
   },
   "legacy-cn-316-裴頠": {
     "id": "legacy-cn-316-裴頠",
-    "src": "/portraits/web-376.webp",
+    "src": "/portraits/optimized/portrait-376.webp",
     "file": "较为规矩的玄学家裴頠",
     "page": "http://dy.163.com/article/H8HC659B0552CDYW.html",
     "artist": "来源网页见链接",
@@ -9225,7 +8805,7 @@ const portraitCredits = {
   },
   "legacy-cn-322-王肃": {
     "id": "legacy-cn-322-王肃",
-    "src": "/portraits/web-382.webp",
+    "src": "/portraits/optimized/portrait-382.webp",
     "file": "王肃",
     "page": "http://baike.baidu.com/item/%E7%8E%8B%E8%82%83/10208",
     "artist": "来源网页见链接",
@@ -9237,7 +8817,7 @@ const portraitCredits = {
   },
   "legacy-cn-321-徐干": {
     "id": "legacy-cn-321-徐干",
-    "src": "/portraits/web-381.webp",
+    "src": "/portraits/optimized/portrait-381.webp",
     "file": "建安七子之一徐干  徐干(170年-217年),字伟长,汉末文学家,哲学家",
     "page": "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4340100234871778769",
     "artist": "来源网页见链接",
@@ -9249,7 +8829,7 @@ const portraitCredits = {
   },
   "legacy-cn-332-宋璟": {
     "id": "legacy-cn-332-宋璟",
-    "src": "/portraits/web-392.webp",
+    "src": "/portraits/optimized/portrait-392.webp",
     "file": "宋璟",
     "page": "http://baike.baidu.com/item/%E5%AE%8B%E7%92%9F/1284258",
     "artist": "来源网页见链接",
@@ -9261,7 +8841,7 @@ const portraitCredits = {
   },
   "legacy-cn-319-刘劭": {
     "id": "legacy-cn-319-刘劭",
-    "src": "/portraits/web-379.webp",
+    "src": "/portraits/optimized/portrait-379.webp",
     "file": " p>刘劭(生卒年不详),字孔才,广平 a target=\"_blank\" href=\"/item",
     "page": "http://baike.baidu.com/item/%E5%88%98%E9%82%B5/2937320",
     "artist": "来源网页见链接",
@@ -9273,7 +8853,7 @@ const portraitCredits = {
   },
   "legacy-cn-333-张九龄": {
     "id": "legacy-cn-333-张九龄",
-    "src": "/portraits/web-393.webp",
+    "src": "/portraits/optimized/portrait-393.webp",
     "file": "\"张九龄和他的时代\"展览",
     "page": "http://news.sohu.com/a/950255838_161795",
     "artist": "来源网页见链接",
@@ -9285,7 +8865,7 @@ const portraitCredits = {
   },
   "legacy-cn-336-陆贽": {
     "id": "legacy-cn-336-陆贽",
-    "src": "/portraits/web-396.webp",
+    "src": "/portraits/optimized/portrait-396.webp",
     "file": "陆贽",
     "page": "http://baike.baidu.com/item/%E9%99%86%E8%B4%BD/2447362",
     "artist": "来源网页见链接",
@@ -9297,7 +8877,7 @@ const portraitCredits = {
   },
   "legacy-cn-334-韩休": {
     "id": "legacy-cn-334-韩休",
-    "src": "/portraits/web-394.webp",
+    "src": "/portraits/optimized/portrait-394.webp",
     "file": "🎨 陕历博韩休墓壁画探秘 🖼️ 韩休,生于",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5493132261872956847",
     "artist": "来源网页见链接",
@@ -9309,7 +8889,7 @@ const portraitCredits = {
   },
   "legacy-cn-338-刘禹锡": {
     "id": "legacy-cn-338-刘禹锡",
-    "src": "/portraits/web-398.webp",
+    "src": "/portraits/optimized/portrait-398.webp",
     "file": "州府,临终还在为仅活了146天的改革辩护,刘禹锡这一辈子凭啥那么硬气?",
     "page": "http://baijiahao.baidu.com/s?id=1870468935579431058&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9321,7 +8901,7 @@ const portraitCredits = {
   },
   "legacy-cn-341-李绛": {
     "id": "legacy-cn-341-李绛",
-    "src": "/portraits/web-401.webp",
+    "src": "/portraits/optimized/portrait-401.webp",
     "file": "赞皇六宰相之李绛:善谏宰相的命运转折",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4912138201467190320",
     "artist": "来源网页见链接",
@@ -9333,7 +8913,7 @@ const portraitCredits = {
   },
   "legacy-cn-352-张商英": {
     "id": "legacy-cn-352-张商英",
-    "src": "/portraits/web-412.webp",
+    "src": "/portraits/optimized/portrait-412.webp",
     "file": "历史人物故事# 张商英 北宋宰相 张商英(1043-1121),字天觉,号无尽",
     "page": "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5356037485590649080",
     "artist": "来源网页见链接",
@@ -9345,7 +8925,7 @@ const portraitCredits = {
   },
   "legacy-cn-343-柳公权": {
     "id": "legacy-cn-343-柳公权",
-    "src": "/portraits/web-403.webp",
+    "src": "/portraits/optimized/portrait-403.webp",
     "file": "柳公权晚年撰书墓志被发现出土 他的代表作在这里",
     "page": "http://baijiahao.baidu.com/s?id=1758126558496994182&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9357,7 +8937,7 @@ const portraitCredits = {
   },
   "legacy-cn-340-李翱": {
     "id": "legacy-cn-340-李翱",
-    "src": "/portraits/web-400.webp",
+    "src": "/portraits/optimized/portrait-400.webp",
     "file": "古代文人形象李翱图片",
     "page": "http://www.nipic.com/show/53167723.html",
     "artist": "来源网页见链接",
@@ -9369,7 +8949,7 @@ const portraitCredits = {
   },
   "legacy-cn-355-韩世忠": {
     "id": "legacy-cn-355-韩世忠",
-    "src": "/portraits/web-415.webp",
+    "src": "/portraits/optimized/portrait-415.webp",
     "file": "南宋抗金名将韩世忠:从勇猛少年到中兴四将的传奇一生",
     "page": "http://baijiahao.baidu.com/s?id=1850671042271720398&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9381,7 +8961,7 @@ const portraitCredits = {
   },
   "legacy-cn-365-魏了翁": {
     "id": "legacy-cn-365-魏了翁",
-    "src": "/portraits/web-425.webp",
+    "src": "/portraits/optimized/portrait-425.webp",
     "file": "魏了翁在政治上是一位坚定的改革派,他积极参与了当时的政治斗争,并",
     "page": "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4635854753691763107",
     "artist": "来源网页见链接",
@@ -9393,7 +8973,7 @@ const portraitCredits = {
   },
   "legacy-cn-363-陈傅良": {
     "id": "legacy-cn-363-陈傅良",
-    "src": "/portraits/web-423.webp",
+    "src": "/portraits/optimized/portrait-423.webp",
     "file": "陈傅良",
     "page": "http://baike.baidu.com/item/%E9%99%88%E5%82%85%E8%89%AF/3559728",
     "artist": "来源网页见链接",
@@ -9405,7 +8985,7 @@ const portraitCredits = {
   },
   "legacy-cn-367-王艮": {
     "id": "legacy-cn-367-王艮",
-    "src": "/portraits/web-427.webp",
+    "src": "/portraits/optimized/portrait-427.webp",
     "file": "建文二年,王艮在殿试中策论勇夺第一,理应获得状元,建文帝却嫌他长得",
     "page": "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4457492673103328059",
     "artist": "来源网页见链接",
@@ -9417,7 +8997,7 @@ const portraitCredits = {
   },
   "legacy-cn-372-唐甄": {
     "id": "legacy-cn-372-唐甄",
-    "src": "/portraits/web-432.webp",
+    "src": "/portraits/optimized/portrait-432.webp",
     "file": "唐甄",
     "page": "http://baike.baidu.com/item/%E5%94%90%E7%94%84/2535063",
     "artist": "来源网页见链接",
@@ -9429,7 +9009,7 @@ const portraitCredits = {
   },
   "legacy-cn-374-段玉裁": {
     "id": "legacy-cn-374-段玉裁",
-    "src": "/portraits/web-434.webp",
+    "src": "/portraits/optimized/portrait-434.webp",
     "file": "段玉裁",
     "page": "http://baike.baidu.com/item/%E6%AE%B5%E7%8E%89%E8%A3%81/2343792",
     "artist": "来源网页见链接",
@@ -9441,7 +9021,7 @@ const portraitCredits = {
   },
   "legacy-cn-371-方以智": {
     "id": "legacy-cn-371-方以智",
-    "src": "/portraits/web-431.webp",
+    "src": "/portraits/optimized/portrait-431.webp",
     "file": "明末四公子之一的方以智,为何决然出家,出家后又做了什么?",
     "page": "http://www.sohu.com/a/316271642_120145068",
     "artist": "来源网页见链接",
@@ -9453,7 +9033,7 @@ const portraitCredits = {
   },
   "legacy-cn-377-龚自珍": {
     "id": "legacy-cn-377-龚自珍",
-    "src": "/portraits/web-437.webp",
+    "src": "/portraits/optimized/portrait-437.webp",
     "file": "龚自珍:在帝国的黄昏里,做一个不合时宜的清醒者",
     "page": "http://baijiahao.baidu.com/s?id=1824949587965208079&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9465,7 +9045,7 @@ const portraitCredits = {
   },
   "legacy-cn-383-章太炎": {
     "id": "legacy-cn-383-章太炎",
-    "src": "/portraits/web-443.webp",
+    "src": "/portraits/optimized/portrait-443.webp",
     "file": "探访章太炎故居:感受国学大师的风采 🏛️",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5692444346862420240",
     "artist": "来源网页见链接",
@@ -9477,7 +9057,7 @@ const portraitCredits = {
   },
   "legacy-cn-391-宋玉": {
     "id": "legacy-cn-391-宋玉",
-    "src": "/portraits/web-451.webp",
+    "src": "/portraits/optimized/portrait-451.webp",
     "file": "凡人修仙传-宋玉",
     "page": "http://www.bilibili.com/read/cv43258152/",
     "artist": "来源网页见链接",
@@ -9489,7 +9069,7 @@ const portraitCredits = {
   },
   "legacy-cn-395-建安七子": {
     "id": "legacy-cn-395-建安七子",
-    "src": "/portraits/web-455.webp",
+    "src": "/portraits/optimized/portrait-455.webp",
     "file": "建安七子记忆顺口溜",
     "page": "http://baijiahao.baidu.com/s?id=1815590976981356478&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9501,7 +9081,7 @@ const portraitCredits = {
   },
   "legacy-cn-394-曹植": {
     "id": "legacy-cn-394-曹植",
-    "src": "/portraits/web-454.webp",
+    "src": "/portraits/optimized/portrait-454.webp",
     "file": "七步之才曹植,一生为何难逃政治悲剧?三种性格缺陷成就文学巨匠",
     "page": "http://baijiahao.baidu.com/s?id=1827556454983616760&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9513,7 +9093,7 @@ const portraitCredits = {
   },
   "legacy-world-52-布鲁诺": {
     "id": "legacy-world-52-布鲁诺",
-    "src": "/portraits/web-692.webp",
+    "src": "/portraits/optimized/portrait-692.webp",
     "file": "布鲁诺:为日心说而殉道的天文学先驱",
     "page": "http://baijiahao.baidu.com/s?id=1821276101994278013&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9525,7 +9105,7 @@ const portraitCredits = {
   },
   "legacy-world-116-阿塔尔": {
     "id": "legacy-world-116-阿塔尔",
-    "src": "/portraits/web-756.webp",
+    "src": "/portraits/optimized/portrait-756.webp",
     "file": "加布里埃尔·阿塔尔",
     "page": "http://baike.baidu.com/item/%E5%8A%A0%E5%B8%83%E9%87%8C%E5%9F%83%E5%B0%94%C2%B7%E9%98%BF%E5%A1%94%E5%B0%94/53083696",
     "artist": "来源网页见链接",
@@ -9537,7 +9117,7 @@ const portraitCredits = {
   },
   "legacy-world-121-耶稣会士利玛窦": {
     "id": "legacy-world-121-耶稣会士利玛窦",
-    "src": "/portraits/web-761.webp",
+    "src": "/portraits/optimized/portrait-761.webp",
     "file": "最早的中国人油画作品明游文辉利玛窦像",
     "page": "http://www.zhihu.com/pin/1875104902021259264",
     "artist": "来源网页见链接",
@@ -9549,7 +9129,7 @@ const portraitCredits = {
   },
   "legacy-world-122-祆教琐罗亚斯德": {
     "id": "legacy-world-122-祆教琐罗亚斯德",
-    "src": "/portraits/web-762.webp",
+    "src": "/portraits/optimized/portrait-762.webp",
     "file": "琐罗亚斯德",
     "page": "http://baike.baidu.com/item/%E7%90%90%E7%BD%97%E4%BA%9A%E6%96%AF%E5%BE%B7/975030",
     "artist": "来源网页见链接",
@@ -9561,7 +9141,7 @@ const portraitCredits = {
   },
   "legacy-world-264-迦摩": {
     "id": "legacy-world-264-迦摩",
-    "src": "/portraits/web-904.webp",
+    "src": "/portraits/optimized/portrait-904.webp",
     "file": "迦摩",
     "page": "http://baike.baidu.com/item/%E8%BF%A6%E6%91%A9/58552210",
     "artist": "来源网页见链接",
@@ -9573,7 +9153,7 @@ const portraitCredits = {
   },
   "legacy-world-302-丰臣秀吉": {
     "id": "legacy-world-302-丰臣秀吉",
-    "src": "/portraits/web-942.webp",
+    "src": "/portraits/optimized/portrait-942.webp",
     "file": "万历朝鲜战争,丰臣秀吉的\"入唐\"计划是如何破灭的?",
     "page": "http://baijiahao.baidu.com/s?id=1828623237813108583&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9585,7 +9165,7 @@ const portraitCredits = {
   },
   "legacy-world-316-伊敦": {
     "id": "legacy-world-316-伊敦",
-    "src": "/portraits/web-956.webp",
+    "src": "/portraits/optimized/portrait-956.webp",
     "file": "伊敦",
     "page": "http://baike.baidu.com/item/%E4%BC%8A%E6%95%A6/1206306",
     "artist": "来源网页见链接",
@@ -9597,7 +9177,7 @@ const portraitCredits = {
   },
   "legacy-world-320-芬恩": {
     "id": "legacy-world-320-芬恩",
-    "src": "/portraits/web-960.jpg",
+    "src": "/portraits/optimized/portrait-960.webp",
     "file": "文件:芬恩4.png - Mooncell - 玩家共同构筑的FGO中文Wiki",
     "page": "https://fgo.wiki/w/文件:芬恩4.png",
     "artist": "来源网页见链接",
@@ -9609,7 +9189,7 @@ const portraitCredits = {
   },
   "legacy-cn-34-女魃": {
     "id": "legacy-cn-34-女魃",
-    "src": "/portraits/web-94.webp",
+    "src": "/portraits/optimized/portrait-94.webp",
     "file": "🔥女魃:从天女到旱神的悲情传奇🌧️",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4262884922020373597",
     "artist": "来源网页见链接",
@@ -9621,7 +9201,7 @@ const portraitCredits = {
   },
   "legacy-cn-188-谭处端": {
     "id": "legacy-cn-188-谭处端",
-    "src": "/portraits/web-248.webp",
+    "src": "/portraits/optimized/portrait-248.webp",
     "file": "长真真人谭处端.#手绘国画作品 #国风古韵 #传统文化 #道 - 抖音",
     "page": "http://www.douyin.com/note/7497459127036169522",
     "artist": "来源网页见链接",
@@ -9633,7 +9213,7 @@ const portraitCredits = {
   },
   "legacy-cn-190-郝大通": {
     "id": "legacy-cn-190-郝大通",
-    "src": "/portraits/web-250.webp",
+    "src": "/portraits/optimized/portrait-250.webp",
     "file": "郝大通",
     "page": "http://baike.baidu.com/item/%E9%83%9D%E5%A4%A7%E9%80%9A/2402059",
     "artist": "来源网页见链接",
@@ -9645,7 +9225,7 @@ const portraitCredits = {
   },
   "legacy-cn-427-晏殊": {
     "id": "legacy-cn-427-晏殊",
-    "src": "/portraits/web-487.webp",
+    "src": "/portraits/optimized/portrait-487.webp",
     "file": "晏殊画像宋代著名诗人.",
     "page": "http://baijiahao.baidu.com/s?id=1838935107623032988&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9657,7 +9237,7 @@ const portraitCredits = {
   },
   "legacy-cn-460-李时珍": {
     "id": "legacy-cn-460-李时珍",
-    "src": "/portraits/web-520.webp",
+    "src": "/portraits/optimized/portrait-520.webp",
     "file": "李时珍晚年领悟天机,为何称一味药胜万药?那究竟是哪味药?",
     "page": "http://baijiahao.baidu.com/s?id=1838304030739359225&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9669,7 +9249,7 @@ const portraitCredits = {
   },
   "legacy-cn-507-吴广": {
     "id": "legacy-cn-507-吴广",
-    "src": "/portraits/web-567.webp",
+    "src": "/portraits/optimized/portrait-567.webp",
     "file": "农民起义的先驱吴广",
     "page": "http://baijiahao.baidu.com/s?id=1832083974702239025&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9681,7 +9261,7 @@ const portraitCredits = {
   },
   "legacy-cn-368-王畿": {
     "id": "legacy-cn-368-王畿",
-    "src": "/portraits/web-428.webp",
+    "src": "/portraits/optimized/portrait-428.webp",
     "file": "王畿明代思想家",
     "page": "http://www.gerenjianli.com/Mingren/51/bs57379o13.html",
     "artist": "来源网页见链接",
@@ -9693,7 +9273,7 @@ const portraitCredits = {
   },
   "legacy-cn-387-冯友兰": {
     "id": "legacy-cn-387-冯友兰",
-    "src": "/portraits/web-447.webp",
+    "src": "/portraits/optimized/portrait-447.webp",
     "file": "冯友兰先生书法欣赏,韵味醇厚,不流于俗",
     "page": "http://www.sohu.com/a/788811579_488387",
     "artist": "来源网页见链接",
@@ -9705,7 +9285,7 @@ const portraitCredits = {
   },
   "legacy-cn-375-阮元": {
     "id": "legacy-cn-375-阮元",
-    "src": "/portraits/web-435.webp",
+    "src": "/portraits/optimized/portrait-435.webp",
     "file": "阮元画像乾隆五十四年(1789)进士,选翰林院庶吉士,授编修,擢少詹事,入",
     "page": "http://news.sohu.com/a/919607224_121124391",
     "artist": "来源网页见链接",
@@ -9717,7 +9297,7 @@ const portraitCredits = {
   },
   "legacy-world-78-以斯拉": {
     "id": "legacy-world-78-以斯拉",
-    "src": "/portraits/web-718.webp",
+    "src": "/portraits/optimized/portrait-718.webp",
     "file": "以斯拉记提醒我们,上帝的救赎方式远超我们的想象,他可以使用外邦君王",
     "page": "http://baijiahao.baidu.com/s?id=1838774587474843111&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9729,7 +9309,7 @@ const portraitCredits = {
   },
   "legacy-world-86-保罗": {
     "id": "legacy-world-86-保罗",
-    "src": "/portraits/web-726.webp",
+    "src": "/portraits/optimized/portrait-726.webp",
     "file": "略萨去了天堂的另一个街角 法国印象派画家保罗·高更,抛妻弃子,离家",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4897375660272200990",
     "artist": "来源网页见链接",
@@ -9741,7 +9321,7 @@ const portraitCredits = {
   },
   "legacy-world-114-哈菲兹": {
     "id": "legacy-world-114-哈菲兹",
-    "src": "/portraits/web-754.webp",
+    "src": "/portraits/optimized/portrait-754.webp",
     "file": "沙姆思·哈菲兹",
     "page": "http://baike.baidu.com/item/%E6%B2%99%E5%A7%86%E6%80%9D%C2%B7%E5%93%88%E8%8F%B2%E5%85%B9/5318706",
     "artist": "来源网页见链接",
@@ -9753,7 +9333,7 @@ const portraitCredits = {
   },
   "legacy-world-102-约翰班扬": {
     "id": "legacy-world-102-约翰班扬",
-    "src": "/portraits/web-742.webp",
+    "src": "/portraits/optimized/portrait-742.webp",
     "file": "约翰班扬的",
     "page": "https://www.vcg.com/creative/1237126833",
     "artist": "来源网页见链接",
@@ -9765,7 +9345,7 @@ const portraitCredits = {
   },
   "legacy-world-106-赫蒂彻": {
     "id": "legacy-world-106-赫蒂彻",
-    "src": "/portraits/web-746.webp",
+    "src": "/portraits/optimized/portrait-746.webp",
     "file": "伊斯兰教的溯源,逊尼派与什叶派为何争斗千年_穆罕默德_麦加_赫蒂彻",
     "page": "http://www.sohu.com/a/584417267_120758009?scm=9010.68.0.0.0&spm=smpc.content.fd-d.37.1662993718402uSzTBnz&_trans_=000019_wzwza",
     "artist": "来源网页见链接",
@@ -9777,7 +9357,7 @@ const portraitCredits = {
   },
   "legacy-world-107-阿里": {
     "id": "legacy-world-107-阿里",
-    "src": "/portraits/web-747.webp",
+    "src": "/portraits/optimized/portrait-747.webp",
     "file": "保险销售阿里八大用户画像精准定位客户",
     "page": "http://www.xiaohongshu.com/discovery/item/63d50e21000000001d013d4c",
     "artist": "来源网页见链接",
@@ -9789,7 +9369,7 @@ const portraitCredits = {
   },
   "legacy-world-108-法蒂玛": {
     "id": "legacy-world-108-法蒂玛",
-    "src": "/portraits/web-748.webp",
+    "src": "/portraits/optimized/portrait-748.webp",
     "file": "法蒂玛圣母",
     "page": "http://www.xiaohongshu.com/discovery/item/624a9fd30000000021034b3e",
     "artist": "来源网页见链接",
@@ -9801,7 +9381,7 @@ const portraitCredits = {
   },
   "legacy-world-165-福柏": {
     "id": "legacy-world-165-福柏",
-    "src": "/portraits/web-805.webp",
+    "src": "/portraits/optimized/portrait-805.webp",
     "file": "古光明女神忒亚,法律和正义女神忒弥斯,天体之神科俄斯,光之女神福柏",
     "page": "http://zhuanlan.zhihu.com/p/133708940?utm_id=0",
     "artist": "来源网页见链接",
@@ -9813,7 +9393,7 @@ const portraitCredits = {
   },
   "legacy-world-152-厄庇米修斯": {
     "id": "legacy-world-152-厄庇米修斯",
-    "src": "/portraits/web-792.webp",
+    "src": "/portraits/optimized/portrait-792.webp",
     "file": "的\"叛变者\"——普罗米修斯(prometheus)与其弟厄庇米修斯(epimetheus)",
     "page": "http://baijiahao.baidu.com/s?id=1825851220826555833&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9825,7 +9405,7 @@ const portraitCredits = {
   },
   "legacy-world-155-瑞亚": {
     "id": "legacy-world-155-瑞亚",
-    "src": "/portraits/web-795.webp",
+    "src": "/portraits/optimized/portrait-795.webp",
     "file": "🌞瑞亚:太阳般的女神🌠",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4061177366135185520",
     "artist": "来源网页见链接",
@@ -9837,7 +9417,7 @@ const portraitCredits = {
   },
   "legacy-world-266-罗睺": {
     "id": "legacy-world-266-罗睺",
-    "src": "/portraits/web-906.webp",
+    "src": "/portraits/optimized/portrait-906.webp",
     "file": "在永乐宫的朝元图中,有一幅引人注目的画像——罗睺星君",
     "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4648406937353012475",
     "artist": "来源网页见链接",
@@ -9849,7 +9429,7 @@ const portraitCredits = {
   },
   "legacy-world-231-提亚马特": {
     "id": "legacy-world-231-提亚马特",
-    "src": "/portraits/web-871.webp",
+    "src": "/portraits/optimized/portrait-871.webp",
     "file": "喂提妈圣杯,提亚马特图(5) - 哔哩哔哩",
     "page": "http://www.bilibili.com/read/cv24061277?jump_opus=1",
     "artist": "来源网页见链接",
@@ -9861,7 +9441,7 @@ const portraitCredits = {
   },
   "legacy-world-226-阿肯那顿": {
     "id": "legacy-world-226-阿肯那顿",
-    "src": "/portraits/web-866.webp",
+    "src": "/portraits/optimized/portrait-866.webp",
     "file": "与此同时,阿肯那顿的姓名和画像被从神庙和",
     "page": "http://baijiahao.baidu.com/s?id=1820701400121987392&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9873,7 +9453,7 @@ const portraitCredits = {
   },
   "legacy-world-313-海拉": {
     "id": "legacy-world-313-海拉",
-    "src": "/portraits/web-953.webp",
+    "src": "/portraits/optimized/portrait-953.webp",
     "file": "死神海拉",
     "page": "http://baike.baidu.com/item/%E6%AD%BB%E7%A5%9E%E6%B5%B7%E6%8B%89/20586841",
     "artist": "来源网页见链接",
@@ -9885,7 +9465,7 @@ const portraitCredits = {
   },
   "legacy-world-353-帕斯卡": {
     "id": "legacy-world-353-帕斯卡",
-    "src": "/portraits/web-993.webp",
+    "src": "/portraits/optimized/portrait-993.webp",
     "file": "帕斯卡经典语录名言名句,人是为了思考才被创造出来的",
     "page": "http://baijiahao.baidu.com/s?id=1822845507941874375&wfr=spider&for=pc",
     "artist": "来源网页见链接",
@@ -9897,7 +9477,7 @@ const portraitCredits = {
   },
   "legacy-world-352-约翰多恩": {
     "id": "legacy-world-352-约翰多恩",
-    "src": "/portraits/web-992.webp",
+    "src": "/portraits/optimized/portrait-992.webp",
     "file": "约翰多恩johndonne",
     "page": "http://book.douban.com/author/4610566",
     "artist": "来源网页见链接",
@@ -9907,21 +9487,9 @@ const portraitCredits = {
     "searchQuery": "约翰多恩 画像",
     "verification": "搜索结果标题包含对应人物名"
   },
-  "legacy-world-355-丹麦克尔凯郭尔": {
-    "id": "legacy-world-355-丹麦克尔凯郭尔",
-    "src": "/portraits/web-995.webp",
-    "file": "克尔凯郭尔:三重绝望的追寻者",
-    "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4905479421789842832",
-    "artist": "来源网页见链接",
-    "license": "来源网页，许可未核实",
-    "licenseUrl": "",
-    "provider": "Public web image search",
-    "searchQuery": "克尔凯郭尔 画像",
-    "verification": "搜索结果标题包含对应人物名"
-  },
   "legacy-cn-231-蓝采和何晓云": {
     "id": "legacy-cn-231-蓝采和何晓云",
-    "src": "/portraits/roster-238.jpg",
+    "src": "/portraits/optimized/portrait-291.webp",
     "file": "Lan_Caihe.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Lan_Caihe.jpg",
     "article": "https://zh.wikipedia.org/wiki/%E8%97%8D%E9%87%87%E5%92%8C",
@@ -9930,19 +9498,9 @@ const portraitCredits = {
     "licenseUrl": "",
     "identityAliasOf": "legacy-cn-178-蓝采和"
   },
-  "legacy-world-17-伊本鲁世": {
-    "id": "legacy-world-17-伊本鲁世",
-    "src": "/portraits/-----69.jpg",
-    "file": "Averroes. Lithograph by P. R. Vignéron, 1825. Wellcome V0000251.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File%3AAverroes._Lithograph_by_P._R._Vign%C3%A9ron%2C_1825._Wellcome_V0000251.jpg",
-    "artist": "https://wellcomeimages.org/indexplus/image/V0000251.html Wellcome Collection gallery (2018-03-23): https://wellcomecollection.org/works/rr2hx3g5 CC-BY-4.0",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "identityAliasOf": "阿维罗伊-69"
-  },
   "legacy-cn-444-曹雪芹": {
     "id": "legacy-cn-444-曹雪芹",
-    "src": "/portraits/selected-504.jpg",
+    "src": "/portraits/optimized/portrait-504.webp",
     "file": "聊聊“曹雪芹”的另一种可能_百科TA说",
     "page": "https://wapbaike.baidu.com/tashuo/browse/content?id=e3ce1325290262e731416fc4",
     "artist": "来源网页见链接",
@@ -9952,7 +9510,7 @@ const portraitCredits = {
   },
   "legacy-world-16-奥卡姆威廉": {
     "id": "legacy-world-16-奥卡姆威廉",
-    "src": "/portraits/selected-656.jpg",
+    "src": "/portraits/optimized/portrait-656.webp",
     "file": "Guglielmo di Ockham: vita, pensiero filosofico e opere | Studenti.it",
     "page": "https://www.studenti.it/guglielmo-di-ockham-biografia-e-pensiero-filosofico.html",
     "artist": "来源网页见链接",
@@ -9962,7 +9520,7 @@ const portraitCredits = {
   },
   "legacy-world-120-迦玛巴": {
     "id": "legacy-world-120-迦玛巴",
-    "src": "/portraits/selected-760.jpg",
+    "src": "/portraits/optimized/portrait-760.webp",
     "file": "བདུད་བྷེ་སྐུ་ཚེ་འཕེན་པར་རྫོགས་པར་ཀརྨ་པ་མཆོག་ནས་ཐུགས་སྨོན། – བོད་སྐད་སྡེ་ཚན།",
     "page": "https://www.rfa.org/tibetan/tibet/condolence-to-dube-family-by-karmapa-03052016153023.html",
     "artist": "来源网页见链接",
@@ -9972,7 +9530,7 @@ const portraitCredits = {
   },
   "legacy-world-127-古鲁安格德": {
     "id": "legacy-world-127-古鲁安格德",
-    "src": "/portraits/selected-767.jpg",
+    "src": "/portraits/optimized/portrait-767.webp",
     "file": "Sri Guru Angad Sahib Ji (2nd Sikh Guru) | Discover Sikhism",
     "page": "https://discoversikhism.com/sikh_gurus/sri_guru_angad_sahib_ji.html",
     "artist": "来源网页见链接",
@@ -9982,7 +9540,7 @@ const portraitCredits = {
   },
   "legacy-world-9-克里安西斯": {
     "id": "legacy-world-9-克里安西斯",
-    "src": "/portraits/selected-649.jpg",
+    "src": "/portraits/optimized/portrait-649.webp",
     "file": "October 4 1813: Adams on the Hymn to Zeus by Cleanthes | pastnow",
     "page": "https://pastnow.wordpress.com/2013/10/04/october-4-1813-adams-on-the-hymn-to-zeus-by-cleanthes/",
     "artist": "来源网页见链接",
@@ -9992,7 +9550,7 @@ const portraitCredits = {
   },
   "legacy-world-117-伊本阿拉比": {
     "id": "legacy-world-117-伊本阿拉比",
-    "src": "/portraits/selected-757.jpg",
+    "src": "/portraits/optimized/portrait-757.webp",
     "file": "Lailatul Qadar, Ibnu Arabi dan Sebuah Proses Spiritual",
     "page": "https://pcnucilacap.com/lailatul-qadar-ibnu-arabi-dan-sebuah-proses-spiritual/",
     "artist": "来源网页见链接",
@@ -10002,7 +9560,7 @@ const portraitCredits = {
   },
   "legacy-world-131-古鲁哈戈宾德": {
     "id": "legacy-world-131-古鲁哈戈宾德",
-    "src": "/portraits/selected-771.jpg",
+    "src": "/portraits/optimized/portrait-771.webp",
     "file": "Guru Hargobind | Exotic India Art",
     "page": "https://www.exoticindiaart.com/product/paintings/guru-hargobind-hy48/",
     "artist": "来源网页见链接",
@@ -10012,7 +9570,7 @@ const portraitCredits = {
   },
   "legacy-world-134-古鲁德格巴哈杜尔": {
     "id": "legacy-world-134-古鲁德格巴哈杜尔",
-    "src": "/portraits/selected-774.jpg",
+    "src": "/portraits/optimized/portrait-774.webp",
     "file": "Sri Guru Tegh Bahadur Sahib Ji (9th Sikh Guru) | Discover Sikhism",
     "page": "https://www.discoversikhism.com/sikh_gurus/sri_guru_tegh_bahadur_sahib_ji.html",
     "artist": "来源网页见链接",
@@ -10022,7 +9580,7 @@ const portraitCredits = {
   },
   "legacy-world-132-古鲁哈赖": {
     "id": "legacy-world-132-古鲁哈赖",
-    "src": "/portraits/selected-772.jpg",
+    "src": "/portraits/optimized/portrait-772.webp",
     "file": "Guru Har Rai, The Seventh Sikh Guru. (February 28th 1644 - 6th October 1661) | Exotic India Art",
     "page": "https://www.exoticindiaart.com/product/paintings/guru-har-rai-seventh-sikh-guru-february-28th-1644-6th-october-1661-hy46/",
     "artist": "来源网页见链接",
@@ -10032,7 +9590,7 @@ const portraitCredits = {
   },
   "legacy-world-118-拉比阿": {
     "id": "legacy-world-118-拉比阿",
-    "src": "/portraits/selected-758.jpg",
+    "src": "/portraits/optimized/portrait-758.webp",
     "file": "Soefisme - AISA Nederland",
     "page": "https://www.aisanet.nl/?babrw=racine%2Fmenutop%2Fislam%2Fsoefisme-tassawuf",
     "artist": "来源网页见链接",
@@ -10042,7 +9600,7 @@ const portraitCredits = {
   },
   "legacy-world-133-古鲁哈克里山": {
     "id": "legacy-world-133-古鲁哈克里山",
-    "src": "/portraits/selected-773.jpg",
+    "src": "/portraits/optimized/portrait-773.webp",
     "file": "Sikh Gurus: Sikhism & the Religion’s 10 Spiritual Leaders | TheCollector",
     "page": "https://www.thecollector.com/who-are-the-10-sikh-gurus/",
     "artist": "来源网页见链接",
@@ -10052,7 +9610,7 @@ const portraitCredits = {
   },
   "legacy-world-135-古鲁戈宾德辛格": {
     "id": "legacy-world-135-古鲁戈宾德辛格",
-    "src": "/portraits/selected-775.jpg",
+    "src": "/portraits/optimized/portrait-775.webp",
     "file": "110 Dasam Pita Ji ideas | guru gobind singh, guru pics, guru nanak wallpaper",
     "page": "https://in.pinterest.com/talwindersingh589/dasam-pita-ji/",
     "artist": "来源网页见链接",
@@ -10062,7 +9620,7 @@ const portraitCredits = {
   },
   "legacy-world-129-古鲁拉姆达斯": {
     "id": "legacy-world-129-古鲁拉姆达斯",
-    "src": "/portraits/selected-769.jpg",
+    "src": "/portraits/optimized/portrait-769.webp",
     "file": "Guru Ramdas, The Fourth Sikh Guru. (September 1st 1574  September 1st 1581) | Exotic India Art",
     "page": "https://www.exoticindiaart.com/product/paintings/guru-ramdas-fourth-sikh-guru-september-1st-1574-september-1st-1581-hy43/",
     "artist": "来源网页见链接",
@@ -10072,7 +9630,7 @@ const portraitCredits = {
   },
   "legacy-world-128-古鲁阿马尔达斯": {
     "id": "legacy-world-128-古鲁阿马尔达斯",
-    "src": "/portraits/selected-768.jpg",
+    "src": "/portraits/optimized/portrait-768.webp",
     "file": "Sri Guru Amar Das Sahib Ji (3rd Sikh Guru) | Discover Sikhism",
     "page": "https://discoversikhism.com/sikh_gurus/sri_guru_amar_das_sahib_ji.html",
     "artist": "来源网页见链接",
@@ -10082,7 +9640,7 @@ const portraitCredits = {
   },
   "legacy-world-281-基鲁比斯": {
     "id": "legacy-world-281-基鲁比斯",
-    "src": "/portraits/selected-921.jpg",
+    "src": "/portraits/optimized/portrait-921.webp",
     "file": "Download premium image of Golden cherub with detailed wings. about golden ornate angel wings, gold cupid, background, texture,… | Cherub, Angel art, Angel wallpaper",
     "page": "https://www.pinterest.com/pin/download-premium-image-of-golden-cherub-with-detailed-wings-about-gold-cupid-background-texture-angel-and-face-1879-in-2025--331014641387515942/",
     "artist": "来源网页见链接",
@@ -10092,7 +9650,7 @@ const portraitCredits = {
   },
   "legacy-world-272-拉玛努阇": {
     "id": "legacy-world-272-拉玛努阇",
-    "src": "/portraits/selected-912.jpg",
+    "src": "/portraits/optimized/portrait-912.webp",
     "file": "SriMatham - Ramanuja Acharya’s SriMatham - Institute of Srivaisnava Practice",
     "page": "https://www.srimatham.com/",
     "artist": "来源网页见链接",
@@ -10102,7 +9660,7 @@ const portraitCredits = {
   },
   "legacy-world-345-迦克墩的狄奥多西": {
     "id": "legacy-world-345-迦克墩的狄奥多西",
-    "src": "/portraits/selected-985.jpg",
+    "src": "/portraits/optimized/portrait-985.webp",
     "file": "Άγιος Θεοδόσιος ο Κοινοβιάρχης / Saint Theodosius the Cenobiarch | Святые, Православные иконы, Святой георгий",
     "page": "https://ie.pinterest.com/pin/47076758591584536/",
     "artist": "来源网页见链接",
@@ -10112,7 +9670,7 @@ const portraitCredits = {
   },
   "legacy-world-337-使徒托马斯": {
     "id": "legacy-world-337-使徒托马斯",
-    "src": "/portraits/selected-977.jpg",
+    "src": "/portraits/optimized/portrait-977.webp",
     "file": "19 жовтня — Фомін день: історія, традиції та прикмети свята",
     "page": "https://ukr.media/culture/423267/",
     "artist": "来源网页见链接",
@@ -10122,7 +9680,7 @@ const portraitCredits = {
   },
   "legacy-world-329-盖拉哈德": {
     "id": "legacy-world-329-盖拉哈德",
-    "src": "/portraits/selected-969.jpg",
+    "src": "/portraits/optimized/portrait-969.webp",
     "file": "Chris Beetles",
     "page": "https://chrisbeetles.com/artists/crane-walter-rws-ri-roi-1845-1915.html",
     "artist": "来源网页见链接",
@@ -10132,7 +9690,7 @@ const portraitCredits = {
   },
   "legacy-world-357-陶勒": {
     "id": "legacy-world-357-陶勒",
-    "src": "/portraits/selected-997.jpg",
+    "src": "/portraits/optimized/portrait-997.webp",
     "file": "Giovanni Taulero | Europeana",
     "page": "https://www.europeana.eu/it/collections/person/166728-johannes-tauler",
     "artist": "来源网页见链接",
@@ -10142,7 +9700,7 @@ const portraitCredits = {
   },
   "legacy-cn-61-龙门伊尹": {
     "id": "legacy-cn-61-龙门伊尹",
-    "src": "/portraits/selected-121.jpg",
+    "src": "/portraits/optimized/portrait-121.webp",
     "file": "cite中國歷史正述 商之八：太甲悔過 太戊復興｜大紀元時報 香港｜獨立敢言的良心媒體",
     "page": "https://hk.epochtimes.com/news/2018-05-30/65256848",
     "artist": "来源网页见链接",
@@ -10152,7 +9710,7 @@ const portraitCredits = {
   },
   "legacy-cn-235-白玉蟾陈楠": {
     "id": "legacy-cn-235-白玉蟾陈楠",
-    "src": "/portraits/group-295.svg",
+    "src": "/portraits/optimized/portrait-295.webp",
     "file": "白玉蟾陈楠人物组合图",
     "page": "https://commons.wikimedia.org/wiki/File:%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E4%B8%89_%E7%99%BD%E7%8E%89%E8%9F%BE.png",
     "artist": "Hong Zicheng; 来源网页见链接",
@@ -10174,7 +9732,7 @@ const portraitCredits = {
   },
   "legacy-cn-250-庄周弟子": {
     "id": "legacy-cn-250-庄周弟子",
-    "src": "/portraits/selected-310.jpg",
+    "src": "/portraits/optimized/portrait-310.webp",
     "file": "庄子《逍遥游》里讲到“小年”、“大年”，“年”指寿限|彭祖|寿限|大年|逍遥游|历阳_新浪新闻",
     "page": "https://k.sina.com.cn/article_1310558230_p4e1d881602700kn73.html",
     "artist": "来源网页见链接",
@@ -10184,7 +9742,7 @@ const portraitCredits = {
   },
   "legacy-cn-227-吕洞宾汉钟离": {
     "id": "legacy-cn-227-吕洞宾汉钟离",
-    "src": "/portraits/group-287.svg",
+    "src": "/portraits/optimized/portrait-287.webp",
     "file": "吕洞宾汉钟离人物组合图",
     "page": "https://commons.wikimedia.org/wiki/File:L%C3%BC_Dongbin.jpg",
     "artist": "未注明; Zhao Qi (Chinese, active early 1500s)",
@@ -10206,7 +9764,7 @@ const portraitCredits = {
   },
   "legacy-cn-305-盐铁论贤良文学": {
     "id": "legacy-cn-305-盐铁论贤良文学",
-    "src": "/portraits/selected-365.jpg",
+    "src": "/portraits/optimized/portrait-365.webp",
     "file": "苏州图书馆",
     "page": "https://www.szlib.com/wenyunsuzhou_details.html?id=292",
     "artist": "来源网页见链接",
@@ -10216,7 +9774,7 @@ const portraitCredits = {
   },
   "legacy-world-279-弥特拉": {
     "id": "legacy-world-279-弥特拉",
-    "src": "/portraits/selected-919.jpg",
+    "src": "/portraits/optimized/portrait-919.webp",
     "file": "برايم فيديو: Ancient Roads from Christ to Constantine, Season 1",
     "page": "https://www.primevideo.com/detail/Ancient-Roads-from-Christ-to-Constantine/0U8ACTHSKCTKN69QQQL8LPXOS4",
     "artist": "来源网页见链接",
@@ -10226,7 +9784,7 @@ const portraitCredits = {
   },
   "legacy-world-209-凯撒罗穆卢斯": {
     "id": "legacy-world-209-凯撒罗穆卢斯",
-    "src": "/portraits/selected-849.jpg",
+    "src": "/portraits/optimized/portrait-849.webp",
     "file": "Feral Children: Lore of the Wild Child | Live Science",
     "page": "https://www.livescience.com/41590-feral-children.html",
     "artist": "来源网页见链接",
@@ -10236,7 +9794,7 @@ const portraitCredits = {
   },
   "legacy-world-343-使徒西门": {
     "id": "legacy-world-343-使徒西门",
-    "src": "/portraits/selected-983.jpg",
+    "src": "/portraits/optimized/portrait-983.webp",
     "file": "Os Apóstolos só adoravam ao Deus verdadeiro. E você?",
     "page": "https://padrepauloricardo.org/blog/os-apostolos-so-adoravam-ao-deus-verdadeiro-e-voce",
     "artist": "来源网页见链接",
@@ -10246,7 +9804,7 @@ const portraitCredits = {
   },
   "legacy-world-318-西格鲁德": {
     "id": "legacy-world-318-西格鲁德",
-    "src": "/portraits/selected-958.webp",
+    "src": "/portraits/optimized/portrait-958.webp",
     "file": "Sigurd and Mime Our beautiful Wall Art and Photo Gifts include Framed Prints, Photo Prints, Poster Prints, Canvas Prints, Jigsaw Puzzles, Metal Prints and so much more",
     "page": "https://www.fineartstorehouse.com/digital-vision-vectors/sigurd-mime-24162989.html?srsltid=AfmBOorwV2mKNv4gQaClDs6Q2MuHVRXqwKe5AFdT4iL39Igreu6Opj62",
     "artist": "来源网页见链接",
@@ -10256,7 +9814,7 @@ const portraitCredits = {
   },
   "legacy-world-348-帕拉谟": {
     "id": "legacy-world-348-帕拉谟",
-    "src": "/portraits/selected-988.jpg",
+    "src": "/portraits/optimized/portrait-988.webp",
     "file": "The Orthodox Faith - Volume III - Church History - Fourteenth Century - Saint Gregory Palamas - Orthodox Church in America",
     "page": "https://www.oca.org/orthodoxy/the-orthodox-faith/church-history/fourteenth-century/saint-gregory-palamas",
     "artist": "来源网页见链接",
@@ -10266,7 +9824,7 @@ const portraitCredits = {
   },
   "legacy-world-354-乔治赫伯特": {
     "id": "legacy-world-354-乔治赫伯特",
-    "src": "/portraits/selected-994.jpg",
+    "src": "/portraits/optimized/portrait-994.webp",
     "file": "George Herbert (1593-1633). /Nenglish Poet And Clergyman. Line Engraving, 1822. Poster Print by Granger Collection - Item # VARGRC0011099 - Posterazzi",
     "page": "https://www.posterazzi.com/george-herbert-1593-1633-nenglish-poet-and-clergyman-line-engraving-1822-poster-print-by-granger-collection-item-vargrc0011099/?srsltid=AfmBOorLMulUts-CARTTRDr9PTlvIKCuBWXme62I9OMIT1ahE9K1fdaI",
     "artist": "来源网页见链接",
@@ -10276,7 +9834,7 @@ const portraitCredits = {
   },
   "legacy-world-346-沙漠教父帕科米乌斯": {
     "id": "legacy-world-346-沙漠教父帕科米乌斯",
-    "src": "/portraits/selected-986.jpg",
+    "src": "/portraits/optimized/portrait-986.webp",
     "file": "Pachomios der Große – Orthpedia",
     "page": "https://orthpedia.de/index.php/Pachomios_der_Gro%C3%9Fe",
     "artist": "来源网页见链接",
@@ -10286,7 +9844,7 @@ const portraitCredits = {
   },
   "legacy-world-350-威廉潘恩": {
     "id": "legacy-world-350-威廉潘恩",
-    "src": "/portraits/selected-990.jpg",
+    "src": "/portraits/optimized/portrait-990.webp",
     "file": "Government Structure in Colonial Pennsylvania",
     "page": "https://education.seattlepi.com/government-structure-colonial-pennsylvania-6953.html",
     "artist": "来源网页见链接",
@@ -10296,7 +9854,7 @@ const portraitCredits = {
   },
   "legacy-world-271-阿底商羯罗": {
     "id": "legacy-world-271-阿底商羯罗",
-    "src": "/portraits/selected-911.jpg",
+    "src": "/portraits/optimized/portrait-911.webp",
     "file": "आदि शंकराचार्य - कविता कोश",
     "page": "https://kavitakosh.org/kk/%E0%A4%86%E0%A4%A6%E0%A4%BF_%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF",
     "artist": "来源网页见链接",
@@ -10306,7 +9864,7 @@ const portraitCredits = {
   },
   "legacy-world-96-伊格那丢": {
     "id": "legacy-world-96-伊格那丢",
-    "src": "/portraits/selected-736.png",
+    "src": "/portraits/optimized/portrait-736.webp",
     "file": "Ignatianische Exerzitien - Gemeinschaft Chemin Neuf",
     "page": "https://www.chemin-neuf.de/einkehrzeiten/",
     "artist": "来源网页见链接",
@@ -10316,7 +9874,7 @@ const portraitCredits = {
   },
   "legacy-world-10-克律西波": {
     "id": "legacy-world-10-克律西波",
-    "src": "/portraits/selected-650.jpg",
+    "src": "/portraits/optimized/portrait-650.webp",
     "file": "Epictetus: Are You An Interpreter Or A Philosopher? | David Breeden",
     "page": "https://www.patheos.com/blogs/naturessacredjourney/2016/11/epictetus-are-you-an-interpreter-or-a-philosopher/",
     "artist": "来源网页见链接",
@@ -10326,7 +9884,7 @@ const portraitCredits = {
   },
   "legacy-cn-137-太虚印顺": {
     "id": "legacy-cn-137-太虚印顺",
-    "src": "/portraits/group-197.svg",
+    "src": "/portraits/optimized/portrait-197.webp",
     "file": "太虚印顺人物组合图",
     "page": "https://m.krzzjn.com/show-558-110274.html",
     "artist": "来源网页见链接; 来源网页见链接",
@@ -10348,7 +9906,7 @@ const portraitCredits = {
   },
   "legacy-cn-139-虚云本焕": {
     "id": "legacy-cn-139-虚云本焕",
-    "src": "/portraits/group-199.svg",
+    "src": "/portraits/optimized/portrait-199.webp",
     "file": "虚云本焕人物组合图",
     "page": "https://www.pinterest.com/pin/zen-master-xuyun-this-picture-taken-when-he-was-118-year-old-courtesy-of-hungry-monk-wang-bo--279082508132597288/",
     "artist": "来源网页见链接; 来源网页见链接",
@@ -10370,7 +9928,7 @@ const portraitCredits = {
   },
   "legacy-cn-301-董仲舒贾谊": {
     "id": "legacy-cn-301-董仲舒贾谊",
-    "src": "/portraits/group-361.svg",
+    "src": "/portraits/optimized/portrait-361.webp",
     "file": "董仲舒贾谊人物组合图",
     "page": "https://commons.wikimedia.org/wiki/File%3A%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A_%E8%91%A3%E4%BB%B2%E8%88%92_(Dong_Zhongshu).png",
     "artist": "歷代聖賢半身像 冊 董仲舒 . 故宮典藏資料檢索. National Palace Museum.; 来源网页见链接",
@@ -10392,7 +9950,7 @@ const portraitCredits = {
   },
   "legacy-cn-236-王重阳丘处机": {
     "id": "legacy-cn-236-王重阳丘处机",
-    "src": "/portraits/group-296.svg",
+    "src": "/portraits/optimized/portrait-296.webp",
     "file": "王重阳丘处机人物组合图",
     "page": "https://commons.wikimedia.org/wiki/File%3AWang_Chongyang.jpg",
     "artist": "Phoenix Darshan; Unknown author Unknown author",
@@ -10414,13 +9972,501 @@ const portraitCredits = {
   },
   "jia-xu": {
     "id": "jia-xu",
-    "src": "/portraits/selected-337.jpg",
+    "src": "/portraits/optimized/portrait-337.webp",
     "file": "贾诩 · 后世人物插画",
     "page": "https://www.sohu.com/a/233208253_100120197",
     "artist": "来源网页见链接",
     "license": "来源网页，许可未核实",
     "licenseUrl": "",
     "provider": "Public web image search"
+  },
+  "xun-yu": {
+    "id": "xun-yu",
+    "src": "/portraits/optimized/portrait-305.webp",
+    "file": "荀彧 · 后世人物插画",
+    "page": "https://www.cne3online.com/culture/view/11175552/11176009206060.shtml",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search"
+  },
+  "sima-yi": {
+    "id": "sima-yi",
+    "src": "/portraits/optimized/portrait-299.webp",
+    "file": "司马懿 · 传统人物绘像",
+    "page": "https://www.sohu.com/a/165930954_284433",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search"
+  },
+  "reviewed-徐庶": {
+    "id": "reviewed-徐庶",
+    "src": "/portraits/optimized/portrait-141.webp",
+    "file": "徐庶:元直入曹营,谋略藏颖川",
+    "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5085648339157321138",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "徐庶 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-庞统": {
+    "id": "reviewed-庞统",
+    "src": "/portraits/optimized/portrait-124.webp",
+    "file": "庞统:凤雏之智,三国英才",
+    "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_3738137551601376042",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "庞统 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-贾谊": {
+    "id": "reviewed-贾谊",
+    "src": "/portraits/optimized/portrait-72.webp",
+    "file": "贾谊《治安策》到底牛在什么地方?针砭时弊,切中要害且应对得当",
+    "page": "http://baijiahao.baidu.com/s?id=1833077087036837651&wfr=spider&for=pc",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "贾谊 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-吕蒙": {
+    "id": "reviewed-吕蒙",
+    "src": "/portraits/optimized/portrait-167.webp",
+    "file": "吕蒙真的是江东的小角色吗?为何历史上对他的偷袭战如此反感?",
+    "page": "http://baijiahao.baidu.com/s?id=1814579144596965310&wfr=spider&for=pc",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "吕蒙 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-法正": {
+    "id": "reviewed-法正",
+    "src": "/portraits/optimized/portrait-151.webp",
+    "file": "法正实力到底有多\"恐怖\"?都说:法正不死,便无三国",
+    "page": "http://baijiahao.baidu.com/s?id=1763771273521384090&wfr=spider&for=pc",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "法正 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-荀攸": {
+    "id": "reviewed-荀攸",
+    "src": "/portraits/optimized/portrait-112.webp",
+    "file": "《临江仙·荀攸》启德 乙巳槐月 帷幄渊沈销霸略,暗韬九 - 抖音",
+    "page": "http://www.douyin.com/note/7497634379394583842",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "荀攸 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-鲁肃": {
+    "id": "reviewed-鲁肃",
+    "src": "/portraits/optimized/portrait-153.webp",
+    "file": "《烽烟中流的智者:鲁肃与联蜀拒魏的凄美谋略》 ——中国历代名将系列",
+    "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4949640009182653574",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "鲁肃 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-陆抗": {
+    "id": "reviewed-陆抗",
+    "src": "/portraits/optimized/portrait-198.webp",
+    "file": "毁堰破晋*陆抗",
+    "page": "http://wiki.biligame.com/sgsol/%BB%D9%D1%DF%C6%C6%BD%FA*%C2%BD%BF%B9",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "陆抗 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-姜维": {
+    "id": "reviewed-姜维",
+    "src": "/portraits/optimized/portrait-244.webp",
+    "file": "🪓 姜维:蜀汉的北伐英雄 🏹",
+    "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_3445861706810219628",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "姜维 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-邓艾": {
+    "id": "reviewed-邓艾",
+    "src": "/portraits/optimized/portrait-246.webp",
+    "file": "邓艾:三国演义中的\"隐形英雄\"",
+    "page": "http://baijiahao.baidu.com/s?id=1830645757616982893&wfr=spider&for=pc",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "邓艾 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-钟会": {
+    "id": "reviewed-钟会",
+    "src": "/portraits/optimized/portrait-272.webp",
+    "file": "族钟会",
+    "page": "http://www.sanguosha.com/hero/567",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "钟会 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-魏延": {
+    "id": "reviewed-魏延",
+    "src": "/portraits/optimized/portrait-274.webp",
+    "file": "🎯 魏延:蜀汉战将的荣耀之路 🏹",
+    "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5275387315702788304",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "魏延 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-司马师": {
+    "id": "reviewed-司马师",
+    "src": "/portraits/optimized/portrait-285.webp",
+    "file": "司马师:三国权臣与西晋奠基人",
+    "page": "http://baijiahao.baidu.com/s?id=1832949831871722851&wfr=spider&for=pc",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "司马师 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-司马昭": {
+    "id": "reviewed-司马昭",
+    "src": "/portraits/optimized/portrait-279.webp",
+    "file": "司马昭弑君:高贵乡公之血与魏晋禅代的终局         ——一场公开的",
+    "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5054477467959575130",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "司马昭 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-陈寿": {
+    "id": "reviewed-陈寿",
+    "src": "/portraits/optimized/portrait-286.webp",
+    "file": "二十四史中最特殊的一部史书,是三国异类陈寿写的《三国志》",
+    "page": "http://www.sohu.com/a/1012929914_121157748",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "陈寿 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-钟嵘": {
+    "id": "reviewed-钟嵘",
+    "src": "/portraits/optimized/portrait-290.webp",
+    "file": "钟嵘",
+    "page": "http://baike.baidu.com/item/%E9%92%9F%E5%B5%98/2213004",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "钟嵘 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-刘勰": {
+    "id": "reviewed-刘勰",
+    "src": "/portraits/optimized/portrait-289.webp",
+    "file": "文学理论家刘勰,家贫仍立志学习,潜心撰写名著流芳百世",
+    "page": "http://baijiahao.baidu.com/s?id=1810328777694075848&wfr=spider&for=pc",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "刘勰 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-裴松之": {
+    "id": "reviewed-裴松之",
+    "src": "/portraits/optimized/portrait-288.webp",
+    "file": "解密裴松之十二字秘注:关羽之死并非孙权斩首,临沮前线就地处决?",
+    "page": "http://baijiahao.baidu.com/s?id=1865124772871490927&wfr=spider&for=pc",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "裴松之 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-海瑞": {
+    "id": "reviewed-海瑞",
+    "src": "/portraits/optimized/portrait-294.webp",
+    "file": "海瑞奇怪的升迁之路:同僚恨他,又不敢弄死他,干脆花钱帮他升官",
+    "page": "http://baijiahao.baidu.com/s?id=1837981052297787935&wfr=spider&for=pc",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "海瑞 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-刘知几": {
+    "id": "reviewed-刘知几",
+    "src": "/portraits/optimized/portrait-292.webp",
+    "file": "刘知几说真话,武则天很赞赏  刘知几,字子玄,徐州彭城(今江苏省徐州市",
+    "page": "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4082854581586248861",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "刘知几 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-戚继光": {
+    "id": "reviewed-戚继光",
+    "src": "/portraits/optimized/portrait-304.webp",
+    "file": "明隆庆二年(1568年),刚刚荡平东南倭患的戚继光,奉调北上总理蓟镇练兵",
+    "page": "http://www.sohu.com/a/1003072920_121124399",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "戚继光 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-郑成功": {
+    "id": "reviewed-郑成功",
+    "src": "/portraits/optimized/portrait-309.webp",
+    "file": "郑成功:民族英雄的传奇一生",
+    "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5431672890661650918",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "郑成功 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-张居正": {
+    "id": "reviewed-张居正",
+    "src": "/portraits/optimized/portrait-321.webp",
+    "file": "经济变革,强力扭转了明朝的张居正张居正画像张居正图片张居正图片",
+    "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5195288078214573265",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "张居正 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-王廷相": {
+    "id": "reviewed-王廷相",
+    "src": "/portraits/optimized/portrait-324.webp",
+    "file": "王廷相:明朝中期官员,长时间掌管都察院,颇有威望",
+    "page": "http://baijiahao.baidu.com/s?id=1785893068333264504&wfr=spider&for=pc",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "王廷相 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-高攀龙": {
+    "id": "reviewed-高攀龙",
+    "src": "/portraits/optimized/portrait-335.webp",
+    "file": "高攀龙:东林党领袖与思想家的传奇人生",
+    "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4019326508982734033",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "高攀龙 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-顾宪成": {
+    "id": "reviewed-顾宪成",
+    "src": "/portraits/optimized/portrait-325.webp",
+    "file": "顾宪成",
+    "page": "http://baike.baidu.com/item/%E9%A1%BE%E5%AE%AA%E6%88%90/1244254",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "顾宪成 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-颜元": {
+    "id": "reviewed-颜元",
+    "src": "/portraits/optimized/portrait-368.webp",
+    "file": "颜元",
+    "page": "http://zh.wikipedia.org/zh-sg/%EE%81%D4%AA",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "颜元 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-歌德": {
+    "id": "reviewed-歌德",
+    "src": "/portraits/optimized/portrait-657.webp",
+    "file": "约翰·沃尔夫冈·冯·歌德:德国文学的巨匠与思想的多面手",
+    "page": "http://baijiahao.baidu.com/s?id=1844958749634331246&wfr=spider&for=pc",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "歌德 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-莎士比亚": {
+    "id": "reviewed-莎士比亚",
+    "src": "/portraits/optimized/portrait-653.webp",
+    "file": "\"戏剧之王\" 威廉·莎士比亚生平简介",
+    "page": "http://history.sohu.com/a/883527053_122387593",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "莎士比亚 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-曼德拉": {
+    "id": "reviewed-曼德拉",
+    "src": "/portraits/optimized/portrait-658.webp",
+    "file": "曼德拉效应与潘博文事件:集体记忆偏差,是平行世界还是心理出口?",
+    "page": "http://baijiahao.baidu.com/s?id=1868861525941993531&wfr=spider&for=pc",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "曼德拉 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-马丁·路德·金": {
+    "id": "reviewed-马丁·路德·金",
+    "src": "/portraits/optimized/portrait-744.webp",
+    "file": "马丁·路德·金:从早年经历到全球影响的历史传奇",
+    "page": "http://baijiahao.baidu.com/s?id=1830319824989746851&wfr=spider&for=pc",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "马丁·路德·金 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-冯·诺依曼": {
+    "id": "reviewed-冯·诺依曼",
+    "src": "/portraits/optimized/portrait-914.webp",
+    "file": "伊曼的画像说起现代计算机的\"灵魂设计师\",非约翰·冯·诺依曼(john",
+    "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4893799576098477761",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "冯·诺依曼 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-图灵": {
+    "id": "reviewed-图灵",
+    "src": "/portraits/optimized/portrait-847.webp",
+    "file": "图灵,计算机科学的开创者",
+    "page": "http://baijiahao.baidu.com/s?id=1825553863537544844&wfr=spider&for=pc",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "图灵 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-霍金": {
+    "id": "reviewed-霍金",
+    "src": "/portraits/optimized/portrait-987.webp",
+    "file": "霍金与简:渐冻症下,一场跨越半个世纪的\"爱情马拉松\"如何走向瓦解?",
+    "page": "http://baijiahao.baidu.com/s?id=1868103312797961297&wfr=spider&for=pc",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "霍金 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-玻尔": {
+    "id": "reviewed-玻尔",
+    "src": "/portraits/optimized/portrait-989.webp",
+    "file": "玻尔:用量子之眼打开原子世界的化学革命先驱",
+    "page": "http://history.sohu.com/a/938185343_348129",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "玻尔 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-普朗克": {
+    "id": "reviewed-普朗克",
+    "src": "/portraits/optimized/portrait-995.webp",
+    "file": "普朗克:量子世界的奠基人",
+    "page": "http://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4927804794926295429",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "普朗克 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-薛定谔": {
+    "id": "reviewed-薛定谔",
+    "src": "/portraits/optimized/portrait-999.webp",
+    "file": "薛定谔是组禁吗为什么我早上的帖子被删了",
+    "page": "http://www.douban.com/group/topic/116955859/?author=1",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "薛定谔 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-王念孙": {
+    "id": "reviewed-王念孙",
+    "src": "/portraits/optimized/portrait-549.webp",
+    "file": "新书 | 王念孙朱墨双色批校本《山海经》首次全彩影印出版!",
+    "page": "http://www.sohu.com/a/843062116_121124384",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "王念孙 画像",
+    "verification": "搜索结果标题包含对应人物名"
+  },
+  "reviewed-李塨": {
+    "id": "reviewed-李塨",
+    "src": "/portraits/optimized/portrait-426.webp",
+    "file": "大儒李塨:圣道自有正途 修己治人经世",
+    "page": "http://www.xinfajia.net/12801.html",
+    "artist": "来源网页见链接",
+    "license": "来源网页，许可未核实",
+    "licenseUrl": "",
+    "provider": "Public web image search",
+    "searchQuery": "李塨 画像",
+    "verification": "搜索结果标题包含对应人物名"
   }
 };
 export default portraitCredits;

@@ -53,13 +53,24 @@ const chinaSelected=[...handpicked.filter(p=>p.region==='中国'),...additionalC
 const worldSelected=[...handpicked.filter(p=>p.region==='国外'),...world];
 const selected=[...chinaSelected.slice(0,60),...worldSelected.slice(0,40)];
 import { expandRoster } from './rosterExpansion.js';
+import { reviewRoster } from './rosterReview.js';
 // Replace a less independently influential entry without shifting portrait indexes.
-export const thinkers=expandRoster(selected).map(person=>person.name==='公都子'?{
+export const thinkers=reviewRoster(expandRoster(selected).map(person=>person.name==='公都子'?{
   ...person,id:'jia-xu',name:'贾诩',era:'147—223 · 中国',role:'谋士 · 曹魏太尉',
   summary:'字文和，东汉末年至三国时期谋士。先后辅佐李傕、张绣与曹操，以审时度势、权衡利害和谨慎自守著称。',
   quote:'',source:'《三国志》· 魏书·荀彧荀攸贾诩传',
   prompts:['你如何判断进退的时机？','身处乱世，怎样保全自己？','谋略与道德应如何权衡？'],
-}:person);
+}:person.name==='庄周'?{
+  ...person,id:'xun-yu',name:'荀彧',era:'163—212 · 中国',role:'政治家 · 东汉末年谋士',
+  summary:'字文若，东汉末年政治家、谋士。辅佐曹操规划战略、举荐人才与治理政务，是曹操事业的重要奠基者。',
+  quote:'',source:'《三国志》· 魏书·荀彧荀攸贾诩传',
+  prompts:['如何识人并举荐人才？','理想与现实发生冲突时怎么办？','怎样建立长远的战略？'],
+}:person.name==='彭蒙'?{
+  ...person,id:'sima-yi',name:'司马懿',era:'179—251 · 中国',role:'政治家 · 曹魏军事家',
+  summary:'字仲达，三国时期曹魏政治家、军事家。长期参与魏国军政，曾与诸葛亮对峙，后通过高平陵之变掌握魏国大权。',
+  quote:'',source:'《晋书》· 宣帝纪',
+  prompts:['如何在长期竞争中保持耐心？','你如何判断战略与战术的取舍？','怎样看待权力与责任？'],
+}:person));
 export const quotes=thinkers.flatMap(person=>person.quote?[person.quote,...(person.prompts||[]).map((p,i)=>i===0?`关于「${p}」，${person.name}提醒我们：${person.quote}`:`顺着这个问题再看一步：${person.quote}`)]:[]);
 
 
