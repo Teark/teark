@@ -58,3 +58,9 @@ npm run preview
 ```
 
 构建文件位于 `dist/`，包含实际使用的头像资源；AI 对话仍需网络连接。浏览器本地保存的数据不会随网站文件一起打包。
+
+## 图片维护
+
+人物头像统一使用 192×192 WebP，质量参数为 65；银河背景长边不超过 960 像素。更新头像后运行 `npm run assets:optimize` 和 `npm run portraits:verify`。已经符合尺寸的头像会跳过压缩，避免反复损失画质。图片来源、作者及许可记录保留在 `src/portraitCredits.js`。
+
+历史图片采集记录、一次性下载和修复脚本已清理。`dist/` 与 `node_modules/` 为可重新生成的本地目录，不提交到 Git。

@@ -1,25 +1,39 @@
-import { access, mkdir, readdir, rm, writeFile } from 'node:fs/promises';
-import { extname } from 'node:path';
+import { access, mkdir, readFile, readdir, rename, rm, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import sharp from 'sharp';
 import { thinkers } from '../src/data.js';
 import credits from '../src/portraitCredits.js';
 
-const portraitsRoot = new URL('../portraits/', import.meta.url);
 const optimizedRoot = new URL('../portraits/optimized/', import.meta.url);
-const imageExtensions = new Set(['.jpg', '.jpeg', '.png', '.webp', '.gif', '.svg']);
+
+async function replaceImage(destination, bytes) {
+  const temporary = `${destination}.tmp`;
+  await writeFile(temporary, bytes);
+  for (let attempt = 0; ; attempt++) {
+    try { await rename(temporary, destination); return; }
+    catch (error) {
+      if (!['EPERM', 'EBUSY', 'EACCES'].includes(error.code) || attempt >= 8) throw error;
+      await new Promise((resolve) => setTimeout(resolve, 250 * (attempt + 1)));
+    }
+  }
+}
 
 await mkdir(optimizedRoot, { recursive: true });
 
 for (const [index, person] of thinkers.entries()) {
-  const source = credits[person.id]?.src || `/portraits/original/portrait-${index}.svg`;
+  const source = credits[person.id]?.src || `/portraits/optimized/portrait-${index}.webp`;
   const destination = new URL(`portrait-${index}.webp`, optimizedRoot);
   const destinationExists = await access(destination).then(() => true, () => false);
-  if (!destinationExists && source !== `/portraits/optimized/portrait-${index}.webp`) {
-    await sharp(fileURLToPath(new URL(`..${source}`, import.meta.url)), { animated: false })
-      .resize(384, 384, { fit: 'cover', position: 'centre', withoutEnlargement: false })
-      .webp({ quality: 78, effort: 6, smartSubsample: true })
-      .toFile(fileURLToPath(destination));
+  const input = fileURLToPath(new URL(`..${source}`, import.meta.url));
+  const inputBytes = await readFile(input);
+  const metadata = await sharp(inputBytes).metadata();
+  if (!destinationExists || metadata.width !== 192 || metadata.height !== 192) {
+    const output = await sharp(inputBytes, { animated: false })
+      .rotate()
+      .resize(192, 192, { fit: 'cover', position: 'centre' })
+      .webp({ quality: 65, effort: 6, smartSubsample: true })
+      .toBuffer();
+    await replaceImage(fileURLToPath(destination), output);
   }
   if (credits[person.id]) credits[person.id].src = `/portraits/optimized/portrait-${index}.webp`;
 }
@@ -29,13 +43,16 @@ for (const id of Object.keys(credits)) {
   if (!activeIds.has(id)) delete credits[id];
 }
 
-const backgroundSource = new URL('../public/backgrounds/milky-way-spiral.png', import.meta.url);
+const backgroundSource = new URL('../public/backgrounds/milky-way-spiral.webp', import.meta.url);
 const backgroundDestination = new URL('../public/backgrounds/milky-way-spiral.webp', import.meta.url);
-if (await access(backgroundSource).then(() => true, () => false)) {
-  await sharp(fileURLToPath(backgroundSource))
-    .resize({ width: 1280, height: 1280, fit: 'inside', withoutEnlargement: true })
-    .webp({ quality: 76, effort: 6, smartSubsample: true })
-    .toFile(fileURLToPath(backgroundDestination));
+const backgroundBytes = await readFile(backgroundSource);
+const backgroundMetadata = await sharp(backgroundBytes).metadata();
+if (Math.max(backgroundMetadata.width, backgroundMetadata.height) > 960) {
+  const output = await sharp(backgroundBytes)
+    .resize({ width: 960, height: 960, fit: 'inside', withoutEnlargement: true })
+    .webp({ quality: 65, effort: 6, smartSubsample: true })
+    .toBuffer();
+  await replaceImage(fileURLToPath(backgroundDestination), output);
 }
 
 await writeFile(
@@ -44,14 +61,11 @@ await writeFile(
   'utf8',
 );
 
-// Optimized files have been fully written before legacy assets are removed.
-for (const entry of await readdir(portraitsRoot, { withFileTypes: true })) {
-  if (entry.isFile() && imageExtensions.has(extname(entry.name).toLowerCase())) {
-    await rm(new URL(entry.name, portraitsRoot), { force: true, maxRetries: 8, retryDelay: 250 });
+const usedFiles = new Set(thinkers.map((person, index) => (credits[person.id]?.src || `/portraits/optimized/portrait-${index}.webp`).split('/').at(-1)));
+for (const entry of await readdir(optimizedRoot, { withFileTypes: true })) {
+  if (entry.isFile() && entry.name.endsWith('.webp') && !usedFiles.has(entry.name)) {
+    await rm(new URL(entry.name, optimizedRoot));
   }
 }
-await rm(new URL('../portraits/original/', import.meta.url), { recursive: true, force: true });
-await rm(new URL('../public/backgrounds/milky-way.png', import.meta.url), { force: true, maxRetries: 8, retryDelay: 250 });
-await rm(backgroundSource, { force: true, maxRetries: 8, retryDelay: 250 });
 
-console.log(`Optimized ${thinkers.length} portraits to 384x384 WebP and compressed the active background.`);
+console.log(`Optimized ${thinkers.length} portraits to 192x192 WebP and compressed the active background.`);
